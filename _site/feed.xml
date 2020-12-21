@@ -5,13 +5,106 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Thu, 09 Jul 2020 21:21:39 -0400</pubDate>
+    <pubDate>Mon, 21 Dec 2020 06:17:49 -0500</pubDate>
     
       <item>
-        <title>The Sound of Civilisation&amp;colon;&amp;nbsp; I. Intros and Endings</title>
-        <link>/2020/07/08/civilisation-open.html</link>
-        <guid isPermaLink="true">/2020/07/08/civilisation-open.html</guid>
-        <description>&lt;dl&gt;
+        <title>The Annotated Civilisation&amp;colon;&amp;nbsp; I. An Outline</title>
+        <link>/2020/07/07/civilisation-outline.html</link>
+        <guid isPermaLink="true">/2020/07/07/civilisation-outline.html</guid>
+        <description>&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Episode&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;Period&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;Start&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;End&lt;/strong&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1. &lt;em&gt;The Skin of Our Teeth&lt;/em&gt;&lt;/td&gt;
+      &lt;td&gt;Early Middle Ages&lt;br /&gt; (5&lt;sup&gt;th&lt;/sup&gt;–10&lt;sup&gt;th&lt;/sup&gt; c.)&lt;/td&gt;
+      &lt;td&gt;&lt;em&gt;Apollo Belvedere&lt;/em&gt; &amp;amp; Parthenon Frieze&lt;/td&gt;
+      &lt;td&gt;Aachener Dom&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2. &lt;em&gt;The Great Thaw&lt;/em&gt;&lt;/td&gt;
+      &lt;td&gt;High Middle Ages &lt;br /&gt; (11&lt;sup&gt;th&lt;/sup&gt;–13&lt;sup&gt;th&lt;/sup&gt; c.)&lt;/td&gt;
+      &lt;td&gt;Abbayes de Tournus &amp;amp; de Cluny&lt;/td&gt;
+      &lt;td&gt;Notre-Dame de Chartres&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;3. &lt;em&gt;Romance and Reality&lt;/em&gt;&lt;/td&gt;
+      &lt;td&gt;Late Middle Ages &lt;br /&gt; (13&lt;sup&gt;th&lt;/sup&gt;–14&lt;sup&gt;th&lt;/sup&gt; c.)&lt;/td&gt;
+      &lt;td&gt;&lt;em&gt;La Dame à la licorne&lt;/em&gt;&lt;/td&gt;
+      &lt;td&gt;Pisano’s pulpits of Pisa &amp;amp; of Sant’Andrea Pistoia&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;4. &lt;em&gt;Man—the Measure of all Things&lt;/em&gt;&lt;/td&gt;
+      &lt;td&gt;Early Renaissance &lt;br /&gt; (15&lt;sup&gt;th&lt;/sup&gt; c.)&lt;/td&gt;
+      &lt;td&gt;Brunelleschi’s Cappella dei Pazzi&lt;/td&gt;
+      &lt;td&gt;Giorgione’s &lt;em&gt;Le Concert champêtre&lt;/em&gt;, &lt;em&gt;La Tempesta&lt;/em&gt;, &amp;amp; &lt;em&gt;Vecchia&lt;/em&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;5. &lt;em&gt;The Hero as Artist&lt;/em&gt;&lt;/td&gt;
+      &lt;td&gt;High Renaissance &lt;br /&gt;(16&lt;sup&gt;th&lt;/sup&gt; c.)&lt;/td&gt;
+      &lt;td&gt;Cortile del Belvedere &amp;amp; Fontana della Pigna&lt;/td&gt;
+      &lt;td&gt;Leonardo’s &lt;em&gt;Deluge&lt;/em&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;6. &lt;em&gt;Protest and Communication&lt;/em&gt;&lt;/td&gt;
+      &lt;td&gt;Reformation &amp;amp; Northern Renaissance &lt;br /&gt; (15&lt;sup&gt;th&lt;/sup&gt;–16&lt;sup&gt;th&lt;/sup&gt; c.)&lt;/td&gt;
+      &lt;td&gt;Riemenschneider’s sculptures in Festung Marienberg&lt;/td&gt;
+      &lt;td&gt;Shakespeare’s &lt;em&gt;King Lear&lt;/em&gt;, &lt;em&gt;Macbeth&lt;/em&gt;, &amp;amp; &lt;em&gt;Hamlet&lt;/em&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;7. &lt;em&gt;Grandeur and Obedience&lt;/em&gt;&lt;/td&gt;
+      &lt;td&gt;Counter-Reformation (16&lt;sup&gt;th&lt;/sup&gt;–17&lt;sup&gt;th&lt;/sup&gt; c.)&lt;/td&gt;
+      &lt;td&gt;Basilica di Santa Maria Maggiore&lt;/td&gt;
+      &lt;td&gt;Chiesa del Gesù, Sant’Ignazio, &amp;amp; Palazzo Barberini&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;8. &lt;em&gt;The Light of Experience&lt;/em&gt;&lt;/td&gt;
+      &lt;td&gt;Golden-Age Netherlands &amp;amp; Post-Restoration England (17&lt;sup&gt;th&lt;/sup&gt; c.)&lt;/td&gt;
+      &lt;td&gt;Grote of St.-Bavokerk &amp;amp; Frans Hals Museum&lt;/td&gt;
+      &lt;td&gt;St Paul’s Cathedral&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;9. &lt;em&gt;The Pursuit of Happiness&lt;/em&gt;&lt;/td&gt;
+      &lt;td&gt;Baroque &amp;amp; Rococo Germany (17&lt;sup&gt;th&lt;/sup&gt;–18&lt;sup&gt;th&lt;/sup&gt; c.)&lt;/td&gt;
+      &lt;td&gt;Louvre Colonnade&lt;/td&gt;
+      &lt;td&gt;Mozart’s &lt;em&gt;Don Giovanni&lt;/em&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;10. &lt;em&gt;The Smile of Reason&lt;/em&gt;&lt;/td&gt;
+      &lt;td&gt;Enlightenment (18&lt;sup&gt;th&lt;/sup&gt; c.)&lt;/td&gt;
+      &lt;td&gt;Blenheim Palace&lt;/td&gt;
+      &lt;td&gt;Jefferson’s &lt;em&gt;Declaration of Independence&lt;/em&gt; &amp;amp; &lt;em&gt;Notes on the State of Virginia&lt;/em&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;11. &lt;em&gt;The Worship of Nature&lt;/em&gt;&lt;/td&gt;
+      &lt;td&gt;English Romanticism &amp;amp; French Impressionism (18&lt;sup&gt;th&lt;/sup&gt;–20&lt;sup&gt;th&lt;/sup&gt; c.)&lt;/td&gt;
+      &lt;td&gt;Collins’s &lt;em&gt;Ode to Evening&lt;/em&gt; &amp;amp; Gainsborough’s landscapes&lt;/td&gt;
+      &lt;td&gt;Monet, Renoir, &amp;amp; Seurat&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;12. &lt;em&gt;The Fallacies of Hope&lt;/em&gt;&lt;/td&gt;
+      &lt;td&gt;Romanticism in Revolutionary France (18&lt;sup&gt;th&lt;/sup&gt;–19&lt;sup&gt;th&lt;/sup&gt; c.)&lt;/td&gt;
+      &lt;td&gt;Osterley House&lt;/td&gt;
+      &lt;td&gt;Rodin’s figures&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;13. &lt;em&gt;Heroic Materialism&lt;/em&gt;&lt;/td&gt;
+      &lt;td&gt;Industrial Revolution (18&lt;sup&gt;th&lt;/sup&gt;–20&lt;sup&gt;th&lt;/sup&gt; c.)&lt;/td&gt;
+      &lt;td&gt;Howard’s &lt;em&gt;The State of the Prisons&lt;/em&gt;, Clarkson’s &lt;em&gt;Essay&lt;/em&gt;, &amp;amp; Eden’s &lt;em&gt;The State of the Poor&lt;/em&gt;&lt;/td&gt;
+      &lt;td&gt;Postwar education &amp;amp; technological revolution&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;opening-and-ending-sequences&quot;&gt;Opening and Ending Sequences&lt;/h2&gt;
+
+&lt;dl&gt;
   &lt;dt&gt;1a  César Franck&lt;/dt&gt;
   &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=99eEyXtwhAU&quot;&gt;Organ Chorale No. 3 in A minor&lt;/a&gt;
 &lt;br /&gt;
@@ -21,9 +114,9 @@ Sandro Botticelli, &lt;em&gt;Primavera&lt;/em&gt; |
 Sherry-Netherlands &amp;amp; General Motors Building | 
 Basilica Papale di San Pietro &amp;amp; Piazza San Pietro | 
 St Paul’s Cathedral | 
-Arc de Triomphe | 
+Arc de Triomphe &amp;amp; Avenue des Champs-Élysées | 
+Hôtel des Invalides | 
 Palais du Louvre &amp;amp; Jardin des Tuileries | 
-Les Invalides | 
 Cathédrale Notre-Dame de Paris]
 &lt;br /&gt;&lt;br /&gt;&lt;/dd&gt;
   &lt;dt&gt;1b  Anonymous&lt;/dt&gt;
@@ -98,7 +191,7 @@ Basilica di Santa Maria Maggiore]
   &lt;dt&gt;8a  Michael Praetorius&lt;/dt&gt;
   &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=iKQ7T-Sdyi0&quot;&gt;Dances from &lt;em&gt;Terpsichore&lt;/em&gt;: Ballet&lt;/a&gt;
 &lt;br /&gt;
-[Jacob van Ruisdael, &lt;em&gt;View of Haarlem from the Dunes at Overveen&lt;/em&gt; | Gerrit Berckheyde, &lt;em&gt;The Market Place and the Grote Kerk at Haarlem&lt;/em&gt; | Grote of St.-Bavokerk, Haarlem]
+[Jacob van Ruisdael, &lt;em&gt;View of Haarlem with Bleaching Grounds&lt;/em&gt; | Gerrit Berckheyde, &lt;em&gt;The Market Place and the Grote Kerk at Haarlem&lt;/em&gt; | Grote of St.-Bavokerk, Haarlem]
 &lt;br /&gt;&lt;br /&gt;&lt;/dd&gt;
   &lt;dt&gt;8b  Henry Purcell&lt;/dt&gt;
   &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=vCWeq8xH-5A&quot;&gt;Sonata for Trumpet and Strings in D major, Z. 850: III. Allegro&lt;/a&gt;
@@ -151,13 +244,13 @@ Basilica di Santa Maria Maggiore]
 [Brooklyn Bridge | Lower Manhattan | George Washington Bridge | Statue of Liberty | Wollman Rink in Central Park]
 &lt;br /&gt;&lt;br /&gt;&lt;/dd&gt;
   &lt;dt&gt;13b  Igor Stravinsky&lt;/dt&gt;
-  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=ITLEolJAmQA&quot;&gt;&lt;em&gt;Apollon musagète&lt;/em&gt;: Apothéose&lt;/a&gt;
+  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=ITLEolJAmQA&quot;&gt;&lt;em&gt;Apollon musagète&lt;/em&gt;: Second tableau, Apothéose&lt;/a&gt;
 &lt;br /&gt;
 [Saltwood Castle | 
 Manhattan Bridge &amp;amp; Brooklyn Bridge | 
 Sarcophagus of Napoleon Bonaparte in the Dôme des Invalides | 
 Fountains Abbey | 
-University of Virginia | 
+Monticello | 
 Basilika Vierzehnheiligen | 
 Old Royal Naval College | 
 Piazza San Pietro | 
@@ -168,105 +261,6 @@ Canterbury Cathedral |
 Skellig Michael]
 &lt;br /&gt;&lt;br /&gt;&lt;/dd&gt;
 &lt;/dl&gt;
-
-</description>
-        <pubDate>Wed, 08 Jul 2020 00:00:00 -0400</pubDate>
-      </item>
-    
-      <item>
-        <title>The Synopsis of Civilisation</title>
-        <link>/2020/07/07/civilisation-outline.html</link>
-        <guid isPermaLink="true">/2020/07/07/civilisation-outline.html</guid>
-        <description>&lt;table&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Episode&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;strong&gt;Period&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;strong&gt;Start&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;strong&gt;End&lt;/strong&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;1. &lt;em&gt;The Skin of Our Teeth&lt;/em&gt;&lt;/td&gt;
-      &lt;td&gt;Early Middle Ages&lt;br /&gt; (5&lt;sup&gt;th&lt;/sup&gt;–10&lt;sup&gt;th&lt;/sup&gt; c.)&lt;/td&gt;
-      &lt;td&gt;Pont du Gard&lt;/td&gt;
-      &lt;td&gt;Aachener Dom&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;2. &lt;em&gt;The Great Thaw&lt;/em&gt;&lt;/td&gt;
-      &lt;td&gt;High Middle Ages &lt;br /&gt; (11&lt;sup&gt;th&lt;/sup&gt;–13&lt;sup&gt;th&lt;/sup&gt; c.)&lt;/td&gt;
-      &lt;td&gt;Abbayes de Tournus &amp;amp; de Cluny&lt;/td&gt;
-      &lt;td&gt;Notre-Dame de Chartres&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;3. &lt;em&gt;Romance and Reality&lt;/em&gt;&lt;/td&gt;
-      &lt;td&gt;Late Middle Ages &lt;br /&gt; (13&lt;sup&gt;th&lt;/sup&gt;–14&lt;sup&gt;th&lt;/sup&gt; c.)&lt;/td&gt;
-      &lt;td&gt;&lt;em&gt;The Lady and the Unicorn&lt;/em&gt;&lt;/td&gt;
-      &lt;td&gt;Pisano’s pulpits of Pisa &amp;amp; of Sant’Andrea Pistoia&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;4. &lt;em&gt;Man—the Measure of all Things&lt;/em&gt;&lt;/td&gt;
-      &lt;td&gt;Early Renaissance &lt;br /&gt; (15&lt;sup&gt;th&lt;/sup&gt; c.)&lt;/td&gt;
-      &lt;td&gt;Brunelleschi’s Cappella dei Pazzi&lt;/td&gt;
-      &lt;td&gt;Giorgione’s &lt;em&gt;Le Concert champêtre&lt;/em&gt;, &lt;em&gt;La Tempesta&lt;/em&gt;, &amp;amp; &lt;em&gt;Vecchia&lt;/em&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;5. &lt;em&gt;The Hero as Artist&lt;/em&gt;&lt;/td&gt;
-      &lt;td&gt;High Renaissance &lt;br /&gt;(16&lt;sup&gt;th&lt;/sup&gt; c.)&lt;/td&gt;
-      &lt;td&gt;Cortile del Belvedere &amp;amp; Fontana della Pigna&lt;/td&gt;
-      &lt;td&gt;Leonardo’s &lt;em&gt;Deluge&lt;/em&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;6. &lt;em&gt;Protest and Communication&lt;/em&gt;&lt;/td&gt;
-      &lt;td&gt;Reformation &amp;amp; Northern Renaissance &lt;br /&gt; (15&lt;sup&gt;th&lt;/sup&gt;–16&lt;sup&gt;th&lt;/sup&gt; c.)&lt;/td&gt;
-      &lt;td&gt;Riemenschneider’s sculptures in Festung Marienberg&lt;/td&gt;
-      &lt;td&gt;Shakespeare’s &lt;em&gt;King Lear&lt;/em&gt;, &lt;em&gt;Macbeth&lt;/em&gt;, &amp;amp; &lt;em&gt;Hamlet&lt;/em&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;7. &lt;em&gt;Grandeur and Obedience&lt;/em&gt;&lt;/td&gt;
-      &lt;td&gt;Counter-Reformation (16&lt;sup&gt;th&lt;/sup&gt;–17&lt;sup&gt;th&lt;/sup&gt; c.)&lt;/td&gt;
-      &lt;td&gt;Basilica di Santa Maria Maggiore&lt;/td&gt;
-      &lt;td&gt;Chiesa del Gesù, Sant’Ignazio, &amp;amp; Palazzo Barberini&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;8. &lt;em&gt;The Light of Experience&lt;/em&gt;&lt;/td&gt;
-      &lt;td&gt;Golden-Age Netherlands &amp;amp; Post-Restoration England (17&lt;sup&gt;th&lt;/sup&gt; c.)&lt;/td&gt;
-      &lt;td&gt;Grote of St.-Bavokerk &amp;amp; Frans Hals Museum&lt;/td&gt;
-      &lt;td&gt;St Paul’s Cathedral&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;9. &lt;em&gt;The Pursuit of Happiness&lt;/em&gt;&lt;/td&gt;
-      &lt;td&gt;Baroque &amp;amp; Rococo Germany (17&lt;sup&gt;th&lt;/sup&gt;–18&lt;sup&gt;th&lt;/sup&gt; c.)&lt;/td&gt;
-      &lt;td&gt;Louvre Colonnade&lt;/td&gt;
-      &lt;td&gt;Mozart’s &lt;em&gt;Don Giovanni&lt;/em&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;10. &lt;em&gt;The Smile of Reason&lt;/em&gt;&lt;/td&gt;
-      &lt;td&gt;Enlightenment (18&lt;sup&gt;th&lt;/sup&gt; c.)&lt;/td&gt;
-      &lt;td&gt;Blenheim Palace&lt;/td&gt;
-      &lt;td&gt;Jefferson’s &lt;em&gt;Declaration of Independence&lt;/em&gt; &amp;amp; &lt;em&gt;Notes on the State of Virginia&lt;/em&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;11. &lt;em&gt;The Worship of Nature&lt;/em&gt;&lt;/td&gt;
-      &lt;td&gt;English Romanticism &amp;amp; French Impressionism (18&lt;sup&gt;th&lt;/sup&gt;–20&lt;sup&gt;th&lt;/sup&gt; c.)&lt;/td&gt;
-      &lt;td&gt;Collins’s &lt;em&gt;Ode to Evening&lt;/em&gt; &amp;amp; Gainsborough’s landscapes&lt;/td&gt;
-      &lt;td&gt;Monet, Renoir, &amp;amp; Seurat&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;12. &lt;em&gt;The Fallacies of Hope&lt;/em&gt;&lt;/td&gt;
-      &lt;td&gt;Romanticism in Revolutionary France (18&lt;sup&gt;th&lt;/sup&gt;–19&lt;sup&gt;th&lt;/sup&gt; c.)&lt;/td&gt;
-      &lt;td&gt;Osterley House&lt;/td&gt;
-      &lt;td&gt;Rodin’s figures&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;13. &lt;em&gt;Heroic Materialism&lt;/em&gt;&lt;/td&gt;
-      &lt;td&gt;Industrial Revolution (18&lt;sup&gt;th&lt;/sup&gt;–20&lt;sup&gt;th&lt;/sup&gt; c.)&lt;/td&gt;
-      &lt;td&gt;Howard’s &lt;em&gt;The State of the Prisons&lt;/em&gt;, Clarkson’s &lt;em&gt;Essay&lt;/em&gt;, &amp;amp; Eden’s &lt;em&gt;The State of the Poor&lt;/em&gt;&lt;/td&gt;
-      &lt;td&gt;Postwar education &amp;amp; technological revolution&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 07 Jul 2020 00:00:00 -0400</pubDate>
       </item>
@@ -862,9 +856,19 @@ our Saviour.”&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;h4 id=&quot;-october-1789--april-1792-invention-of-the-guillotine&quot;&gt;&lt;br /&gt; October 1789 – April 1792: Invention of the Guillotine&lt;/h4&gt;
+&lt;h3 id=&quot;contents&quot;&gt;&lt;br /&gt; Contents&lt;/h3&gt;
 
-&lt;p&gt;The short dialogue between Louis XVI and Dr. &lt;strong&gt;Joseph Ignace Guillotin&lt;/strong&gt; (Jacques Ciron) is also advanced for more than half a year. Paradoxically, the guillotine—the notorious decapitation machine and icon of terror—is a product of the humanistic motive of Guillotin back in October 1789.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;#guillotine&quot;&gt;Invention of the Guillotine&lt;/a&gt;—&lt;a href=&quot;#mirabeau-queen&quot;&gt;Secret letters of Mirabeau&lt;/a&gt;—&lt;a href=&quot;#fete&quot;&gt;&lt;em&gt;Fête de la Fédération&lt;/em&gt;&lt;/a&gt;—&lt;a href=&quot;#nancy&quot;&gt;Nancy Mutiny&lt;/a&gt;—&lt;a href=&quot;#mirabeau-death&quot;&gt;Death of Mirabeau&lt;/a&gt;—&lt;a href=&quot;#clery&quot;&gt;&lt;em&gt;Civil Constitution of the Clery&lt;/em&gt;&lt;/a&gt;—&lt;a href=&quot;#varennes&quot;&gt;Flight to Varennes&lt;/a&gt;—&lt;a href=&quot;#champ-de-mars&quot;&gt;Champ-de-Mars massacre&lt;/a&gt;—&lt;a href=&quot;#constitution&quot;&gt;Constitution of 1791&lt;/a&gt;—&lt;a href=&quot;#war&quot;&gt;War debate&lt;/a&gt;—&lt;a href=&quot;#austria&quot;&gt;Declaration of war on Austria&lt;/a&gt;—&lt;a href=&quot;#sans-culottes&quot;&gt;Demonstration of 20 June 1792&lt;/a&gt;—&lt;a href=&quot;#danger&quot;&gt;&lt;em&gt;La Patrie en danger&lt;/em&gt;&lt;/a&gt;—&lt;a href=&quot;#brunswick&quot;&gt;Brunswick Manifesto&lt;/a&gt;—&lt;a href=&quot;#insurrection&quot;&gt;Insurrection of 10 August&lt;/a&gt; &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;guillotine&quot;&gt;&lt;br /&gt; October 1789 – April 1792: Invention of the Guillotine&lt;/h4&gt;
+
+&lt;p&gt;Under the title “July 1790”, in the peaceful &lt;a href=&quot;https://en.wikipedia.org/wiki/Tuileries_Garden&quot;&gt;Jardin des Tuileries&lt;/a&gt; after the storms, we hear the musix box playing the Overture of &lt;a href=&quot;https://www.youtube.com/watch?v=aDlEAAe28WQ&quot;&gt;&lt;em&gt;Le nozze di Figaro&lt;/em&gt;&lt;/a&gt;, K. 492 by Wolfgang Amadeus Mozart (1786).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/revolution/tuileries.png&quot; alt=&quot;Tuileries&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Yet the short dialogue between Louis XVI and Dr. &lt;strong&gt;Joseph Ignace Guillotin&lt;/strong&gt; (Jacques Ciron) is advanced for more than half a year. Paradoxically, the guillotine—the notorious decapitation machine and icon of terror—is a product of the humanistic motive of Guillotin back in October 1789.&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Guillotin’s special object was to obtain the adoption of another innovation. Disgusted as he was at the sight of the gibbet, which exhibited a corpse for hours before the mob, he determined to substitute for all former modes a punishment by which suffering would be mitigated. He saw no better means for the furtherance of his object than decapitation. . . . But then the executioner’s sword had often failed to accomplish its work; the hand was apt to tremble, and machinery only could give a guarantee of unswerving precision. Guillotin’s purpose was, then, to discover the best decapitating machine; and although the search he undertook was novel work for a man who had hitherto endeavoured to save life rather than to devise means of destroying it, he pursued it with untiring zeal. . . .&lt;/p&gt;
@@ -904,11 +908,15 @@ our Saviour.”&lt;/p&gt;
 &lt;/p&gt;
 &lt;/blockquote&gt;
 
+&lt;p&gt;&lt;img src=&quot;/assets/img/revolution/guillotine.png&quot; alt=&quot;Guillotine&quot; /&gt;&lt;/p&gt;
+
 &lt;p&gt;This meeting allegedly happened on 2 March 1792. Five days later, the design was approved by the Legislative Assembly. The first experiments were carried out on 17 April 1792, whose results favored Louis’s suggestion.&lt;/p&gt;
 
-&lt;h4 id=&quot;-2-july-1790-mirabeaus-rendezvous-with-the-queen&quot;&gt;&lt;br /&gt; 2 July 1790: Mirabeau’s rendezvous with the Queen&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;#contents&quot;&gt;#contents&lt;/a&gt; &lt;br /&gt; &lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;The secret meeting of Mirabeau and Marie-Antoinette in the park of the Château de Saint-Cloud is substantiated:&lt;/p&gt;
+&lt;h4 id=&quot;mirabeau-queen&quot;&gt;2 July 1790: Mirabeau’s rendezvous with the Queen&lt;/h4&gt;
+
+&lt;p&gt;The secret meeting of Mirabeau and Marie-Antoinette in the park of the &lt;a href=&quot;http://www.reconstruisonssaintcloud.fr/english.html&quot;&gt;Château de Saint-Cloud&lt;/a&gt; is substantiated:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;On July 2d, he went to stay, as he often did, with his niece, Madame d’Aragon, at Passy. Very early in the morning of the following day, he took a cabriolet, and with his nephew, young du Saillant, disguised and acting as a postilion, drove through the quiet summer lanes which then led from Passy to Saint-Cloud. At an unfrequented entrance to the park he left the cabriolet and his nephew: a door was mysteriously opened to admit him and closed again.&lt;/p&gt;
@@ -935,13 +943,15 @@ still the seals of France about him, and he brought me a statement of all he had
 &lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h4 id=&quot;-14-july-1790-fête-de-la-fédération&quot;&gt;&lt;br /&gt; 14 July 1790: &lt;em&gt;Fête de la Fédération&lt;/em&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;#contents&quot;&gt;#contents&lt;/a&gt; &lt;br /&gt; &lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;fete&quot;&gt;14 July 1790: &lt;em&gt;Fête de la Fédération&lt;/em&gt;&lt;/h4&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;The 14th of July approached: that day was regarded by the nation as the anniversary of its deliverance, and preparations were made to celebrate it with a solemnity calculated to elevate the souls of the citizens, and to strengthen the common bonds of union. A confederation of the whole kingdom was appointed to take place in the Champ de Mars; and there, in the open air, the deputies sent by the eighty-three departments, the national representatives, the Parisian guard, and the monarch, were to take the oath to the constitution. . . . The immense preparations were scarcely completed in time; all Paris had been engaged for several weeks in getting the arrangements ready by the 14th.   [FAM]&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;During the construction scene involving Parisians from all occupations, the choir sings “Ça ira,” whose music is from the contredanse “Le carillon national” composed by Bécourt.&lt;/p&gt;
+&lt;p&gt;During the construction scene involving Parisians from all occupations, the choir sings &lt;a href=&quot;https://www.youtube.com/watch?v=bzu01gO3pi4&quot;&gt;“Ça ira”&lt;/a&gt;, whose music is from the contredanse “Le carillon national” composed by Bécourt.&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Ah ! ça ira, ça ira, ça ira, &lt;br /&gt;
@@ -962,11 +972,13 @@ Malgré les mutins tout réussira !&lt;/p&gt;
   &lt;p&gt;A profound silence now reigned in the vast inclosure, and Lafayette, appointed that day to the command in chief of all the national guards of the kingdom, advanced first to take the civic oath. Borne on the arms of grenadiers to the altar of the country, amidst the acclamations of the people, he exclaimed with a loud voice, in his own name, and that of the federates and troops: “We swear eternal fidelity to the nation, the law, and the king; to maintain to the utmost of our power the constitution decreed by the national assembly, and accepted by the king; and to remain united with every Frenchman by the indissoluble ties of fraternity.” Forthwith the firing of cannon, prolonged cries of “Vive la nation!” “Vive le roi!” and sounds of music, mingled in the air. The president of the national assembly took the same oath, and all the deputies repeated it with one voice. Then Louis XVI. rose and said: “I, king of the French, swear to employ all the power delegated to me by the constitutional act of the state, in maintaining the constitution decreed by the national assembly and accepted by me.” The queen, carried away by the enthusiasm of the moment, rose, lifted up the dauphin in her arms, and showing him to the people, exclaimed: “Behold my son, he unites with me in the same sentiments.” At that moment the banners were lowered, the acclamations of the people were heard, and the subjects believed in the sincerity of the monarch, the monarch in the affection of the subjects, and this happy day closed with a hymn of thanksgiving.   [FAM]&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/revolution/federation.jpg&quot; alt=&quot;Federation&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/revolution/lafayette2.png&quot; alt=&quot;Federation&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The ceremony concludes the events in the first year of the Revolution.&lt;/p&gt;
 
-&lt;h4 id=&quot;-31-august-1790-nancy-mutiny&quot;&gt;&lt;br /&gt; 31 August 1790: Nancy Mutiny&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;#contents&quot;&gt;#contents&lt;/a&gt; &lt;br /&gt; &lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;nancy&quot;&gt;31 August 1790: Nancy Mutiny&lt;/h4&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;The ‘liberty’ achieved in 1789 was thus a two-edged sword in its practical applications.&lt;/p&gt;
@@ -974,9 +986,13 @@ Malgré les mutins tout réussira !&lt;/p&gt;
   &lt;p&gt;National Guard units of ‘active’ citizens in every commune chose their leaders. However, while officer positions in the armed forces were opened to non-nobles, the Assembly stalled at applying popular sovereignty to their election. The army and navy were wracked by internal conflict between noble officers and soldiers over control of regimental funds and the role of the army in repressing civilian protests. There were serious rebellions in the fleets at Toulon in December 1789 and Brest in September 1790. A rebellion in the garrison at Nancy in August 1790 was bloodily repressed by the commander Bouillé, cousin of the commander-in-chief of the army, Lafayette. The Assembly endorsed Bouillé’s actions.  [PM]&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;The execution scene described in the film, where &lt;strong&gt;François Claude Amour, marquis de Bouillé&lt;/strong&gt; (Jean Boissery) sends the signal to the soldiers of the Swiss Régiment de Castella and Régiment de Vigier, happen on 4 September, when 22 mutineers from the Swiss Régiment de Châteauvieux are hanged and their ringleader &lt;strong&gt;André Soret&lt;/strong&gt; (Matthew Jocelyn) broken on the wheel. &lt;br /&gt; &lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/revolution/nancy.png&quot; alt=&quot;Nancy&quot; /&gt;&lt;/p&gt;
 
-&lt;h4 id=&quot;10-november-1790-dantons-oration-at-the-assembly&quot;&gt;10 November 1790: Danton’s oration at the Assembly&lt;/h4&gt;
+&lt;p&gt;The execution scene described in the film, where &lt;strong&gt;François Claude Amour, marquis de Bouillé&lt;/strong&gt; (Jean Boissery) sends the signal to the soldiers of the Swiss Régiment de Castella and Régiment de Vigier, happen on 4 September, when 22 mutineers from the Swiss Régiment de Châteauvieux are hanged and their ringleader &lt;strong&gt;André Soret&lt;/strong&gt; (Matthew Jocelyn) broken on the wheel.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#contents&quot;&gt;#contents&lt;/a&gt; &lt;br /&gt; &lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;danton&quot;&gt;10 November 1790: Danton’s oration at the Assembly&lt;/h4&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;The affair at Nancy, which had aroused so many passions, was the thing which finally roused Parisian opinion . . . Paris is for the first time claiming to govern the councils of the kingdom.&lt;/p&gt;
@@ -1008,11 +1024,15 @@ Malgré les mutins tout réussira !&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/img/revolution/danton.jpg&quot; alt=&quot;Danton&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;These impeachments proved succesful: Minister of War &lt;strong&gt;Jean-Frédéric de La Tour du Pin Gouvernet&lt;/strong&gt; was dismissed on 16 November; so was Keeper of the Seals &lt;strong&gt;Jérôme Champion de Cicé&lt;/strong&gt; on 21 November and Minister of Interior Affairs &lt;strong&gt;François-Emmanuel Guignard, comte de Saint-Priest&lt;/strong&gt; in January 1791. In his address, Danton yet defended for &lt;strong&gt;Armand Marc, comte de Montmorin Saint-Hérem&lt;/strong&gt; (Yvan Varco), Minister of Foreign Affairs and Chief Minister, who is essentially the agent of Mirabeau regarding government affairs. &lt;br /&gt; &lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;These impeachments proved succesful: Minister of War &lt;strong&gt;Jean-Frédéric de La Tour du Pin Gouvernet&lt;/strong&gt; was dismissed on 16 November; so was Keeper of the Seals &lt;strong&gt;Jérôme Champion de Cicé&lt;/strong&gt; on 21 November and Minister of Interior Affairs &lt;strong&gt;François-Emmanuel Guignard, comte de Saint-Priest&lt;/strong&gt; in January 1791. In his address, Danton yet defended for &lt;strong&gt;Armand Marc, comte de Montmorin Saint-Hérem&lt;/strong&gt; (Yvan Varco), Minister of Foreign Affairs and Chief Minister, who is essentially the agent of Mirabeau regarding government affairs.&lt;/p&gt;
 
-&lt;h4 id=&quot;28-december-1790-marriage-of-lucile-and-camille-desmouslins&quot;&gt;28 December 1790: Marriage of Lucile and Camille Desmouslins&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;#contents&quot;&gt;#contents&lt;/a&gt;&lt;br /&gt; &lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;marriage&quot;&gt;28 December 1790: Marriage of Lucile and Camille Desmouslins&lt;/h4&gt;
 
 &lt;p&gt;The couple wed at the Church of Saint-Sulpice, witnessed by Lucile’s parents and Camille’s political friends—Robespierre, &lt;strong&gt;Jacques Pierre Brissot&lt;/strong&gt; (Jean-Pierre Stewart, in black vest), &lt;strong&gt;Jérôme Pétion de Villeneuve&lt;/strong&gt; (Daniel Briquet, in olive vest), etc. Robespierre removes Lucile’s garter inscribed with “Unissons nous pour la vie.”&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/revolution/wedding.png&quot; alt=&quot;Wedding&quot; /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Those were blessed hours for the young couple, and days full of the profund joy, the bliss, at once sober and intoxicating of great happiness. They installed themselves in the same house with Danton, in the Cour du Commerce. Friendly letters, full of compliments and kind wishes, poured in upon them.&lt;/p&gt;
@@ -1020,9 +1040,11 @@ Malgré les mutins tout réussira !&lt;/p&gt;
 &lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;It is therefore not unreasonable to place the Dantons among the wedding guests. &lt;br /&gt; &lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;It is therefore not unreasonable to place the Dantons among the wedding guests.&lt;/p&gt;
 
-&lt;h4 id=&quot;2-april-1791-death-of-mirabeau&quot;&gt;2 April 1791: Death of Mirabeau&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;#contents&quot;&gt;#contents&lt;/a&gt;&lt;br /&gt; &lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;mirabeau-death&quot;&gt;2 April 1791: Death of Mirabeau&lt;/h4&gt;
 
 &lt;p&gt;On 8 Feburary, Mirabeau met La Fayette for the last time discussing the salvation of the kingdom and her monarchy. &lt;em&gt;No record shows Danton was around his deathbed.&lt;/em&gt; Mirabeau’s decease accelerated the fall of the royalists in a more radical revolutionary age.&lt;/p&gt;
 
@@ -1030,7 +1052,9 @@ Malgré les mutins tout réussira !&lt;/p&gt;
   &lt;p&gt;A few days afterwards he terminated a life worn out by passions and by toil. His death . . . was considered a public calamity; all Paris attended his funeral; there was a general mourning throughout France, and his remains were deposited in the receptacle which had just been consecrated &lt;em&gt;aux grands hommes&lt;/em&gt;, in the name of &lt;em&gt;la patrie reconnaissante&lt;/em&gt;. No one succeeded him in power and popularity; and for a long time, in dif cult discussions, the eyes of the assembly would turn towards the seat from whence they had been accustomed to hear the commanding eloquence which terminated their debates. Mirabeau, after having assisted the revolution with his daring in seasons of trial, and with his powerful reasoning since its victory, died seasonably. He was revolving vast designs; he wished to strengthen the throne, and consolidate the revolution; two attempts extremely dif cult at such a time. It is to be feared that royalty, if he had made it independent, would have put down the revolution; or, if he had failed, that the revolution would have put down royalty. It is, perhaps, impossible to convert an ancient power into a new order; perhaps a revolution must be prolonged in order to become legitimate, and the throne, as it recovers, acquire the novelty of the other institutions.   [FAM]&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h4 id=&quot;-april-1791-resistance-to-the-civil-constitution-of-the-clery&quot;&gt;&lt;br /&gt; April 1791: Resistance to the &lt;em&gt;Civil Constitution of the Clery&lt;/em&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;#contents&quot;&gt;#contents&lt;/a&gt; &lt;br /&gt; &lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;clery&quot;&gt;April 1791: Resistance to the &lt;em&gt;Civil Constitution of the Clery&lt;/em&gt;&lt;/h4&gt;
 
 &lt;p&gt;On 12 July 1790, two days before the &lt;em&gt;Fête de la Fédération&lt;/em&gt;, the National Constituent Assembly voted on the &lt;em&gt;Constitution civile du clergé&lt;/em&gt;, which subordinated the French Catholic Church to this revolutionary nation.&lt;/p&gt;
 
@@ -1050,9 +1074,11 @@ Malgré les mutins tout réussira !&lt;/p&gt;
   &lt;p&gt;The French Revolution had many turning-points; but the oath of the clergy was, if not the greatest, unquestionably one of them. It was certainly the Constituent Assembly’s most serious mistake. For the first time the revolutionaries forced fellow citizens to choose; to declare themselves publicly for or against the new order.   [WD]&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Slightly earlier, we see a short scene in which Marat and his mistress and future wife &lt;strong&gt;Simone Évrard&lt;/strong&gt; (Louise Boisvert) are printing the 16 April 1791 issue of &lt;em&gt;L’Ami du peuple&lt;/em&gt;, which incites the popular anguish aginst the church. &lt;em&gt;However, the real issue number on that day is 431 rather than 118; it mentions no anti-clergy topic; and finally, 16 April 1791 is a Saturday, not Sunday.&lt;/em&gt; &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Slightly earlier, we see a short scene in which Marat and his mistress and future wife &lt;strong&gt;Simone Évrard&lt;/strong&gt; (Louise Boisvert) are printing the 16 April 1791 issue of &lt;em&gt;L’Ami du peuple&lt;/em&gt;, which incites the popular anguish aginst the church. &lt;em&gt;However, the real issue number on that day is 431 rather than 118; it mentions no anti-clergy topic; and finally, 16 April 1791 is a Saturday, not Sunday.&lt;/em&gt;&lt;/p&gt;
 
-&lt;h4 id=&quot;2021-june-1791-flight-to-varennes&quot;&gt;20–21 June 1791: Flight to Varennes&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;#contents&quot;&gt;#contents&lt;/a&gt; &lt;br /&gt; &lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;varennes&quot;&gt;20–21 June 1791: Flight to Varennes&lt;/h4&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;The arrangements were made by the queen’s devoted admirer, the Swedish adventurer Count Axel von Fersen. Through him Bouillé was contacted: he promised to provide military escorts when the royal fugitives made the dash for Montmédy, close to the Luxembourg frontier. . . . On the night of 20 June they slipped out of the Tuileries, past guards which had been doubled at renewed rumours of just such an attempt. Despite delays, they got clean away.   [WD]&lt;/p&gt;
@@ -1078,7 +1104,9 @@ Malgré les mutins tout réussira !&lt;/p&gt;
   &lt;p&gt;Nevertheless, despite his humiliating capture and return, the Assembly on 15 July decreed that he had in fact been mentally ‘kidnapped’ and that the monarchist provisions of the Constitution of 1791 would stand.    [PM]&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h4 id=&quot;-17-july-1791-champ-de-mars-massacre&quot;&gt;&lt;br /&gt; 17 July 1791: Champ-de-Mars massacre&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;#contents&quot;&gt;#contents&lt;/a&gt; &lt;br /&gt; &lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;champ-de-mars&quot;&gt;17 July 1791: Champ-de-Mars massacre&lt;/h4&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;The flight to Varennes was the Revolution’s second great turning-point. Like the oath of the clergy, it forced everybody to make choices that most would have preferred not to face. . . . The failure of the attempted escape postponed that danger—but demanded choices of a different order. The monarch had renounced the Revolution, and had explained why at great length in the proclamation he left behind. . . . How could such a man remain head of State? The blackest suspicions of the Parisian populace and radical leaders were confirmed. Republicans now came into the open. All over the capital symbols of royalty were attacked and defaced, and on 24 June the Cordeliers Club delivered a petition to the National Assembly to depose the king or consult the Nation on his fate in a referendum. A crowd of 30,000 escorted its presenters.
@@ -1099,8 +1127,6 @@ Malgré les mutins tout réussira !&lt;/p&gt;
   &lt;p&gt;Two Invalides, supposed to be spies, were massacred and their heads stuck on pikes. The insurrection became alarming. Lafayette again repaired to the Champ de Mars, at the head of twelve hundred of the national guard. Bailly accompanied him, and had the red banner unfurled. The crowd was then summoned to disperse in the name of the law; it refused to retire, and, contemning authority, shouted, “Down with the red flag!” and assailed the national guard with stones. Lafayette ordered his men to fire, but in the air. The crowd was not intimidated with this, and resumed the attack; compelled by the obstinacy of the insurgents, Lafayette then ordered another discharge, a real and effective one. The terri ed multitude  ed, leaving many dead on the  eld. The disturbances now ceased, order was restored; but blood had  own, and the people never forgave Bailly or Lafayette the cruel necessity to which the crowd had driven them. This was a regular combat, in which the republican party, not as yet sufficiently strong or established, was defeated by the constitutional monarchy party. The attempt of the Champ de Mars was the prelude of the popular movements which led to the 10th of August.  [FAM]&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/revolution/champ-de-mars.jpg&quot; alt=&quot;Massacre&quot; /&gt;&lt;/p&gt;
-
 &lt;p&gt;&lt;em&gt;In the film, the order to fire is given by Bailly instead of La Fayette, which is perhaps its most crucial discrepancy with the true history.&lt;/em&gt; But unarguably, the reputation of these two royalist leaders had never been restored among the populace afterwards.&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -1109,7 +1135,9 @@ Malgré les mutins tout réussira !&lt;/p&gt;
 &lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h4 id=&quot;-september-1791-first-constitution&quot;&gt;&lt;br /&gt; September 1791: First Constitution&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;#contents&quot;&gt;#contents&lt;/a&gt; &lt;br /&gt; &lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;constitution&quot;&gt;September 1791: First Constitution&lt;/h4&gt;
 
 &lt;p&gt;The Champ-de-Mars massacre was followed by a series of prosecutions, from 23 July to 4 August, against radical democrats and their journals. Several revolutionists were forced in exile.&lt;/p&gt;
 
@@ -1119,9 +1147,11 @@ Malgré les mutins tout réussira !&lt;/p&gt;
 
 &lt;p&gt;The Constitution of 1791 was voted by the National Constituent Assembly on 3 September and promulgated by Louis on 14 September. Having officially adopted a consitutional monarchy, the Assembly proclaimed a general amnest. Political activities in Paris were revitalized.&lt;/p&gt;
 
-&lt;p&gt;Robespierre’s mistake that Marat metions refers to the self-denying ordinance he promoted, that all deputies of the former Constituent Assembly were forbidden from joining the new Legislative Assembly convened on 1 October 1791. This, nevertheless, marginalized the framers of the Consitution after its adoptation and assisted the growing of counter-revolutionary groups in late 1791. The devision between the royalists and the revolutionists were further deepened.  &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Robespierre’s mistake that Marat metions refers to the self-denying ordinance he promoted, that all deputies of the former Constituent Assembly were forbidden from joining the new Legislative Assembly convened on 1 October 1791. This, nevertheless, marginalized the framers of the Consitution after its adoptation and assisted the growing of counter-revolutionary groups in late 1791. The devision between the royalists and the revolutionists were further deepened.&lt;/p&gt;
 
-&lt;h4 id=&quot;december-1791--january-1792-debate-on-war&quot;&gt;December 1791 – January 1792: Debate on war&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;#contents&quot;&gt;#contents&lt;/a&gt; &lt;br /&gt; &lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;war&quot;&gt;December 1791 – January 1792: Debate on war&lt;/h4&gt;
 
 &lt;p&gt;The scene is changed to the Club des Jacobins for the first time, with Jacques Pierre Brissot, on behalf of the Girondins, delivering a pro-war speech in answer to the gathering of Armée des émigrés after the &lt;em&gt;Declaration of Pillnitz&lt;/em&gt; (17 August 1791) by Leopold II, Holy Roman Emperor, and Frederick William II, King of Prussia.&lt;/p&gt;
 
@@ -1143,7 +1173,9 @@ Malgré les mutins tout réussira !&lt;/p&gt;
 &lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h4 id=&quot;-20-april-1792-declaration-of-war-on-austria&quot;&gt;&lt;br /&gt; 20 April 1792: Declaration of war on Austria&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;#contents&quot;&gt;#contents&lt;/a&gt; &lt;br /&gt; &lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;austria&quot;&gt;20 April 1792: Declaration of war on Austria&lt;/h4&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;strong&gt;Le Roi.&lt;/strong&gt;  Vous venez, messieurs, d’entendre le résultat des négociations que j’ai suivies avec la cour de Vienne. Les conclusions du rapport ont été l’avis unanime des membres de mon conseil. Je les ai moi-même adoptées : elles sont conformes au-vœu que m’a manifesté plusieurs fois l’Assemblée Nationale, et aux sentiments que m’ont témoignés un grand nombre de citoyens des différentes parties du royaume. Tous préfèrent la guerre à voir plus longtemps la dignité du peuple français outragée, et la sûreté nationale menacée.&lt;/p&gt;
@@ -1153,9 +1185,11 @@ Malgré les mutins tout réussira !&lt;/p&gt;
   &lt;p&gt;[AP, Friday 20 April 1792]&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;The session is presided over by &lt;strong&gt;Félix-Julien-Jean Bigot de Préameneu&lt;/strong&gt;. &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;The session is presided over by &lt;strong&gt;Félix-Julien-Jean Bigot de Préameneu&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;h4 id=&quot;29-april-1792-battle-of-marquain&quot;&gt;29 April 1792: Battle of Marquain&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;#contents&quot;&gt;#contents&lt;/a&gt; &lt;br /&gt; &lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;marquain&quot;&gt;29 April 1792: Battle of Marquain&lt;/h4&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;On the Frontiers, our Armies, be it treason or not, behave in the worst way. Troops badly commanded, shall we say? Or troops intrinsically bad? Unappointed, undisciplined, mutinous; that, in a thirty-years peace, have never seen fire ? In any case, Lafayette’s and Rochambeau’s little clutch, which they made at Austrian Flanders, has prospered as badly as clutch need do: soldiers starting at their own shadow; suddenly sheirking, ‘&lt;em&gt;On nous trahit,&lt;/em&gt;’ and flying off in wild panic, at or before the first shot; managing only to hang some two or three prisoners they had picked up, and massacre their own Commander, poor &lt;strong&gt;Theobald Dillon&lt;/strong&gt;, driven into a granary by them in the Town of Lille.&lt;/p&gt;
@@ -1163,9 +1197,11 @@ Malgré les mutins tout réussira !&lt;/p&gt;
 &lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;The Austrian troop defeating the French at Marquain, Belgium are commanded by &lt;strong&gt;Louis-François de Civalart&lt;/strong&gt; (Tomasz Bialkowski). &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;The Austrian troop defeating the French at Marquain, Belgium are commanded by &lt;strong&gt;Louis-François de Civalart&lt;/strong&gt; (Tomasz Bialkowski).&lt;/p&gt;
 
-&lt;h4 id=&quot;20-june-1792-march-of-the-sans-culottes&quot;&gt;20 June 1792: March of the &lt;em&gt;sans-culottes&lt;/em&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;#contents&quot;&gt;#contents&lt;/a&gt; &lt;br /&gt; &lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;sans-culottes&quot;&gt;20 June 1792: March of the &lt;em&gt;sans-culottes&lt;/em&gt;&lt;/h4&gt;
 
 &lt;p&gt;At the Cordeliers Club, Marat cries out again for “purging the world of liberty”:&lt;/p&gt;
 
@@ -1184,7 +1220,9 @@ Malgré les mutins tout réussira !&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;/assets/img/revolution/june20.jpg&quot; alt=&quot;June 20&quot; /&gt;
 &lt;img src=&quot;/assets/img/revolution/red-cap.jpg&quot; alt=&quot;Red cap&quot; /&gt;&lt;/p&gt;
 
-&lt;h4 id=&quot;-11-july-1792-la-patrie-en-danger&quot;&gt;&lt;br /&gt; 11 July 1792: &lt;em&gt;La Patrie en danger&lt;/em&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;#contents&quot;&gt;#contents&lt;/a&gt; &lt;br /&gt; &lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;danger&quot;&gt;11 July 1792: &lt;em&gt;La Patrie en danger&lt;/em&gt;&lt;/h4&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Citoyens, la patrie est en danger !&lt;/p&gt;
@@ -1212,7 +1250,9 @@ Malgré les mutins tout réussira !&lt;/p&gt;
 &lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h4 id=&quot;-25-july-1792-brunswick-manifesto&quot;&gt;&lt;br /&gt; 25 July 1792: Brunswick Manifesto&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;#contents&quot;&gt;#contents&lt;/a&gt; &lt;br /&gt; &lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;brunswick&quot;&gt;25 July 1792: Brunswick Manifesto&lt;/h4&gt;
 
 &lt;p&gt;An excerpt of the original text of the manifesto issued from Coblenz by &lt;strong&gt;Karl Wilhelm Ferdinand von Braunschweig-Wolfenbüttel&lt;/strong&gt; (Hans Meyer), commander of the Austrian–Prussian army is read by its drafter Axel von Fersen:&lt;/p&gt;
 
@@ -1226,9 +1266,11 @@ Malgré les mutins tout réussira !&lt;/p&gt;
   &lt;p&gt;On 5 July the Assembly reinforced this trend by elaborating a procedure for declaring the Country in Danger: as soon as this state was proclaimed, all government bodies were placed in permanent session and authorized to raise volunteers from their National Guard units to fight at the front along- side the line army. Less than a week later the decree was invoked. As a result, fédérés continued to pour into Paris long after 14 July on their way to the front. Marseilles’s volunteers did not arrive until 30 July, when they marched into the capital singing Rouget de Lisle’s battle hymn, and thereby gave it the name it has borne ever since.  [WD]&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;This battle hymn is none other than &lt;em&gt;Chant de guerre pour l’armée du Rhin&lt;/em&gt;, or &lt;em&gt;La Marseillaise&lt;/em&gt;.  &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;This battle hymn is none other than &lt;em&gt;Chant de guerre pour l’armée du Rhin&lt;/em&gt;, or &lt;a href=&quot;https://www.youtube.com/watch?v=bTWMTWT8nVo&quot;&gt;&lt;em&gt;La Marseillaise&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
 
-&lt;h4 id=&quot;insurrection-of-10-august-1792&quot;&gt;Insurrection of 10 August 1792&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;#contents&quot;&gt;#contents&lt;/a&gt; &lt;br /&gt; &lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;insurrection&quot;&gt;Insurrection of 10 August 1792&lt;/h4&gt;
 
 &lt;p&gt;Robespierre, at his residence in Maurice Duplay’s house, exchanges opinions on the ongoing politcal instability with Desmoulins and Danton, who is conspiring an armed insurrection against the royalists. Robespierre expresses his objection to dictatorship and his faith to the constitution, but conceives its implementation through a new “National Convention.” &lt;strong&gt;Éléonore Duplay&lt;/strong&gt; (Fabienne Tricottet)—Maurice’s eldest daughter—quickly appears and serves tea.&lt;/p&gt;
 
@@ -1321,6 +1363,8 @@ ears of the expectant city. . . .&lt;/p&gt;
   &lt;p&gt;Finally, the 23rd of September was appointed for opening the extraordinary assembly, destined to decide the fate of royalty. But royalty had already fallen on the 10th of August, that day marked by the insurrection of the multitude against the middle classes and the constitutional throne, as the 14th of July had seen the insurrection of the middle class against the privileged class and the absolute power of the crown. On the 10th of August began the dictatorial and arbitrary epoch of the revolution. Circumstances becoming more and more difficult to encounter, a vast warfare arose, requiring still greater energy than ever, and that energy irregular, because popular, rendered the domination of the lower class restless, cruel, and oppressive.    [FAM]&lt;/p&gt;
 &lt;/blockquote&gt;
 
+&lt;p&gt;&lt;a href=&quot;#contents&quot;&gt;#contents&lt;/a&gt; &lt;br /&gt; &lt;br /&gt;&lt;/p&gt;
+
 &lt;p align=&quot;right&quot;&gt;
 (27 new historical figures; 3 mentioned only)
 &lt;/p&gt;
@@ -1344,7 +1388,13 @@ ears of the expectant city. . . .&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;h4 id=&quot;-a-companion-to-la-révolution-française-1989&quot;&gt;&lt;br /&gt; A companion to &lt;em&gt;La Révolution française&lt;/em&gt; (1989)&lt;/h4&gt;
+&lt;h3 id=&quot;contents&quot;&gt;&lt;br /&gt; Contents&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;#royal-family&quot;&gt;Royal family in 1788&lt;/a&gt;—&lt;a href=&quot;#estates-general&quot;&gt;Summoning the Estates-General of 1789&lt;/a&gt;—&lt;a href=&quot;#elections&quot;&gt;Elections&lt;/a&gt;—&lt;a href=&quot;#opening&quot;&gt;Opening of the Estates-General&lt;/a&gt;—&lt;a href=&quot;#tennis-court&quot;&gt;Tennis Court Oath&lt;/a&gt;—&lt;a href=&quot;#seance-royale&quot;&gt;&lt;em&gt;Séance royale&lt;/em&gt; of 23 June&lt;/a&gt;—&lt;a href=&quot;#riots&quot;&gt;Riots of 12 July&lt;/a&gt;—&lt;a href=&quot;#bastille&quot;&gt;Storming of the Bastille&lt;/a&gt;—&lt;a href=&quot;#reconciliation&quot;&gt;Reconciliation of 17 July&lt;/a&gt;—&lt;a href=&quot;#grande-peur&quot;&gt;&lt;em&gt;Grande Peur&lt;/em&gt;&lt;/a&gt;—&lt;a href=&quot;#august&quot;&gt;August Decrees&lt;/a&gt;—&lt;a href=&quot;#droits&quot;&gt;&lt;em&gt;Déclaration des droits de l’homme&lt;/em&gt;&lt;/a&gt;—&lt;a href=&quot;#veto&quot;&gt;Veto debate&lt;/a&gt;—&lt;a href=&quot;#orgie&quot;&gt;&lt;em&gt;Orgie des Gardes du corps&lt;/em&gt;&lt;/a&gt;—&lt;a href=&quot;#march&quot;&gt;October March on Versailles&lt;/a&gt;  &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;-a-companion-to-la-révolution-française-1989&quot;&gt;&lt;br /&gt; A companion to &lt;em&gt;La Révolution française&lt;/em&gt; (1989)&lt;/h3&gt;
 
 &lt;p&gt;Prior to the bicentennial of the enlightening, electrifying, yet turbulent and ferocious Revolution that has reshaped human history forever, an international team of filmmakers, including the producer Alexandre Mnouchkine, screenwriters David Ambrose and Daniel Boulanger, historian Jean Tulard, and directors Robert Enrico and Richard T. Heffron, created a grand cinematic epic reenacting those years of illumination and terror. Personally, I find it among the most informative and pedagogical historical films one can ever imagine.&lt;/p&gt;
 
@@ -1358,13 +1408,13 @@ ears of the expectant city. . . .&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;General references&lt;/strong&gt; with [acronyms]:&lt;/p&gt;
 
-&lt;p&gt;[AP]  &lt;em&gt;Archives parlementaires de 1787 à 1860.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[AP]  &lt;a href=&quot;https://sul-philologic.stanford.edu/philologic/archparl/navigate/42/table-of-contents/&quot;&gt;&lt;em&gt;Archives parlementaires de 1787 à 1860&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;[FAM]  François-Auguste Mignet, &lt;em&gt;History of the French Revolution from 1789 to 1814&lt;/em&gt; (Bell &amp;amp; Daldy, London, 1868); translated from &lt;em&gt;Histoire de la Révolution française depuis 1789 jusqu’en 1814&lt;/em&gt; (Firmin Didot père &amp;amp; fils, Paris, 1824).&lt;/p&gt;
+&lt;p&gt;[FAM]  François-Auguste Mignet, &lt;a href=&quot;https://archive.org/details/b2931883x&quot;&gt;&lt;em&gt;History of the French Revolution from 1789 to 1814&lt;/em&gt;&lt;/a&gt; (Bell &amp;amp; Daldy, London, 1868); translated from &lt;a href=&quot;https://archive.org/details/bub_gb_4_xaAAAAQAAJ&quot;&gt;&lt;em&gt;Histoire de la Révolution française depuis 1789 jusqu’en 1814&lt;/em&gt;&lt;/a&gt; (Firmin Didot père &amp;amp; fils, Paris, 1824).&lt;/p&gt;
 
-&lt;p&gt;[WD]  William Doyle, &lt;em&gt;The Oxford History of the French Revolution&lt;/em&gt;, Second Edition (Oxford University Press, 2002).&lt;/p&gt;
+&lt;p&gt;[WD]  William Doyle, &lt;a href=&quot;https://en.wikipedia.org/wiki/The_Oxford_History_of_the_French_Revolution&quot;&gt;&lt;em&gt;The Oxford History of the French Revolution&lt;/em&gt;, 2nd edition&lt;/a&gt; (Oxford University Press, 2002).&lt;/p&gt;
 
-&lt;p&gt;[PM]  Peter McPhee, &lt;em&gt;The French Revolution 1789–1799&lt;/em&gt; (Oxford University Press, 2002).
+&lt;p&gt;[PM]  Peter McPhee, &lt;a href=&quot;https://archive.org/details/frenchrevolution00mcph_0&quot;&gt;&lt;em&gt;The French Revolution 1789–1799&lt;/em&gt;&lt;/a&gt; (Oxford University Press, 2002).
 &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
@@ -1373,9 +1423,11 @@ ears of the expectant city. . . .&lt;/p&gt;
 
 &lt;p&gt;The first part of this panoramic historical film reenacts the last years of the Ancien Régime—from the convocation of the Estates-General of 1789 to the Insurrection of 10 August 1792.&lt;/p&gt;
 
-&lt;p&gt;Prior to its grand opening sequence featuring the Grand Canal and the Bassin de Latone in the Gardens of Versailles, the films nonetheless begins with a pre-edit scene back to 1775, when the 17-year-old &lt;strong&gt;Maximilien de Robespierre&lt;/strong&gt; (Steve Carretero) delivers a Latin tribute to the newly crowned Louis XVI on behalf of his classmates at the Collège Louis-le-Grand, among whom stands the 15-year-old &lt;strong&gt;Camille Desmoulins&lt;/strong&gt; (Philip-James Valentini).&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/revolution/grand-canal.png&quot; alt=&quot;Grand Canal&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;This anecdote was noted down by the abbé Liévin-Bonaventure Proyart, then Robespierre’s teacher at Louis-le-Grand and later his biographer:&lt;/p&gt;
+&lt;p&gt;Prior to its grand opening sequence featuring the &lt;a href=&quot;http://en.chateauversailles.fr/discover/estate/park&quot;&gt;Grand Canal&lt;/a&gt; and the &lt;a href=&quot;https://en.wikipedia.org/wiki/Latona_Fountain&quot;&gt;Bassin de Latone&lt;/a&gt; in the &lt;a href=&quot;https://en.wikipedia.org/wiki/Gardens_of_Versailles&quot;&gt;Jardin de Versailles&lt;/a&gt;, the films nonetheless begins with a pre-edit scene back to 1775, when the 17-year-old &lt;strong&gt;Maximilien de Robespierre&lt;/strong&gt; (Steve Carretero) delivers a Latin tribute to the newly crowned Louis XVI on behalf of his classmates at the &lt;a href=&quot;https://en.wikipedia.org/wiki/Lyc%C3%A9e_Louis-le-Grand&quot;&gt;Collège Louis-le-Grand&lt;/a&gt;, among whom stands the 15-year-old &lt;strong&gt;Camille Desmoulins&lt;/strong&gt; (Philip-James Valentini).&lt;/p&gt;
+
+&lt;p&gt;This anecdote was noted down by the Abbé Liévin-Bonaventure Proyart, then Robespierre’s teacher at Louis-le-Grand and later his biographer:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;En 1775, Louis XVI, après la cérémonie de son sacre, fit son entrée solennelle dans Paris, accompagné de la reine et de la famille royale. Leurs majestés . . . s’arrêtèrent devant le collége de Louis-le-Grand, où elles furent complimentées par l’Université en corps. . . . et ce fut Robespierre que l’on chargea de le lui offrir au nom de ses condisciples, dans un discours en vers qu’avait composé son professeur. Le roi abaissa un regard de bonté sur ce jeune homme qui, élevé dans sa maison, devait un jour lui porter le premier coup de poignard. &lt;br /&gt;&lt;/p&gt;
@@ -1383,15 +1435,25 @@ ears of the expectant city. . . .&lt;/p&gt;
 &lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;em&gt;Nevertheless, the record of this fateful encounter is generally considered unsubstantiated. Leastwise, it could not happen in 1774 according to the caption, as Louis XVI was crowned in Reims Cathedral on 11 June 1775.&lt;/em&gt; &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Nevertheless, the record of this fateful encounter is generally considered unsubstantiated. Leastwise, it could not happen in 1774 according to the caption, as Louis XVI was crowned in Reims Cathedral on 11 June 1775.&lt;/em&gt;&lt;/p&gt;
 
-&lt;h4 id=&quot;royal-family-in-1788&quot;&gt;Royal family in 1788&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;#contents&quot;&gt;#contents&lt;/a&gt; &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;At the opulent royal ball hosted in the Galerie des Glaces (Hall of Mirrors) of the Palace of Versailles, &lt;strong&gt;Louis XVI&lt;/strong&gt; (Jean-François Balmer) and &lt;strong&gt;Marie-Antoinette d’Autriche&lt;/strong&gt; (Jane Seymour, VF: Béatrice Delfe) make their first appearances. “Madame Déficit” is accompanied by her dancing partner &lt;strong&gt;Axel von Fersen&lt;/strong&gt; (Jean-Yves Berteloot), her superintendent &lt;strong&gt;Marie-Thérèse-Louise de Savoie-Carignan, princesse de Lamballe&lt;/strong&gt; (Gabrielle Lazure), and her favorite &lt;strong&gt;Gabrielle de Polastron, duchesse de Polignac&lt;/strong&gt; (Claudia Cardinale). Polignac sits closer to the Queen at the casino table in the Salon de la Paix, reflecting Lamballe’s gradual falling out of favor since 1785.&lt;/p&gt;
+&lt;h4 id=&quot;royal-family&quot;&gt;Royal family in 1788&lt;/h4&gt;
 
-&lt;p&gt;Shortly afterwards, three royal childern appear at the Hameau de la Reine in the Petit Trianon of Versailles: Dauphin of France &lt;strong&gt;Louis-Joseph&lt;/strong&gt; (Benji Marcus) riding a pony, his elder sister &lt;strong&gt;Marie-Thérèse Charlotte&lt;/strong&gt;, or &lt;strong&gt;Madame Royale&lt;/strong&gt; (Katherine Flynn), and their younger brother &lt;strong&gt;Louis-Charles&lt;/strong&gt;, the future &lt;strong&gt;Louis XVII&lt;/strong&gt; (Sean Flynn). Katherine and Sean are Seymour’s daughter and son in real life. &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;At the opulent royal ball hosted in the &lt;a href=&quot;http://en.chateauversailles.fr/discover/estate/palace/hall-mirrors#the-grand-canal&quot;&gt;Galerie des Glaces&lt;/a&gt; (Hall of Mirrors) of the &lt;a href=&quot;https://en.wikipedia.org/wiki/Palace_of_Versailles&quot;&gt;Château de Versailles&lt;/a&gt;, &lt;strong&gt;Louis XVI&lt;/strong&gt; (Jean-François Balmer) and &lt;strong&gt;Marie-Antoinette d’Autriche&lt;/strong&gt; (Jane Seymour, VF: Béatrice Delfe) make their first appearances. “Madame Déficit” is accompanied by her dancing partner &lt;strong&gt;Axel von Fersen&lt;/strong&gt; (Jean-Yves Berteloot), her superintendent &lt;strong&gt;Marie-Thérèse-Louise de Savoie-Carignan, princesse de Lamballe&lt;/strong&gt; (Gabrielle Lazure), and her favorite &lt;strong&gt;Gabrielle de Polastron, duchesse de Polignac&lt;/strong&gt; (Claudia Cardinale). The orchestra are playing the &lt;a href=&quot;https://www.youtube.com/watch?v=O1NRUPqBmS4&quot;&gt;No. 5 in F from “16 Menuets”, K. 176&lt;/a&gt;, composed by Wolfgang Amadeus Mozart in 1773.&lt;/p&gt;
 
-&lt;h4 id=&quot;21-january-1789-summoning-the-estates-general&quot;&gt;21 January 1789: Summoning the Estates-General&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/revolution/galerie-des-glaces.png&quot; alt=&quot;Galarie des Glaces&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Following the ball scene, Polignac sits closer to the Queen at the casino table in the &lt;a href=&quot;http://en.chateauversailles.fr/discover/estate/palace/hall-mirrors#the-peace-room&quot;&gt;Salon de la Paix&lt;/a&gt;, reflecting Lamballe’s gradual falling out of favor since 1785.&lt;/p&gt;
+
+&lt;p&gt;Shortly afterwards, three royal childern appear at the &lt;a href=&quot;http://en.chateauversailles.fr/discover/estate/estate-trianon/queen-hamlet&quot;&gt;Hameau de la Reine&lt;/a&gt; of Versailles: Dauphin of France &lt;strong&gt;Louis-Joseph&lt;/strong&gt; (Benji Marcus) riding a pony, his elder sister &lt;strong&gt;Marie-Thérèse Charlotte&lt;/strong&gt;, or &lt;strong&gt;Madame Royale&lt;/strong&gt; (Katherine Flynn), and their younger brother &lt;strong&gt;Louis-Charles&lt;/strong&gt;, the future &lt;strong&gt;Louis XVII&lt;/strong&gt; (Sean Flynn). Katherine and Sean are Seymour’s daughter and son in real life.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/revolution/royal-family.png&quot; alt=&quot;Royal family&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#contents&quot;&gt;#contents&lt;/a&gt; &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;estates-general&quot;&gt;21 January 1789: Summoning the Estates-General&lt;/h4&gt;
 
 &lt;p&gt;In the film, &lt;strong&gt;Jacques Necker&lt;/strong&gt; (Raymond Gérôme), the esteemed Controller-General of Finances and Chief Minister of France, advices Louis XVI to summon the Estates-General in order to levy taxes to address the state deficit. &lt;em&gt;This decision-making process was, however, much more tortuous in history, where the idea of restoring this legislative and consultative assembly after more than 170 years was first deliberated on the Assembly of Notables in 1787.&lt;/em&gt;&lt;/p&gt;
 
@@ -1399,9 +1461,11 @@ ears of the expectant city. . . .&lt;/p&gt;
   &lt;p&gt;‘It seems to me’, declared Lafayette in the bureau where he sat on 21 May, ‘that this is the moment for us to beseech His Majesty to fix, immediately, in order to render account to him of all measures and settle their happy outcome forever, the convocation of a truly national assembly.’ ‘What, Sir,’ burst out the Count d’Artois, the king’s brother, ‘are you calling for the Estates-General?’ ‘Yes, my lord,’ replied the young glory-hunter, ‘and even better than that.’  [WD]&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;The date of the Estates-General was officially announced by the previous finance minister Étienne-Charles de Loménie de Brienne on 8 August 1788, before Necker’s return to office on 24 August. A royal edict—&lt;em&gt;Règlement des États généraux de 1789&lt;/em&gt;—was issued on 24 January, followed by the nationwide elections of the delegates from the three estates of realm. &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;The date of the Estates-General was officially announced by the previous finance minister Étienne-Charles de Loménie de Brienne on 8 August 1788, before Necker’s return to office on 24 August. A royal edict—&lt;em&gt;Règlement des États généraux de 1789&lt;/em&gt;—was issued on 24 January, followed by the nationwide elections of the delegates from the three estates of realm.&lt;/p&gt;
 
-&lt;h4 id=&quot;marchapril-1789-elections&quot;&gt;March–April 1789: Elections&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;#contents&quot;&gt;#contents&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;elections&quot;&gt;March–April 1789: Elections&lt;/h4&gt;
 
 &lt;p&gt;On 4 March 1789, inside a church in Guise, &lt;strong&gt;Camille Desmoulins&lt;/strong&gt; (François Cluzet) plans to run for Estates-General deputy, together with his father &lt;strong&gt;Jean-Benoist-Nicolas Desmoulins&lt;/strong&gt; (Jean-Marie Bernicat). Subsequently, Camille is compiling a Third-Estate &lt;em&gt;cahier de doléances&lt;/em&gt;—a list of grievances raised by commoners, mainly against the privileges of the First and Second Estates. Camille unfortunately fails the election. &lt;em&gt;Omitted in the film, Jean-Benoist-Nicolas was nominated, but declined due to health reasons.&lt;/em&gt;&lt;/p&gt;
 
@@ -1419,11 +1483,13 @@ ears of the expectant city. . . .&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;It is not evident how the trajectories of Mirabeau, Danton, Desmoulins, Simon, Legendre, and Marat intersected in early 1789.&lt;/em&gt; Besides delineating the personal histories and dispositions of these characters, these scenes set up the community background of the future Club des Cordeliers.&lt;/p&gt;
 
-&lt;p&gt;While Mirabeau never conceals his passion for a colorful private life, Danton is known to be loyal to his wife &lt;strong&gt;Antoinette Gabrielle Danton&lt;/strong&gt; (Marianne Basler), who, in the film, is carrying their future son Antoine. &lt;em&gt;However, Gabrielle’s pregnancy as depicted seems not synchronized with Antoine’s birth in June 1790.&lt;/em&gt; &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;While Mirabeau never conceals his passion for a colorful private life, Danton is known to be loyal to his wife &lt;strong&gt;Antoinette Gabrielle Danton&lt;/strong&gt; (Marianne Basler), who, in the film, is carrying their future son Antoine. &lt;em&gt;However, Gabrielle’s pregnancy as depicted seems not synchronized with Antoine’s birth in June 1790.&lt;/em&gt;&lt;/p&gt;
 
-&lt;h4 id=&quot;5-may-1789-opening-of-the-estates-general&quot;&gt;5 May 1789: Opening of the Estates-General&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;#contents&quot;&gt;#contents&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;This historic convention opens in the magnificent Hôtel des Menus-Plaisirs in Versailles.&lt;/p&gt;
+&lt;h4 id=&quot;opening&quot;&gt;5 May 1789: Opening of the Estates-General&lt;/h4&gt;
+
+&lt;p&gt;This historic convention opens in the magnificent &lt;a href=&quot;https://en.wikipedia.org/wiki/Menus-Plaisirs_du_Roi#H%C3%B4tel_des_Menus-Plaisirs_du_Roi_in_Versailles&quot;&gt;Hôtel des Menus-Plaisirs&lt;/a&gt; in Versailles.&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;The royal session took place the following day in the Salle des Menus Galleries, arranged in the form of an amphitheatre, were filled with spectators. The deputies were summoned and introduced according to the order established in 1614. The clergy were conducted to the right, the nobility to the left, and the commons in front of the throne at the end of the hall.  [FAM]&lt;/p&gt;
@@ -1439,6 +1505,8 @@ ears of the expectant city. . . .&lt;/p&gt;
   &lt;p&gt;[AP, Tuesday 5 May 1789]&lt;/p&gt;
 &lt;/blockquote&gt;
 
+&lt;p&gt;&lt;img src=&quot;/assets/img/revolution/louis-xvi.png&quot; alt=&quot;Louis XVI&quot; /&gt;&lt;/p&gt;
+
 &lt;p&gt;Nicker addresses to the assembly for three hours regarding the financial situation.&lt;/p&gt;
 
 &lt;p&gt;More notable figures show up in this reenactment:&lt;/p&gt;
@@ -1447,11 +1515,15 @@ ears of the expectant city. . . .&lt;/p&gt;
 
 &lt;p&gt;In the front row of nobility, we see &lt;strong&gt;Gilbert du Motier, marquis de La Fayette&lt;/strong&gt; (Sam Neill, VF: Pierre Arditi). Even the 7-year-old Dauphin knows he is the hero of the American Independence War.&lt;/p&gt;
 
-&lt;p&gt;Among the clergy is the abbé &lt;strong&gt;Emmanuel-Joseph Sieyès&lt;/strong&gt; (Jean Bouchaud), political theorist and the author of &lt;em&gt;Qu’est-ce que le Tiers-État ?&lt;/em&gt; [&lt;em&gt;What Is the Third Estate?&lt;/em&gt;]&lt;/p&gt;
+&lt;p&gt;Among the clergy is the Abbé &lt;strong&gt;Emmanuel-Joseph Sieyès&lt;/strong&gt; (Jean Bouchaud), political theorist and the author of &lt;a href=&quot;https://en.wikipedia.org/wiki/What_Is_the_Third_Estate%3F&quot;&gt;&lt;em&gt;Qu’est-ce que le Tiers-État ?&lt;/em&gt;&lt;/a&gt; [&lt;em&gt;What Is the Third Estate?&lt;/em&gt;]&lt;/p&gt;
 
 &lt;p&gt;Camille Desmoulins, attending the convention as a spectator, greets his old classmate &lt;strong&gt;Maximilien de Robespierre&lt;/strong&gt; (Andrzej Seweryn), a Third-Estate deputy for Arras.&lt;/p&gt;
 
-&lt;p&gt;After the session, Desmoulins reunites with Robespierre at the latter’s place. On the table lays a copy of Jean-Jacques Rousseau, &lt;em&gt;Du contrat social; ou, Principes du droit politique&lt;/em&gt; (first edition printed in 1762). They recollect the words of an old lecturer at Louis-le-Grand, which are resonant with the core questions in the abbé Sieyès’s &lt;em&gt;Qu’est-ce que le Tiers-État ?&lt;/em&gt; (1789):&lt;/p&gt;
+&lt;p&gt;After the session, Desmoulins reunites with Robespierre at the latter’s place. On the table lays a copy of &lt;a href=&quot;https://en.wikipedia.org/wiki/The_Social_Contract&quot;&gt;&lt;em&gt;Du contrat social; ou, Principes du droit politique&lt;/em&gt;&lt;/a&gt; by Jean-Jacques Rousseau (first edition printed in 1762).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/revolution/contract-social.png&quot; alt=&quot;Contract social&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;They recollect the words of an old lecturer at Louis-le-Grand, which are resonant with the core questions in the Abbé Sieyès’s &lt;em&gt;Qu’est-ce que le Tiers-État ?&lt;/em&gt; (1789):&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;1º Qu’est-ce que le Tiers-État ? Tout. &lt;br /&gt;
@@ -1461,7 +1533,9 @@ ears of the expectant city. . . .&lt;/p&gt;
   &lt;p&gt;[1. What is the Third Estate? Everything;  2. What has it been hitherto in the political order? Nothing;  3. What does it desire to be? To become something.]&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h4 id=&quot;-20-june-1789-tennis-court-oath&quot;&gt;&lt;br /&gt; 20 June 1789: Tennis Court Oath&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;#contents&quot;&gt;#contents&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;tennis-court&quot;&gt;&lt;br /&gt; 20 June 1789: Tennis Court Oath&lt;/h4&gt;
 
 &lt;p&gt;On June 4 1789, Louis-Joseph, Dauphin of France, dies at age seven of tuberculosis. Meanwhile, the tension between the estates in the convention ramps up.&lt;/p&gt;
 
@@ -1491,7 +1565,9 @@ ears of the expectant city. . . .&lt;/p&gt;
   &lt;p&gt;[“We swear never to separate from the National Assembly and to meet wherever circumstances require until the kingdom’s Constitution is established and grounded on solid foundations.”]&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h4 id=&quot;-23-june-1789-séance-royale&quot;&gt;&lt;br /&gt; 23 June 1789: &lt;em&gt;Séance royale&lt;/em&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;#contents&quot;&gt;#contents&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;seance-royale&quot;&gt;&lt;br /&gt; 23 June 1789: &lt;em&gt;Séance royale&lt;/em&gt;&lt;/h4&gt;
 
 &lt;p&gt;This dramatic royal session is centered around the conflict between the privileged and the reformers, starting from the King’s declarations nullifying the decisions of the National Assembly:&lt;/p&gt;
 
@@ -1522,9 +1598,11 @@ par la puissance des baïonnettes. »&lt;/p&gt;
   &lt;p&gt;[“Go and tell your master that we are here by the power of the people, and that nothing bu the power of bayonets shall drive us away.”]&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;A prominent figurant: Nicolas Sarkozy as the Third-Estate deputy second to the left of Mirabeau. &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;A prominent figurant: Nicolas Sarkozy as the Third-Estate deputy second to the left of Mirabeau.&lt;/p&gt;
 
-&lt;h4 id=&quot;1213-july-1789-riots-in-paris&quot;&gt;12–13 July 1789: Riots in Paris&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;#contents&quot;&gt;#contents&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;riots&quot;&gt;12–13 July 1789: Riots in Paris&lt;/h4&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;In these circumstances he (Louis XVI) made the final surrender. On 27 June he wrote to the presidents of the clerical and noble orders ordering them to join the National Assembly.&lt;/p&gt;
@@ -1540,13 +1618,17 @@ par la puissance des baïonnettes. »&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/img/revolution/camille.jpg&quot; alt=&quot;Cafe de Foy&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;This inspiring speech at the Café de Foy near the Galerie de Montpensier in the Palais-Royal is vividly reenacted in the film. So is the attack on the multitude in the Tuileries Garden by the German Régiment Royal-Allemand cavalerie commanded by &lt;strong&gt;Charles Eugène de Lorraine, prince de Lambesc&lt;/strong&gt; (Mario Luraschi).&lt;/p&gt;
+&lt;p&gt;This inspiring speech at the &lt;a href=&quot;https://fr.wikipedia.org/wiki/Caf%C3%A9_de_Foy&quot;&gt;Café de Foy&lt;/a&gt; near the &lt;a href=&quot;https://commons.wikimedia.org/wiki/Category:Galerie_de_Montpensier_(Paris)&quot;&gt;Galerie de Montpensier&lt;/a&gt; in the &lt;a href=&quot;https://en.wikipedia.org/wiki/Palais-Royal&quot;&gt;Palais-Royal&lt;/a&gt; is vividly reenacted in the film. So is the attack on the multitude in the Tuileries Garden by the German Régiment Royal-Allemand cavalerie commanded by &lt;strong&gt;Charles Eugène de Lorraine, prince de Lambesc&lt;/strong&gt; (Mario Luraschi).&lt;/p&gt;
 
-&lt;p&gt;In the meantime, Danton launches his political career by orating at the Club des Cordeliers, &lt;em&gt;although its synchronization with the Parisian insurrections is probably fictional.&lt;/em&gt; Among the enthusiastic crowd are Marat, Legendre, Simon, and the Saint-Domingue distiller &lt;strong&gt;Claude Fournier l’Américain&lt;/strong&gt; (Georges Trillat). &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;At the beginning of the Café de Foy scene, a flowergirl &lt;strong&gt;Louison Chabry&lt;/strong&gt; (Marion Grimault) is singing &lt;a href=&quot;https://www.youtube.com/watch?v=lFO_RAbYGtM&quot;&gt;“Le Palais-Royal est un beau quartier”&lt;/a&gt; (melody from the children’s song “Ah ! vous dirai-je, maman”).&lt;/p&gt;
 
-&lt;h4 id=&quot;14-july-1789-storming-of-the-bastille&quot;&gt;14 July 1789: Storming of the Bastille&lt;/h4&gt;
+&lt;p&gt;In the meantime, Danton launches his political career by orating at the Club des Cordeliers, &lt;em&gt;although its synchronization with the Parisian insurrections is probably fictional.&lt;/em&gt; Among the enthusiastic crowd are Marat, Legendre, Simon, and the Saint-Domingue distiller &lt;strong&gt;Claude Fournier l’Américain&lt;/strong&gt; (Georges Trillat).&lt;/p&gt;
 
-&lt;p&gt;The Bastille, demolished in late 1789, is “reconstructed” using the Château de Tarascon in Bouches-du-Rhône. Most narrative of this siege and sieze is historically accurate.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;#contents&quot;&gt;#contents&lt;/a&gt; &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;bastille&quot;&gt;14 July 1789: Storming of the Bastille&lt;/h4&gt;
+
+&lt;p&gt;The Bastille, demolished in late 1789, is “reconstructed” using the &lt;a href=&quot;https://www.avignon-et-provence.com/en/monuments/chateau-de-roi-rene-tarascon&quot;&gt;Château de Tarascon&lt;/a&gt; in Bouches-du-Rhône. Most narrative of this siege and sieze is historically accurate.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/img/revolution/bastille.jpg&quot; alt=&quot;Bastille&quot; /&gt;&lt;/p&gt;
 
@@ -1572,12 +1654,14 @@ par la puissance des baïonnettes. »&lt;/p&gt;
 
 &lt;p&gt;De Launay is lynched by the mob on the way to the Hôtel de Ville. Danton and Camille Desmoulins arrive at the Bastille after fortress has already fallen.&lt;/p&gt;
 
-&lt;p&gt;In the Palace of Versailles, served by his valet &lt;strong&gt;Jean-Baptiste Cléry&lt;/strong&gt; (Geoffrey Bateman), Louis XVI writes down the famous line in his diary:&lt;/p&gt;
+&lt;p&gt;At Versailles, served by his valet &lt;strong&gt;Jean-Baptiste Cléry&lt;/strong&gt; (Geoffrey Bateman), Louis XVI writes down the famous line in his diary:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Mardi . . . . 14  Rien. &lt;br /&gt;
 [Tuesday . . . . 14  Nothing.]&lt;/p&gt;
 &lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/revolution/Rien.png&quot; alt=&quot;Rien&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;At night, Louis is informed of the seriousness of the fall of the Bastille by &lt;strong&gt;François Alexandre Frédéric, duc de la Rochefoucauld-Liancourt&lt;/strong&gt; (Yves-Marie Maurin):&lt;/p&gt;
 
@@ -1588,13 +1672,17 @@ par la puissance des baïonnettes. »&lt;/p&gt;
   &lt;p&gt;[– Why, is this a revolt? — No, sire, it’s a Revolution!]&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h4 id=&quot;-17-july-1789-reconciliation&quot;&gt;&lt;br /&gt; 17 July 1789: Reconciliation&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;#contents&quot;&gt;#contents&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;reconciliation&quot;&gt;&lt;br /&gt; 17 July 1789: Reconciliation&lt;/h4&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Early on 17 July the Count d’Artois left Versailles for the north-east frontier, to be followed over subsequent weeks by many of the courtiers . . . And later the same day the king made his way, escorted only by a handful of deputies, to the Hôtel de Ville of Paris to confirm that the troops were withdrawing and announce that Necker had been recalled. He also confirmed the nomination of Bailly as mayor of Paris (a new title) and Lafayette as commander of the new citizens’ militia, now being called the National Guard. It was said that 150,000 armed citizens were on the streets that day, all wearing cockades in red and blue, the colours both of the city and the Duke d’Orlaéns. Later in the month Lafayette would splice them with Bourbon white for the uniform of his National Guardsmen, and so the patriotic tricolour was born. The king accepted a cockade and stuck it in his hat on arrival at the Hôtel de Ville; and then, for the first time, people began to cheer him.   [WD]&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Together with comte d’Artois, the family of duchesse de Polignac left France, who never reunites with Marie-Antoinette thereafter. Louis’s visit to Paris on 17 July begins with a ceremonial key conferment &lt;em&gt;at the Barrière de Chaillot (rather than the Hôtel de Ville)&lt;/em&gt;:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/revolution/cockade.png&quot; alt=&quot;Cockade&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Together with comte d’Artois, the family of duchesse de Polignac left France, who never reunites with Marie-Antoinette thereafter. Louis’s visit to Paris on 17 July begins with a ceremonial key conferment &lt;em&gt;at the &lt;a href=&quot;https://fr.wikipedia.org/wiki/Barri%C3%A8re_Sainte-Marie&quot;&gt;Barrière de Chaillot&lt;/a&gt; (rather than the &lt;a href=&quot;https://en.wikipedia.org/wiki/H%C3%B4tel_de_Ville,_Paris&quot;&gt;Hôtel de Ville&lt;/a&gt;)&lt;/em&gt;:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;« J’apporte à votre Majesté les clés de sa bonne ville de Paris : ce sont les mêmes qui ont été présentées à Henri IV ; il avait reconquis son peuple, ici le peuple a reconquis son roi. »&lt;/p&gt;
@@ -1606,13 +1694,17 @@ par la puissance des baïonnettes. »&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/img/revolution/key.jpg&quot; alt=&quot;Key ceremony&quot; /&gt;&lt;/p&gt;
 
-&lt;h4 id=&quot;20-july--6-august-1789-grande-peur&quot;&gt;&lt;br /&gt;20 July – 6 August 1789: &lt;em&gt;Grande Peur&lt;/em&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;#contents&quot;&gt;#contents&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;grande-peur&quot;&gt;&lt;br /&gt;20 July – 6 August 1789: &lt;em&gt;Grande Peur&lt;/em&gt;&lt;/h4&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Fear of aristocratic revenge replaced such hope as news of the Bastille arrived . . . Hope, fear, and hunger made the countryside a tinder-box ignited by imagined sightings of ‘brigands’. Panics spread from five separate sparks as bushfires of angry rumours, spreading from village to village at several kilometres an hour, engulfed every region but Brittany and the east. When noble revenge failed to materialize, village militias instead turned their weapons on the seigneurial system itself, compelling seigneurs or their agents to hand over feudal registers to be burned on the village square. This extraordinary revolt came to be known as the ‘Great Fear’.  [PM]&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h4 id=&quot;4-august-1789-abolition-of-feudalism&quot;&gt;&lt;br /&gt;4 August 1789: Abolition of feudalism&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;#contents&quot;&gt;#contents&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;august&quot;&gt;&lt;br /&gt;4 August 1789: Abolition of feudalism&lt;/h4&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;On the night of 4 August, in an extraordinary atmosphere of panic, self-sacrifice and exhilaration, a series of nobles mounted the rostrum of the Assembly to respond to the Great Fear by renouncing their privileges and abolishing feudal dues.  [PM]&lt;/p&gt;
@@ -1640,9 +1732,11 @@ duc de la Rochefoucauld-Liancourt, and
 
 &lt;p&gt;&lt;img src=&quot;/assets/img/revolution/august4.jpg&quot; alt=&quot;August 4&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;The resolutions were proclaimed as the &lt;em&gt;Décrets des 4, 6, 7, 8 et 11 août 1789&lt;/em&gt;, or the August Decrees. &lt;em&gt;Slavery was not abolished throughout France until 1794.&lt;/em&gt; &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;The resolutions were proclaimed as the &lt;em&gt;Décrets des 4, 6, 7, 8 et 11 août 1789&lt;/em&gt;, or the August Decrees. &lt;em&gt;Slavery was not abolished throughout France until 1794.&lt;/em&gt;&lt;/p&gt;
 
-&lt;h4 id=&quot;26-august-1789-declaration-of-the-rights-of-man-and-of-the-citizen&quot;&gt;26 August 1789: &lt;em&gt;Declaration of the Rights of Man and of the Citizen&lt;/em&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;#contents&quot;&gt;#contents&lt;/a&gt; &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;droits&quot;&gt;26 August 1789: &lt;em&gt;Déclaration des droits de l’homme et du citoyen&lt;/em&gt;&lt;/h4&gt;
 
 &lt;p&gt;The last article of the &lt;em&gt;Déclaration des droits de l’homme et du citoyen de 1789&lt;/em&gt; was voted and adopted by the Assemblée nationale constituante (National Constituent Assembly) on 26 August. In the film, excerpts of its original text are read to the Assembly by La Fayette, who prepared its first draft on 11 July.&lt;/p&gt;
 
@@ -1712,9 +1806,11 @@ duc de la Rochefoucauld-Liancourt, and
   &lt;p&gt;&lt;strong&gt;Article 17.&lt;/strong&gt;  Property is an inviolable and sacred right. No one shall be deprived thereof except where public necessity, legally determined, shall clearly demand it, . . .&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Article 11 on freedom of the press was adopted on 24 August. Two impactful revolutionary newspapers were launched in the following fall: Jean-Paul Marat’s &lt;em&gt;L’Ami du peuple, or Le Publiciste parisien&lt;/em&gt; and Camille Desmoulins’s &lt;em&gt;Révolutions de France et de Brabant&lt;/em&gt;. &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Article 11 on freedom of the press was adopted on 24 August. Two impactful revolutionary newspapers were launched in the following fall: Jean-Paul Marat’s &lt;em&gt;L’Ami du peuple, or Le Publiciste parisien&lt;/em&gt; and Camille Desmoulins’s &lt;em&gt;Révolutions de France et de Brabant&lt;/em&gt;.&lt;/p&gt;
 
-&lt;h4 id=&quot;september-1789-veto-debate&quot;&gt;September 1789: Veto debate&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;#contents&quot;&gt;#contents&lt;/a&gt; &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;veto&quot;&gt;September 1789: Veto debate&lt;/h4&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Admirers of the checks and balances of the British constitution dominated the Assembly’s constitutional committee, and they believed that the king should have the same powers of veto as the British monarch. Led by Mounier, Malouet, and a handful of rich and eloquent metropolitan nobles like Lally-Tollendal and Clermont-Tonnerre, and energetically supported by Mirabeau, these &lt;em&gt;monarchiens&lt;/em&gt; (as their opponents dubbed them) spent the first two weeks of September trying to hustle the Assembly into accepting their programme. . . . But only a handful of deputies, such as Sieyès and the prolix but still uninfluential Robespierre, believed that once the National Assembly had pronounced the monarch should have no veto at all. Most, including patriotic leaders like Barnave, Duport, and the noble Lameth brothers, were attracted to the idea of a temporary or ‘suspensive’ veto; and when Necker let it be known that this was also the king’s preference, they detected a hint that the August decrees would be sanctioned if it was carried. Consequently the suspensive veto passed overwhelmingly (673 votes to 352) on 15 September.  [WD]&lt;/p&gt;
@@ -1746,9 +1842,13 @@ duc de la Rochefoucauld-Liancourt, and
 &lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;The papers Desmoulins drafts and Mirabeau signs are probably for Mirabeau’s &lt;em&gt;Courrier de Provence&lt;/em&gt;. &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/revolution/mirabeau-demoulins.png&quot; alt=&quot;Mirabeau and Desmoulins&quot; /&gt;&lt;/p&gt;
 
-&lt;h4 id=&quot;1-october-1789-orgie-des-gardes-du-corps&quot;&gt;1 October 1789: &lt;em&gt;Orgie des Gardes du corps&lt;/em&gt;&lt;/h4&gt;
+&lt;p&gt;The papers Desmoulins drafts and Mirabeau signs are probably for Mirabeau’s &lt;em&gt;Courrier de Provence&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#contents&quot;&gt;#contents&lt;/a&gt; &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;orgie&quot;&gt;1 October 1789: &lt;em&gt;Orgie des Gardes du corps&lt;/em&gt;&lt;/h4&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;It was the first time the Assembly had flouted popular sentiment, for in Paris and many of the provinces it was clear that any form of veto aroused deep mistrust. . . . Such paranoid attitudes were compounded by persistent economic difficulties in the capital. After falling somewhat in late July and August, the price of bread began to climb again and supplies became irregular. . . . Guards were placed on bakers’ shops, and Lafayette and his militia found themselves hard pressed to contain all the incidents that occurred.&lt;/p&gt;
@@ -1756,13 +1856,17 @@ duc de la Rochefoucauld-Liancourt, and
   &lt;p&gt;Parallels with the situation early in July escaped no one. . . . Alarmed at persistent rumours of being taken by force to Paris, on 14 September the king summoned the notoriously well-disciplined Flanders Regiment from the north-east frontier to Versailles. . . . . Encouraged by the security it seemed to promise, the king broke silence on the August decrees. On 18 September, in a long letter drafted by Necker, he explained that he was prepared to accept some parts of the 11 August decree but not others. . . . Then on 4 October he voiced reservations about the Declaration of Rights. By now, however, Paris was alive with rumours about a reception given by the King’s bodyguard on 1 October to welcome the Flanders Regiment. After many noisy toasts had been drunk, and none to the nation, the national cockade was said to have been trampled as the air rang with unpatriotic slogans.   [WD]&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;The banquet in honor of the Régiment de Flandre (in white uniforms) is hosted in the Opéra royal du château de Versailles by the Garde du corps du roi (in blue and red), whose major &lt;strong&gt;marquis d’Aguesseau&lt;/strong&gt; (Jean-Gabriel Nordmann) proposes a toast. The orchestra are playing “Ô Richard, ô mon roi !,” an aria from André Grétry’s opéra comique &lt;em&gt;Richard Cœur-de-Lion&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/revolution/opera.png&quot; alt=&quot;Opera&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The banquet in honor of the Régiment de Flandre (in white uniforms) is hosted in the &lt;a href=&quot;http://en.chateauversailles.fr/discover/estate/palace/royal-opera&quot;&gt;Opéra royal du château de Versailles&lt;/a&gt; by the Garde du corps du roi (in blue and red), whose major &lt;strong&gt;marquis d’Aguesseau&lt;/strong&gt; (Jean-Gabriel Nordmann) proposes a toast. The orchestra are playing &lt;a href=&quot;https://www.youtube.com/watch?v=XN0raCejoK4&quot;&gt;“Ô Richard, ô mon roi !”&lt;/a&gt;, an aria from André Grétry’s opéra comique &lt;em&gt;Richard Cœur-de-Lion&lt;/em&gt; premiered in 1784.&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;During the banquet, toasts to the king and royal family were drunk with enthusiasm, while the nation was omitted or rejected. . . . Suddenly the king was announced; he entered attired in a hunting dress, the queen leaning on his arm, and carrying the dauphin. Shouts of affection and devotion arose on every side. . . . while cockades were distributed; the tri-coloured cockade, it is said, was trampled on . . .   [FAM]&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h4 id=&quot;-56-october-1789-womens-march-on-versailles&quot;&gt;&lt;br /&gt; 5–6 October 1789: Women’s March on Versailles&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;#contents&quot;&gt;#contents&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;march&quot;&gt;&lt;br /&gt; 5–6 October 1789: Women’s March on Versailles&lt;/h4&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Banquets themselves seemed unpatriotic when bread was so scarce, and by 4 October all Paris believed that counter-revolutionary orgies at Versailles were the prelude to a new attempt to starve the capital. The next morning, several districts of the city were awakened by the ringing of the tocsin from church bell-towers, recognized ever since the days of July as a call to arms. Crowds of women began to assemble at markets, from where they marched to the Hôtel de Ville. After surging through the building to impress the city authorities with their determination, late in the morning they set off for Versailles dragging cannon and brandishing whatever makeshift weapons they could lay hands on, recruiting newcomers as they went along. Perhaps 7,000 of them reached Versailles early in the evening and invaded the National Assembly, calling for bread and punishment for those who had insulted the national cockade. The unprotected deputies had no alternative but to welcome them with mollifying speeches. They were visibly relieved when a deputation went on to confront the king.   [WD]&lt;/p&gt;
@@ -1776,7 +1880,7 @@ duc de la Rochefoucauld-Liancourt, and
   &lt;p&gt;On the morning of Sunday, a day when there was leisure to read, the walls were placarded with the manifesto of the Cordeliers. It demanded an insurrection, and was signed with Danton’s name. On Monday morning they rang the tocsin at the belfry of the convent, and the battalion of the district was drawn up and armed.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Leading the Women’s March is Stanislas-Marie Maillard, the same mod captain at the Bastille. The delegation is headed by &lt;strong&gt;Jean-Joseph Mounier&lt;/strong&gt; (Jacques Penot), then president of the National Constituent Assembly, and includes &lt;strong&gt;Louison Chabry&lt;/strong&gt; (Marion Grimault), a flowergirl who briefly appears at the beginning of the Café de Foy scene on 12 July.&lt;/p&gt;
+&lt;p&gt;Leading the Women’s March is Maillard, the same mod captain at the Bastille. The delegation is headed by &lt;strong&gt;Jean-Joseph Mounier&lt;/strong&gt; (Jacques Penot), then president of the National Constituent Assembly, and includes the flowergirl Louison Chabry.&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Mounier and the deputation, of which he was the head, six deputies of the Assembly and six women, who were joined by six other women, made their way with difficulty through the crowd in the Palace d’Armes, which had become a sea of pikes and muskets. The king received them with his customary graciousness.&lt;/p&gt;
@@ -1798,7 +1902,7 @@ duc de la Rochefoucauld-Liancourt, and
   &lt;p&gt;The forces of order, in the shape of Lafayette and 20,000 National Guardsmen, arrived in Versailles later that night after a forced march through an autumnal downpour. Lafayette had been reluctant to come at all, leaving Paris unpoliced and thereby risking accusations that he was in complicity with the demonstrators. But his men insisted, and crowds outside the Hôtel de Ville were muttering about stringing him and Bailly up if they continued to temporize. When he arrived all he could do was try to ensure that what the populace wanted was brought about without disorder, and he formally requested the king, in the name of Paris, to return to the capital with him and take up residence in the Tuileries palace. The king made no promises that night, but early the next morning a number of Parisians found their way into the palace precincts and were fired on by royal bodyguards. Thereupon an enraged mob poured into the palace, massacred two guardsmen, and almost broke into the queen’s apartments. Only prompt action by unco-ordinated units of the National Guard contained them, and Lafayette bundled the royal family onto the palace balcony to stand under his personal protection. The impact on the volatile crowd milling below was favourable, but constant shouts of ‘To Paris!’ made clear that only one thing would really satisfy them. Late in the morning of 6 October the king announced that he would go.   [WD]&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;The mob sneak through the Chapel Gate in the early morning, kill two guards—&lt;strong&gt;Miomandre de Sainte-Marie&lt;/strong&gt; and &lt;strong&gt;Tardivet du Repaire&lt;/strong&gt;—at the end of the Escalier de Marbre (Queen’s Marble Staircase), attempt to invade the Grand Appartement de la Reine but are stopped in the Queen’s Guard Room. Marie-Antoinette escapes from the Chambre de la Reine and takes refuge in the Grand Appartement du Roi, accompanied by princesse de Lamballe (in green, &lt;em&gt;yet no historical record for her presence&lt;/em&gt;), and probably &lt;strong&gt;Adélaïde Genet, Madame Auguié&lt;/strong&gt; (in ivory). In the Salon de l’Œil-de-Bœuf, they unite with Louis and the rest of the royal family—Madame Royale, Louis-Charles, and &lt;strong&gt;Élisabeth de France&lt;/strong&gt; or &lt;strong&gt;Madame Élisabeth&lt;/strong&gt; (Anne Létourneau, in white), Louis’s youngest sister. The childern are attended by their governess &lt;strong&gt;Louise-Élisabeth de Croÿ, marquise de Tourzel&lt;/strong&gt; (Louise Latraverse). Later, Madame Auguié told this waking nightmare to her sister Jeanne-Louise-Henriette Campan, Première femme de Chambre:&lt;/p&gt;
+&lt;p&gt;The mob sneak through the &lt;a href=&quot;http://en.chateauversailles.fr/discover/estate/palace/royal-chapel&quot;&gt;Chapel Gate&lt;/a&gt; in the early morning, kill two guards—&lt;strong&gt;Miomandre de Sainte-Marie&lt;/strong&gt; and &lt;strong&gt;Tardivet du Repaire&lt;/strong&gt;—at the end of the &lt;a href=&quot;http://thisisversaillesmadame.blogspot.com/2013/05/the-queens-marble-staircase.html&quot;&gt;Escalier de Marbre&lt;/a&gt; (Queen’s Marble Staircase), attempt to invade the &lt;a href=&quot;http://en.chateauversailles.fr/discover/estate/palace/queen-apartments#the-queen%E2%80%99s-bedchamber&quot;&gt;Grand Appartement de la Reine&lt;/a&gt; but are stopped in the &lt;a href=&quot;http://en.chateauversailles.fr/discover/estate/palace/queen-apartments#the-queen%E2%80%99s-guard-room&quot;&gt;Queen’s Guard Room&lt;/a&gt;. Marie-Antoinette escapes from the &lt;a href=&quot;http://en.chateauversailles.fr/discover/estate/palace/queen-apartments#the-queen%E2%80%99s-bedchamber&quot;&gt;Chambre de la Reine&lt;/a&gt; and takes refuge in the &lt;a href=&quot;http://en.chateauversailles.fr/discover/estate/kings-apartments&quot;&gt;Grand Appartement du Roi&lt;/a&gt;, accompanied by princesse de Lamballe (in green, &lt;em&gt;yet no historical record for her presence&lt;/em&gt;), and probably &lt;strong&gt;Adélaïde Genet, Madame Auguié&lt;/strong&gt; (in ivory). In the &lt;a href=&quot;http://en.chateauversailles.fr/discover/estate/kings-apartments#the-bull%E2%80%99s-eye-antechamber&quot;&gt;Salon de l’Œil-de-Bœuf&lt;/a&gt;, they unite with Louis and the rest of the royal family—Madame Royale, Louis-Charles, and &lt;strong&gt;Élisabeth de France&lt;/strong&gt; or &lt;strong&gt;Madame Élisabeth&lt;/strong&gt; (Anne Létourneau, in white), Louis’s youngest sister. The childern are attended by their governess &lt;strong&gt;Louise-Élisabeth de Croÿ, marquise de Tourzel&lt;/strong&gt; (Louise Latraverse). Later, Madame Auguié told this waking nightmare to her sister Jeanne-Louise-Henriette Campan, Première femme de Chambre:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;About half-past four in the morning they heard horrible yells and discharges of firearms; one ran to the Queen to awaken her and get her out of bed; my sister flew to the place from which the tumult seemed to proceed; she opened the door of the antechamber which leads to the great guard-room, and beheld one of the Body Guard holding his musket across the door, and attacked by a mob, who were striking at him; his face was covered with blood; he turned round and exclaimed: “Save the Queen, madame; they are come to assassinate her!” She hastily shut the door upon the unfortunate victim of duty, fastened it with the great bolt, and took the same precaution on leaving the next room. On reaching the Queen’s chamber she cried out to her, “Get up, Madame! Don’t stay to dress yourself; fly to the King’s apartment!” The terrified Queen threw herself out of bed; they put a petticoat upon her without tying it, and the two ladies conducted her towards the oeil-de-boeuf. A door, which led from the Queen’s dressing-room to that apartment, had never before been fastened but on her side. What a dreadful moment! It was found to be secured on the other side. They knocked repeatedly with all their strength; a servant of one of the King’s valets de chambre came and opened it; the Queen entered the King’s chamber, but he was not there. Alarmed for the Queen’s life, he had gone down the staircases and through the corridors under the oeil-de-boeuf, by means of which he was accustomed to go to the Queen’s apartments without being under the necessity of crossing that room. He entered her Majesty’s room and found no one there but some Body Guards, who had taken refuge in it. The King, unwilling to expose their lives, told them to wait a few minutes, and afterwards sent to desire them to go to the oeil-de-boeuf. Madame de Tourzel, at that time governess of the children of France, had just taken Madame and the Dauphin to the King’s apartments. The Queen saw her children again. The reader must imagine this scene of tenderness and despair.&lt;/p&gt;
@@ -1806,7 +1910,7 @@ duc de la Rochefoucauld-Liancourt, and
 &lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;At the request of La Fayette, the King and Queen confront the mob on the balcony facing the Cour de Marble:&lt;/p&gt;
+&lt;p&gt;At the request of La Fayette, the King and Queen confront the mob on the balcony facing the &lt;a href=&quot;http://bienvenue.chateauversailles.fr/en/palace/welcome/124_marble-courtyard#!panel-42&quot;&gt;Cour de Marble&lt;/a&gt;:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;His Majesty himself has appeared with Lafayette on the balcony, and again appears: &lt;em&gt;Vive le Roi&lt;/em&gt; greets him from all throats; but also from some one throat is heard, ‘&lt;em&gt;Le Roi à Paris&lt;/em&gt;, The King to Paris!’&lt;/p&gt;
@@ -1818,11 +1922,13 @@ duc de la Rochefoucauld-Liancourt, and
 
 &lt;p&gt;&lt;img src=&quot;/assets/img/revolution/balcony.jpg&quot; alt=&quot;Balcony&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Louis and the royal court move to the Tuileries Palace in the afternoon of 6 October.&lt;/p&gt;
+&lt;p&gt;Louis and the royal court move to the &lt;a href=&quot;https://en.wikipedia.org/wiki/Tuileries_Palace&quot;&gt;Palais des Tuileries&lt;/a&gt; in the afternoon of 6 October.&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;A procession 60,000 strong accompanied Louis XVI and his queen on their nine-hour journey back to his capital that afternoon. . . . Nevertheless in the history of the Revolution the ‘October Days’ were decisive. Louis XVI never returned to Versailles. Henceforth he and his family would be confined to Paris, as a British observer put it, ‘more like prisoners than Princes’.   [WD]&lt;/p&gt;
 &lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;#contents&quot;&gt;#contents&lt;/a&gt;&lt;/p&gt;
 
 &lt;p align=&quot;right&quot;&gt;
 (47 historical figures)

@@ -5,7 +5,7 @@ title: In the Name of Liberté&colon;&nbsp; I. From Versailles to Paris
 
 subtitle: “Non, sire, c’est une révolution” 
 
-excerpt: Royal family in 1788—Summoning the Estates-General of 1789—Elections—Opening of the Estates-General—Tennis Court Oath—<em>Séance royale</em> of 23 June—Riots of 12 July—Storming of the Bastille—Reconciliation of 17 July—<em>Grande Peur</em>—August Decrees—<em>Declaration of the Rights of Man and of the Citizen</em>—Veto debate—<em>Orgie des Gardes du corps</em>—October March on Versailles  <br />
+excerpt: Royal family in 1788—Summoning the Estates-General of 1789—Elections—Opening of the Estates-General—Tennis Court Oath—<em>Séance royale</em> of 23 June—Riots of 12 July—Storming of the Bastille—Reconciliation of 17 July—<em>Grande Peur</em>—August Decrees—<em>Déclaration des droits de l'homme</em>—Veto debate—<em>Orgie des Gardes du corps</em>—October March on Versailles  <br />
 
 tags: history film
 ---
@@ -20,7 +20,13 @@ tags: history film
 
 ----
 
-#### <br /> A companion to _La Révolution française_ (1989)
+### <br /> Contents {#contents}
+
+[Royal family in 1788](#royal-family)—[Summoning the Estates-General of 1789](#estates-general)—[Elections](#elections)—[Opening of the Estates-General](#opening)—[Tennis Court Oath](#tennis-court)—[<em>Séance royale</em> of 23 June](#seance-royale)—[Riots of 12 July](#riots)—[Storming of the Bastille](#bastille)—[Reconciliation of 17 July](#reconciliation)—[<em>Grande Peur</em>](#grande-peur)—[August Decrees](#august)—[<em>Déclaration des droits de l'homme</em>](#droits)—[Veto debate](#veto)—[<em>Orgie des Gardes du corps</em>](#orgie)—[October March on Versailles](#march)  <br /><br />
+
+----
+
+### <br /> A companion to _La Révolution française_ (1989)
 
 Prior to the bicentennial of the enlightening, electrifying, yet turbulent and ferocious Revolution that has reshaped human history forever, an international team of filmmakers, including the producer Alexandre Mnouchkine, screenwriters David Ambrose and Daniel Boulanger, historian Jean Tulard, and directors Robert Enrico and Richard T. Heffron, created a grand cinematic epic reenacting those years of illumination and terror. Personally, I find it among the most informative and pedagogical historical films one can ever imagine.
 
@@ -34,13 +40,13 @@ Remarks on historical incompleteness or inaccuracies, including fictional adapta
 
 **General references** with [acronyms]:
 
-[AP]&nbsp; _Archives parlementaires de 1787 à 1860._
+[AP]&nbsp; [_Archives parlementaires de 1787 à 1860_](https://sul-philologic.stanford.edu/philologic/archparl/navigate/42/table-of-contents/).
 
-[FAM]&nbsp; François-Auguste Mignet, _History of the French Revolution from 1789 to 1814_ (Bell & Daldy, London, 1868); translated from _Histoire de la Révolution française depuis 1789 jusqu'en 1814_ (Firmin Didot père & fils, Paris, 1824). 
+[FAM]&nbsp; François-Auguste Mignet, [_History of the French Revolution from 1789 to 1814_](https://archive.org/details/b2931883x) (Bell & Daldy, London, 1868); translated from [_Histoire de la Révolution française depuis 1789 jusqu'en 1814_](https://archive.org/details/bub_gb_4_xaAAAAQAAJ) (Firmin Didot père & fils, Paris, 1824). 
 
-[WD]&nbsp; William Doyle, _The Oxford History of the French Revolution_, Second Edition (Oxford University Press, 2002).
+[WD]&nbsp; William Doyle, [_The Oxford History of the French Revolution_, 2nd edition](https://en.wikipedia.org/wiki/The_Oxford_History_of_the_French_Revolution) (Oxford University Press, 2002).
 
-[PM]&nbsp; Peter McPhee, _The French Revolution 1789–1799_ (Oxford University Press, 2002).
+[PM]&nbsp; Peter McPhee, [_The French Revolution 1789–1799_](https://archive.org/details/frenchrevolution00mcph_0) (Oxford University Press, 2002).
 <br /><br />
 
 ----
@@ -49,33 +55,48 @@ Remarks on historical incompleteness or inaccuracies, including fictional adapta
 
 The first part of this panoramic historical film reenacts the last years of the Ancien Régime—from the convocation of the Estates-General of 1789 to the Insurrection of 10 August 1792. 
 
-Prior to its grand opening sequence featuring the Grand Canal and the Bassin de Latone in the Gardens of Versailles, the films nonetheless begins with a pre-edit scene back to 1775, when the 17-year-old **Maximilien de Robespierre** (Steve Carretero) delivers a Latin tribute to the newly crowned Louis XVI on behalf of his classmates at the Collège Louis-le-Grand, among whom stands the 15-year-old **Camille Desmoulins** (Philip-James Valentini). 
+![Grand Canal](/assets/img/revolution/grand-canal.png)
 
-This anecdote was noted down by the abbé Liévin-Bonaventure Proyart, then Robespierre's teacher at Louis-le-Grand and later his biographer:
+Prior to its grand opening sequence featuring the [Grand Canal](http://en.chateauversailles.fr/discover/estate/park) and the [Bassin de Latone](https://en.wikipedia.org/wiki/Latona_Fountain) in the [Jardin de Versailles](https://en.wikipedia.org/wiki/Gardens_of_Versailles), the films nonetheless begins with a pre-edit scene back to 1775, when the 17-year-old **Maximilien de Robespierre** (Steve Carretero) delivers a Latin tribute to the newly crowned Louis XVI on behalf of his classmates at the [Collège Louis-le-Grand](https://en.wikipedia.org/wiki/Lyc%C3%A9e_Louis-le-Grand), among whom stands the 15-year-old **Camille Desmoulins** (Philip-James Valentini). 
+
+This anecdote was noted down by the Abbé Liévin-Bonaventure Proyart, then Robespierre's teacher at Louis-le-Grand and later his biographer:
 
 >En 1775, Louis XVI, après la cérémonie de son sacre, fit son entrée solennelle dans Paris, accompagné de la reine et de la famille royale. Leurs majestés . . . s’arrêtèrent devant le collége de Louis-le-Grand, où elles furent complimentées par l'Université en corps. . . . et ce fut Robespierre que l'on chargea de le lui offrir au nom de ses condisciples, dans un discours en vers qu’avait composé son professeur. Le roi abaissa un regard de bonté sur ce jeune homme qui, élevé dans sa maison, devait un jour lui porter le premier coup de poignard. <br />
  > <p align="right">—Proyart, <em>La Vie de Maximilien de Robespierre</em> (1850)
 
-_Nevertheless, the record of this fateful encounter is generally considered unsubstantiated. Leastwise, it could not happen in 1774 according to the caption, as Louis XVI was crowned in Reims Cathedral on 11 June 1775._ <br /><br />
+_Nevertheless, the record of this fateful encounter is generally considered unsubstantiated. Leastwise, it could not happen in 1774 according to the caption, as Louis XVI was crowned in Reims Cathedral on 11 June 1775._ 
+
+[#contents](#contents) <br /><br />
 
 
-#### Royal family in 1788
+#### Royal family in 1788 {#royal-family}
 
-At the opulent royal ball hosted in the Galerie des Glaces (Hall of Mirrors) of the Palace of Versailles, **Louis XVI** (Jean-François Balmer) and **Marie-Antoinette d'Autriche** (Jane Seymour, VF: Béatrice Delfe) make their first appearances. "Madame Déficit" is accompanied by her dancing partner **Axel von Fersen** (Jean-Yves Berteloot), her superintendent **Marie-Thérèse-Louise de Savoie-Carignan, princesse de Lamballe** (Gabrielle Lazure), and her favorite **Gabrielle de Polastron, duchesse de Polignac** (Claudia Cardinale). Polignac sits closer to the Queen at the casino table in the Salon de la Paix, reflecting Lamballe's gradual falling out of favor since 1785.
+At the opulent royal ball hosted in the [Galerie des Glaces](http://en.chateauversailles.fr/discover/estate/palace/hall-mirrors#the-grand-canal) (Hall of Mirrors) of the [Château de Versailles](https://en.wikipedia.org/wiki/Palace_of_Versailles), **Louis XVI** (Jean-François Balmer) and **Marie-Antoinette d'Autriche** (Jane Seymour, VF: Béatrice Delfe) make their first appearances. "Madame Déficit" is accompanied by her dancing partner **Axel von Fersen** (Jean-Yves Berteloot), her superintendent **Marie-Thérèse-Louise de Savoie-Carignan, princesse de Lamballe** (Gabrielle Lazure), and her favorite **Gabrielle de Polastron, duchesse de Polignac** (Claudia Cardinale). The orchestra are playing the [No. 5 in F from "16 Menuets", K. 176](https://www.youtube.com/watch?v=O1NRUPqBmS4), composed by Wolfgang Amadeus Mozart in 1773. 
 
-Shortly afterwards, three royal childern appear at the Hameau de la Reine in the Petit Trianon of Versailles: Dauphin of France **Louis-Joseph** (Benji Marcus) riding a pony, his elder sister **Marie-Thérèse Charlotte**, or **Madame Royale** (Katherine Flynn), and their younger brother **Louis-Charles**, the future **Louis XVII** (Sean Flynn). Katherine and Sean are Seymour's daughter and son in real life. <br /><br />
+![Galarie des Glaces](/assets/img/revolution/galerie-des-glaces.png)
+
+Following the ball scene, Polignac sits closer to the Queen at the casino table in the [Salon de la Paix](http://en.chateauversailles.fr/discover/estate/palace/hall-mirrors#the-peace-room), reflecting Lamballe's gradual falling out of favor since 1785.
+
+Shortly afterwards, three royal childern appear at the [Hameau de la Reine](http://en.chateauversailles.fr/discover/estate/estate-trianon/queen-hamlet) of Versailles: Dauphin of France **Louis-Joseph** (Benji Marcus) riding a pony, his elder sister **Marie-Thérèse Charlotte**, or **Madame Royale** (Katherine Flynn), and their younger brother **Louis-Charles**, the future **Louis XVII** (Sean Flynn). Katherine and Sean are Seymour's daughter and son in real life.
+
+![Royal family](/assets/img/revolution/royal-family.png)
 
 
-#### 21 January 1789: Summoning the Estates-General
+[#contents](#contents) <br /><br />
+
+
+#### 21 January 1789: Summoning the Estates-General {#estates-general}
 
 In the film, **Jacques Necker** (Raymond Gérôme), the esteemed Controller-General of Finances and Chief Minister of France, advices Louis XVI to summon the Estates-General in order to levy taxes to address the state deficit. _This decision-making process was, however, much more tortuous in history, where the idea of restoring this legislative and consultative assembly after more than 170 years was first deliberated on the Assembly of Notables in 1787._
 
 >‘It seems to me’, declared Lafayette in the bureau where he sat on 21 May, ‘that this is the moment for us to beseech His Majesty to fix, immediately, in order to render account to him of all measures and settle their happy outcome forever, the convocation of a truly national assembly.’ ‘What, Sir,’ burst out the Count d’Artois, the king’s brother, ‘are you calling for the Estates-General?’ ‘Yes, my lord,’ replied the young glory-hunter, ‘and even better than that.’ &nbsp;[WD]
 
-The date of the Estates-General was officially announced by the previous finance minister Étienne-Charles de Loménie de Brienne on 8 August 1788, before Necker's return to office on 24 August. A royal edict—_Règlement des États généraux de 1789_—was issued on 24 January, followed by the nationwide elections of the delegates from the three estates of realm. <br /><br />
+The date of the Estates-General was officially announced by the previous finance minister Étienne-Charles de Loménie de Brienne on 8 August 1788, before Necker's return to office on 24 August. A royal edict—_Règlement des États généraux de 1789_—was issued on 24 January, followed by the nationwide elections of the delegates from the three estates of realm. 
+
+[#contents](#contents)<br /><br />
 
 
-#### March–April 1789: Elections
+#### March–April 1789: Elections {#elections}
 
 On 4 March 1789, inside a church in Guise, **Camille Desmoulins** (François Cluzet) plans to run for Estates-General deputy, together with his father **Jean-Benoist-Nicolas Desmoulins** (Jean-Marie Bernicat). Subsequently, Camille is compiling a Third-Estate _cahier de doléances_—a list of grievances raised by commoners, mainly against the privileges of the First and Second Estates. Camille unfortunately fails the election. _Omitted in the film, Jean-Benoist-Nicolas was nominated, but declined due to health reasons._
 
@@ -90,12 +111,14 @@ In a Parisian bar, the wealthy lawyer **Georges Jacques Danton** (Klaus Maria Br
 
 _It is not evident how the trajectories of Mirabeau, Danton, Desmoulins, Simon, Legendre, and Marat intersected in early 1789._ Besides delineating the personal histories and dispositions of these characters, these scenes set up the community background of the future Club des Cordeliers.
 
-While Mirabeau never conceals his passion for a colorful private life, Danton is known to be loyal to his wife **Antoinette Gabrielle Danton** (Marianne Basler), who, in the film, is carrying their future son Antoine. _However, Gabrielle's pregnancy as depicted seems not synchronized with Antoine's birth in June 1790._ <br /><br />
+While Mirabeau never conceals his passion for a colorful private life, Danton is known to be loyal to his wife **Antoinette Gabrielle Danton** (Marianne Basler), who, in the film, is carrying their future son Antoine. _However, Gabrielle's pregnancy as depicted seems not synchronized with Antoine's birth in June 1790._ 
+
+[#contents](#contents)<br /><br />
 
 
-#### 5 May 1789: Opening of the Estates-General
+#### 5 May 1789: Opening of the Estates-General {#opening}
 
-This historic convention opens in the magnificent Hôtel des Menus-Plaisirs in Versailles. 
+This historic convention opens in the magnificent [Hôtel des Menus-Plaisirs](https://en.wikipedia.org/wiki/Menus-Plaisirs_du_Roi#H%C3%B4tel_des_Menus-Plaisirs_du_Roi_in_Versailles) in Versailles. 
 
 >The royal session took place the following day in the Salle des Menus Galleries, arranged in the form of an amphitheatre, were filled with spectators. The deputies were summoned and introduced according to the order established in 1614. The clergy were conducted to the right, the nobility to the left, and the commons in front of the throne at the end of the hall. &nbsp;[FAM]
 
@@ -107,6 +130,8 @@ _Among the 1139 delegates were 291 clergmen, 270 nobles, and 578 commoners._ As 
 >
 >[AP, Tuesday 5 May 1789]
 
+![Louis XVI](/assets/img/revolution/louis-xvi.png)
+
 Nicker addresses to the assembly for three hours regarding the financial situation.
 
 More notable figures show up in this reenactment: 
@@ -115,11 +140,15 @@ Sitting on the left-hand side of the Queen is **Charles-Philippe, comte d'Artois
 
 In the front row of nobility, we see **Gilbert du Motier, marquis de La Fayette** (Sam Neill, VF: Pierre Arditi). Even the 7-year-old Dauphin knows he is the hero of the American Independence War. 
 
-Among the clergy is the abbé **Emmanuel-Joseph Sieyès** (Jean Bouchaud), political theorist and the author of _Qu'est-ce que le Tiers-État ?_ [_What Is the Third Estate?_]
+Among the clergy is the Abbé **Emmanuel-Joseph Sieyès** (Jean Bouchaud), political theorist and the author of [_Qu'est-ce que le Tiers-État ?_](https://en.wikipedia.org/wiki/What_Is_the_Third_Estate%3F) [_What Is the Third Estate?_]
 
 Camille Desmoulins, attending the convention as a spectator, greets his old classmate **Maximilien de Robespierre** (Andrzej Seweryn), a Third-Estate deputy for Arras.  
 
-After the session, Desmoulins reunites with Robespierre at the latter's place. On the table lays a copy of Jean-Jacques Rousseau, _Du contrat social; ou, Principes du droit politique_ (first edition printed in 1762). They recollect the words of an old lecturer at Louis-le-Grand, which are resonant with the core questions in the abbé Sieyès's _Qu'est-ce que le Tiers-État ?_ (1789):
+After the session, Desmoulins reunites with Robespierre at the latter's place. On the table lays a copy of [_Du contrat social; ou, Principes du droit politique_](https://en.wikipedia.org/wiki/The_Social_Contract) by Jean-Jacques Rousseau (first edition printed in 1762). 
+
+![Contract social](/assets/img/revolution/contract-social.png)
+
+They recollect the words of an old lecturer at Louis-le-Grand, which are resonant with the core questions in the Abbé Sieyès's _Qu'est-ce que le Tiers-État ?_ (1789):
 
 >1º Qu’est-ce que le Tiers-État ? Tout. <br />
 >2º Qu’a-t-il été jusqu’à présent dans l’ordre politique ? Rien. <br />
@@ -127,8 +156,10 @@ After the session, Desmoulins reunites with Robespierre at the latter's place. O
 >
 >[1. What is the Third Estate? Everything;&nbsp; 2. What has it been hitherto in the political order? Nothing;&nbsp; 3. What does it desire to be? To become something.]
 
+[#contents](#contents)
 
-#### <br /> 20 June 1789: Tennis Court Oath
+
+#### <br /> 20 June 1789: Tennis Court Oath {#tennis-court}
 
 On June 4 1789, Louis-Joseph, Dauphin of France, dies at age seven of tuberculosis. Meanwhile, the tension between the estates in the convention ramps up.
 
@@ -150,10 +181,10 @@ The Oath can be found in _Gazette nationale ou le Moniteur universel_, the offic
 >
 >["We swear never to separate from the National Assembly and to meet wherever circumstances require until the kingdom’s Constitution is established and grounded on solid foundations."]
 
+[#contents](#contents)
 
 
-
-#### <br /> 23 June 1789: _Séance royale_
+#### <br /> 23 June 1789: _Séance royale_ {#seance-royale}
 
 This dramatic royal session is centered around the conflict between the privileged and the reformers, starting from the King's declarations nullifying the decisions of the National Assembly:
 
@@ -177,10 +208,12 @@ par la puissance des baïonnettes. »
 >
 >["Go and tell your master that we are here by the power of the people, and that nothing bu the power of bayonets shall drive us away."]
 
-A prominent figurant: Nicolas Sarkozy as the Third-Estate deputy second to the left of Mirabeau. <br /><br />
+A prominent figurant: Nicolas Sarkozy as the Third-Estate deputy second to the left of Mirabeau. 
+
+[#contents](#contents)<br /><br />
 
 
-#### 12–13 July 1789: Riots in Paris 
+#### 12–13 July 1789: Riots in Paris {#riots}
 
 > In these circumstances he (Louis XVI) made the final surrender. On 27 June he wrote to the presidents of the clerical and noble orders ordering them to join the National Assembly. 
 >
@@ -192,14 +225,18 @@ Counteractions of the royal court include the dismissal of Necker and the milita
 
 ![Cafe de Foy](/assets/img/revolution/camille.jpg)
 
-This inspiring speech at the Café de Foy near the Galerie de Montpensier in the Palais-Royal is vividly reenacted in the film. So is the attack on the multitude in the Tuileries Garden by the German Régiment Royal-Allemand cavalerie commanded by **Charles Eugène de Lorraine, prince de Lambesc** (Mario Luraschi). 
+This inspiring speech at the [Café de Foy](https://fr.wikipedia.org/wiki/Caf%C3%A9_de_Foy) near the [Galerie de Montpensier](https://commons.wikimedia.org/wiki/Category:Galerie_de_Montpensier_(Paris)) in the [Palais-Royal](https://en.wikipedia.org/wiki/Palais-Royal) is vividly reenacted in the film. So is the attack on the multitude in the Tuileries Garden by the German Régiment Royal-Allemand cavalerie commanded by **Charles Eugène de Lorraine, prince de Lambesc** (Mario Luraschi). 
 
-In the meantime, Danton launches his political career by orating at the Club des Cordeliers, _although its synchronization with the Parisian insurrections is probably fictional._ Among the enthusiastic crowd are Marat, Legendre, Simon, and the Saint-Domingue distiller **Claude Fournier l'Américain** (Georges Trillat). <br /><br />
+At the beginning of the Café de Foy scene, a flowergirl **Louison Chabry** (Marion Grimault) is singing ["Le Palais-Royal est un beau quartier"](https://www.youtube.com/watch?v=lFO_RAbYGtM) (melody from the children's song "Ah ! vous dirai-je, maman").
+
+In the meantime, Danton launches his political career by orating at the Club des Cordeliers, _although its synchronization with the Parisian insurrections is probably fictional._ Among the enthusiastic crowd are Marat, Legendre, Simon, and the Saint-Domingue distiller **Claude Fournier l'Américain** (Georges Trillat).
+
+[#contents](#contents) <br /><br />
 
 
-#### 14 July 1789: Storming of the Bastille
+#### 14 July 1789: Storming of the Bastille {#bastille}
 
-The Bastille, demolished in late 1789, is "reconstructed" using the Château de Tarascon in Bouches-du-Rhône. Most narrative of this siege and sieze is historically accurate.
+The Bastille, demolished in late 1789, is "reconstructed" using the [Château de Tarascon](https://www.avignon-et-provence.com/en/monuments/chateau-de-roi-rene-tarascon) in Bouches-du-Rhône. Most narrative of this siege and sieze is historically accurate.
 
 ![Bastille](/assets/img/revolution/bastille.jpg)
 
@@ -221,10 +258,12 @@ More details can be found in Jacques Léon Godechot's _La prise de la Bastille, 
 
 De Launay is lynched by the mob on the way to the Hôtel de Ville. Danton and Camille Desmoulins arrive at the Bastille after fortress has already fallen.  
 
-In the Palace of Versailles, served by his valet **Jean-Baptiste Cléry** (Geoffrey Bateman), Louis XVI writes down the famous line in his diary: 
+At Versailles, served by his valet **Jean-Baptiste Cléry** (Geoffrey Bateman), Louis XVI writes down the famous line in his diary: 
 
 > Mardi . . . . 14 &nbsp;Rien. <br />
 >[Tuesday . . . . 14 &nbsp;Nothing.]
+
+![Rien](/assets/img/revolution/Rien.png)
 
 At night, Louis is informed of the seriousness of the fall of the Bastille by **François Alexandre Frédéric, duc de la Rochefoucauld-Liancourt** (Yves-Marie Maurin):
 
@@ -233,12 +272,16 @@ At night, Louis is informed of the seriousness of the fall of the Bastille by **
 >
 >[– Why, is this a revolt? — No, sire, it's a Revolution!]
 
+[#contents](#contents)
 
-#### <br /> 17 July 1789: Reconciliation
+
+#### <br /> 17 July 1789: Reconciliation {#reconciliation}
 
 > Early on 17 July the Count d'Artois left Versailles for the north-east frontier, to be followed over subsequent weeks by many of the courtiers . . . And later the same day the king made his way, escorted only by a handful of deputies, to the Hôtel de Ville of Paris to confirm that the troops were withdrawing and announce that Necker had been recalled. He also confirmed the nomination of Bailly as mayor of Paris (a new title) and Lafayette as commander of the new citizens’ militia, now being called the National Guard. It was said that 150,000 armed citizens were on the streets that day, all wearing cockades in red and blue, the colours both of the city and the Duke d’Orlaéns. Later in the month Lafayette would splice them with Bourbon white for the uniform of his National Guardsmen, and so the patriotic tricolour was born. The king accepted a cockade and stuck it in his hat on arrival at the Hôtel de Ville; and then, for the first time, people began to cheer him.  &nbsp;[WD]
 
-Together with comte d'Artois, the family of duchesse de Polignac left France, who never reunites with Marie-Antoinette thereafter. Louis's visit to Paris on 17 July begins with a ceremonial key conferment _at the Barrière de Chaillot (rather than the Hôtel de Ville)_:
+![Cockade](/assets/img/revolution/cockade.png)
+
+Together with comte d'Artois, the family of duchesse de Polignac left France, who never reunites with Marie-Antoinette thereafter. Louis's visit to Paris on 17 July begins with a ceremonial key conferment _at the [Barrière de Chaillot](https://fr.wikipedia.org/wiki/Barri%C3%A8re_Sainte-Marie) (rather than the [Hôtel de Ville](https://en.wikipedia.org/wiki/H%C3%B4tel_de_Ville,_Paris))_:
 
 > « J'apporte à votre Majesté les clés de sa bonne ville de Paris : ce sont les mêmes qui ont été présentées à Henri IV ; il avait reconquis son peuple, ici le peuple a reconquis son roi. »
 >
@@ -247,14 +290,17 @@ Together with comte d'Artois, the family of duchesse de Polignac left France, wh
 
 ![Key ceremony](/assets/img/revolution/key.jpg)
 
+[#contents](#contents)
 
-#### <br />20 July – 6 August 1789: _Grande Peur_
+
+#### <br />20 July – 6 August 1789: _Grande Peur_ {#grande-peur}
 
 > Fear of aristocratic revenge replaced such hope as news of the Bastille arrived . . . Hope, fear, and hunger made the countryside a tinder-box ignited by imagined sightings of ‘brigands’. Panics spread from five separate sparks as bushfires of angry rumours, spreading from village to village at several kilometres an hour, engulfed every region but Brittany and the east. When noble revenge failed to materialize, village militias instead turned their weapons on the seigneurial system itself, compelling seigneurs or their agents to hand over feudal registers to be burned on the village square. This extraordinary revolt came to be known as the ‘Great Fear’. &nbsp;[PM]
 
+[#contents](#contents)
 
 
-#### <br />4 August 1789: Abolition of feudalism
+#### <br />4 August 1789: Abolition of feudalism {#august}
 
 > On the night of 4 August, in an extraordinary atmosphere of panic, self-sacrifice and exhilaration, a series of nobles mounted the rostrum of the Assembly to respond to the Great Fear by renouncing their privileges and abolishing feudal dues. &nbsp;[PM]
 
@@ -278,10 +324,12 @@ duc de la Rochefoucauld-Liancourt, and
 
 ![August 4](/assets/img/revolution/august4.jpg)
 
-The resolutions were proclaimed as the _Décrets des 4, 6, 7, 8 et 11 août 1789_, or the August Decrees. _Slavery was not abolished throughout France until 1794._ <br /><br /> 
+The resolutions were proclaimed as the _Décrets des 4, 6, 7, 8 et 11 août 1789_, or the August Decrees. _Slavery was not abolished throughout France until 1794._ 
+
+[#contents](#contents) <br /><br /> 
 
 
-#### 26 August 1789: _Declaration of the Rights of Man and of the Citizen_
+#### 26 August 1789: _Déclaration des droits de l'homme et du citoyen_ {#droits}
 
 The last article of the _Déclaration des droits de l'homme et du citoyen de 1789_ was voted and adopted by the Assemblée nationale constituante (National Constituent Assembly) on 26 August. In the film, excerpts of its original text are read to the Assembly by La Fayette, who prepared its first draft on 11 July.
 
@@ -347,10 +395,12 @@ The standard English translation is the following:
 >
 >**Article 17.**&nbsp; Property is an inviolable and sacred right. No one shall be deprived thereof except where public necessity, legally determined, shall clearly demand it, . . .
 
-Article 11 on freedom of the press was adopted on 24 August. Two impactful revolutionary newspapers were launched in the following fall: Jean-Paul Marat's _L'Ami du peuple, or Le Publiciste parisien_ and Camille Desmoulins's _Révolutions de France et de Brabant_. <br /><br /> 
+Article 11 on freedom of the press was adopted on 24 August. Two impactful revolutionary newspapers were launched in the following fall: Jean-Paul Marat's _L'Ami du peuple, or Le Publiciste parisien_ and Camille Desmoulins's _Révolutions de France et de Brabant_.
+
+[#contents](#contents) <br /><br /> 
 
 
-#### September 1789: Veto debate
+#### September 1789: Veto debate {#veto}
 
 > Admirers of the checks and balances of the British constitution dominated the Assembly’s constitutional committee, and they believed that the king should have the same powers of veto as the British monarch. Led by Mounier, Malouet, and a handful of rich and eloquent metropolitan nobles like Lally-Tollendal and Clermont-Tonnerre, and energetically supported by Mirabeau, these _monarchiens_ (as their opponents dubbed them) spent the first two weeks of September trying to hustle the Assembly into accepting their programme. . . . But only a handful of deputies, such as Sieyès and the prolix but still uninfluential Robespierre, believed that once the National Assembly had pronounced the monarch should have no veto at all. Most, including patriotic leaders like Barnave, Duport, and the noble Lameth brothers, were attracted to the idea of a temporary or ‘suspensive’ veto; and when Necker let it be known that this was also the king’s preference, they detected a hint that the August decrees would be sanctioned if it was carried. Consequently the suspensive veto passed overwhelmingly (673 votes to 352) on 15 September. &nbsp;[WD]
 
@@ -375,21 +425,29 @@ In the film, Mirabeau's view is reflected through the witty dinner chat with Cam
 > Camille was absolutely dazzled, and small wonder. Mirabeau was rapidly becoming the most prominent man of his day, and he was as great in fascination as in all else. Where he cared sufficiently to exert his power—and there is little doubt that he cared for Camille—he could be irresistible.
  > <p align="right">—Violet Methley, <em>Camille Desmoulins: A Biography</em> (1914)
 
-The papers Desmoulins drafts and Mirabeau signs are probably for Mirabeau's _Courrier de Provence_. <br /><br /> 
+![Mirabeau and Desmoulins](/assets/img/revolution/mirabeau-demoulins.png)
+
+The papers Desmoulins drafts and Mirabeau signs are probably for Mirabeau's _Courrier de Provence_.
+
+[#contents](#contents) <br /><br /> 
 
 
-#### 1 October 1789: _Orgie des Gardes du corps_
+#### 1 October 1789: _Orgie des Gardes du corps_ {#orgie}
 
 > It was the first time the Assembly had flouted popular sentiment, for in Paris and many of the provinces it was clear that any form of veto aroused deep mistrust. . . . Such paranoid attitudes were compounded by persistent economic difficulties in the capital. After falling somewhat in late July and August, the price of bread began to climb again and supplies became irregular. . . . Guards were placed on bakers’ shops, and Lafayette and his militia found themselves hard pressed to contain all the incidents that occurred.
 >
 >Parallels with the situation early in July escaped no one. . . . Alarmed at persistent rumours of being taken by force to Paris, on 14 September the king summoned the notoriously well-disciplined Flanders Regiment from the north-east frontier to Versailles. . . . . Encouraged by the security it seemed to promise, the king broke silence on the August decrees. On 18 September, in a long letter drafted by Necker, he explained that he was prepared to accept some parts of the 11 August decree but not others. . . . Then on 4 October he voiced reservations about the Declaration of Rights. By now, however, Paris was alive with rumours about a reception given by the King’s bodyguard on 1 October to welcome the Flanders Regiment. After many noisy toasts had been drunk, and none to the nation, the national cockade was said to have been trampled as the air rang with unpatriotic slogans.  &nbsp;[WD]
 
-The banquet in honor of the Régiment de Flandre (in white uniforms) is hosted in the Opéra royal du château de Versailles by the Garde du corps du roi (in blue and red), whose major **marquis d’Aguesseau** (Jean-Gabriel Nordmann) proposes a toast. The orchestra are playing "Ô Richard, ô mon roi !," an aria from André Grétry's opéra comique _Richard Cœur-de-Lion_.
+![Opera](/assets/img/revolution/opera.png)
+
+The banquet in honor of the Régiment de Flandre (in white uniforms) is hosted in the [Opéra royal du château de Versailles](http://en.chateauversailles.fr/discover/estate/palace/royal-opera) by the Garde du corps du roi (in blue and red), whose major **marquis d’Aguesseau** (Jean-Gabriel Nordmann) proposes a toast. The orchestra are playing ["Ô Richard, ô mon roi !"](https://www.youtube.com/watch?v=XN0raCejoK4), an aria from André Grétry's opéra comique _Richard Cœur-de-Lion_ premiered in 1784.
 
 > During the banquet, toasts to the king and royal family were drunk with enthusiasm, while the nation was omitted or rejected. . . . Suddenly the king was announced; he entered attired in a hunting dress, the queen leaning on his arm, and carrying the dauphin. Shouts of affection and devotion arose on every side. . . . while cockades were distributed; the tri-coloured cockade, it is said, was trampled on . . .  &nbsp;[FAM]
 
+[#contents](#contents)
 
-#### <br /> 5–6 October 1789: Women's March on Versailles
+
+#### <br /> 5–6 October 1789: Women's March on Versailles {#march}
 
 > Banquets themselves seemed unpatriotic when bread was so scarce, and by 4 October all Paris believed that counter-revolutionary orgies at Versailles were the prelude to a new attempt to starve the capital. The next morning, several districts of the city were awakened by the ringing of the tocsin from church bell-towers, recognized ever since the days of July as a call to arms. Crowds of women began to assemble at markets, from where they marched to the Hôtel de Ville. After surging through the building to impress the city authorities with their determination, late in the morning they set off for Versailles dragging cannon and brandishing whatever makeshift weapons they could lay hands on, recruiting newcomers as they went along. Perhaps 7,000 of them reached Versailles early in the evening and invaded the National Assembly, calling for bread and punishment for those who had insulted the national cockade. The unprotected deputies had no alternative but to welcome them with mollifying speeches. They were visibly relieved when a deputation went on to confront the king.  &nbsp;[WD]
 
@@ -399,7 +457,7 @@ Danton's involvement in this insurrection can be found in Hilaire Belloc's _Dant
 
 > On the morning of Sunday, a day when there was leisure to read, the walls were placarded with the manifesto of the Cordeliers. It demanded an insurrection, and was signed with Danton's name. On Monday morning they rang the tocsin at the belfry of the convent, and the battalion of the district was drawn up and armed.
 
-Leading the Women's March is Stanislas-Marie Maillard, the same mod captain at the Bastille. The delegation is headed by **Jean-Joseph Mounier** (Jacques Penot), then president of the National Constituent Assembly, and includes **Louison Chabry** (Marion Grimault), a flowergirl who briefly appears at the beginning of the Café de Foy scene on 12 July.
+Leading the Women's March is Maillard, the same mod captain at the Bastille. The delegation is headed by **Jean-Joseph Mounier** (Jacques Penot), then president of the National Constituent Assembly, and includes the flowergirl Louison Chabry.
 
 > Mounier and the deputation, of which he was the head, six deputies of the Assembly and six women, who were joined by six other women, made their way with difficulty through the crowd in the Palace d'Armes, which had become a sea of pikes and muskets. The king received them with his customary graciousness.
 >
@@ -416,12 +474,12 @@ In the evening, Louis signs the August Decrees and the _Declaration of the Right
 
 > The forces of order, in the shape of Lafayette and 20,000 National Guardsmen, arrived in Versailles later that night after a forced march through an autumnal downpour. Lafayette had been reluctant to come at all, leaving Paris unpoliced and thereby risking accusations that he was in complicity with the demonstrators. But his men insisted, and crowds outside the Hôtel de Ville were muttering about stringing him and Bailly up if they continued to temporize. When he arrived all he could do was try to ensure that what the populace wanted was brought about without disorder, and he formally requested the king, in the name of Paris, to return to the capital with him and take up residence in the Tuileries palace. The king made no promises that night, but early the next morning a number of Parisians found their way into the palace precincts and were fired on by royal bodyguards. Thereupon an enraged mob poured into the palace, massacred two guardsmen, and almost broke into the queen’s apartments. Only prompt action by unco-ordinated units of the National Guard contained them, and Lafayette bundled the royal family onto the palace balcony to stand under his personal protection. The impact on the volatile crowd milling below was favourable, but constant shouts of ‘To Paris!’ made clear that only one thing would really satisfy them. Late in the morning of 6 October the king announced that he would go.  &nbsp;[WD]
 
-The mob sneak through the Chapel Gate in the early morning, kill two guards—**Miomandre de Sainte-Marie** and **Tardivet du Repaire**—at the end of the Escalier de Marbre (Queen's Marble Staircase), attempt to invade the Grand Appartement de la Reine but are stopped in the Queen’s Guard Room. Marie-Antoinette escapes from the Chambre de la Reine and takes refuge in the Grand Appartement du Roi, accompanied by princesse de Lamballe (in green, _yet no historical record for her presence_), and probably **Adélaïde Genet, Madame Auguié** (in ivory). In the Salon de l’Œil-de-Bœuf, they unite with Louis and the rest of the royal family—Madame Royale, Louis-Charles, and **Élisabeth de France** or **Madame Élisabeth** (Anne Létourneau, in white), Louis's youngest sister. The childern are attended by their governess **Louise-Élisabeth de Croÿ, marquise de Tourzel** (Louise Latraverse). Later, Madame Auguié told this waking nightmare to her sister Jeanne-Louise-Henriette Campan, Première femme de Chambre:
+The mob sneak through the [Chapel Gate](http://en.chateauversailles.fr/discover/estate/palace/royal-chapel) in the early morning, kill two guards—**Miomandre de Sainte-Marie** and **Tardivet du Repaire**—at the end of the [Escalier de Marbre](http://thisisversaillesmadame.blogspot.com/2013/05/the-queens-marble-staircase.html) (Queen's Marble Staircase), attempt to invade the [Grand Appartement de la Reine](http://en.chateauversailles.fr/discover/estate/palace/queen-apartments#the-queen%E2%80%99s-bedchamber) but are stopped in the [Queen’s Guard Room](http://en.chateauversailles.fr/discover/estate/palace/queen-apartments#the-queen%E2%80%99s-guard-room). Marie-Antoinette escapes from the [Chambre de la Reine](http://en.chateauversailles.fr/discover/estate/palace/queen-apartments#the-queen%E2%80%99s-bedchamber) and takes refuge in the [Grand Appartement du Roi](http://en.chateauversailles.fr/discover/estate/kings-apartments), accompanied by princesse de Lamballe (in green, _yet no historical record for her presence_), and probably **Adélaïde Genet, Madame Auguié** (in ivory). In the [Salon de l’Œil-de-Bœuf](http://en.chateauversailles.fr/discover/estate/kings-apartments#the-bull%E2%80%99s-eye-antechamber), they unite with Louis and the rest of the royal family—Madame Royale, Louis-Charles, and **Élisabeth de France** or **Madame Élisabeth** (Anne Létourneau, in white), Louis's youngest sister. The childern are attended by their governess **Louise-Élisabeth de Croÿ, marquise de Tourzel** (Louise Latraverse). Later, Madame Auguié told this waking nightmare to her sister Jeanne-Louise-Henriette Campan, Première femme de Chambre:
 
 > About half-past four in the morning they heard horrible yells and discharges of firearms; one ran to the Queen to awaken her and get her out of bed; my sister flew to the place from which the tumult seemed to proceed; she opened the door of the antechamber which leads to the great guard-room, and beheld one of the Body Guard holding his musket across the door, and attacked by a mob, who were striking at him; his face was covered with blood; he turned round and exclaimed: “Save the Queen, madame; they are come to assassinate her!” She hastily shut the door upon the unfortunate victim of duty, fastened it with the great bolt, and took the same precaution on leaving the next room. On reaching the Queen’s chamber she cried out to her, “Get up, Madame! Don’t stay to dress yourself; fly to the King’s apartment!” The terrified Queen threw herself out of bed; they put a petticoat upon her without tying it, and the two ladies conducted her towards the oeil-de-boeuf. A door, which led from the Queen’s dressing-room to that apartment, had never before been fastened but on her side. What a dreadful moment! It was found to be secured on the other side. They knocked repeatedly with all their strength; a servant of one of the King’s valets de chambre came and opened it; the Queen entered the King’s chamber, but he was not there. Alarmed for the Queen’s life, he had gone down the staircases and through the corridors under the oeil-de-boeuf, by means of which he was accustomed to go to the Queen’s apartments without being under the necessity of crossing that room. He entered her Majesty’s room and found no one there but some Body Guards, who had taken refuge in it. The King, unwilling to expose their lives, told them to wait a few minutes, and afterwards sent to desire them to go to the oeil-de-boeuf. Madame de Tourzel, at that time governess of the children of France, had just taken Madame and the Dauphin to the King’s apartments. The Queen saw her children again. The reader must imagine this scene of tenderness and despair. 
 > <p align="right">—<em>Memoirs of Madame Campan on Marie Antoninette and Her Court</em>, Vol. 2 (1909)
 
-At the request of La Fayette, the King and Queen confront the mob on the balcony facing the Cour de Marble:
+At the request of La Fayette, the King and Queen confront the mob on the balcony facing the [Cour de Marble](http://bienvenue.chateauversailles.fr/en/palace/welcome/124_marble-courtyard#!panel-42):
 
 > His Majesty himself has appeared with Lafayette on the balcony, and again appears: _Vive le Roi_ greets him from all throats; but also from some one throat is heard, '_Le Roi à Paris_, The King to Paris!'
 >
@@ -430,9 +488,11 @@ At the request of La Fayette, the King and Queen confront the mob on the balcony
 
 ![Balcony](/assets/img/revolution/balcony.jpg)
 
-Louis and the royal court move to the Tuileries Palace in the afternoon of 6 October.
+Louis and the royal court move to the [Palais des Tuileries](https://en.wikipedia.org/wiki/Tuileries_Palace) in the afternoon of 6 October.
 
 >A procession 60,000 strong accompanied Louis XVI and his queen on their nine-hour journey back to his capital that afternoon. . . . Nevertheless in the history of the Revolution the ‘October Days’ were decisive. Louis XVI never returned to Versailles. Henceforth he and his family would be confined to Paris, as a British observer put it, ‘more like prisoners than Princes’.  &nbsp;[WD] 
+
+[#contents](#contents)
 
 
 <p align="right">

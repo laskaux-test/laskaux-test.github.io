@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: ""
-url: "https://laskaux.github.io/"
+url: "https://laskaux-en.github.io/"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:

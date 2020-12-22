@@ -225,9 +225,14 @@ Counteractions of the royal court include the dismissal of Necker and the milita
 
 ![Cafe de Foy](/assets/img/revolution/camille.jpg)
 
-This inspiring speech at the [Café de Foy](https://fr.wikipedia.org/wiki/Caf%C3%A9_de_Foy) near the [Galerie de Montpensier](https://commons.wikimedia.org/wiki/Category:Galerie_de_Montpensier_(Paris)) in the [Palais-Royal](https://en.wikipedia.org/wiki/Palais-Royal) is vividly reenacted in the film. So is the attack on the multitude in the Tuileries Garden by the German Régiment Royal-Allemand cavalerie commanded by **Charles Eugène de Lorraine, prince de Lambesc** (Mario Luraschi). 
+This inspiring speech at the [Café de Foy](https://fr.wikipedia.org/wiki/Caf%C3%A9_de_Foy) near the [Galerie de Montpensier](https://commons.wikimedia.org/wiki/Category:Galerie_de_Montpensier_(Paris)) in the [Palais-Royal](https://en.wikipedia.org/wiki/Palais-Royal) is vividly reenacted in the film. So is the attack on the multitude in the [Jardin des Tuileries](https://en.wikipedia.org/wiki/Tuileries_Garden) by the German Régiment Royal-Allemand cavalerie commanded by **Charles Eugène de Lorraine, prince de Lambesc** (Mario Luraschi). 
 
 At the beginning of the Café de Foy scene, a flowergirl **Louison Chabry** (Marion Grimault) is singing ["Le Palais-Royal est un beau quartier"](https://www.youtube.com/watch?v=lFO_RAbYGtM) (melody from the children's song "Ah ! vous dirai-je, maman").
+
+> Le Palais-Royal est un beau quartier <br/>
+> Tout's les jeunes fill's sont à marier <br/>
+> Mademoiselle Valérie est la préférée <br/>
+> De monsieur Francis qui veut l'épouser
 
 In the meantime, Danton launches his political career by orating at the Club des Cordeliers, _although its synchronization with the Parisian insurrections is probably fictional._ Among the enthusiastic crowd are Marat, Legendre, Simon, and the Saint-Domingue distiller **Claude Fournier l'Américain** (Georges Trillat).
 
@@ -468,7 +473,7 @@ Leading the Women's March is Maillard, the same mod captain at the Bastille. The
 >Louison, overcome by emotion at the king's goodness, fainted. When she recovered her senses, she begged to kiss the king's hand.
 >
 >"She deserves better than that," said the king, and embraced her.
-> <p align="right">—George H. Allen, <em>The French Revolution</em>, Vol. 2 (1923)
+> <p align="right">—George H. Allen, <em>The French Revolution</em>, vol. 2 (1923)
 
 In the evening, Louis signs the August Decrees and the _Declaration of the Rights of Man and of the Citizen_. At midnight, La Fayette and his National Guards arrive.
 
@@ -477,14 +482,14 @@ In the evening, Louis signs the August Decrees and the _Declaration of the Right
 The mob sneak through the [Chapel Gate](http://en.chateauversailles.fr/discover/estate/palace/royal-chapel) in the early morning, kill two guards—**Miomandre de Sainte-Marie** and **Tardivet du Repaire**—at the end of the [Escalier de Marbre](http://thisisversaillesmadame.blogspot.com/2013/05/the-queens-marble-staircase.html) (Queen's Marble Staircase), attempt to invade the [Grand Appartement de la Reine](http://en.chateauversailles.fr/discover/estate/palace/queen-apartments#the-queen%E2%80%99s-bedchamber) but are stopped in the [Queen’s Guard Room](http://en.chateauversailles.fr/discover/estate/palace/queen-apartments#the-queen%E2%80%99s-guard-room). Marie-Antoinette escapes from the [Chambre de la Reine](http://en.chateauversailles.fr/discover/estate/palace/queen-apartments#the-queen%E2%80%99s-bedchamber) and takes refuge in the [Grand Appartement du Roi](http://en.chateauversailles.fr/discover/estate/kings-apartments), accompanied by princesse de Lamballe (in green, _yet no historical record for her presence_), and probably **Adélaïde Genet, Madame Auguié** (in ivory). In the [Salon de l’Œil-de-Bœuf](http://en.chateauversailles.fr/discover/estate/kings-apartments#the-bull%E2%80%99s-eye-antechamber), they unite with Louis and the rest of the royal family—Madame Royale, Louis-Charles, and **Élisabeth de France** or **Madame Élisabeth** (Anne Létourneau, in white), Louis's youngest sister. The childern are attended by their governess **Louise-Élisabeth de Croÿ, marquise de Tourzel** (Louise Latraverse). Later, Madame Auguié told this waking nightmare to her sister Jeanne-Louise-Henriette Campan, Première femme de Chambre:
 
 > About half-past four in the morning they heard horrible yells and discharges of firearms; one ran to the Queen to awaken her and get her out of bed; my sister flew to the place from which the tumult seemed to proceed; she opened the door of the antechamber which leads to the great guard-room, and beheld one of the Body Guard holding his musket across the door, and attacked by a mob, who were striking at him; his face was covered with blood; he turned round and exclaimed: “Save the Queen, madame; they are come to assassinate her!” She hastily shut the door upon the unfortunate victim of duty, fastened it with the great bolt, and took the same precaution on leaving the next room. On reaching the Queen’s chamber she cried out to her, “Get up, Madame! Don’t stay to dress yourself; fly to the King’s apartment!” The terrified Queen threw herself out of bed; they put a petticoat upon her without tying it, and the two ladies conducted her towards the oeil-de-boeuf. A door, which led from the Queen’s dressing-room to that apartment, had never before been fastened but on her side. What a dreadful moment! It was found to be secured on the other side. They knocked repeatedly with all their strength; a servant of one of the King’s valets de chambre came and opened it; the Queen entered the King’s chamber, but he was not there. Alarmed for the Queen’s life, he had gone down the staircases and through the corridors under the oeil-de-boeuf, by means of which he was accustomed to go to the Queen’s apartments without being under the necessity of crossing that room. He entered her Majesty’s room and found no one there but some Body Guards, who had taken refuge in it. The King, unwilling to expose their lives, told them to wait a few minutes, and afterwards sent to desire them to go to the oeil-de-boeuf. Madame de Tourzel, at that time governess of the children of France, had just taken Madame and the Dauphin to the King’s apartments. The Queen saw her children again. The reader must imagine this scene of tenderness and despair. 
-> <p align="right">—<em>Memoirs of Madame Campan on Marie Antoninette and Her Court</em>, Vol. 2 (1909)
+> <p align="right">—<em>Memoirs of Madame Campan on Marie Antoninette and Her Court</em>, vol. 2 (1909)
 
 At the request of La Fayette, the King and Queen confront the mob on the balcony facing the [Cour de Marble](http://bienvenue.chateauversailles.fr/en/palace/welcome/124_marble-courtyard#!panel-42):
 
 > His Majesty himself has appeared with Lafayette on the balcony, and again appears: _Vive le Roi_ greets him from all throats; but also from some one throat is heard, '_Le Roi à Paris_, The King to Paris!'
 >
 > Her Majesty too, on demand, shows herself, though there is peril in it : she steps out on the balcony, with her little boy and girl. ' No children, _Point d'enfans_! ' cry the voices. She gently pushes back her children; and stands alone, her hands serenely crossed on her breast: 'Should I die,' she had said, 'I will do it.' Such serenity of heroism has its eflPect. Lafayette, with ready wit, in his highflown chivalrous way, takes that fair queenly hand, and, reverently kneeling, kisses it: thereupon the people do shout _Vive la Reine_. Nevertheless, poor Weber 'saw' (or even thought he saw; for hardly the third part of poor Weber's experiences, in such hysterical days, will stand scrutiny) 'one of these brigands level his musket at her Majesty,'—with or without intention to shoot; for another of the brigands 'angrily struck it down.'
-> <p align="right">—Thomas Carlyle, <em>The French Revolution: A History</em>, Vol. 1 (1923)
+> <p align="right">—Thomas Carlyle, <em>The French Revolution: A History</em>, vol. 1 (1923)
 
 ![Balcony](/assets/img/revolution/balcony.jpg)
 

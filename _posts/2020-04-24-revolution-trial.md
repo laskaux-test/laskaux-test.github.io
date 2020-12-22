@@ -10,10 +10,16 @@ excerpt: Imprisonment of the royal family—Exile of La Fayette—Fall of Longwy
 tags: history film
 ---
 
-> « Je ne me crois pas le droit de tuer un homme; mais je me sens le devoir d'exterminer le mal. J'ai voté la fin du tyran. . . . J'ai voté la fraternité, la concorde, l'aurore! J'ai aidé à la chute des préjugés et des erreurs. Les écroulements des erreurs et des préjugés font de la lumière. Nous avons fait tomber le vieux monde, nous autres, et le vieux monde, vase des misères, en se renversant sur le genre humain, est devenu une urne de joie. »
+> « Das Fatum dieser Revolution was, dass die Krone aus alter Tradition sich zu allen Mitteln, besonders der Täuschung, worin sie jedoch geringes Geschick besass . . . bei den Revolutionären diesem gegenüber ein ganz neues Staatsrecht da war, sodass ihnen notwendig alles wie Verrat vorkam. »
 >
-> [“I did not think that I had the right to kill a man; but I felt it my duty to exterminate evil. I voted the end of the tyrant. . . . I voted for fraternity, concord, the dawn. I have aided in the overthrow of prejudices and errors. The crumbling away of prejudices and errors causes light. We have caused the fall of the old world, and the old world, that vase of miseries, has become, through its upsetting upon the human race, an urn of joy.”]
-> <p align="right">—Victor Hugo, <em>Les Misérables</em>, Tome I : Fantine (1862)
+> [“What fated this Revolution was that according to old tradition the crown considered itself entitled to use any means, especially deception, for which, however, it had little talent . . . the revolutionaries presented a constitutionality that was entirely new, so that of necessity everything seemed like treason to them.”]
+> <p align="right">—Jacob Burckhardt, <em>Historische Fragmente</em> (1929)
+
+----
+
+### <br/> Contents {#contents}
+
+[Imprisonment of the royal family](#imprisonment)—[Exile of La Fayette](#exile)—[Fall of Longwy](#longwy) and [Verdun](#verdun)—[September Massacres](#september)—[Battle of Valmy](#valmy)—[Abolition of the monarchy](#abolition)—[Interrogation](#interrogation), [defense](#defense), and [verdict of Louis XVI](#verdict)—[Execution of Louis XVI](#execution)—[Creation of the Revolutionary Tribunal](#tribunal)—[Arrest and acquittal of Marat](#arrest-marat)—[Fall of the Girondins](#girondins)—[Assassination of Marat](#marat) <br /><br/>
 
 ----
 
@@ -21,26 +27,34 @@ tags: history film
 
 The second half of _La Révolution française_ covers the first two years of the French First Republic. The narrative starts from the aftermath of the Insurrection of 10 August 1792, and ends at the Coup d'état of 9 Thermidor.
 
-#### <br /> 13 August 1792: Imprisonment of the royal family
+[#contents](#contents) <br/> <br/> 
+
+
+#### 13 August 1792: Imprisonment of the royal family {#imprisonment}
 
 >As crowds rampaged through Paris destroying all symbols and images of royalty down to the very word ‘king’ in street names, the Legislative Assembly declared the monarchy suspended until a national Convention had met to decide on the future form of government. Only the efforts of Vergniaud averted the abolition of monarchy there and then. But as the king was transferred, under close custody, to the **keep of the Temple**, a medieval fortress in the north-eastern suburbs, few believed that he would ever sit on the throne again unless with foreign aid.
 >
 > Power now lay not with the Assembly, but with the new Paris commune. The Assembly acted as if it was still in charge: for example it appointed a new team of ministers. The three who had fallen on 13 June were at last restored, tainted though they now were by association with the equivocating Brissotins. But the most sensational appointment was the new **minister of justice, Danton**, who had built a career entirely in the sectional politics of Paris since 1789, and was brought in explicitly to keep the sansculottes happy. The appointments were made by less than 300 deputies. The majority had simply gone to ground over the previous few weeks, thus further diminishing the Assembly’s authority. During the six weeks left to it, this rump did almost everything the commune wanted.  &nbsp;[WD]
 
-Camilles Desmoulins is appointed Secretary-General to Danton. <br/><br/>
+Camilles Desmoulins is appointed Secretary-General to Danton. 
 
-#### 17 August 1792: Exile of La Fayette
+[#contents](#contents) <br/> <br/> 
+
+
+#### 17 August 1792: Exile of La Fayette {#exile}
 
 > What the commune wanted most was vengeance—on those who had abetted the king, and those who had resisted the popular will before and during the uprising of 10 August, on refractory priests protected for too long by the deposed tyrant, and on Lafayette, the butcher of the Champ de Mars and would-be military dictator. He at least escaped: after toying briefly with marching his army on Paris, on 17 August, the day the council of ministers decided to dismiss him, he crossed the Prussian lines and gave himself up to the enemy. Even that brought him five years in Austrian prisons.  &nbsp;[WD]
 
-#### <br/> 26 August 1792: Fall of Longwy
+[#contents](#contents) <br/> <br/> 
+
+
+#### 26 August 1792: Fall of Longwy {#longwy}
 
 > The paranoid atmosphere only grew worse when it was learned that the Prussians had invaded French territory; and news arriving on the twenty-sixth of the fall of Longwy, with scarcely any resistance, seemed to confirm that traitors were everywhere. The response of Danton, who increasingly dominated his fellow ministers during these weeks, was to demand a general search of all dwellings in the capital for hidden arms and suspects. These ‘domiciliary visits’ took place on 30–31 August, resulting in 3,000 further arrests. The result was to cram the prisons of Paris to bursting-point with presumed traitors.  &nbsp;[WD]
 
 >**M. Danton.**&nbsp; . . . il était important de se saisir des traîtres, mais y en eût-il 30,000 à arrêter, il faut qu’ils soient arrêtés demain, et que demain Paris communique avec la France entière.
 >
 >[AP, Tuesday 28 August 1792]
-
 
 Meanwhile, Danton rejects the proposal of abadoning Paris.
 
@@ -51,15 +65,21 @@ A few weeks ago, **Horace-Camille Desmoulins**—the only child of Camille and L
 > On July 6th, 1792, at nine o'clock in the morning, Horace-Camille Desmoulins was born, the baby who was never really to know either his father or mother, who it is scarcely probable could even remember them in after years. It is possible that "the little Horace" may have had dim memories of that beautiful young mother, who must have seemed to his baby brain like some pictured angel as she bent over his cradle. Perhaps he vaguely remembered that boyish, excitable father, with brilliant dark eyes, who would romp with his "little lizard" in the evenings, rolling with him on the floor in peals of laughter, while Danton sat by quietly smiling and thinking of his own boys at the old home in Arcis-sur-Aube. 
 > <p align="right">—Violet Methley, <em>Camille Desmoulins: A Biography</em> (1914)
 
-In the film, Camille Desmoulins is consistently portrayed as a humanist objecting to terror towards civilians. _In reality, as a main promoter of popular violence, his political opinions were more radical and, before the Reign of Terror, somewhat closer to those of Marat._ <br/><br/>
+In the film, Camille Desmoulins is consistently portrayed as a humanist objecting to terror towards civilians. _In reality, as a main promoter of popular violence, his political opinions were more radical and, before the Reign of Terror, somewhat closer to those of Marat._ 
+
+![Desmoulins and Robespierre](/assets/img/revolution/desmoulins-robespierre.png)
+
+[#contents](#contents) <br/> <br/> 
 
 
-#### 29 August – 2 September 1792: Battle of Verdun
+#### 29 August – 2 September 1792: Battle of Verdun {#verdun}
 
 > At this period the Prussians, advancing on the plan of invasion described above, passed the frontier, after a march of twenty days. The army of Sedan was without a leader, and incapable of resisting a force so superior in numbers and so much better organised. On the 20th of August, Longwy was invested by the Prussians; on the 21st it was bombarded, and on the 24th it capitulated. On the 30th the hostile army arrived before Verdun, invested it, and began to bombard it. Verdun taken, the road to the capital was open. The capture of Longwy, and the approach of so great a danger, threw Paris into the utmost agitation and alarm.  &nbsp;[FAM]
 
+[#contents](#contents) <br/> <br/> 
 
-#### <br/> 2–7 September 1792: September Massacres
+
+#### 2–7 September 1792: September Massacres {#september}
 
 > After 10 August Marat, the self-styled friend of the people but hitherto too extreme and bloodthirsty in his opinions to command much support, came into his own. His solution to the crisis was massacre, both of the suspects herded together in the prisons and indeed of selected ministers and deputies. Many sections, and their representatives on the commune, thought the same . . .
 >
@@ -75,8 +95,10 @@ towards Paris. . . .
 >It is almost certain that Danton and Camille alike later felt themselves to have been morally responsible for the massacres. The epithet of "Septembriseur" had the power to make Danton falter to the day of his death; he could not hear it applied to him, with a conscience clear of guilt. 
 > <p align="right">—Violet Methley, <em>Camille Desmoulins: A Biography</em> (1914)
 
+[#contents](#contents) <br/> <br/> 
 
-#### <br/> 20 September 1792: Battle of Valmy
+
+#### 20 September 1792: Battle of Valmy {#valmy}
 
 > On 20 September, at Valmy, just east of Châlons, the French forces at last made a stand. Kellermann and Dumouriez had more men that the Prussians. They had fewer guns, but those they had were superior, and handled by graduates of the outstand- ing pre-revolutionary gunnery schools. So they outgunned the enemy, and when they followed up their advantage the French charged to cries of Vive la Nation! and the singing of ‘Ça ira’. They fought with an enthusiasm and determination not seen on European battlefields for generations, and they stopped the invaders in their tracks. Watching all this was Goethe, brought along by the Duke of Weimar to enliven the expected military promenade. In the stunned disappointment of the Prussian camp that damp night he offered Job’s comfort to his fellow invaders. ‘Here and today,’ he told them, ‘a new epoch in the history of the world has begun, and you can boast you were present at its birth.’   &nbsp;[WD]
 
@@ -84,8 +106,10 @@ This is a decisive victory of the French army commanded by general **François C
 
 > The Prussian army had followed the movements of Dumouriez. On the 20th, it attacked Kellermann at Valmy, in order to cut off from the French army the retreat on Chalons. There was a brisk cannonade on both sides. The Prussians advanced in columns towards the heights of Valmy, to carry them. Kellermann also formed his infantry in columns, enjoined them not to  re, but to await the approach of the enemy, and charge them with the bayonet. He gave this command, with the cry of Vive la nation! and this cry, repeated from one end of the line to the other, startled the Prussians still more than the  rm attitude of our troops. The duke of Brunswick made his somewhat shaken battalions fall back; the  ring continued till the evening; the enemy attempted a fresh attack, but were repulsed. The day was ours; and the success of Valmy, almost insigni cant in itself, produced on our troops, and upon opinion in France, the effect of the most complete victory.  &nbsp;[FAM]
 
+[#contents](#contents) <br/> <br/> 
 
-#### <br/> 21 September 1792: Abolition of the monarchy
+
+#### 21 September 1792: Abolition of the monarchy {#abolition}
 
 The day after the Battle of Valmy, the new National Convention, presided over by Pétion, makes the _Proclamation de l'abolition de la royauté_, which is proposed by **Jean-Marie Collot d'Herbois** (Steve Kalfa), deputy of Paris.
 
@@ -109,9 +133,10 @@ Three days later, the Convention prounced that "the French Republic is one and i
 >
 >[AP, Tuesday 25 September 1792]
 
+[#contents](#contents) <br/> <br/> 
 
 
-#### <br/> 13 November 1792: Debut of Saint-Just
+#### 13 November 1792: Debut of Saint-Just {#saint-just}
 
 The first time on the lectern, **Louis Antoine de Saint-Just** (Christopher Thompson) delivered the electrifying speech—“The King must reign or die.”
 
@@ -133,10 +158,12 @@ The private meeting of Danton and Robespierre as shown in the film before Saint-
 >
 >[AP, Monday 3 December 1792]
 
-Contrary to the plea of Robespierre, the Natonal Convention decided on the same day to put Louis XVI on trial. <br/> <br/> 
+Contrary to the plea of Robespierre, the Natonal Convention decided on the same day to put Louis XVI on trial. 
+
+[#contents](#contents) <br/> <br/> 
 
 
-#### 11 December 1792: Interrogation of Louis XVI
+#### 11 December 1792: Interrogation of Louis XVI {#interrogation}
 
 > Louis had been confined in the Temple for four months. . . . He had only one servant about his person, Clery, who at the same time waited on his family. During the first months of his imprisonment, he was not separated from his family; and he still found solace in meeting them. He comforted and supported his two companions in misfortune, his wife and sister; he acted as preceptor to the young dauphin, and gave him the lessons of an unfortunate man, of a captive king. . . . But the consolation he found in the sight of his family did not last long; as soon as his trial was decided, he was separated from them. . . .
 >
@@ -227,14 +254,18 @@ Secretary **Jean-Baptiste Mailhe** then reads the indictment, presented to the C
 >
 >[AP, Tuesday 11 December 1792]
 
+![Trial](/assets/img/revolution/trial.png)
+
+> During a long examination, he (Louis XVI) displayed much calmness and presence of mind, he replied to each question appropriately, often in an affecting and triumphant manner. He repelled the reproaches addressed to him respecting his conduct before the 14th of July, reminding them that his authority was not then limited; before the journey to Varennes, by the decree of the constituent assembly, which had been satis ed with his replies; and after the 10th of August, by throwing all public acts on ministerial responsibility, and by denying all the secret measures which were personally attributed to him. This denial did not, however, in the eyes of the convention, overthrow facts, proved for the most part by documents written or signed by the hand of Louis XVI. himself; he made use of the natural right of every accused person. Thus he did not admit the existence of the iron chest, and the papers that were brought forward. Louis XVI. invoked a law of safety, which the convention did not admit, and the convention sought to protect itself from anti-revolutionary attempts, which Louis XVI. would not admit.  &nbsp;[FAM]
+
 At the time of the trial, the division of the National Convention into the **Girondins** (Brissots, Vergniaud, etc.) and the **Montagnards** (Danton, Robespierre, Desmoulins, Marat, Legendre, etc.) is clearly shown in their sitting. 
 
 ![Convention](/assets/img/revolution/convention.jpg)
 
-> During a long examination, he (Louis XVI) displayed much calmness and presence of mind, he replied to each question appropriately, often in an affecting and triumphant manner. He repelled the reproaches addressed to him respecting his conduct before the 14th of July, reminding them that his authority was not then limited; before the journey to Varennes, by the decree of the constituent assembly, which had been satis ed with his replies; and after the 10th of August, by throwing all public acts on ministerial responsibility, and by denying all the secret measures which were personally attributed to him. This denial did not, however, in the eyes of the convention, overthrow facts, proved for the most part by documents written or signed by the hand of Louis XVI. himself; he made use of the natural right of every accused person. Thus he did not admit the existence of the iron chest, and the papers that were brought forward. Louis XVI. invoked a law of safety, which the convention did not admit, and the convention sought to protect itself from anti-revolutionary attempts, which Louis XVI. would not admit.  &nbsp;[FAM]
+[#contents](#contents) <br/> <br/> 
 
 
-#### <br/> 26 December 1792: Defense of Louis XVI
+#### 26 December 1792: Defense of Louis XVI {#defense}
 
 Louis XVI attends the Convention again with his defense team—Raymond de Sèze, Chrétien Guillaume de Lamoignon de Malesherbes, and François Denis Tronchet. Louis's last statement is presented in the film with light modification to the original text:
 
@@ -250,8 +281,10 @@ Louis XVI attends the Convention again with his defense team—Raymond de Sèze,
 >
 >[AP, Wednesday 26 December 1792]
 
+[#contents](#contents) <br/> <br/> 
 
-#### <br/> 15–17 January 1793: Verdict and sentence 
+
+#### 15–17 January 1793: Verdict and sentence {#verdict}
 
 >  « La Convention nationale décrète quelle ira demain aux voix, par appel nominal, sur les trois questions suivantes, dans cet ordre et dans la même séance :
 >
@@ -275,6 +308,8 @@ _The first two questions was voted on 15 January:_
 > The assembly had unanimously decided that Louis was guilty, when the appeal to the people was put to the question. Two hundred and eighty-four voices voted for, four hundred and twenty-four against it; ten declined voting. Then came the terrible question as to the nature of the punishment. Paris was in a state of the greatest excitement: deputies were threatened at the very door of the assembly; fresh excesses on the part of the populace were dreaded; the Jacobin clubs resounded with extravagant invectives against Louis XVI., and the Right. The Mountain, till then the weakest party in the convention, sought to obtain the majority by terror, determined, if it did not succeed, none the less to sacri ce Louis XVI. Finally, after four hours of nominal appeal, the president, Vergniaud, said: “Citizens, I am about to proclaim the result of the scrutiny. When justice has spoken, humanity should have its turn.” There were seven hundred and twenty-one voters. The actual majority was three hundred and sixty-one. The death of the king was decided by a majority of twenty-six votes. Opinions were very various: Girondists voted for his death, with a reservation, it is true; most of the members of the Right voted for imprisonment or exile; a few of the Mountain voted with the Girondists. As soon as the result was known, the president said, in a tone of grief: “In the name of the convention, I declare the punishment, to which it condemns Louis Capet, to be death.”   &nbsp;[FAM]
 
 _Among the 726 deputies being present: 387 voted for "death," including 26 for the amendament proposed by Mailhe; 44 for "death with respite"; 290 for other penalties; 5 recused or abstained._
+
+![Verdict](/assets/img/revolution/verdict.png)
 
 The session on 16–17 January, where deputies including **Lazare Carnot** (Jean-Marie Lemaire) and **Jean-Baptiste Robert Lindet** (Daniel Lombart) vote for sentences is reenacted in the film.
 
@@ -318,8 +353,10 @@ The session on 16–17 January, where deputies including **Lazare Carnot** (Jean
 >
 >[AP, Wednesday 16 and Thursday 17 January 1793]
 
+[#contents](#contents) <br/> <br/> 
 
-#### <br/> 21 January 1793: Execution of Louis XVI
+
+#### 21 January 1793: Execution of Louis XVI {#execution}
 
 Accompanied by his confessor **Henri Edgeworth de Firmont** (Richard De Burnchurch), Louis XVI is escorted to the guillotine at the Place de la Révolution (Place de la Concorde). The day was recorded in the memoir of his executioner **Charles-Henri Sanson** (Christopher Lee):
 
@@ -366,8 +403,10 @@ our Saviour."
 
 ![Louis XVII](/assets/img/revolution/louis-xvii.jpg)
 
+[#contents](#contents) <br/> <br/> 
 
-#### <br/> 10 February 1793: Death of Gabrielle Danton
+
+#### 10 February 1793: Death of Gabrielle Danton {#gabrielle}
 
 Antoinette Gabrielle Danton died in childbirth, while her husband was in Belgium and didn't return to Paris until one week later. She was survived by their sons **Antoine Danton** and **François-Georges Danton**.
 
@@ -390,8 +429,10 @@ The letter mentioned when Danton and Robespierre stroll in the garden of the Ch�
 >
 >Robespierre
 
+[#contents](#contents) <br/> <br/> 
 
-#### <br/> 10 March 1793: Creation of the Revolutionary Tribunal
+
+#### 10 March 1793: Creation of the Revolutionary Tribunal {#tribunal}
 
 > Throughout the upheavals of 1792, the value of the assignats had continued to decline. By January 1793 they were down to 51 per cent of their face value, despite the decision to make them legal tender in occupied territories. Coinage, on the other hand, was becoming increasingly rare. . . . By February sugar had doubled or trebled since 1790, and soap had more than doubled. Other items, like coffee and candles, were also rising steadily. These increases provided the impetus behind calls for a maximum, which were renewed in petitions to the Convention and the Jacobin Club between 22 and 24 February. When they remained unanswered, the city was swept by a wave of attacks on grocery shops and warehouses throughout the twenty-fifth. . . . On the twenty-sixth Santerre’s National Guards restored order, but the whole Convention was visibly shaken by the outburst. The Girondins, predictably, blamed the incitements of Marat. . . .
 >
@@ -407,12 +448,19 @@ All these crises and measures are sketched in the dialogue of Danton and Robespi
 >
 >[AP, Sunday 10 March 1793]
 
-#### <br/> 12–24 April: Arrest and acquittal of Marat 
+![Danton and Robespierre](/assets/img/revolution/danton-robespierre2.png)
+
+[#contents](#contents) <br/> <br/> 
+
+
+#### 12–24 April: Arrest and acquittal of Marat {#arrest-marat}
 
 > The Montagnards had hoped, in setting up the Revolutionary Tribunal, to use it against those whom they saw as impeding the war effort by their vendetta against Paris. Girondins, however, saw that this sword was double-edged, and it was from them that a proposal came on 1 April to abolish deputies’ immunity from arrest. Success in this cleared the way for an attack on the most exposed figure in the Montagnard ranks, recognized even by his own side in their cooler moments as a liability—Marat. As president of the Jacobins, on 5 April he had signed a circular appealing to the provinces to defend Paris against a ‘sacrilegious cabal’ in the Convention, attempting thus to steal what the Girondins regarded as their own constituency. Alleging an insult to the Convention, they called on 12 April for Marat to be impeached; and, with normal Montagnard support depleted by the absence of many of their normal allies on mission, the motion passed overwhelmingly. Thirty-three sections of Paris responded to this attack on their hero by calling for the expulsion from the Convention of 22 named deputies including Brissot, all the Bordelais, and Pétion, who had drifted away from his earlier radicalism since the fall of the monarchy. Both the Jacobins and the commune endorsed the demand, but withdrew their approval when Robespierre, reluctant to see the nation’s representatives coerced, condemned it. In any case they had their revenge on 24 April, when Marat was acquitted by the Revolutionary Tribunal and carried shoulder-high from the court back to the Convention by exultant sansculottes. &nbsp;[WD]
 
+[#contents](#contents) <br/> <br/> 
 
-#### <br/> 2 June 1793: Fall of the Girondins
+
+#### 2 June 1793: Fall of the Girondins {#girondins}
 
 The purge of the Girondin deputies in the National Convention was another major turbulent event during the Revolution. A series of political dissents between the Girondins and the Montagnards since the beginning of 1793 eventually triggered the Insurrection of 31 May – 2 June.
 
@@ -430,7 +478,7 @@ This is the list of twenty-two arrested in the National Convention session on 2 
 >
 >[AP, Sunday 2 June 1793]
 
-![Girondins](/assets/img/revolution/girondins.jpg)
+![Girondins](/assets/img/revolution/girondins.png)
 
 > It began in the small hours of 31 May when Varlet, in the name of the insurrectionary committee sitting at the archbishop’s palace, ordered the ringing of the tocsin. Soon after dawn the insurrectionaries formally deposed the commune and reinstated it under their own orders, The gates were closed, a round-up of suspects ordered, and Hanriot, a former clerk who had been made commander of the National Guard (in the absence of Santerre) the night before, was confirmed in office. . . . Varlet wanted to dissolve the whole Convention. Others sought the arrest of the 22 deputies named on 15 April. Still others, including the commune’s procurator Chaumette, urged caution; and seemed simply to want to force the abandonment of the Commission of Twelve, and to scare the Girondins into more moderate conduct. . . . By the time Robespierre moved the impeachment of those named in the petition, the crowds were melting away, and the crisis seemed to have passed.
 >
@@ -447,14 +495,18 @@ The confrontation of Brissot and Danton in the office of the latter is probably 
 > It is undoubted that this pamphlet of Camille's was written at the direct inspiration of Robespierre. During the greater part of this year of 1793 all the work of the journalist was practically dictated by his friend and colleague, who made use of the medium of Camille's brilliant style to express his own subtle policy. 
 > <p align="right">—Violet Methley, <em>Camille Desmoulins: A Biography</em> (1914)
 
+[#contents](#contents) <br/> <br/> 
 
-#### <br/> 3 July 1793: Louis XVII separated from his family
+
+#### 3 July 1793: Louis XVII separated from his family {#louis-xvii}
 
 > On July 3rd, after the prisoners' supper, that is at ten o'clock at night, the municipal representatives on duty at the Temple, Eudes, a stone-cutter, Gagnant, a painter, Veron, a perfumer, Cellier, a semi-official counsel, Deveze, a carpenter, and a certain Arnaud exercising the singular profession of "reader-secretary," appeared before the Queen and read to her the decree of the Committee of Public Safety. . . . "After various earnest entreaties, the widow Capet at last determined to deliver her son, who was then led into the appointed apartment and placed in the hands of **Citizen Simon** who is in charge of it. We would observe moreover that the separation took place with all the sensibility which one would expect under the circumstances, in which the magistrates of the people showed every deference compatible wath the severity of their duty." 
 > <p align="right">—G. Lenôtre, <em>The Dauphin (Louis XVII): The Riddle of the Temple</em> (1921)
 
+[#contents](#contents) <br/> <br/> 
 
-#### <br/> 13 July 1793: Assassination of Marat
+
+#### 13 July 1793: Assassination of Marat {#marat}
 
 >. . . the Girondists who ought to have remained quiet or fought all together, did not do so, and, after the 2nd of June, all the moderate men of the party remained under the decree of arrest: the others escaped. Vergniaud, Gensonne, Ducos, Fonfrede, etc., were among the first; Petion, Barbaroux, Guadet, Louvet, Buzot, and Lanjuinais, among the latter.  They repaired to Evreux, in the department de l’Eure, where Buzot had much influence, and thence to Caen, in Calvados. These made this town the centre of the insurrection. &nbsp;[FAM]
 
@@ -462,7 +514,7 @@ In the film, the exiled Pétion orates to a crowd in Caen, among whom stands **C
 
 > From there, a young, beautiful, and courageous woman, Charlotte Corday, went to punish Marat, the principal author of the 31st of May, and the 2nd of June. She hoped to save the republic by sacrificing herself to its cause. But tyranny did not rest with one man; it belonged to a party, and to the violent situation of the republic. Charlotte Corday, after executing her generous but vain design, died with unchanging calmness, modest courage, and the satisfaction of having done well. But Marat, after his assassination, became a greater object of enthusiasm with the people than he had been while living. He was invoked on all the public squares; his bust was placed in all the popular societies, and the convention was obliged to grant him the honours of the Pantheon. &nbsp;[FAM]
 
-![Marat](/assets/img/revolution/marat.jpg)
+![Petion](/assets/img/revolution/petion.png)
 
 In Marat's room, we also see **Catherine Évrard** (Isabelle Lafon), Simone Évrard's sister, and Catherine's husband **Jean Antoine Corne**, typographer of _L'Ami du peuple_.
 
@@ -471,7 +523,9 @@ Robespierre delivers his funeral speech in before the Jacobins on 14 July, the d
 > Ce n'est point aujourd'hui qu'il faut donner au peuple le spectacle d'une pompe funèbre, mais quand enfin victorieux, la République affermie nous permettra de nous occuper de ses défenseurs, toute la France alors les demandera, et vous accorderez sans doute à Marat les honneurs que sa vertu mérite, que sa mémoire exige. 
 > <p align="right">—<em>Œuvres de Maximilien Robespierre</em>, Tome IX
 
-_Nevertheless, the Law of the General Maximum was not instituted until 29 September, and was irrelevant to the funeral speech._ <br/><br/>
+_Nevertheless, the Law of the General Maximum was not instituted until 29 September, and was irrelevant to the funeral speech._ 
+
+[#contents](#contents) <br/> <br/> 
 
 
 <p align="right">

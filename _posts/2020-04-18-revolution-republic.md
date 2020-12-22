@@ -25,7 +25,7 @@ tags: history film
 
 #### <br/> October 1789 – April 1792: Invention of the Guillotine {#guillotine}
 
-Under the title "July 1790", in the peaceful [Jardin des Tuileries](https://en.wikipedia.org/wiki/Tuileries_Garden) after the storms, we hear the musix box playing the [Overture]((https://www.youtube.com/watch?v=aDlEAAe28WQ)) of _Le nozze di Figaro_, K. 492 by Wolfgang Amadeus Mozart (1786).
+Under the title "July 1790," in the peaceful [Jardin des Tuileries](https://en.wikipedia.org/wiki/Tuileries_Garden) after the storms, we hear the musix box playing the [Overture]((https://www.youtube.com/watch?v=aDlEAAe28WQ)) of _Le nozze di Figaro_, K. 492 by Mozart (1786).
 
 ![Tuileries](/assets/img/revolution/tuileries.png)
 
@@ -43,7 +43,7 @@ Yet the short dialogue between Louis XVI and Dr. **Joseph Ignace Guillotin** (Ja
 > Charles Henri Sanson informed Guillotin of the discovery. If the people gave the name of guillotine to the new instrument of execution—although, I need hardly repeat, the doctor was not the real inventor of it—it was simply a act of justice; for it was owing to his efforts that decapitation and the machine used for its infliction were adopted. 
 >
 > He described the new apparatus in the sitting of April 31, 1791. . . . The Assembly at length appointed Dr. Antoine Louis to enquire into the new mode of decapitation. 
-> <p align="right">—<em>Memoirs of the Sansons, from Private Notes and Documents 1688–1847</em>, Vol. 1 (1876)
+> <p align="right">—<em>Memoirs of the Sansons, from Private Notes and Documents 1688–1847</em>, vol. 1 (1876)
 
 The participation of Louis XVI in the modification of this machine can be found in the memoir of Charles-Henri Sanson, who later guillotined the King as well as Danton, Camille Desmoulins, and Robespierre.
 
@@ -62,7 +62,7 @@ The participation of Louis XVI in the modification of this machine can be found 
 > The King smiled with an air of satisfaction, and taking a pen which lay on the table, he rectified the plan, and substituted an oblique line for the crescent. 
 >
 >'I may be mistaken, after all,' he added; 'the two shapes should be tried when the experiments are made.' 
-> <p align="right">—<em>Memoirs of the Sansons</em>, Vol. 1 (1876)
+> <p align="right">—<em>Memoirs of the Sansons</em>, vol. 1 (1876)
 
 ![Guillotine](/assets/img/revolution/guillotine.png)
 
@@ -93,7 +93,7 @@ The confidential letters mentioned in the dialogue refer to Mirabeau's _Notes to
 
 > In the afternoon M. Goguenot returned. He had 
 still the seals of France about him, and he brought me a statement of all he had burnt. . . . The most voluminous was that from Mirabeau. It was tied up with a scheme for an escape, which he thought necessary. 
-> <p align="right">—<em>Memoirs of Madame Campan</em>, Vol. 2 (1909)
+> <p align="right">—<em>Memoirs of Madame Campan</em>, vol. 2 (1909)
 
 [#contents](#contents) <br /> <br /> 
 
@@ -173,7 +173,7 @@ These impeachments proved succesful: Minister of War **Jean-Frédéric de La Tou
 
 #### 28 December 1790: Marriage of Lucile and Camille Desmouslins {#marriage}
 
-The couple wed at the Church of Saint-Sulpice, witnessed by Lucile's parents and Camille's political friends—Robespierre, **Jacques Pierre Brissot** (Jean-Pierre Stewart, in black vest), **Jérôme Pétion de Villeneuve** (Daniel Briquet, in olive vest), etc. Robespierre removes Lucile's garter inscribed with "Unissons nous pour la vie."  
+The couple wed at the Church of Saint-Sulpice, witnessed by Lucile's parents and Camille's political friends—Robespierre, **Jacques Pierre Brissot** (Jean-Pierre Stewart, in black vest), **Jérôme Pétion de Villeneuve** (Daniel Briquet, in olive vest), etc. Lucile's garter is inscribed with "Unissons nous pour la vie."  
 
 ![Wedding](/assets/img/revolution/wedding.png)
 
@@ -204,7 +204,7 @@ On 12 July 1790, two days before the _Fête de la Fédération_, the National Co
 >
 > Ultimately, only a handful of bishops and perhaps half the parish clergy took this oath. A large number of the latter subsequently retracted when, in April 1791, the pope, also antagonized by the absorption of his lands in and around Avignon into the new nation, condemned the Civil Constitution and the Declaration of the Rights of Man as inimical to a Christian life. He counselled the clergy of France to regard the constitutional clergy as heretics. &nbsp;[PM]
 
-This is the represented dilemma of Louis XVI and the envoy of Pope Pius VI, as well as the cause of the public violence on reactionary priests. 
+This is the represented dilemma of Louis XVI and the envoy of Pope Pius VI, as well as the cause of the public violence on reactionary priests, in the midst of which we hear ["Ça ira"](https://www.youtube.com/watch?v=81rBLK-PWHs) played on a pipe organ. 
 
 >In Paris the Pope was burned in effigy and hostile crowds prevented refractory priests and their congregations from exercising the freedom of worship vouchsafed as one of the Rights of Man and the Citizen. . . . 
 >
@@ -218,6 +218,8 @@ Slightly earlier, we see a short scene in which Marat and his mistress and futur
 #### 20–21 June 1791: Flight to Varennes {#varennes}
 
 > The arrangements were made by the queen’s devoted admirer, the Swedish adventurer Count Axel von Fersen. Through him Bouillé was contacted: he promised to provide military escorts when the royal fugitives made the dash for Montmédy, close to the Luxembourg frontier. . . . On the night of 20 June they slipped out of the Tuileries, past guards which had been doubled at renewed rumours of just such an attempt. Despite delays, they got clean away.  &nbsp;[WD]
+
+![Fersen](/assets/img/revolution/fersen.png)
 
 On the carriage are the King, the Queen, the Dauphin, Madame Royale, Madame Élisabeth, and marquise de Tourzel.
 
@@ -244,6 +246,9 @@ The scene is changed to the Cordeliers Convent for the third time (after the daw
 
 > The decision (the renewed confidence in Louis XVI as the head of the executive power) led to a breach in the ranks of he democrats. A protest demonstration, called for in a petition drafted by the Cordeliers Club on 16 July, was approved by the Jacobin Club; but the same evening, on Robespierre's initiative, the Jacobins withdrew their support. The Cordeliers, now faced with alternative of cancelling the demonstration or of going ahead on their own, decided on the latter course. The result as the petition of 17 July, drafted by François Robert and couched in more radical terms: while not specifically demanding a Republic, it called on the Assembly ‘de convoquer un nonveau corps constituant pour procéder au remplacement et à l’organisation d’un nouveau pouvoir exécutif’. . . . societies and clubs were invited . . . to march to the Champ de Mars to hold a peaceful demonstration.
 > <p align="right">—George F. E. Rudé, <em>The Crowd in the French Revolution</em> (1972)
+
+![Danton and Robespierre](/assets/img/revolution/danton-robespierre1.png)
+
 
 However, an incident led to Bailly's proclaimation of martial law and the subsequent massacre:
 
@@ -302,13 +307,17 @@ In reponse to Brissot's speeches on 29 and 30 December, Robespierre addressed at
 
 The session is presided over by **Félix-Julien-Jean Bigot de Préameneu**. 
 
+![Austria](/assets/img/revolution/austria.png)
+
+![Robespierre](/assets/img/revolution/robespierre1.png)
+
 [#contents](#contents) <br/> <br/> 
 
 
 #### 29 April 1792: Battle of Marquain {#marquain}
 
 >On the Frontiers, our Armies, be it treason or not, behave in the worst way. Troops badly commanded, shall we say? Or troops intrinsically bad? Unappointed, undisciplined, mutinous; that, in a thirty-years peace, have never seen fire ? In any case, Lafayette's and Rochambeau's little clutch, which they made at Austrian Flanders, has prospered as badly as clutch need do: soldiers starting at their own shadow; suddenly sheirking, '_On nous trahit,_' and flying off in wild panic, at or before the first shot; managing only to hang some two or three prisoners they had picked up, and massacre their own Commander, poor **Theobald Dillon**, driven into a granary by them in the Town of Lille. 
-> <p align="right">—Thomas Carlyle, <em>The French Revolution: A History</em>, Vol. 2 (1923)
+> <p align="right">—Thomas Carlyle, <em>The French Revolution: A History</em>, vol. 2 (1923)
 
 The Austrian troop defeating the French at Marquain, Belgium are commanded by **Louis-François de Civalart** (Tomasz Bialkowski). 
 
@@ -346,6 +355,8 @@ In early July, the pressure of the coalition of foreign European powers forced t
 >
 > . . . on the 5th July the assembly pronounced the solemn declaration: _Citizens, the country is in danger!_ All the civil authorities immediately established themselves _en surveillance permanente._ All citizens able to bear arms, and having already served in the national guard, were placed in active service; every one was obliged to make known what arms and ammunition he possessed; pikes were given to those who were unable to procure guns; battalions of volunteers were enrolled on the public squares, in the midst of which banners were placed, bearing the words—“Citizens, the country is in danger!”  &nbsp;[FAM]
 
+![Vergniaud](/assets/img/revolution/vergniaud.png)
+
 *In the film, the order of Brunswick Manifesto and* La Patrie en danger *is reversed. The speech of* **Pierre Victurnien Vergniaud** (Steve Gadler) *was even earlier—on 3 July.* 
 
 On the same day as the official declaration, Robespierre delivered his _Aux Fédérés_ address at the Club des Jacobins, calling for the protection of their homeland. On 17 July, he presented the _Pétition des Fédérés_ to the Assembly. The speech described in the film probably refers to his _Réflexions sur la manière dont on fait la guerre_ published around the same time:
@@ -361,6 +372,8 @@ On the same day as the official declaration, Robespierre delivered his _Aux Féd
 An excerpt of the original text of the manifesto issued from Coblenz by **Karl Wilhelm Ferdinand von Braunschweig-Wolfenbüttel** (Hans Meyer), commander of the Austrian–Prussian army is read by its drafter Axel von Fersen:
 
 > . . . s'il est fait la moindre violence, le moindre outrage à leurs Majestés, le roi, la reine et la famille royale, s'il n'est pas pourvu immédiatement à leur sûreté, à leur conservation et à leur liberté, elles en tireront une vengeance exemplaire et à jamais mémorable, en livrant la ville de Paris à une exécution militaire et à une subversion totale, et les révoltés coupables d'attentats aux supplices qu'ils auront mérités.
+
+![Brunswick](/assets/img/revolution/brunswick.png)
 
 Meanwhile, the whole France is motivated into the state of People's War. 
 
@@ -387,7 +400,7 @@ Meanwhile, Danton succeeds in transferring the _fédérés_ from Marseilles into
 > President Danton, in the Cordeliers Section, does another
 thing: invites all Passive Citizens to take place among the
 Active in Section-business, one peril threatening all. Thus he, though an official person; cloudy Atlas of the whole. Likewise he manages to have that blackbrowed Battalion of Marseillese shifted to new Barracks, in his own region of the remote Southeast.
-> <p align="right">—Thomas Carlyle, <em>The French Revolution: A History</em>, Vol. 2 (1923)
+> <p align="right">—Thomas Carlyle, <em>The French Revolution: A History</em>, vol. 2 (1923)
 
 The night before the rebellion is painted with some humanistic color:
 
@@ -411,7 +424,7 @@ quarter before twelve the mournful notes of the great bell of the Cordeliers wit
 ears of the expectant city. . . .
 >
 >By three o'clock in the morning nineteen sections were represented by their commissioners at the Hôtel de Ville. By seven there were eighty-four commissioners, represent ing twenty-eight sections. They called themselves “the new commune” and installed themselves in a hall adjoining the one in which the council general was still sitting.
-> <p align="right">—George H. Allen, <em>The French Revolution</em>, Vol. 2 (1923)
+> <p align="right">—George H. Allen, <em>The French Revolution</em>, vol. 2 (1923)
 
 **Antoine Galiot Mandat de Grancey** (mentioned), commander-in-chief of the Garde nationale, is murdered by the insurgents at the Hôtel de Ville. At dawn, convinced by 
 **Pierre-Louis Rœderer** (Jerry Di Giacomo), procureur général of the départment of Paris,  the royal family decide to take refuge in the National Assembly, which is in permant session.

@@ -5,7 +5,7 @@ title: In the Name of Liberté&colon;&nbsp; II. The Sunset of Monarchy
 
 subtitle: “La liberté consiste à pouvoir faire tout ce qui ne nuit pas à autrui”
 
-excerpt: Invention of the Guillotine—Secret letters of Mirabeau—<em>Fête de la Fédération</em>—Nancy Mutiny—Death of Mirabeau—<em>Civil Constitution of the Clery</em>—Flight to Varennes—Champ-de-Mars massacre—Constitution of 1791—War debate—Declaration of war on Austria—Demonstration of 20 June 1792—<em>La Patrie en danger</em>—Brunswick Manifesto—Insurrection of 10 August <br />
+excerpt: Invention of the Guillotine—Secret letters of Mirabeau—<em>Fête de la Fédération</em>—Nancy Mutiny—Death of Mirabeau—<em>Constitution civile du clergé</em>—Flight to Varennes—Champ-de-Mars massacre—Constitution of 1791—War debate—Declaration of war on Austria—Demonstration of 20 June 1792—<em>La Patrie en danger</em>—Brunswick Manifesto—Insurrection of 10 August <br />
 
 tags: history film
 ---
@@ -19,13 +19,13 @@ tags: history film
 
 ### <br/> Contents {#contents}
 
-[Invention of the Guillotine](#guillotine)—[Secret letters of Mirabeau](#mirabeau-queen)—[<em>Fête de la Fédération</em>](#fete)—[Nancy Mutiny](#nancy)—[Death of Mirabeau](#mirabeau-death)—[<em>Civil Constitution of the Clery</em>](#clery)—[Flight to Varennes](#varennes)—[Champ-de-Mars massacre](#champ-de-mars)—[Constitution of 1791](#constitution)—[War debate](#war)—[Declaration of war on Austria](#austria)—[Demonstration of 20 June 1792](#sans-culottes)—[<em>La Patrie en danger</em>](#danger)—[Brunswick Manifesto](#brunswick)—[Insurrection of 10 August](#insurrection) <br /><br/>
+[Invention of the Guillotine](#guillotine)—[Secret letters of Mirabeau](#mirabeau-queen)—[<em>Fête de la Fédération</em>](#fete)—[Nancy Mutiny](#nancy)—[Death of Mirabeau](#mirabeau-death)—[<em>Constitution civile du clergé</em>](#clery)—[Flight to Varennes](#varennes)—[Champ-de-Mars massacre](#champ-de-mars)—[Constitution of 1791](#constitution)—[War debate](#war)—[Declaration of war on Austria](#austria)—[Demonstration of 20 June 1792](#sans-culottes)—[<em>La Patrie en danger</em>](#danger)—[Brunswick Manifesto](#brunswick)—[Insurrection of 10 August](#insurrection) <br /><br/>
 
 ----
 
 #### <br/> October 1789 – April 1792: Invention of the Guillotine {#guillotine}
 
-Under the title "July 1790," in the peaceful [Jardin des Tuileries](https://en.wikipedia.org/wiki/Tuileries_Garden) after the storms, we hear the musix box playing the [Overture]((https://www.youtube.com/watch?v=aDlEAAe28WQ)) of _Le nozze di Figaro_, K. 492 by Mozart (1786).
+Under the title "July 1790," in the peaceful [Jardin des Tuileries](https://en.wikipedia.org/wiki/Tuileries_Garden) after the storms, we hear the musix box playing the [Overture]((https://www.youtube.com/watch?v=aDlEAAe28WQ)) of _Le nozze di Figaro_, K. 492, a Mozart opera composed and premiered in 1786 based on the 1778 comedy _La Folle Journée, ou le Mariage de Figaro_ by Pierre Beaumarchais.
 
 ![Tuileries](/assets/img/revolution/tuileries.png)
 
@@ -111,7 +111,9 @@ During the construction scene involving Parisians from all occupations, the choi
 
 Camille and Lucile Desmoulins get engaged. This is however an anachronism: _in reality, M. and M<sup>me</sup> Duplessis did not sent their blessing until December 1790._ 
 
-Another few "rearrangements": _Danton was elected as a member of the Provisional Commune of Paris in January 1790, but the No. 46 of Camille Desmoulins's_ Révolutions de France et de Brabant _was published on 5 October 1790—the first Anniversary of the October Days. Desmoulins's famous_ Discours de la Lanterne aux Parisiens—_the defense of political violence that earned him the title "procureur-général de la lanterne"—was nonetheless published in September 1789._
+Another few "rearrangements": _Danton was elected as a member of the Provisional Commune of Paris in January 1790, but the No. 46 of Camille Desmoulins's_ Révolutions de France et de Brabant _was published on 5 October 1790—the first Anniversary of the October Days. Desmoulins's famous_ [Discours de la Lanterne aux Parisiens](https://fr.wikisource.org/wiki/Oeuvres_de_Camille_Desmoulins_-_Tome_2/Le_Discours_de_la_Lanterne)—_the defense of political violence that earned him the title "procureur-général de la lanterne"—was nonetheless published in September 1789._
+
+![Barbant](/assets/img/revolution/barbant.png)
 
 All of them are asynchronized with the preparation of _Fête de la Fédération_.
 
@@ -135,6 +137,8 @@ The ceremony concludes the events in the first year of the Revolution.
 ![Nancy](/assets/img/revolution/nancy.png)
 
 The execution scene described in the film, where **François Claude Amour, marquis de Bouillé** (Jean Boissery) sends the signal to the soldiers of the Swiss Régiment de Castella and Régiment de Vigier, happen on 4 September, when 22 mutineers from the Swiss Régiment de Châteauvieux are hanged and their ringleader **André Soret** (Matthew Jocelyn) broken on the wheel. 
+
+The scene was filmed in the [La cour des Offices](https://www.chateaudefontainebleau.fr/le-chateau-et-les-jardins-de-fontainebleau/a-la-decouverte-des-cours-et-jardins/#cour-des-offices) of the [Château de Fontainebleau](https://en.wikipedia.org/wiki/Palace_of_Fontainebleau).
 
 [#contents](#contents) <br /> <br/>
 
@@ -168,12 +172,14 @@ The oration of Danton at the National Constituent Assembly in the Salle du Manè
 
 These impeachments proved succesful: Minister of War **Jean-Frédéric de La Tour du Pin Gouvernet** was dismissed on 16 November; so was Keeper of the Seals **Jérôme Champion de Cicé** on 21 November and Minister of Interior Affairs **François-Emmanuel Guignard, comte de Saint-Priest** in January 1791. In his address, Danton yet defended for **Armand Marc, comte de Montmorin Saint-Hérem** (Yvan Varco), Minister of Foreign Affairs and Chief Minister, who is essentially the agent of Mirabeau regarding government affairs. 
 
+For the first time, we see the National Constituent Assembly convening in the [Salle du Manège](https://en.wikipedia.org/wiki/Salle_du_Man%C3%A8ge), its new location since 6 October 1789.
+
 [#contents](#contents)<br/> <br/>
 
 
 #### 28 December 1790: Marriage of Lucile and Camille Desmouslins {#marriage}
 
-The couple wed at the Church of Saint-Sulpice, witnessed by Lucile's parents and Camille's political friends—Robespierre, **Jacques Pierre Brissot** (Jean-Pierre Stewart, in black vest), **Jérôme Pétion de Villeneuve** (Daniel Briquet, in olive vest), etc. Lucile's garter is inscribed with "Unissons nous pour la vie."  
+The couple wed at the [Church of Saint-Sulpice](https://en.wikipedia.org/wiki/Saint-Sulpice,_Paris), witnessed by Lucile's parents and Camille's political friends—Robespierre, **Jacques Pierre Brissot** (Jean-Pierre Stewart, in black vest), **Jérôme Pétion de Villeneuve** (Daniel Briquet, in olive vest), etc. Lucile's garter is inscribed with "Unissons nous pour la vie."  
 
 ![Wedding](/assets/img/revolution/wedding.png)
 
@@ -194,7 +200,7 @@ On 8 Feburary, Mirabeau met La Fayette for the last time discussing the salvatio
 [#contents](#contents) <br/> <br/> 
 
 
-#### April 1791: Resistance to the _Civil Constitution of the Clery_ {#clery}
+#### April 1791: Resistance to the _Constitution civile du clergé_ {#clery}
 
 On 12 July 1790, two days before the _Fête de la Fédération_, the National Constituent Assembly voted on the _Constitution civile du clergé_, which subordinated the French Catholic Church to this revolutionary nation.
 
@@ -211,6 +217,10 @@ This is the represented dilemma of Louis XVI and the envoy of Pope Pius VI, as w
 > The French Revolution had many turning-points; but the oath of the clergy was, if not the greatest, unquestionably one of them. It was certainly the Constituent Assembly’s most serious mistake. For the first time the revolutionaries forced fellow citizens to choose; to declare themselves publicly for or against the new order.  &nbsp;[WD]
 
 Slightly earlier, we see a short scene in which Marat and his mistress and future wife **Simone Évrard** (Louise Boisvert) are printing the 16 April 1791 issue of _L'Ami du peuple_, which incites the popular anguish aginst the church. _However, the real issue number on that day is 431 rather than 118; it mentions no anti-clergy topic; and finally, 16 April 1791 is a Saturday, not Sunday._ 
+
+![Ami](/assets/img/revolution/ami.png)
+
+The modern address of Marat's printing house is 1 Cour du Commerce Saint-André.
 
 [#contents](#contents) <br/> <br/> 
 
@@ -242,7 +252,7 @@ The National Guard officer galloping on the country road to Châlons is **Jean-L
 >The flight to Varennes was the Revolution’s second great turning-point. Like the oath of the clergy, it forced everybody to make choices that most would have preferred not to face. . . . The failure of the attempted escape postponed that danger—but demanded choices of a different order. The monarch had renounced the Revolution, and had explained why at great length in the proclamation he left behind. . . . How could such a man remain head of State? The blackest suspicions of the Parisian populace and radical leaders were confirmed. Republicans now came into the open. All over the capital symbols of royalty were attacked and defaced, and on 24 June the Cordeliers Club delivered a petition to the National Assembly to depose the king or consult the Nation on his fate in a referendum. A crowd of 30,000 escorted its presenters.
 &nbsp;[WD]
 
-The scene is changed to the Cordeliers Convent for the third time (after the dawns of the Bastille Day and the October Days). Marat is addressing to the angry crowds of the Club, now formally the Society of the Friends of the Rights of Man and of the Citizen, founded on 27 April 1790.
+The scene is changed to the Cordeliers Convent for the third time (after the dawns of the Bastille Day and the October Days). Marat is addressing to the raging crowds of the Club, now formally the Society of the Friends of the Rights of Man and of the Citizen, founded on 27 April 1790.
 
 > The decision (the renewed confidence in Louis XVI as the head of the executive power) led to a breach in the ranks of he democrats. A protest demonstration, called for in a petition drafted by the Cordeliers Club on 16 July, was approved by the Jacobin Club; but the same evening, on Robespierre's initiative, the Jacobins withdrew their support. The Cordeliers, now faced with alternative of cancelling the demonstration or of going ahead on their own, decided on the latter course. The result as the petition of 17 July, drafted by François Robert and couched in more radical terms: while not specifically demanding a Republic, it called on the Assembly ‘de convoquer un nonveau corps constituant pour procéder au remplacement et à l’organisation d’un nouveau pouvoir exécutif’. . . . societies and clubs were invited . . . to march to the Champ de Mars to hold a peaceful demonstration.
 > <p align="right">—George F. E. Rudé, <em>The Crowd in the French Revolution</em> (1972)

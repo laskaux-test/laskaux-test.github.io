@@ -5,7 +5,7 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Tue, 22 Dec 2020 04:36:46 -0500</pubDate>
+    <pubDate>Tue, 22 Dec 2020 18:27:14 -0500</pubDate>
     
       <item>
         <title>The Annotated Civilisation&amp;colon;&amp;nbsp; I. An Outline</title>
@@ -293,10 +293,12 @@ Skellig Michael]
 
 &lt;h4 id=&quot;imprisonment&quot;&gt;13 August 1792: Imprisonment of the royal family&lt;/h4&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;As crowds rampaged through Paris destroying all symbols and images of royalty down to the very word ‘king’ in street names, the Legislative Assembly declared the monarchy suspended until a national Convention had met to decide on the future form of government. Only the efforts of Vergniaud averted the abolition of monarchy there and then. But as the king was transferred, under close custody, to the &lt;strong&gt;keep of the Temple&lt;/strong&gt;, a medieval fortress in the north-eastern suburbs, few believed that he would ever sit on the throne again unless with foreign aid.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/revolution/temple.png&quot; alt=&quot;Temple&quot; /&gt;&lt;/p&gt;
 
-  &lt;p&gt;Power now lay not with the Assembly, but with the new Paris commune. The Assembly acted as if it was still in charge: for example it appointed a new team of ministers. The three who had fallen on 13 June were at last restored, tainted though they now were by association with the equivocating Brissotins. But the most sensational appointment was the new &lt;strong&gt;minister of justice, Danton&lt;/strong&gt;, who had built a career entirely in the sectional politics of Paris since 1789, and was brought in explicitly to keep the sansculottes happy. The appointments were made by less than 300 deputies. The majority had simply gone to ground over the previous few weeks, thus further diminishing the Assembly’s authority. During the six weeks left to it, this rump did almost everything the commune wanted.   [WD]&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;As crowds rampaged through Paris destroying all symbols and images of royalty down to the very word ‘king’ in street names, the Legislative Assembly declared the monarchy suspended until a national Convention had met to decide on the future form of government. Only the efforts of Vergniaud averted the abolition of monarchy there and then. But as the king was transferred, under close custody, to the keep of the &lt;a href=&quot;https://commons.wikimedia.org/wiki/File:Tour_du_Temple_circa_1795_Ecole_Francaise_18th_century.jpg&quot;&gt;Temple&lt;/a&gt;, a medieval fortress in the north-eastern suburbs, few believed that he would ever sit on the throne again unless with foreign aid.&lt;/p&gt;
+
+  &lt;p&gt;Power now lay not with the Assembly, but with the new Paris commune. The Assembly acted as if it was still in charge: for example it appointed a new team of ministers. The three who had fallen on 13 June were at last restored, tainted though they now were by association with the equivocating Brissotins. But the most sensational appointment was the new minister of justice, Danton, who had built a career entirely in the sectional politics of Paris since 1789, and was brought in explicitly to keep the sansculottes happy. The appointments were made by less than 300 deputies. The majority had simply gone to ground over the previous few weeks, thus further diminishing the Assembly’s authority. During the six weeks left to it, this rump did almost everything the commune wanted.   [WD]&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Camilles Desmoulins is appointed Secretary-General to Danton.&lt;/p&gt;
@@ -688,7 +690,7 @@ towards Paris. . . .&lt;/p&gt;
 
 &lt;h4 id=&quot;execution&quot;&gt;21 January 1793: Execution of Louis XVI&lt;/h4&gt;
 
-&lt;p&gt;Accompanied by his confessor &lt;strong&gt;Henri Edgeworth de Firmont&lt;/strong&gt; (Richard De Burnchurch), Louis XVI is escorted to the guillotine at the Place de la Révolution (Place de la Concorde). The day was recorded in the memoir of his executioner &lt;strong&gt;Charles-Henri Sanson&lt;/strong&gt; (Christopher Lee):&lt;/p&gt;
+&lt;p&gt;Accompanied by his confessor &lt;strong&gt;Henri Edgeworth de Firmont&lt;/strong&gt; (Richard De Burnchurch), Louis XVI is escorted to the guillotine at the Place de la Révolution (&lt;a href=&quot;https://en.wikipedia.org/wiki/Place_de_la_Concorde&quot;&gt;Place de la Concorde&lt;/a&gt;). The day was recorded in the memoir of his executioner &lt;strong&gt;Charles-Henri Sanson&lt;/strong&gt; (Christopher Lee):&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;It was on December 11, 1792, that the monarch appeared before the Convention, then presided over by Barrère, whose cold and trenchant eloquence was to exercise a decisive influence on the final vote. Sentence was passed on January 17. The surprise caused by the result was so great that the votes were counted a second time ; but on the following day it was ascertained beyond doubt that the sentence passed upon Louis Capet was death.&lt;/p&gt;
@@ -752,7 +754,7 @@ our Saviour.”&lt;/p&gt;
 &lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;The letter mentioned when Danton and Robespierre stroll in the garden of the Château de Champs-sur-Marne was sent on 15 February.&lt;/p&gt;
+&lt;p&gt;The letter mentioned when Danton and Robespierre stroll in the garden of the &lt;a href=&quot;https://en.wikipedia.org/wiki/Ch%C3%A2teau_de_Champs-sur-Marne&quot;&gt;Château de Champs-sur-Marne&lt;/a&gt; was sent on 15 February.&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;strong&gt;Robespierre à Danton&lt;/strong&gt;&lt;/p&gt;
@@ -765,6 +767,8 @@ our Saviour.”&lt;/p&gt;
 
   &lt;p&gt;Robespierre&lt;/p&gt;
 &lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/revolution/danton-robespierre4.png&quot; alt=&quot;Danton and Robespierre&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;#contents&quot;&gt;#contents&lt;/a&gt; &lt;br /&gt; &lt;br /&gt;&lt;/p&gt;
 
@@ -788,7 +792,7 @@ our Saviour.”&lt;/p&gt;
   &lt;p&gt;[AP, Sunday 10 March 1793]&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/revolution/danton-robespierre2.png&quot; alt=&quot;Danton and Robespierre&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/revolution/danton-robespierre3.png&quot; alt=&quot;Danton and Robespierre&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;#contents&quot;&gt;#contents&lt;/a&gt; &lt;br /&gt; &lt;br /&gt;&lt;/p&gt;
 
@@ -812,7 +816,7 @@ our Saviour.”&lt;/p&gt;
   &lt;p&gt;. . . A list of the most obvious candidates for purging had been endorsed by 33 sections on 15 April. It was not, however, until a month later that positive plans began to be laid.   [WD]&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;This is the list of twenty-two arrested in the National Convention session on 2 June presided over by &lt;strong&gt;Marie-Jean Hérault de Séchelles&lt;/strong&gt; (Jean-Philippe Chatrier), among whom are Brissot, Pétion, Vergniaud, &lt;strong&gt;Charles Jean Marie Barbaroux&lt;/strong&gt;, etc.&lt;/p&gt;
+&lt;p&gt;Below is the list of twenty-two arrested in the National Convention session on 2 June presided over by &lt;strong&gt;Marie-Jean Hérault de Séchelles&lt;/strong&gt; (Jean-Philippe Chatrier), among whom are Brissot, Pétion, Vergniaud, &lt;strong&gt;Charles Jean Marie Barbaroux&lt;/strong&gt;, etc.&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;« La Convention nationale décrète que les députés, ses membres, dont les noms suivent, seront mis en état d’arrestation chez eux, et qu’ils y seront, sous la sauvegarde du peuple français et de la Convention nationale, ainsi que de la loyauté des citoyens de Paris :&lt;/p&gt;
@@ -838,13 +842,19 @@ our Saviour.”&lt;/p&gt;
   &lt;p&gt;[AP, Sunday 2 June 1793]&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;The confrontation of Brissot and Danton in the office of the latter is probably a fictional creation. &lt;em&gt;However, the battle between Brissot and Camille Demoulins was well reflected in several pamphlets.&lt;/em&gt; In the film, the one referred to in the exchange of Danton and Robespierre is &lt;em&gt;L’Histoire des Brissotins, ou Fragment de l’histoire secrète de la Révolution&lt;/em&gt;, published by Camille in May 1793, which produced a notable destructive power against the Girondins preceding their eventual fall.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/revolution/couthon.png&quot; alt=&quot;Couthon&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The confrontation of Brissot and Danton in the office of the latter is probably a fictional creation. &lt;em&gt;However, the battle between Brissot and Camille Demoulins was well reflected in several pamphlets.&lt;/em&gt; In the film, the one referred to in the exchange of Danton and Robespierre is &lt;a href=&quot;https://www.google.com/books/edition/Histoire_des_Brissotins_ou_Fragment_de_l/zumtHjSvrgUC?hl=en&amp;amp;gbpv=1&quot;&gt;&lt;em&gt;L’Histoire des Brissotins, ou Fragment de l’histoire secrète de la Révolution&lt;/em&gt;&lt;/a&gt;, published by Camille in May 1793, which produced a notable destructive power against the Girondins preceding their eventual fall.&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;It is undoubted that this pamphlet of Camille’s was written at the direct inspiration of Robespierre. During the greater part of this year of 1793 all the work of the journalist was practically dictated by his friend and colleague, who made use of the medium of Camille’s brilliant style to express his own subtle policy.&lt;/p&gt;
   &lt;p align=&quot;right&quot;&gt;—Violet Methley, &lt;em&gt;Camille Desmoulins: A Biography&lt;/em&gt; (1914)
 &lt;/p&gt;
 &lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/revolution/lucile.png&quot; alt=&quot;Lucile&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/revolution/danton-robespierre2.png&quot; alt=&quot;Danton and Robespierre&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;#contents&quot;&gt;#contents&lt;/a&gt; &lt;br /&gt; &lt;br /&gt;&lt;/p&gt;
 
@@ -910,13 +920,13 @@ our Saviour.”&lt;/p&gt;
 
 &lt;h3 id=&quot;contents&quot;&gt;&lt;br /&gt; Contents&lt;/h3&gt;
 
-&lt;p&gt;&lt;a href=&quot;#guillotine&quot;&gt;Invention of the Guillotine&lt;/a&gt;—&lt;a href=&quot;#mirabeau-queen&quot;&gt;Secret letters of Mirabeau&lt;/a&gt;—&lt;a href=&quot;#fete&quot;&gt;&lt;em&gt;Fête de la Fédération&lt;/em&gt;&lt;/a&gt;—&lt;a href=&quot;#nancy&quot;&gt;Nancy Mutiny&lt;/a&gt;—&lt;a href=&quot;#mirabeau-death&quot;&gt;Death of Mirabeau&lt;/a&gt;—&lt;a href=&quot;#clery&quot;&gt;&lt;em&gt;Civil Constitution of the Clery&lt;/em&gt;&lt;/a&gt;—&lt;a href=&quot;#varennes&quot;&gt;Flight to Varennes&lt;/a&gt;—&lt;a href=&quot;#champ-de-mars&quot;&gt;Champ-de-Mars massacre&lt;/a&gt;—&lt;a href=&quot;#constitution&quot;&gt;Constitution of 1791&lt;/a&gt;—&lt;a href=&quot;#war&quot;&gt;War debate&lt;/a&gt;—&lt;a href=&quot;#austria&quot;&gt;Declaration of war on Austria&lt;/a&gt;—&lt;a href=&quot;#sans-culottes&quot;&gt;Demonstration of 20 June 1792&lt;/a&gt;—&lt;a href=&quot;#danger&quot;&gt;&lt;em&gt;La Patrie en danger&lt;/em&gt;&lt;/a&gt;—&lt;a href=&quot;#brunswick&quot;&gt;Brunswick Manifesto&lt;/a&gt;—&lt;a href=&quot;#insurrection&quot;&gt;Insurrection of 10 August&lt;/a&gt; &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;#guillotine&quot;&gt;Invention of the Guillotine&lt;/a&gt;—&lt;a href=&quot;#mirabeau-queen&quot;&gt;Secret letters of Mirabeau&lt;/a&gt;—&lt;a href=&quot;#fete&quot;&gt;&lt;em&gt;Fête de la Fédération&lt;/em&gt;&lt;/a&gt;—&lt;a href=&quot;#nancy&quot;&gt;Nancy Mutiny&lt;/a&gt;—&lt;a href=&quot;#mirabeau-death&quot;&gt;Death of Mirabeau&lt;/a&gt;—&lt;a href=&quot;#clery&quot;&gt;&lt;em&gt;Constitution civile du clergé&lt;/em&gt;&lt;/a&gt;—&lt;a href=&quot;#varennes&quot;&gt;Flight to Varennes&lt;/a&gt;—&lt;a href=&quot;#champ-de-mars&quot;&gt;Champ-de-Mars massacre&lt;/a&gt;—&lt;a href=&quot;#constitution&quot;&gt;Constitution of 1791&lt;/a&gt;—&lt;a href=&quot;#war&quot;&gt;War debate&lt;/a&gt;—&lt;a href=&quot;#austria&quot;&gt;Declaration of war on Austria&lt;/a&gt;—&lt;a href=&quot;#sans-culottes&quot;&gt;Demonstration of 20 June 1792&lt;/a&gt;—&lt;a href=&quot;#danger&quot;&gt;&lt;em&gt;La Patrie en danger&lt;/em&gt;&lt;/a&gt;—&lt;a href=&quot;#brunswick&quot;&gt;Brunswick Manifesto&lt;/a&gt;—&lt;a href=&quot;#insurrection&quot;&gt;Insurrection of 10 August&lt;/a&gt; &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
 &lt;h4 id=&quot;guillotine&quot;&gt;&lt;br /&gt; October 1789 – April 1792: Invention of the Guillotine&lt;/h4&gt;
 
-&lt;p&gt;Under the title “July 1790,” in the peaceful &lt;a href=&quot;https://en.wikipedia.org/wiki/Tuileries_Garden&quot;&gt;Jardin des Tuileries&lt;/a&gt; after the storms, we hear the musix box playing the &lt;a href=&quot;(https://www.youtube.com/watch?v=aDlEAAe28WQ)&quot;&gt;Overture&lt;/a&gt; of &lt;em&gt;Le nozze di Figaro&lt;/em&gt;, K. 492 by Mozart (1786).&lt;/p&gt;
+&lt;p&gt;Under the title “July 1790,” in the peaceful &lt;a href=&quot;https://en.wikipedia.org/wiki/Tuileries_Garden&quot;&gt;Jardin des Tuileries&lt;/a&gt; after the storms, we hear the musix box playing the &lt;a href=&quot;(https://www.youtube.com/watch?v=aDlEAAe28WQ)&quot;&gt;Overture&lt;/a&gt; of &lt;em&gt;Le nozze di Figaro&lt;/em&gt;, K. 492, a Mozart opera composed and premiered in 1786 based on the 1778 comedy &lt;em&gt;La Folle Journée, ou le Mariage de Figaro&lt;/em&gt; by Pierre Beaumarchais.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/img/revolution/tuileries.png&quot; alt=&quot;Tuileries&quot; /&gt;&lt;/p&gt;
 
@@ -1014,7 +1024,9 @@ Malgré les mutins tout réussira !&lt;/p&gt;
 
 &lt;p&gt;Camille and Lucile Desmoulins get engaged. This is however an anachronism: &lt;em&gt;in reality, M. and M&lt;sup&gt;me&lt;/sup&gt; Duplessis did not sent their blessing until December 1790.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;Another few “rearrangements”: &lt;em&gt;Danton was elected as a member of the Provisional Commune of Paris in January 1790, but the No. 46 of Camille Desmoulins’s&lt;/em&gt; Révolutions de France et de Brabant &lt;em&gt;was published on 5 October 1790—the first Anniversary of the October Days. Desmoulins’s famous&lt;/em&gt; Discours de la Lanterne aux Parisiens—&lt;em&gt;the defense of political violence that earned him the title “procureur-général de la lanterne”—was nonetheless published in September 1789.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Another few “rearrangements”: &lt;em&gt;Danton was elected as a member of the Provisional Commune of Paris in January 1790, but the No. 46 of Camille Desmoulins’s&lt;/em&gt; Révolutions de France et de Brabant &lt;em&gt;was published on 5 October 1790—the first Anniversary of the October Days. Desmoulins’s famous&lt;/em&gt; &lt;a href=&quot;https://fr.wikisource.org/wiki/Oeuvres_de_Camille_Desmoulins_-_Tome_2/Le_Discours_de_la_Lanterne&quot;&gt;Discours de la Lanterne aux Parisiens&lt;/a&gt;—&lt;em&gt;the defense of political violence that earned him the title “procureur-général de la lanterne”—was nonetheless published in September 1789.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/revolution/barbant.png&quot; alt=&quot;Barbant&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;All of them are asynchronized with the preparation of &lt;em&gt;Fête de la Fédération&lt;/em&gt;.&lt;/p&gt;
 
@@ -1041,6 +1053,8 @@ Malgré les mutins tout réussira !&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;/assets/img/revolution/nancy.png&quot; alt=&quot;Nancy&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The execution scene described in the film, where &lt;strong&gt;François Claude Amour, marquis de Bouillé&lt;/strong&gt; (Jean Boissery) sends the signal to the soldiers of the Swiss Régiment de Castella and Régiment de Vigier, happen on 4 September, when 22 mutineers from the Swiss Régiment de Châteauvieux are hanged and their ringleader &lt;strong&gt;André Soret&lt;/strong&gt; (Matthew Jocelyn) broken on the wheel.&lt;/p&gt;
+
+&lt;p&gt;The scene was filmed in the &lt;a href=&quot;https://www.chateaudefontainebleau.fr/le-chateau-et-les-jardins-de-fontainebleau/a-la-decouverte-des-cours-et-jardins/#cour-des-offices&quot;&gt;La cour des Offices&lt;/a&gt; of the &lt;a href=&quot;https://en.wikipedia.org/wiki/Palace_of_Fontainebleau&quot;&gt;Château de Fontainebleau&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;#contents&quot;&gt;#contents&lt;/a&gt; &lt;br /&gt; &lt;br /&gt;&lt;/p&gt;
 
@@ -1078,11 +1092,13 @@ Malgré les mutins tout réussira !&lt;/p&gt;
 
 &lt;p&gt;These impeachments proved succesful: Minister of War &lt;strong&gt;Jean-Frédéric de La Tour du Pin Gouvernet&lt;/strong&gt; was dismissed on 16 November; so was Keeper of the Seals &lt;strong&gt;Jérôme Champion de Cicé&lt;/strong&gt; on 21 November and Minister of Interior Affairs &lt;strong&gt;François-Emmanuel Guignard, comte de Saint-Priest&lt;/strong&gt; in January 1791. In his address, Danton yet defended for &lt;strong&gt;Armand Marc, comte de Montmorin Saint-Hérem&lt;/strong&gt; (Yvan Varco), Minister of Foreign Affairs and Chief Minister, who is essentially the agent of Mirabeau regarding government affairs.&lt;/p&gt;
 
+&lt;p&gt;For the first time, we see the National Constituent Assembly convening in the &lt;a href=&quot;https://en.wikipedia.org/wiki/Salle_du_Man%C3%A8ge&quot;&gt;Salle du Manège&lt;/a&gt;, its new location since 6 October 1789.&lt;/p&gt;
+
 &lt;p&gt;&lt;a href=&quot;#contents&quot;&gt;#contents&lt;/a&gt;&lt;br /&gt; &lt;br /&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;marriage&quot;&gt;28 December 1790: Marriage of Lucile and Camille Desmouslins&lt;/h4&gt;
 
-&lt;p&gt;The couple wed at the Church of Saint-Sulpice, witnessed by Lucile’s parents and Camille’s political friends—Robespierre, &lt;strong&gt;Jacques Pierre Brissot&lt;/strong&gt; (Jean-Pierre Stewart, in black vest), &lt;strong&gt;Jérôme Pétion de Villeneuve&lt;/strong&gt; (Daniel Briquet, in olive vest), etc. Lucile’s garter is inscribed with “Unissons nous pour la vie.”&lt;/p&gt;
+&lt;p&gt;The couple wed at the &lt;a href=&quot;https://en.wikipedia.org/wiki/Saint-Sulpice,_Paris&quot;&gt;Church of Saint-Sulpice&lt;/a&gt;, witnessed by Lucile’s parents and Camille’s political friends—Robespierre, &lt;strong&gt;Jacques Pierre Brissot&lt;/strong&gt; (Jean-Pierre Stewart, in black vest), &lt;strong&gt;Jérôme Pétion de Villeneuve&lt;/strong&gt; (Daniel Briquet, in olive vest), etc. Lucile’s garter is inscribed with “Unissons nous pour la vie.”&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/img/revolution/wedding.png&quot; alt=&quot;Wedding&quot; /&gt;&lt;/p&gt;
 
@@ -1106,7 +1122,7 @@ Malgré les mutins tout réussira !&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;#contents&quot;&gt;#contents&lt;/a&gt; &lt;br /&gt; &lt;br /&gt;&lt;/p&gt;
 
-&lt;h4 id=&quot;clery&quot;&gt;April 1791: Resistance to the &lt;em&gt;Civil Constitution of the Clery&lt;/em&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;clery&quot;&gt;April 1791: Resistance to the &lt;em&gt;Constitution civile du clergé&lt;/em&gt;&lt;/h4&gt;
 
 &lt;p&gt;On 12 July 1790, two days before the &lt;em&gt;Fête de la Fédération&lt;/em&gt;, the National Constituent Assembly voted on the &lt;em&gt;Constitution civile du clergé&lt;/em&gt;, which subordinated the French Catholic Church to this revolutionary nation.&lt;/p&gt;
 
@@ -1127,6 +1143,10 @@ Malgré les mutins tout réussira !&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Slightly earlier, we see a short scene in which Marat and his mistress and future wife &lt;strong&gt;Simone Évrard&lt;/strong&gt; (Louise Boisvert) are printing the 16 April 1791 issue of &lt;em&gt;L’Ami du peuple&lt;/em&gt;, which incites the popular anguish aginst the church. &lt;em&gt;However, the real issue number on that day is 431 rather than 118; it mentions no anti-clergy topic; and finally, 16 April 1791 is a Saturday, not Sunday.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/revolution/ami.png&quot; alt=&quot;Ami&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The modern address of Marat’s printing house is 1 Cour du Commerce Saint-André.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;#contents&quot;&gt;#contents&lt;/a&gt; &lt;br /&gt; &lt;br /&gt;&lt;/p&gt;
 
@@ -1167,7 +1187,7 @@ Malgré les mutins tout réussira !&lt;/p&gt;
  [WD]&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;The scene is changed to the Cordeliers Convent for the third time (after the dawns of the Bastille Day and the October Days). Marat is addressing to the angry crowds of the Club, now formally the Society of the Friends of the Rights of Man and of the Citizen, founded on 27 April 1790.&lt;/p&gt;
+&lt;p&gt;The scene is changed to the Cordeliers Convent for the third time (after the dawns of the Bastille Day and the October Days). Marat is addressing to the raging crowds of the Club, now formally the Society of the Friends of the Rights of Man and of the Citizen, founded on 27 April 1790.&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;The decision (the renewed confidence in Louis XVI as the head of the executive power) led to a breach in the ranks of he democrats. A protest demonstration, called for in a petition drafted by the Cordeliers Club on 16 July, was approved by the Jacobin Club; but the same evening, on Robespierre’s initiative, the Jacobins withdrew their support. The Cordeliers, now faced with alternative of cancelling the demonstration or of going ahead on their own, decided on the latter course. The result as the petition of 17 July, drafted by François Robert and couched in more radical terms: while not specifically demanding a Republic, it called on the Assembly ‘de convoquer un nonveau corps constituant pour procéder au remplacement et à l’organisation d’un nouveau pouvoir exécutif’. . . . societies and clubs were invited . . . to march to the Champ de Mars to hold a peaceful demonstration.&lt;/p&gt;
@@ -1548,6 +1568,8 @@ ears of the expectant city. . . .&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;It is not evident how the trajectories of Mirabeau, Danton, Desmoulins, Simon, Legendre, and Marat intersected in early 1789.&lt;/em&gt; Besides delineating the personal histories and dispositions of these characters, these scenes set up the community background of the future Club des Cordeliers.&lt;/p&gt;
 
 &lt;p&gt;While Mirabeau never conceals his passion for a colorful private life, Danton is known to be loyal to his wife &lt;strong&gt;Antoinette Gabrielle Danton&lt;/strong&gt; (Marianne Basler), who, in the film, is carrying their future son Antoine. &lt;em&gt;However, Gabrielle’s pregnancy as depicted seems not synchronized with Antoine’s birth in June 1790.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The modern address of Danton’s apartment is 1 Cour du Commerce Saint-André.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;#contents&quot;&gt;#contents&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -1973,7 +1995,7 @@ duc de la Rochefoucauld-Liancourt, and
   &lt;p&gt;The forces of order, in the shape of Lafayette and 20,000 National Guardsmen, arrived in Versailles later that night after a forced march through an autumnal downpour. Lafayette had been reluctant to come at all, leaving Paris unpoliced and thereby risking accusations that he was in complicity with the demonstrators. But his men insisted, and crowds outside the Hôtel de Ville were muttering about stringing him and Bailly up if they continued to temporize. When he arrived all he could do was try to ensure that what the populace wanted was brought about without disorder, and he formally requested the king, in the name of Paris, to return to the capital with him and take up residence in the Tuileries palace. The king made no promises that night, but early the next morning a number of Parisians found their way into the palace precincts and were fired on by royal bodyguards. Thereupon an enraged mob poured into the palace, massacred two guardsmen, and almost broke into the queen’s apartments. Only prompt action by unco-ordinated units of the National Guard contained them, and Lafayette bundled the royal family onto the palace balcony to stand under his personal protection. The impact on the volatile crowd milling below was favourable, but constant shouts of ‘To Paris!’ made clear that only one thing would really satisfy them. Late in the morning of 6 October the king announced that he would go.   [WD]&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;The mob sneak through the &lt;a href=&quot;http://en.chateauversailles.fr/discover/estate/palace/royal-chapel&quot;&gt;Chapel Gate&lt;/a&gt; in the early morning, kill two guards—&lt;strong&gt;Miomandre de Sainte-Marie&lt;/strong&gt; and &lt;strong&gt;Tardivet du Repaire&lt;/strong&gt;—at the end of the &lt;a href=&quot;http://thisisversaillesmadame.blogspot.com/2013/05/the-queens-marble-staircase.html&quot;&gt;Escalier de Marbre&lt;/a&gt; (Queen’s Marble Staircase), attempt to invade the &lt;a href=&quot;http://en.chateauversailles.fr/discover/estate/palace/queen-apartments#the-queen%E2%80%99s-bedchamber&quot;&gt;Grand Appartement de la Reine&lt;/a&gt; but are stopped in the &lt;a href=&quot;http://en.chateauversailles.fr/discover/estate/palace/queen-apartments#the-queen%E2%80%99s-guard-room&quot;&gt;Queen’s Guard Room&lt;/a&gt;. Marie-Antoinette escapes from the &lt;a href=&quot;http://en.chateauversailles.fr/discover/estate/palace/queen-apartments#the-queen%E2%80%99s-bedchamber&quot;&gt;Chambre de la Reine&lt;/a&gt; and takes refuge in the &lt;a href=&quot;http://en.chateauversailles.fr/discover/estate/kings-apartments&quot;&gt;Grand Appartement du Roi&lt;/a&gt;, accompanied by princesse de Lamballe (in green, &lt;em&gt;yet no historical record for her presence&lt;/em&gt;), and probably &lt;strong&gt;Adélaïde Genet, Madame Auguié&lt;/strong&gt; (in ivory). In the &lt;a href=&quot;http://en.chateauversailles.fr/discover/estate/kings-apartments#the-bull%E2%80%99s-eye-antechamber&quot;&gt;Salon de l’Œil-de-Bœuf&lt;/a&gt;, they unite with Louis and the rest of the royal family—Madame Royale, Louis-Charles, and &lt;strong&gt;Élisabeth de France&lt;/strong&gt; or &lt;strong&gt;Madame Élisabeth&lt;/strong&gt; (Anne Létourneau, in white), Louis’s youngest sister. The childern are attended by their governess &lt;strong&gt;Louise-Élisabeth de Croÿ, marquise de Tourzel&lt;/strong&gt; (Louise Latraverse). Later, Madame Auguié told this waking nightmare to her sister Jeanne-Louise-Henriette Campan, Première femme de Chambre:&lt;/p&gt;
+&lt;p&gt;The mob sneak through the gate near the &lt;a href=&quot;http://en.chateauversailles.fr/discover/estate/palace/royal-chapel&quot;&gt;Chapelle royale&lt;/a&gt; in the early morning, kill two guards—&lt;strong&gt;Miomandre de Sainte-Marie&lt;/strong&gt; and &lt;strong&gt;Tardivet du Repaire&lt;/strong&gt;—at the end of the &lt;a href=&quot;http://thisisversaillesmadame.blogspot.com/2013/05/the-queens-marble-staircase.html&quot;&gt;Escalier de Marbre&lt;/a&gt; (Queen’s Marble Staircase), attempt to invade the &lt;a href=&quot;http://en.chateauversailles.fr/discover/estate/palace/queen-apartments#the-queen%E2%80%99s-bedchamber&quot;&gt;Grand Appartement de la Reine&lt;/a&gt; but are stopped in the &lt;a href=&quot;http://en.chateauversailles.fr/discover/estate/palace/queen-apartments#the-queen%E2%80%99s-guard-room&quot;&gt;La salle des Gardes&lt;/a&gt;. Marie-Antoinette escapes from the &lt;a href=&quot;http://en.chateauversailles.fr/discover/estate/palace/queen-apartments#the-queen%E2%80%99s-bedchamber&quot;&gt;Chambre de la Reine&lt;/a&gt; and takes refuge in the &lt;a href=&quot;http://en.chateauversailles.fr/discover/estate/kings-apartments&quot;&gt;Grand Appartement du Roi&lt;/a&gt;, accompanied by princesse de Lamballe (in green, &lt;em&gt;yet no historical record for her presence&lt;/em&gt;), and probably &lt;strong&gt;Adélaïde Genet, Madame Auguié&lt;/strong&gt; (in ivory). In the &lt;a href=&quot;http://en.chateauversailles.fr/discover/estate/kings-apartments#the-bull%E2%80%99s-eye-antechamber&quot;&gt;Salon de l’Œil-de-Bœuf&lt;/a&gt;, they unite with Louis and the rest of the royal family—Madame Royale, Louis-Charles, and &lt;strong&gt;Élisabeth de France&lt;/strong&gt; or &lt;strong&gt;Madame Élisabeth&lt;/strong&gt; (Anne Létourneau, in white), Louis’s youngest sister. The childern are attended by their governess &lt;strong&gt;Louise-Élisabeth de Croÿ, marquise de Tourzel&lt;/strong&gt; (Louise Latraverse). Later, Madame Auguié told this waking nightmare to her sister Jeanne-Louise-Henriette Campan, Première femme de Chambre:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;About half-past four in the morning they heard horrible yells and discharges of firearms; one ran to the Queen to awaken her and get her out of bed; my sister flew to the place from which the tumult seemed to proceed; she opened the door of the antechamber which leads to the great guard-room, and beheld one of the Body Guard holding his musket across the door, and attacked by a mob, who were striking at him; his face was covered with blood; he turned round and exclaimed: “Save the Queen, madame; they are come to assassinate her!” She hastily shut the door upon the unfortunate victim of duty, fastened it with the great bolt, and took the same precaution on leaving the next room. On reaching the Queen’s chamber she cried out to her, “Get up, Madame! Don’t stay to dress yourself; fly to the King’s apartment!” The terrified Queen threw herself out of bed; they put a petticoat upon her without tying it, and the two ladies conducted her towards the oeil-de-boeuf. A door, which led from the Queen’s dressing-room to that apartment, had never before been fastened but on her side. What a dreadful moment! It was found to be secured on the other side. They knocked repeatedly with all their strength; a servant of one of the King’s valets de chambre came and opened it; the Queen entered the King’s chamber, but he was not there. Alarmed for the Queen’s life, he had gone down the staircases and through the corridors under the oeil-de-boeuf, by means of which he was accustomed to go to the Queen’s apartments without being under the necessity of crossing that room. He entered her Majesty’s room and found no one there but some Body Guards, who had taken refuge in it. The King, unwilling to expose their lives, told them to wait a few minutes, and afterwards sent to desire them to go to the oeil-de-boeuf. Madame de Tourzel, at that time governess of the children of France, had just taken Madame and the Dauphin to the King’s apartments. The Queen saw her children again. The reader must imagine this scene of tenderness and despair.&lt;/p&gt;

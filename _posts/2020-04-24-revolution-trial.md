@@ -32,9 +32,11 @@ The second half of _La Révolution française_ covers the first two years of the
 
 #### 13 August 1792: Imprisonment of the royal family {#imprisonment}
 
->As crowds rampaged through Paris destroying all symbols and images of royalty down to the very word ‘king’ in street names, the Legislative Assembly declared the monarchy suspended until a national Convention had met to decide on the future form of government. Only the efforts of Vergniaud averted the abolition of monarchy there and then. But as the king was transferred, under close custody, to the **keep of the Temple**, a medieval fortress in the north-eastern suburbs, few believed that he would ever sit on the throne again unless with foreign aid.
+![Temple](/assets/img/revolution/temple.png)
+
+>As crowds rampaged through Paris destroying all symbols and images of royalty down to the very word ‘king’ in street names, the Legislative Assembly declared the monarchy suspended until a national Convention had met to decide on the future form of government. Only the efforts of Vergniaud averted the abolition of monarchy there and then. But as the king was transferred, under close custody, to the keep of the [Temple](https://commons.wikimedia.org/wiki/File:Tour_du_Temple_circa_1795_Ecole_Francaise_18th_century.jpg), a medieval fortress in the north-eastern suburbs, few believed that he would ever sit on the throne again unless with foreign aid.
 >
-> Power now lay not with the Assembly, but with the new Paris commune. The Assembly acted as if it was still in charge: for example it appointed a new team of ministers. The three who had fallen on 13 June were at last restored, tainted though they now were by association with the equivocating Brissotins. But the most sensational appointment was the new **minister of justice, Danton**, who had built a career entirely in the sectional politics of Paris since 1789, and was brought in explicitly to keep the sansculottes happy. The appointments were made by less than 300 deputies. The majority had simply gone to ground over the previous few weeks, thus further diminishing the Assembly’s authority. During the six weeks left to it, this rump did almost everything the commune wanted.  &nbsp;[WD]
+> Power now lay not with the Assembly, but with the new Paris commune. The Assembly acted as if it was still in charge: for example it appointed a new team of ministers. The three who had fallen on 13 June were at last restored, tainted though they now were by association with the equivocating Brissotins. But the most sensational appointment was the new minister of justice, Danton, who had built a career entirely in the sectional politics of Paris since 1789, and was brought in explicitly to keep the sansculottes happy. The appointments were made by less than 300 deputies. The majority had simply gone to ground over the previous few weeks, thus further diminishing the Assembly’s authority. During the six weeks left to it, this rump did almost everything the commune wanted.  &nbsp;[WD]
 
 Camilles Desmoulins is appointed Secretary-General to Danton. 
 
@@ -358,7 +360,7 @@ The session on 16–17 January, where deputies including **Lazare Carnot** (Jean
 
 #### 21 January 1793: Execution of Louis XVI {#execution}
 
-Accompanied by his confessor **Henri Edgeworth de Firmont** (Richard De Burnchurch), Louis XVI is escorted to the guillotine at the Place de la Révolution (Place de la Concorde). The day was recorded in the memoir of his executioner **Charles-Henri Sanson** (Christopher Lee):
+Accompanied by his confessor **Henri Edgeworth de Firmont** (Richard De Burnchurch), Louis XVI is escorted to the guillotine at the Place de la Révolution ([Place de la Concorde](https://en.wikipedia.org/wiki/Place_de_la_Concorde)). The day was recorded in the memoir of his executioner **Charles-Henri Sanson** (Christopher Lee):
 
 > It was on December 11, 1792, that the monarch appeared before the Convention, then presided over by Barrère, whose cold and trenchant eloquence was to exercise a decisive influence on the final vote. Sentence was passed on January 17. The surprise caused by the result was so great that the votes were counted a second time ; but on the following day it was ascertained beyond doubt that the sentence passed upon Louis Capet was death.
 >
@@ -417,7 +419,7 @@ A few month later, Danton takes the hand of the young **Louise Gély**, or **Lou
 > Loneliness at his own fireside was the thing that tried him most. "I must have women!" he said on August 26, in reference to his second marriage. What he needed was "one woman," and she a house-wife: I have already spoken of his necessities—a comfortable existence, and love into the bargain.
 > <p align="right">—Louis Madelin, <em>Danton</em> (1921)
 
-The letter mentioned when Danton and Robespierre stroll in the garden of the Château de Champs-sur-Marne was sent on 15 February.
+The letter mentioned when Danton and Robespierre stroll in the garden of the [Château de Champs-sur-Marne](https://en.wikipedia.org/wiki/Ch%C3%A2teau_de_Champs-sur-Marne) was sent on 15 February.
 
 > **Robespierre à Danton** 
 >
@@ -428,6 +430,8 @@ The letter mentioned when Danton and Robespierre stroll in the garden of the Ch�
 >[If, in the troubles that can shake a soul like yours, the certainty of having a tender and devoted friend can offer you some consolation, I offer you this. I love you more than ever and until death. In this moment, I am yourself. Do not close your heart to the accents of friendship that feel all your pain. Let us cry over our friends together, and let us soon show the effects of our deep sorrow to the tyrants who are the originators of our public misfortunes and our private misfortunes. My friend, I have sent you this letter from my heart to Belgium; I would have come to see you, if I had not respected the first moments of your just affliction. Embrace your friend.]
 >
 >Robespierre
+
+![Danton and Robespierre](/assets/img/revolution/danton-robespierre4.png)
 
 [#contents](#contents) <br/> <br/> 
 
@@ -448,7 +452,7 @@ All these crises and measures are sketched in the dialogue of Danton and Robespi
 >
 >[AP, Sunday 10 March 1793]
 
-![Danton and Robespierre](/assets/img/revolution/danton-robespierre2.png)
+![Danton and Robespierre](/assets/img/revolution/danton-robespierre3.png)
 
 [#contents](#contents) <br/> <br/> 
 
@@ -470,7 +474,7 @@ The purge of the Girondin deputies in the National Convention was another major 
 >
 > . . . A list of the most obvious candidates for purging had been endorsed by 33 sections on 15 April. It was not, however, until a month later that positive plans began to be laid.  &nbsp;[WD]
 
-This is the list of twenty-two arrested in the National Convention session on 2 June presided over by **Marie-Jean Hérault de Séchelles** (Jean-Philippe Chatrier), among whom are Brissot, Pétion, Vergniaud, **Charles Jean Marie Barbaroux**, etc.
+Below is the list of twenty-two arrested in the National Convention session on 2 June presided over by **Marie-Jean Hérault de Séchelles** (Jean-Philippe Chatrier), among whom are Brissot, Pétion, Vergniaud, **Charles Jean Marie Barbaroux**, etc.
 
 > « La Convention nationale décrète que les députés, ses membres, dont les noms suivent, seront mis en état d'arrestation chez eux, et qu'ils y seront, sous la sauvegarde du peuple français et de la Convention nationale, ainsi que de la loyauté des citoyens de Paris : 
 >
@@ -490,10 +494,16 @@ The insurgents are led by **François Hanriot** (Jean-Pierre Laurent), **Pierre-
 >
 >[AP, Sunday 2 June 1793]
 
-The confrontation of Brissot and Danton in the office of the latter is probably a fictional creation. _However, the battle between Brissot and Camille Demoulins was well reflected in several pamphlets._ In the film, the one referred to in the exchange of Danton and Robespierre is _L'Histoire des Brissotins, ou Fragment de l'histoire secrète de la Révolution_, published by Camille in May 1793, which produced a notable destructive power against the Girondins preceding their eventual fall. 
+![Couthon](/assets/img/revolution/couthon.png)
+
+The confrontation of Brissot and Danton in the office of the latter is probably a fictional creation. _However, the battle between Brissot and Camille Demoulins was well reflected in several pamphlets._ In the film, the one referred to in the exchange of Danton and Robespierre is [_L'Histoire des Brissotins, ou Fragment de l'histoire secrète de la Révolution_](https://www.google.com/books/edition/Histoire_des_Brissotins_ou_Fragment_de_l/zumtHjSvrgUC?hl=en&gbpv=1), published by Camille in May 1793, which produced a notable destructive power against the Girondins preceding their eventual fall. 
 
 > It is undoubted that this pamphlet of Camille's was written at the direct inspiration of Robespierre. During the greater part of this year of 1793 all the work of the journalist was practically dictated by his friend and colleague, who made use of the medium of Camille's brilliant style to express his own subtle policy. 
 > <p align="right">—Violet Methley, <em>Camille Desmoulins: A Biography</em> (1914)
+
+![Lucile](/assets/img/revolution/lucile.png)
+
+![Danton and Robespierre](/assets/img/revolution/danton-robespierre2.png)
 
 [#contents](#contents) <br/> <br/> 
 

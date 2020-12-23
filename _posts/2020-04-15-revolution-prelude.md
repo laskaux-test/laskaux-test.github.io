@@ -3,7 +3,7 @@ layout: post
 
 title: In the Name of Liberté&colon;&nbsp; I. From Versailles to Paris
 
-subtitle: « Non, sire, c’est une révolution » 
+subtitle: Non, sire, c’est une révolution ! 
 
 excerpt: Royal family in 1788—Summoning the Estates-General of 1789—Elections—Opening of the Estates-General—Tennis Court Oath—<em>Séance royale</em> of 23 June—Riots of 12 July—Storming of the Bastille—Reconciliation of 17 July—<em>Grande Peur</em>—August Decrees—<em>Déclaration des droits de l'homme</em>—Veto debate—<em>Orgie des Gardes du corps</em>—October March on Versailles  <br />
 

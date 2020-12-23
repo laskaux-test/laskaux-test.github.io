@@ -3,7 +3,7 @@ layout: post
 
 title: In the Name of Liberté&colon;&nbsp; III. Reign or Die
 
-subtitle: « Peuple, je meurs innocent » 
+subtitle: Peuple, je meurs innocent ! 
 
 excerpt: Imprisonment of the royal family—Exile of La Fayette—Fall of Longwy and Verdun—September Massacres—Battle of Valmy—Abolition of the monarchy—Trial of Louis XVI—Execution of Louis XVI—Creation of the Revolutionary Tribunal—Arrest and acquittal of Marat—Fall of the Girondins—Assassination of Marat <br />
 

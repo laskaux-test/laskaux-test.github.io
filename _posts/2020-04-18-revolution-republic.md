@@ -3,7 +3,7 @@ layout: post
 
 title: In the Name of Liberté&colon;&nbsp; II. The Sunset of Monarchy
 
-subtitle: « Aux armes, citoyens »
+subtitle: Aux armes, citoyens !
 
 excerpt: Invention of the Guillotine—Secret letters of Mirabeau—<em>Fête de la Fédération</em>—Nancy Mutiny—Death of Mirabeau—<em>Constitution civile du clergé</em>—Flight to Varennes—Champ-de-Mars massacre—Constitution of 1791—War debate—Declaration of war on Austria—Demonstration of 20 June 1792—<em>La Patrie en danger</em>—Brunswick Manifesto—Insurrection of 10 August <br />
 

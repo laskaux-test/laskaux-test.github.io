@@ -3,21 +3,14 @@ layout: post
 
 title: In the Name of Liberté&colon;&nbsp; II. The Sunset of Monarchy
 
-subtitle: “La liberté consiste à pouvoir faire tout ce qui ne nuit pas à autrui”
+subtitle: « Aux armes, citoyens »
 
 excerpt: Invention of the Guillotine—Secret letters of Mirabeau—<em>Fête de la Fédération</em>—Nancy Mutiny—Death of Mirabeau—<em>Constitution civile du clergé</em>—Flight to Varennes—Champ-de-Mars massacre—Constitution of 1791—War debate—Declaration of war on Austria—Demonstration of 20 June 1792—<em>La Patrie en danger</em>—Brunswick Manifesto—Insurrection of 10 August <br />
 
 tags: history film
 ---
 
-> Les Rois veulent être absolus, & de loin on leur crie que le meilleur moyen de l’être est de se faire aimer de leurs peuples. . . . Malheureusement on s’en moquera toujours dans les Cours. La puissance qui vient de l’amour des peuples est sans doute la plus grande ; mais elle est précaire & conditionnelle, jamais les Princes ne s’en contenteront. Les meilleurs Rois veulent pouvoir être méchans s’il leur plait, sans cesser d’être les maitres.
->
-> [Kings desire to be absolute, and men are always crying out to them from afar that the best means of being so is to get themselves loved by their people. . . . Unfortunately, it will always be derided at court. The power which most of a people's love is no doubt the greatest; but it is precarious and conditional, and princes will never rest content with it. The best kings desire to be in a position to be wicked, if they please, without forfeiting their mastery.]
- > <p align="right">—Jean-Jacques Rousseau, <em>Du contrat social ou Principes du droit politique</em>, Livre III (1762)
-
-----
-
-### <br/> Contents {#contents}
+### Contents {#contents}
 
 [Invention of the Guillotine](#guillotine)—[Secret letters of Mirabeau](#mirabeau-queen)—[<em>Fête de la Fédération</em>](#fete)—[Nancy Mutiny](#nancy)—[Death of Mirabeau](#mirabeau-death)—[<em>Constitution civile du clergé</em>](#clery)—[Flight to Varennes](#varennes)—[Champ-de-Mars massacre](#champ-de-mars)—[Constitution of 1791](#constitution)—[War debate](#war)—[Declaration of war on Austria](#austria)—[Demonstration of 20 June 1792](#sans-culottes)—[<em>La Patrie en danger</em>](#danger)—[Brunswick Manifesto](#brunswick)—[Insurrection of 10 August](#insurrection) <br /><br/>
 

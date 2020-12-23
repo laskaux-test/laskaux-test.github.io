@@ -3,21 +3,15 @@ layout: post
 
 title: In the Name of Liberté&colon;&nbsp; III. Reign or Die
 
-subtitle: “Peuple, je meurs innocent” 
+subtitle: « Peuple, je meurs innocent » 
 
 excerpt: Imprisonment of the royal family—Exile of La Fayette—Fall of Longwy and Verdun—September Massacres—Battle of Valmy—Abolition of the monarchy—Trial of Louis XVI—Execution of Louis XVI—Creation of the Revolutionary Tribunal—Arrest and acquittal of Marat—Fall of the Girondins—Assassination of Marat <br />
 
 tags: history film
 ---
 
-> « Das Fatum dieser Revolution was, dass die Krone aus alter Tradition sich zu allen Mitteln, besonders der Täuschung, worin sie jedoch geringes Geschick besass . . . bei den Revolutionären diesem gegenüber ein ganz neues Staatsrecht da war, sodass ihnen notwendig alles wie Verrat vorkam. »
->
-> [“What fated this Revolution was that according to old tradition the crown considered itself entitled to use any means, especially deception, for which, however, it had little talent . . . the revolutionaries presented a constitutionality that was entirely new, so that of necessity everything seemed like treason to them.”]
-> <p align="right">—Jacob Burckhardt, <em>Historische Fragmente</em> (1929)
 
-----
-
-### <br/> Contents {#contents}
+### Contents {#contents}
 
 [Imprisonment of the royal family](#imprisonment)—[Exile of La Fayette](#exile)—[Fall of Longwy](#longwy) and [Verdun](#verdun)—[September Massacres](#september)—[Battle of Valmy](#valmy)—[Abolition of the monarchy](#abolition)—[Interrogation](#interrogation), [defense](#defense), and [verdict of Louis XVI](#verdict)—[Execution of Louis XVI](#execution)—[Creation of the Revolutionary Tribunal](#tribunal)—[Arrest and acquittal of Marat](#arrest-marat)—[Fall of the Girondins](#girondins)—[Assassination of Marat](#marat) <br /><br/>
 
@@ -520,11 +514,11 @@ The confrontation of Brissot and Danton in the office of the latter is probably 
 
 >. . . the Girondists who ought to have remained quiet or fought all together, did not do so, and, after the 2nd of June, all the moderate men of the party remained under the decree of arrest: the others escaped. Vergniaud, Gensonne, Ducos, Fonfrede, etc., were among the first; Petion, Barbaroux, Guadet, Louvet, Buzot, and Lanjuinais, among the latter.  They repaired to Evreux, in the department de l’Eure, where Buzot had much influence, and thence to Caen, in Calvados. These made this town the centre of the insurrection. &nbsp;[FAM]
 
+![Petion](/assets/img/revolution/petion.png)
+
 In the film, the exiled Pétion orates to a crowd in Caen, among whom stands **Charlotte Corday** (Philippine Leroy-Beaulieu). 
 
 > From there, a young, beautiful, and courageous woman, Charlotte Corday, went to punish Marat, the principal author of the 31st of May, and the 2nd of June. She hoped to save the republic by sacrificing herself to its cause. But tyranny did not rest with one man; it belonged to a party, and to the violent situation of the republic. Charlotte Corday, after executing her generous but vain design, died with unchanging calmness, modest courage, and the satisfaction of having done well. But Marat, after his assassination, became a greater object of enthusiasm with the people than he had been while living. He was invoked on all the public squares; his bust was placed in all the popular societies, and the convention was obliged to grant him the honours of the Pantheon. &nbsp;[FAM]
-
-![Petion](/assets/img/revolution/petion.png)
 
 In Marat's room, we also see **Catherine Évrard** (Isabelle Lafon), Simone Évrard's sister, and Catherine's husband **Jean Antoine Corne**, typographer of _L'Ami du peuple_.
 

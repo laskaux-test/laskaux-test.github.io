@@ -3,7 +3,7 @@ layout: post
 
 title: In the Name of Liberté&colon;&nbsp; I. From Versailles to Paris
 
-subtitle: “Non, sire, c’est une révolution” 
+subtitle: « Non, sire, c’est une révolution » 
 
 excerpt: Royal family in 1788—Summoning the Estates-General of 1789—Elections—Opening of the Estates-General—Tennis Court Oath—<em>Séance royale</em> of 23 June—Riots of 12 July—Storming of the Bastille—Reconciliation of 17 July—<em>Grande Peur</em>—August Decrees—<em>Déclaration des droits de l'homme</em>—Veto debate—<em>Orgie des Gardes du corps</em>—October March on Versailles  <br />
 
@@ -13,14 +13,7 @@ tags: history film
 [//]: # "Comment"
 
 
->Il n’y a rien de plus propre à rappeler les philosophes et les hommes d’État à la modestie que l’histoire de notre Révolution ; car il n’y eut jamais d’événements plus grands, conduits de plus loin, mieux préparés et moins prévus. 
->
->[Philosophers and statesmen may learn a valuable lesson of modesty from the history of our Revolution, for there never were events greater, better prepared, longer matured, and yet so little foreseen.]
- > <p align="right">—Alexis de Tocqueville, <em>L'Ancien Régime et la Révolution</em> (1856)
-
-----
-
-### <br /> Contents {#contents}
+### Contents {#contents}
 
 [Royal family in 1788](#royal-family)—[Summoning the Estates-General of 1789](#estates-general)—[Elections](#elections)—[Opening of the Estates-General](#opening)—[Tennis Court Oath](#tennis-court)—[<em>Séance royale</em> of 23 June](#seance-royale)—[Riots of 12 July](#riots)—[Storming of the Bastille](#bastille)—[Reconciliation of 17 July](#reconciliation)—[<em>Grande Peur</em>](#grande-peur)—[August Decrees](#august)—[<em>Déclaration des droits de l'homme</em>](#droits)—[Veto debate](#veto)—[<em>Orgie des Gardes du corps</em>](#orgie)—[October March on Versailles](#march)  <br /><br />
 

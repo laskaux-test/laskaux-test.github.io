@@ -17,7 +17,7 @@ tags: history film
 
 ----
 
-## <br/> Part Two: _Les Années terribles_
+## Part Two: _Les Années terribles_
 
 The second half of _La Révolution française_ covers the first two years of the French First Republic. The narrative starts from the aftermath of the Insurrection of 10 August 1792, and ends at the Coup d'état of 9 Thermidor.
 

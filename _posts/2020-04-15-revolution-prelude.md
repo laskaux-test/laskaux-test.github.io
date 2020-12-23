@@ -19,7 +19,7 @@ tags: history film
 
 ----
 
-### <br /> A companion to _La Révolution française_ (1989)
+### A companion to _La Révolution française_ (1989)
 
 Prior to the bicentennial of the enlightening, electrifying, yet turbulent and ferocious Revolution that has reshaped human history forever, an international team of filmmakers, including the producer Alexandre Mnouchkine, screenwriters David Ambrose and Daniel Boulanger, historian Jean Tulard, and directors Robert Enrico and Richard T. Heffron, created a grand cinematic epic reenacting those years of illumination and terror. Personally, I find it among the most informative and pedagogical historical films one can ever imagine.
 

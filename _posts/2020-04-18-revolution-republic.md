@@ -16,7 +16,7 @@ tags: history film
 
 ----
 
-#### <br/> October 1789 – April 1792: Invention of the Guillotine {#guillotine}
+#### October 1789 – April 1792: Invention of the Guillotine {#guillotine}
 
 Under the title "July 1790," in the peaceful [Jardin des Tuileries](https://en.wikipedia.org/wiki/Tuileries_Garden) after the storms, we hear the musix box playing the [Overture]((https://www.youtube.com/watch?v=aDlEAAe28WQ)) of _Le nozze di Figaro_, K. 492, a Mozart opera composed and premiered in 1786 based on the 1778 comedy _La Folle Journée, ou le Mariage de Figaro_ by Pierre Beaumarchais.
 

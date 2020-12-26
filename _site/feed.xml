@@ -5,265 +5,7 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Tue, 22 Dec 2020 20:17:41 -0500</pubDate>
-    
-      <item>
-        <title>The Annotated Civilisation&amp;colon;&amp;nbsp; I. An Outline</title>
-        <link>/2020/07/07/civilisation-outline.html</link>
-        <guid isPermaLink="true">/2020/07/07/civilisation-outline.html</guid>
-        <description>&lt;table&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Episode&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;strong&gt;Period&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;strong&gt;Start&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;strong&gt;End&lt;/strong&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;1. &lt;em&gt;The Skin of Our Teeth&lt;/em&gt;&lt;/td&gt;
-      &lt;td&gt;Early Middle Ages&lt;br /&gt; (5&lt;sup&gt;th&lt;/sup&gt;–10&lt;sup&gt;th&lt;/sup&gt; c.)&lt;/td&gt;
-      &lt;td&gt;&lt;em&gt;Apollo Belvedere&lt;/em&gt; &amp;amp; Parthenon Frieze&lt;/td&gt;
-      &lt;td&gt;Aachener Dom&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;2. &lt;em&gt;The Great Thaw&lt;/em&gt;&lt;/td&gt;
-      &lt;td&gt;High Middle Ages &lt;br /&gt; (11&lt;sup&gt;th&lt;/sup&gt;–13&lt;sup&gt;th&lt;/sup&gt; c.)&lt;/td&gt;
-      &lt;td&gt;Abbayes de Tournus &amp;amp; de Cluny&lt;/td&gt;
-      &lt;td&gt;Notre-Dame de Chartres&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;3. &lt;em&gt;Romance and Reality&lt;/em&gt;&lt;/td&gt;
-      &lt;td&gt;Late Middle Ages &lt;br /&gt; (13&lt;sup&gt;th&lt;/sup&gt;–14&lt;sup&gt;th&lt;/sup&gt; c.)&lt;/td&gt;
-      &lt;td&gt;&lt;em&gt;La Dame à la licorne&lt;/em&gt;&lt;/td&gt;
-      &lt;td&gt;Pisano’s pulpits of Pisa &amp;amp; of Sant’Andrea Pistoia&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;4. &lt;em&gt;Man—the Measure of all Things&lt;/em&gt;&lt;/td&gt;
-      &lt;td&gt;Early Renaissance &lt;br /&gt; (15&lt;sup&gt;th&lt;/sup&gt; c.)&lt;/td&gt;
-      &lt;td&gt;Brunelleschi’s Cappella dei Pazzi&lt;/td&gt;
-      &lt;td&gt;Giorgione’s &lt;em&gt;Le Concert champêtre&lt;/em&gt;, &lt;em&gt;La Tempesta&lt;/em&gt;, &amp;amp; &lt;em&gt;Vecchia&lt;/em&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;5. &lt;em&gt;The Hero as Artist&lt;/em&gt;&lt;/td&gt;
-      &lt;td&gt;High Renaissance &lt;br /&gt;(16&lt;sup&gt;th&lt;/sup&gt; c.)&lt;/td&gt;
-      &lt;td&gt;Cortile del Belvedere &amp;amp; Fontana della Pigna&lt;/td&gt;
-      &lt;td&gt;Leonardo’s &lt;em&gt;Deluge&lt;/em&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;6. &lt;em&gt;Protest and Communication&lt;/em&gt;&lt;/td&gt;
-      &lt;td&gt;Reformation &amp;amp; Northern Renaissance &lt;br /&gt; (15&lt;sup&gt;th&lt;/sup&gt;–16&lt;sup&gt;th&lt;/sup&gt; c.)&lt;/td&gt;
-      &lt;td&gt;Riemenschneider’s sculptures in Festung Marienberg&lt;/td&gt;
-      &lt;td&gt;Shakespeare’s &lt;em&gt;King Lear&lt;/em&gt;, &lt;em&gt;Macbeth&lt;/em&gt;, &amp;amp; &lt;em&gt;Hamlet&lt;/em&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;7. &lt;em&gt;Grandeur and Obedience&lt;/em&gt;&lt;/td&gt;
-      &lt;td&gt;Counter-Reformation (16&lt;sup&gt;th&lt;/sup&gt;–17&lt;sup&gt;th&lt;/sup&gt; c.)&lt;/td&gt;
-      &lt;td&gt;Basilica di Santa Maria Maggiore&lt;/td&gt;
-      &lt;td&gt;Chiesa del Gesù, Sant’Ignazio, &amp;amp; Palazzo Barberini&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;8. &lt;em&gt;The Light of Experience&lt;/em&gt;&lt;/td&gt;
-      &lt;td&gt;Golden-Age Netherlands &amp;amp; Post-Restoration England (17&lt;sup&gt;th&lt;/sup&gt; c.)&lt;/td&gt;
-      &lt;td&gt;Grote of St.-Bavokerk &amp;amp; Frans Hals Museum&lt;/td&gt;
-      &lt;td&gt;St Paul’s Cathedral&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;9. &lt;em&gt;The Pursuit of Happiness&lt;/em&gt;&lt;/td&gt;
-      &lt;td&gt;Baroque &amp;amp; Rococo Germany (17&lt;sup&gt;th&lt;/sup&gt;–18&lt;sup&gt;th&lt;/sup&gt; c.)&lt;/td&gt;
-      &lt;td&gt;Louvre Colonnade&lt;/td&gt;
-      &lt;td&gt;Mozart’s &lt;em&gt;Don Giovanni&lt;/em&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;10. &lt;em&gt;The Smile of Reason&lt;/em&gt;&lt;/td&gt;
-      &lt;td&gt;Enlightenment (18&lt;sup&gt;th&lt;/sup&gt; c.)&lt;/td&gt;
-      &lt;td&gt;Blenheim Palace&lt;/td&gt;
-      &lt;td&gt;Jefferson’s &lt;em&gt;Declaration of Independence&lt;/em&gt; &amp;amp; &lt;em&gt;Notes on the State of Virginia&lt;/em&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;11. &lt;em&gt;The Worship of Nature&lt;/em&gt;&lt;/td&gt;
-      &lt;td&gt;English Romanticism &amp;amp; French Impressionism (18&lt;sup&gt;th&lt;/sup&gt;–20&lt;sup&gt;th&lt;/sup&gt; c.)&lt;/td&gt;
-      &lt;td&gt;Collins’s &lt;em&gt;Ode to Evening&lt;/em&gt; &amp;amp; Gainsborough’s landscapes&lt;/td&gt;
-      &lt;td&gt;Monet, Renoir, &amp;amp; Seurat&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;12. &lt;em&gt;The Fallacies of Hope&lt;/em&gt;&lt;/td&gt;
-      &lt;td&gt;Romanticism in Revolutionary France (18&lt;sup&gt;th&lt;/sup&gt;–19&lt;sup&gt;th&lt;/sup&gt; c.)&lt;/td&gt;
-      &lt;td&gt;Osterley House&lt;/td&gt;
-      &lt;td&gt;Rodin’s figures&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;13. &lt;em&gt;Heroic Materialism&lt;/em&gt;&lt;/td&gt;
-      &lt;td&gt;Industrial Revolution (18&lt;sup&gt;th&lt;/sup&gt;–20&lt;sup&gt;th&lt;/sup&gt; c.)&lt;/td&gt;
-      &lt;td&gt;Howard’s &lt;em&gt;The State of the Prisons&lt;/em&gt;, Clarkson’s &lt;em&gt;Essay&lt;/em&gt;, &amp;amp; Eden’s &lt;em&gt;The State of the Poor&lt;/em&gt;&lt;/td&gt;
-      &lt;td&gt;Postwar education &amp;amp; technological revolution&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;opening-and-ending-sequences&quot;&gt;Opening and Ending Sequences&lt;/h2&gt;
-
-&lt;dl&gt;
-  &lt;dt&gt;1a  César Franck&lt;/dt&gt;
-  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=99eEyXtwhAU&quot;&gt;Organ Chorale No. 3 in A minor&lt;/a&gt;
-&lt;br /&gt;
-[Michelangelo, &lt;em&gt;David&lt;/em&gt; | 
-Cathédrale Notre-Dame de Chartres | 
-Sandro Botticelli, &lt;em&gt;Primavera&lt;/em&gt; | 
-Sherry-Netherlands &amp;amp; General Motors Building | 
-Basilica Papale di San Pietro &amp;amp; Piazza San Pietro | 
-St Paul’s Cathedral | 
-Arc de Triomphe &amp;amp; Avenue des Champs-Élysées | 
-Hôtel des Invalides | 
-Palais du Louvre &amp;amp; Jardin des Tuileries | 
-Cathédrale Notre-Dame de Paris]
-&lt;br /&gt;&lt;br /&gt;&lt;/dd&gt;
-  &lt;dt&gt;1b  Anonymous&lt;/dt&gt;
-  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=vQ8zVV9G310&quot;&gt;&lt;em&gt;Missa in Dominica Resurrectionis&lt;/em&gt;: Sequentia “Victimae paschali laudes” (Gregorian chant)&lt;/a&gt; 
-&lt;br /&gt;
-[Skellig Michael]
-&lt;br /&gt;&lt;br /&gt;&lt;/dd&gt;
-  &lt;dt&gt;2a  Anonymous&lt;/dt&gt;
-  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=ej8VvT3g2MA&quot;&gt;&lt;em&gt;Missa Solemnis Vespertina in Cena Domini&lt;/em&gt;: “Ubi caritas et amor, Deus ibi est” (Gregorian chant)&lt;/a&gt; 
-&lt;br /&gt;
-[Canterbury Cathedral]
-&lt;br /&gt;&lt;br /&gt;&lt;/dd&gt;
-  &lt;dt&gt;2b  Anonymous&lt;/dt&gt;
-  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=h33FdTzAGEo&quot;&gt;Kyriale: Mass II, “Kyrie fons bonitatis” (Gregorian chant)&lt;/a&gt; 
-&lt;br /&gt;
-[Cathédrale Notre-Dame de Chartres]
-&lt;br /&gt;&lt;br /&gt;&lt;/dd&gt;
-  &lt;dt&gt;3a  Anonymous&lt;/dt&gt;
-  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=wFg42TJ-ejM&quot;&gt;&lt;em&gt;C’est la fin&lt;/em&gt; (Breton bombard)&lt;/a&gt; 
-&lt;br /&gt;
-[Château d’Angers | Château de Blois | Château de Sully-sur-Loire]
-&lt;br /&gt;&lt;br /&gt;&lt;/dd&gt;
-  &lt;dt&gt;3b  John Dunstaple&lt;/dt&gt;
-  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=LZ7DFZ4vCyY&quot;&gt;&lt;em&gt;Veni Sancte Spiritus&lt;/em&gt;&lt;/a&gt; 
-&lt;br /&gt;
-[Battistero di San Giovanni | Duomo di Pisa]
-&lt;br /&gt;&lt;br /&gt;&lt;/dd&gt;
-  &lt;dt&gt;4a  Clément Janequin&lt;/dt&gt;
-  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=_5VDzWU7vlc&quot;&gt;&lt;em&gt;Martin menoit son pourceau au marché&lt;/em&gt;&lt;/a&gt; 
-&lt;br /&gt;
-[Palazzo Vecchio | Cappella dei Pazzi]
-&lt;br /&gt;&lt;br /&gt;&lt;/dd&gt;
-  &lt;dt&gt;4b  Josquin des Prez&lt;/dt&gt;
-  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=2on2P7syDzQ&quot;&gt;&lt;em&gt;Nymphes des bois&lt;/em&gt;, aka &lt;em&gt;La Déploration de Johannes Ockeghem&lt;/em&gt;&lt;/a&gt; 
-&lt;br /&gt;
-[Cappella dei Pazzi]
-&lt;br /&gt;&lt;br /&gt;&lt;/dd&gt;
-  &lt;dt&gt;5a  Giovanni Gabrieli&lt;/dt&gt;
-  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=XjntqVWW9eM&quot;&gt;Canzon per sonar primi toni a 8, Ch. 170&lt;/a&gt;
-&lt;br /&gt;
-[Michelangelo, &lt;em&gt;Separation of the Earth from the Waters&lt;/em&gt;, from the Sistine Chapel ceiling | 
-Raphael, &lt;em&gt;The School of Anthens&lt;/em&gt; | 
-Colosseum, aka Flavian Amphitheatre | 
-Piazza Navona &amp;amp; Sant’Agnese in Agone | 
-Pantheon, Roma | 
-Equestrian Statue of Marcus Aurelius]
-&lt;br /&gt;&lt;br /&gt;&lt;/dd&gt;
-  &lt;dt&gt;5b  Tomás Luis de Victoria&lt;/dt&gt;
-  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=XjntqVWW9eM&quot;&gt;&lt;em&gt;Tenebrae Responsories&lt;/em&gt;: XVII. Aestimatus sum&lt;/a&gt;
-&lt;br /&gt;
-[Michelangelo, &lt;em&gt;David&lt;/em&gt;]
-&lt;br /&gt;&lt;br /&gt;&lt;/dd&gt;
-  &lt;dt&gt;6a  NONE&lt;/dt&gt;
-  &lt;dd&gt;[Festung Marienberg]
-&lt;br /&gt;&lt;br /&gt;&lt;/dd&gt;
-  &lt;dt&gt;6b  Giles Farnaby&lt;/dt&gt;
-  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=jjAR4g3wvGs&quot;&gt;His Rest (harpsichord)&lt;/a&gt;
-&lt;br /&gt;
-[Kirby Hall]
-&lt;br /&gt;&lt;br /&gt;&lt;/dd&gt;
-  &lt;dt&gt;7a  Claudio Monteverdi&lt;/dt&gt;
-  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=mjpFi9bn1do&quot;&gt;&lt;em&gt;L’Orfeo&lt;/em&gt;, SV 318: Toccata&lt;/a&gt;
-&lt;br /&gt;
-[Basilica Papale di San Pietro &amp;amp; Piazza San Pietro| 
-Basilica di Santa Maria Maggiore]
-&lt;br /&gt;&lt;br /&gt;&lt;/dd&gt;
-  &lt;dt&gt;7b  Claudio Monteverdi&lt;/dt&gt;
-  &lt;dd&gt;&lt;em&gt;Vespro della Beata Vergine&lt;/em&gt; (&lt;em&gt;Vespers of 1610&lt;/em&gt;), SV 206: &lt;a href=&quot;https://www.youtube.com/watch?v=U-seRX0CYEE&quot;&gt;“Magnificat”&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://www.youtube.com/watch?v=4GITEdfDAVE&quot;&gt;“Dixit Dominus”&lt;/a&gt;
-&lt;br /&gt;
-[Galleria delle carte geografiche]
-&lt;br /&gt;&lt;br /&gt;&lt;/dd&gt;
-  &lt;dt&gt;8a  Michael Praetorius&lt;/dt&gt;
-  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=iKQ7T-Sdyi0&quot;&gt;Dances from &lt;em&gt;Terpsichore&lt;/em&gt;: Ballet&lt;/a&gt;
-&lt;br /&gt;
-[Jacob van Ruisdael, &lt;em&gt;View of Haarlem with Bleaching Grounds&lt;/em&gt; | Gerrit Berckheyde, &lt;em&gt;The Market Place and the Grote Kerk at Haarlem&lt;/em&gt; | Grote of St.-Bavokerk, Haarlem]
-&lt;br /&gt;&lt;br /&gt;&lt;/dd&gt;
-  &lt;dt&gt;8b  Henry Purcell&lt;/dt&gt;
-  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=vCWeq8xH-5A&quot;&gt;Sonata for Trumpet and Strings in D major, Z. 850: III. Allegro&lt;/a&gt;
-&lt;br /&gt;
-[Old Royal Naval College]
-&lt;br /&gt;&lt;br /&gt;&lt;/dd&gt;
-  &lt;dt&gt;9a  George Frideric Handel&lt;/dt&gt;
-  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=Dzg91IyhIt8&quot;&gt;Concerto Grosso in G major, Op. 3, No. 3, HWV 314: I. Largo, e staccato – Allegro&lt;/a&gt;
-&lt;br /&gt;
-[Schloss Nymphenburg]
-&lt;br /&gt;&lt;br /&gt;&lt;/dd&gt;
-  &lt;dt&gt;9b  Wolfgang Amadeus Mozart&lt;/dt&gt;
-  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=1wBIpynEWgY&quot;&gt;&lt;em&gt;Don Giovanni&lt;/em&gt;, K. 527: Act II, “Questo è il fin di chi fa mal”&lt;/a&gt;
-&lt;br /&gt;
-[Cuvilliés-Theater]
-&lt;br /&gt;&lt;br /&gt;&lt;/dd&gt;
-  &lt;dt&gt;10a  Wolfgang Amadeus Mozart&lt;/dt&gt;
-  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=Q4dPmCl4puU&quot;&gt;String Quintet No. 6 in E-flat major, K. 614: III. Menuetto (allegretto)&lt;/a&gt;
-&lt;br /&gt;
-[Comédie-Française | Jean-Antoine Houdon, &lt;em&gt;Voltaire&lt;/em&gt;]
-&lt;br /&gt;&lt;br /&gt;&lt;/dd&gt;
-  &lt;dt&gt;10b  Charles Ives&lt;/dt&gt;
-  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=N7TuU5zxge8&quot;&gt;&lt;em&gt;Variations on “America”&lt;/em&gt;&lt;/a&gt;
-&lt;br /&gt;
-[Thomas Jefferson Memorial | United States Capitol | United States Supreme Court | Washington Monument]
-&lt;br /&gt;&lt;br /&gt;&lt;/dd&gt;
-  &lt;dt&gt;11a  Ludwig van Beethoven&lt;/dt&gt;
-  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=37QvvJIaDnM&quot;&gt;Concerto for Violin, Cello, and Piano in C major, Op. 56 (&lt;em&gt;Triple Concerto&lt;/em&gt;): II. Largo (attacca)&lt;/a&gt;
-&lt;br /&gt;
-[Fountains Abbey]
-&lt;br /&gt;&lt;br /&gt;&lt;/dd&gt;
-  &lt;dt&gt;11b  Claude Debussy&lt;/dt&gt;
-  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=nlLbAUX43PM&quot;&gt;&lt;em&gt;Nocturnes&lt;/em&gt;, L. 91, CD. 98: I. &lt;em&gt;Nuages&lt;/em&gt;&lt;/a&gt;
-&lt;br /&gt;
-[Claude Monet, &lt;em&gt;Les Nymphéas&lt;/em&gt;]
-&lt;br /&gt;&lt;br /&gt;&lt;/dd&gt;
-  &lt;dt&gt;12a  Pyotr Ilyich Tchaikovsky&lt;/dt&gt;
-  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=q4jgTM5WnrU&quot;&gt;&lt;em&gt;Francesca da Rimini: Symphonic Fantasy after Dante&lt;/em&gt;, Op. 32&lt;/a&gt;
-&lt;br /&gt;
-[Auguste Rodin, &lt;em&gt;La Porte de l’Enfer&lt;/em&gt;]
-&lt;br /&gt;&lt;br /&gt;&lt;/dd&gt;
-  &lt;dt&gt;12b  Richard Strauss&lt;/dt&gt;
-  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=99qWgSItaNQ&quot;&gt;&lt;em&gt;Till Eulenspiegels lustige Streiche&lt;/em&gt;, Op. 28, TrV 171&lt;/a&gt;
-&lt;br /&gt;
-[Auguste Rodin, &lt;em&gt;Monument to Balzac&lt;/em&gt;]
-&lt;br /&gt;&lt;br /&gt;&lt;/dd&gt;
-  &lt;dt&gt;13a  William Walton&lt;/dt&gt;
-  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=U0X1amw7ANc&quot;&gt;Symphony No. 1 in B-flat minor: I. Allegro assai&lt;/a&gt;
-&lt;br /&gt;
-[Brooklyn Bridge | Lower Manhattan | George Washington Bridge | Statue of Liberty | Wollman Rink in Central Park]
-&lt;br /&gt;&lt;br /&gt;&lt;/dd&gt;
-  &lt;dt&gt;13b  Igor Stravinsky&lt;/dt&gt;
-  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=ITLEolJAmQA&quot;&gt;&lt;em&gt;Apollon musagète&lt;/em&gt;: Second tableau, Apothéose&lt;/a&gt;
-&lt;br /&gt;
-[Saltwood Castle | 
-Manhattan Bridge &amp;amp; Brooklyn Bridge | 
-Sarcophagus of Napoleon Bonaparte in the Dôme des Invalides | 
-Fountains Abbey | 
-Monticello | 
-Basilika Vierzehnheiligen | 
-Old Royal Naval College | 
-Piazza San Pietro | 
-Little Moreton Hall | 
-Urbino | 
-Basilica di San Francesco d’Assisi | 
-Canterbury Cathedral | 
-Skellig Michael]
-&lt;br /&gt;&lt;br /&gt;&lt;/dd&gt;
-&lt;/dl&gt;
-</description>
-        <pubDate>Tue, 07 Jul 2020 00:00:00 -0400</pubDate>
-      </item>
+    <pubDate>Fri, 25 Dec 2020 23:43:27 -0500</pubDate>
     
       <item>
         <title>In the Name of Liberté&amp;colon;&amp;nbsp; III. Reign or Die</title>
@@ -2159,162 +1901,207 @@ Music credits to the other six episodes: &lt;strong&gt;Peter Salem&lt;/strong&gt
       </item>
     
       <item>
-        <title>The World around the Knick&amp;colon; Ia. The Playbill</title>
-        <link>/2019/11/14/knick-summary-operations.html</link>
-        <guid isPermaLink="true">/2019/11/14/knick-summary-operations.html</guid>
-        <description>&lt;p&gt;Often as climaxes in the plot, dozens of surgical scenes are featured in the 20 episodes of &lt;em&gt;The Knick&lt;/em&gt;. Below is a list of the major operations with brief descriptions. Enclosed in the brackets are the participating surgeons, the first of whom leads the procedure. Chickering, by default, refers to Dr. Bertram “Bertie” Chickering, Jr. 
+        <title>Into the Knick&amp;colon;&amp;nbsp; I. The Playbill</title>
+        <link>/2019/11/14/knick-playbill.html</link>
+        <guid isPermaLink="true">/2019/11/14/knick-playbill.html</guid>
+        <description>&lt;p&gt;Often as climaxes in the plot, three dozen surgical scenes with remarkable reality are featured in the 20 episodes of &lt;em&gt;The Knick&lt;/em&gt;. Together they form the intellectual and technical skeleton of the storyline, and provide indispensable sources of dramatic tension.&lt;/p&gt;
+
+&lt;p&gt;Below is a list of the major operations with brief descriptions. Enclosed in the brackets are the participating surgeons, the first of whom leads the procedure. 
+Chickering, by default, refers to Dr. Bertram “Bertie” Chickering, Jr.; 
+Harriet is the Catholic religious name of Rose Agnes Dolan.
 &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 &lt;p&gt;&lt;br /&gt;
-&lt;strong&gt;01  CESAREAN SECTION&lt;/strong&gt;  [Christiansen, Thackery, Gallinger, and Chickering] &lt;br /&gt;
-In her third pregnacy, Mrs. Warren presents with a case of &lt;em&gt;placenta previa&lt;/em&gt;. A caesarean delivery is attempted, but saves neither Warren nor the fetus, which is the twelfth failure of the same procedure in succession. 
- (101) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;strong&gt;01  CESAREAN SECTION&lt;/strong&gt;  [01] &lt;br /&gt;
+In her third pregnacy, Mrs. Warren presents with a case of &lt;em&gt;placenta previa&lt;/em&gt;. A caesarean delivery is attempted, but saves neither Warren nor the fetus, which is the twelfth failure of the same procedure in succession.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;02  INTESTINE RESECTION&lt;/strong&gt;  [Thackery, Gallinger, Chickering, and Edwards] &lt;br /&gt;
-After an abdominal surgery for his pelvis fracture, Mr. Gentile is infected with &lt;em&gt;septicemia&lt;/em&gt; from his lacerated bowel and develops a case of &lt;em&gt;bronchitis&lt;/em&gt;, which prohibits the usage of ether for general anesthesia. Thackery demonstrates &lt;em&gt;spinal anesthesia&lt;/em&gt; and removes the damaged section of the patient’s bowel with the help of an intestinal clamp he recently improved. 
- (101) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;(Christiansen, Thackery, Gallinger, and Chickering)
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;03  UNKNOWN&lt;/strong&gt;  [Thackery, Gallinger, and Chickering] &lt;br /&gt;
-An accident occurs during an operation when Chickering is testing the new electric cauterizer. The patient is set afire. Nurse Monk is electrocuted. 
- (102) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;02  INTESTINE RESECTION&lt;/strong&gt;  [01] &lt;br /&gt;
+After an abdominal surgery for his pelvis fracture, Mr. Gentile is infected with &lt;em&gt;septicemia&lt;/em&gt; from his lacerated bowel and develops a case of &lt;em&gt;bronchitis&lt;/em&gt;, which prohibits the usage of ether for general anesthesia. Thackery demonstrates &lt;em&gt;spinal anesthesia&lt;/em&gt; and removes the damaged section of the patient’s bowel with the help of an intestinal clamp he recently improved.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;04  AORTIC ANEURYSMORRHAPHY&lt;/strong&gt;  [Thackery, Gallinger, and Chickering] &lt;br /&gt;
-Mr. Olynyk is suffering from an &lt;em&gt;aortic aneurism&lt;/em&gt;. A resect-and-reconstruct procedure based on &lt;em&gt;Hunterian ligation&lt;/em&gt; is attempted, but fails. 
- (102) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;(Thackery, Gallinger, Chickering, and Edwards)
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;05  INGUINAL HERNIA REPAIR&lt;/strong&gt;  [Edwards] &lt;br /&gt;
-In his underground operating room, Edwards invents a three-layer hernia procedure and performs it on Mr. Cockrell. The repair is successful, but the patient dies later as he ignores the postoperative instruction of refraining from strenuous activity. 
- (103) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;03  UNDEDUCIBLE&lt;/strong&gt;  [02]  &lt;br /&gt;
+An accident occurs during an operation when Chickering is testing the new electric cauterizer. The patient is set afire; Nurse Monk is electrocuted.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;06  REATTACHMENT RHINOPLASTY&lt;/strong&gt;  [Thackery] &lt;br /&gt;
-Thackery performs the rhinoplasty procedure for Mrs. Alford (Abigail Healey), infected with &lt;em&gt;syphilis&lt;/em&gt;, using her biceps muscle pedicle flap. 
- (103) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;(Thackery, Gallinger, and Chickering)
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;07  INTESTINAL PERFORATION CLOSURE&lt;/strong&gt;  [Thackery and Chickering] &lt;br /&gt;
-Cora Hemming develops a case of intestine perforation as a complication of her &lt;em&gt;typhoid fever&lt;/em&gt;. During the operation, two sections of her bowel are successfully stitched together to a fold in her peritoneum. 
- (103) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;04  AORTIC ANEURYSMORRHAPHY&lt;/strong&gt;  [02] &lt;br /&gt;
+Mr. Olynyk is suffering from an &lt;em&gt;aortic aneurism&lt;/em&gt;. A resect-and-reconstruct procedure based on &lt;em&gt;Hunterian ligation&lt;/em&gt; is attempted, but fails.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;08  FILI-GALVANOPUNCTURE OF ANEURYSMS&lt;/strong&gt;  [Edwards, Gallinger, Thackery, and Chickering]&lt;br /&gt;
-The doctors save Mr. Gatchell from his aortic aneurysm following a gavanic procedure that combines wire insertion and electrothrombosis. Edwards coauthors the original paper. 
- (104) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;(Thackery, Gallinger, and Chickering) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;09  UTERINE PERFORATION CLOSURE&lt;/strong&gt;  [Thackery, Harriet, and Chickering]&lt;br /&gt;
-A Slovakian woman performs a surgical abortion on herself. The bleeding on her left uterine wall evetually leads to her death. 
- (104) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;05  INGUINAL HERNIA REPAIR&lt;/strong&gt;  [03] &lt;br /&gt;
+In his underground operating room, Edwards invents a three-layer hernia procedure and performs it on Mr. Cockrell. The repair is successful, but the patient dies later as he ignores the postoperative instruction of refraining from strenuous activity.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;10  TRAUMA SURGERY&lt;/strong&gt;  [Thackery and Edwards] &lt;br /&gt;
-Thackery saves a leg of Bunky Collier’s brother-in-law from being amputated by removing a bullet lodged in the tunica. 
- (105) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;(Edwards) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;11  INGUINAL HERNIA REPAIR&lt;/strong&gt;  [Edwards] &lt;br /&gt;
-Edwards improves his inguinal hernia procedure by using silver wires as the medical suture for Mr. Mendieta. 
- (105) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;06  REATTACHMENT RHINOPLASTY&lt;/strong&gt;  [03] &lt;br /&gt;
+Thackery performs the rhinoplasty procedure for Mrs. Alford (Abigail Healey), infected with &lt;em&gt;syphilis&lt;/em&gt;, using her biceps muscle pedicle flap.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;12  CESAREAN SECTION&lt;/strong&gt;  [Thackery and Chickering] &lt;br /&gt;
-During her labor, Mrs. Lefkowitz is diagnosed with an extreme case of &lt;em&gt;placenta previa&lt;/em&gt;. A C-section is performed in 72 seconds, but fails again. 
- (105) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;(Thackery)&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;13  BLOODLETTING&lt;/strong&gt;   [Gallinger and Harriet] &lt;br /&gt;
-Almost in a state of desperation, Gallinger performs &lt;em&gt;venesection&lt;/em&gt; (or &lt;em&gt;phlebotomy&lt;/em&gt;) on his own daughter Lillian to save her from &lt;em&gt;meningitis&lt;/em&gt;. This despairing effort results in failure.
- (106) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;07  INTESTINAL PERFORATION CLOSURE&lt;/strong&gt;  [03] &lt;br /&gt;
+Cora Hemming develops a case of intestine perforation as a complication of her &lt;em&gt;typhoid fever&lt;/em&gt;. During the operation, two sections of her bowel are successfully stitched together to a fold in her peritoneum.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;14  CESAREAN SECTION&lt;/strong&gt;   [Thackery and Chickering] &lt;br /&gt;
-By inventing the method of &lt;em&gt;intrauterine balloon tamponade&lt;/em&gt;, which significantly reduces the danger of &lt;em&gt;postpartum hemorrhage&lt;/em&gt;, Thackery and Chickering safely deliver the baby of a six-time multigravida. 
- (106) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;(Thackery and Chickering) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;15  APPENDECTOMY&lt;/strong&gt;  [Christiansen and Thackery] &lt;br /&gt;
-Thackery demonstrates the method of finding the appendix of an &lt;em&gt;appendicitis&lt;/em&gt; patient, and Christiansen proves its surgical removal. Dr. William Halsted attends the operation. 
- (107) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;08  FILI-GALVANOPUNCTURE OF ANEURYSMS&lt;/strong&gt;  [04] &lt;br /&gt;
+The doctors save Mr. Gatchell from his aortic aneurysm following a gavanic procedure that combines wire insertion and electrothrombosis. Edwards coauthors the original paper.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;16  TRACHEOTOMY&lt;/strong&gt;  [Thackery] &lt;br /&gt;
-Thackery saves Ping Wu from choking by performing an emergency &lt;em&gt;tracheotomy&lt;/em&gt;. 
- (107) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;(Edwards, Gallinger, Thackery, and Chickering) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;17  TRAUMA SURGERY&lt;/strong&gt;  [Thackery, Edwards, Chickering, and Gallinger]  &lt;br /&gt;
-The doctors attempt to save Officer Phineas Sears, who gets multiple stab wounds at his lung, liver, and kidney. Sears dies after the first operation due to &lt;em&gt;internal hemorrhage&lt;/em&gt;. 
- (107) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;09  UTERINE PERFORATION CLOSURE&lt;/strong&gt;  [04] &lt;br /&gt;
+A Slovakian woman performs a surgical abortion on herself. The bleeding on her left uterine wall evetually leads to her death.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;18  TRAUMA SURGERIES&lt;/strong&gt;  [Thackery, Edwards, Gallinger, Chickering, Harriet, and Williams]  &lt;br /&gt;
-The staffs of the Knickerborker Hospital and the Minetta Negro Infirmary treat a large number of injurers from the street riot.
- (107) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;(Thackery, Harriet, and Chickering) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;19  CERVICOFACIAL ACTINOMYCOSIS SURGERY&lt;/strong&gt;  [Thackery, Edwards, and Gallinger]  &lt;br /&gt;
-While removing the abscess from the patient’s mental foramen, Thackery cannot finish the procedure due to his cocaine withdrawl. Edwards takes over the scalpel. 
- (108) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;10  TRAUMA SURGERY&lt;/strong&gt;  [05] &lt;br /&gt;
+Thackery saves a leg of Bunky Collier’s brother-in-law from being amputated by removing a bullet lodged in the tunica.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;20  BRAIN TUMOR SURGERY&lt;/strong&gt;  [Thackery, Edwards, and Chickering]  &lt;br /&gt;
-Before dealing with the tumor, Thackery relieves the patient’s intracranial pressure through &lt;em&gt;cranial trephination&lt;/em&gt;. The hole is left open after the operation. 
- (110) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;(Thackery and Edwards) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;21  SPLENECTOMY&lt;/strong&gt; [Zinberg] &lt;br /&gt;
-Zinberg operates on a &lt;em&gt;splenic anemia&lt;/em&gt; patient by surgically removing his spleen.  (110) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;11  INGUINAL HERNIA REPAIR&lt;/strong&gt;  [05] &lt;br /&gt;
+Edwards improves his inguinal hernia procedure by using silver wires as the medical suture for Mr. Mendieta.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;22  BLOOD TRANSFUSION&lt;/strong&gt; [Thackery] &lt;br /&gt;
-Thackery transfuses his own blood to a young patient suffering from &lt;em&gt;anemia&lt;/em&gt; caused by &lt;em&gt;chlorosis&lt;/em&gt;. The girl is killed as a result of Thackery’s erroneous understanding of human blood types.  (110) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;(Edwards) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;23  RHINOPLASTY&lt;/strong&gt;  [Thackery] &lt;br /&gt;
-Thackery performs a cosmetic surgery on a female Cromartie patient using her “golden” earring as an insert. 
- (201) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;12  CESAREAN SECTION&lt;/strong&gt;  [05] &lt;br /&gt;
+During her labor, Mrs. Lefkowitz is diagnosed with an extreme case of &lt;em&gt;placenta previa&lt;/em&gt;. A C-section is performed in 72 seconds, but fails again.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;24  CHOLECYSTECTOMY&lt;/strong&gt;  [Chickering and Edwards] &lt;br /&gt;
-During the operation, Edwards supervises Chickering to separate and ligate the two &lt;em&gt;cystic arteries&lt;/em&gt; within the patient’s &lt;em&gt;cystohepatic triangle&lt;/em&gt;, or &lt;em&gt;Calot’s triangle&lt;/em&gt;.
- (201) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;(Thackery and Chickering) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;25  TUBERCULAR OSTEOMYELITIS SURGERY&lt;/strong&gt;  [Chickering and Mays] &lt;br /&gt;
-Chickering leads the procedure and dissects the abscess down to the bone to release the pus. Meanwhile, Mays shows incompetence of the surgical techique.
- (201) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;13  BLOODLETTING&lt;/strong&gt;   [06] &lt;br /&gt;
+Almost in a state of desperation, Gallinger performs &lt;em&gt;venesection&lt;/em&gt; (or &lt;em&gt;phlebotomy&lt;/em&gt;) on his own daughter Lillian to save her from &lt;em&gt;meningitis&lt;/em&gt;. This despairing effort results in failure.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;26  RETINAL DETACHMENT REPAIR&lt;/strong&gt;  [Thackery] &lt;br /&gt;
-The previous fight left Edwards’ retina almost separated from the rear wall of his left eye. An incision on the sclera is intended to release the subretinal fluid and thus have the retina in contact with the &lt;em&gt;choroid&lt;/em&gt;. The operation, however, is terminated at its beginning due to Thackery’s drug withdral and hallucinations.
- (202) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;[Gallinger and Harriet) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;27  HEPATIC CANCER SURGERY&lt;/strong&gt;  [Gallinger and Edwards]  &lt;br /&gt;
-The doctors attempt to remove a tumor on the inferior surface of the patient’s liver. Edwards instructs Gallinger to bisect the healthy liver tissue leading to the tumor and tie off all blood vessles contained within.
- (203) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;14  CESAREAN SECTION&lt;/strong&gt;  [06]  &lt;br /&gt;
+By inventing the method of &lt;em&gt;intrauterine balloon tamponade&lt;/em&gt;, which significantly reduces the danger of &lt;em&gt;postpartum hemorrhage&lt;/em&gt;, Thackery and Chickering safely deliver the baby of a six-time multigravida.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;28  TRACHEOTOMY&lt;/strong&gt;  [Mays] &lt;br /&gt;
-While cauterizing the incision, Mays ignites the flammable ether and is killed by the fire. 
- (204) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;(Thackery and Chickering)  &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;29  PYROTHERAPY OF NEUROSYPHILIS&lt;/strong&gt;  [Thackery and Edwards] &lt;br /&gt;
-(Not a surgery)  Thackery elevates Abigail’s body temperature to 106 degrees Fahrenheit through the injection of malaria parasites. A higher therapeutic fever induced in a hypertherm cabinet effectively kills the &lt;em&gt;syphilis spirochetes&lt;/em&gt; (&lt;em&gt;Treponema pallidum&lt;/em&gt;). Her malaria is subsequently cured by &lt;em&gt;quinine&lt;/em&gt;.
- (204) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;15  APPENDECTOMY&lt;/strong&gt;  [07] &lt;br /&gt;
+Thackery demonstrates the method of finding the appendix of an &lt;em&gt;appendicitis&lt;/em&gt; patient, and Christiansen proves its surgical removal. Dr. William Halsted attends the operation.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;30  TOPECTOMY&lt;/strong&gt;  [Thackery] &lt;br /&gt;
-Experimenting on Mr. Sidney Carton, who loses the top of his cranium but retains an intact brain, Thackery elicits the motional and emotional responses of the patient by stimulating selected points of his brain with electric currents. Furthermore, using a rheoscope, Thackery identifies a brain spot excited after injecting the patient with a dose of morphine. In a subsequent operation, Thackery surgically removes the “morphine region,” but leaves Carton in a vegetative state.
- (205) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;[Christiansen and Thackery) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;31  TRAUMA SURGERIES&lt;/strong&gt;  [Thackery, Edwards, Gallinger, and Chickering] &lt;br /&gt;
-The staff of the Knick treat 124 injurers from the construction accident of the New York City subway system, in which six people die and 150 wounded.
- (205) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;16  TRACHEOTOMY&lt;/strong&gt;  [07] &lt;br /&gt;
+Thackery saves Ping Wu from choking by performing an emergency &lt;em&gt;tracheotomy&lt;/em&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;32  ESOPHAGEAL CANCER SURGERY&lt;/strong&gt;  [Chickering, Edwards, and Zinberg] &lt;br /&gt;
-Several experimental methods are employed to treat the esophageal tumor of Anne Chickering, Bertie’s mother. After trying &lt;em&gt;Röntgenotherapy&lt;/em&gt;, Bertie and Edwards attempt an ionic surgery by passing electric currents through mercury-coated zinc needles inserted into the tumor. After confirming its inefficacy, Bertie decides on the highly risky &lt;em&gt;laryngectomy&lt;/em&gt;, which fails not unexpectedly due to the complex attachment of the tumor with the laryngeal, tracheal, and esophageal tissues.
- (206) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;(Thackery) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;33  SEPARATION OF OMPHALOPAGUS TWINS&lt;/strong&gt;  [Thackery, Edwards, Gallinger, and Chickering] &lt;br /&gt;
-Through X-ray examination, Thackery concludes that the only vital organ that Zoya and Nika—a pair of Minsk-borned twins conjoined by a band of cartilage and soft tissue in their midsection—share is their liver. After devising a procedure to bisect the liver with little hemorrhaging, the surgical team, including four doctors and six nurses, separate the twins after a three-and-a-half-hour battle. The entire operation is filmed by a motion picture camera.
- (207) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;17  TRAUMA SURGERY&lt;/strong&gt;  [07]  &lt;br /&gt;
+The doctors attempt to save Officer Phineas Sears, who gets multiple stab wounds at his lung, liver, and kidney. Sears dies after the first operation due to &lt;em&gt;internal hemorrhage&lt;/em&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;34  UMBILICAL HERNIA REPAIR&lt;/strong&gt;  [Edwards and Gallinger] &lt;br /&gt;
-Mr. Garrison Carr is paralyzed on the operating table after Edwards injects his muscles attached to the aponeurotic membrane with a &lt;em&gt;curare&lt;/em&gt; solution secretly distilled by Gallinger, who then saves Carr in the emergency by a tracheotomy. 
- (207) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;(Thackery, Edwards, Chickering, and Gallinger) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;35  SEPTOPLASTY&lt;/strong&gt; [Thackery and Chickering] &lt;br /&gt;
-Thackery plans to place a celluloid insert into Abigail’s nasal cavities to support her reconstructed nose. Abruptly, Abigail dies of an anesthetic reaction before the operation starts. 
- (208) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;18  TRAUMA SURGERIES&lt;/strong&gt;  [07]  &lt;br /&gt;
+The staffs of the Knickerborker Hospital and the Minetta Negro Infirmary treat a large number of injurers from the street riot.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;36  INTESTINE RESECTION&lt;/strong&gt; [Thackery, Gallinger, and Chickering] &lt;br /&gt;
-Traumatized by Abigail’s sudden death of general anesthesia, Thackery insists on demonstrating a self-surgery and resecting his own necrotic intestine sections to promote spinal anesthesia. While continuing the procedure despite the unancipatedly complicated necrosis, Thackery accidentally cuts his abdominal aorta and loses his life in his own operating room.
- (210) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;(Thackery, Edwards, Gallinger, Chickering, Harriet, and Williams) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;19  CERVICOFACIAL ACTINOMYCOSIS SURGERY&lt;/strong&gt;  [08]  &lt;br /&gt;
+While removing the abscess from the patient’s mental foramen, Thackery cannot finish the procedure due to his cocaine withdrawl. Edwards takes over the scalpel.&lt;/p&gt;
+
+&lt;p&gt;(Thackery, Edwards, and Gallinger) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;20  BRAIN TUMOR SURGERY&lt;/strong&gt;  [10]  &lt;br /&gt;
+Before dealing with the tumor, Thackery relieves the patient’s intracranial pressure through &lt;em&gt;cranial trephination&lt;/em&gt;. The hole is left open after the operation.&lt;/p&gt;
+
+&lt;p&gt;(Thackery, Edwards, and Chickering) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;21  SPLENECTOMY&lt;/strong&gt;  [10]  &lt;br /&gt;
+Zinberg operates on a &lt;em&gt;splenic anemia&lt;/em&gt; patient by surgically removing his spleen.&lt;/p&gt;
+
+&lt;p&gt;(Zinberg) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;22  BLOOD TRANSFUSION&lt;/strong&gt;  [10] &lt;br /&gt;
+Thackery transfuses his own blood to a young patient suffering from &lt;em&gt;anemia&lt;/em&gt; caused by &lt;em&gt;chlorosis&lt;/em&gt;. The girl is killed as a result of Thackery’s erroneous understanding of human blood types.&lt;/p&gt;
+
+&lt;p&gt;(Thackery) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;23  RHINOPLASTY&lt;/strong&gt;  [11] &lt;br /&gt;
+Thackery performs a cosmetic surgery on a female Cromartie patient using her “golden” earring as an insert.&lt;/p&gt;
+
+&lt;p&gt;(Thackery) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;24  CHOLECYSTECTOMY&lt;/strong&gt;  [11] &lt;br /&gt;
+During the operation, Edwards supervises Chickering to separate and ligate the two &lt;em&gt;cystic arteries&lt;/em&gt; within the patient’s &lt;em&gt;cystohepatic triangle&lt;/em&gt;, or &lt;em&gt;Calot’s triangle&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;(Chickering and Edwards)  &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;25  TUBERCULAR OSTEOMYELITIS SURGERY&lt;/strong&gt;  [11] &lt;br /&gt;
+Chickering leads the procedure and dissects the abscess down to the bone to release the pus. Meanwhile, Mays shows incompetence of the surgical technique.&lt;/p&gt;
+
+&lt;p&gt;(Chickering and Mays) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;26  RETINAL DETACHMENT REPAIR&lt;/strong&gt;  [12] &lt;br /&gt;
+The previous fight left Edwards’ retina almost separated from the rear wall of his left eye. An incision on the sclera is intended to release the subretinal fluid and thus have the retina in contact with the &lt;em&gt;choroid&lt;/em&gt;. The operation, however, is terminated at its beginning due to Thackery’s drug withdral and hallucinations.&lt;/p&gt;
+
+&lt;p&gt;(Thackery) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;27  HEPATIC CANCER SURGERY&lt;/strong&gt;   [13] &lt;br /&gt;
+The doctors attempt to remove a tumor on the inferior surface of the patient’s liver. Edwards instructs Gallinger to bisect the healthy liver tissue leading to the tumor and tie off all blood vessles contained within.&lt;/p&gt;
+
+&lt;p&gt;(Gallinger and Edwards) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;28  TRACHEOTOMY&lt;/strong&gt;  [14] &lt;br /&gt;
+While cauterizing the incision, Mays ignites the flammable ether and is killed by the fire.&lt;/p&gt;
+
+&lt;p&gt;(Mays) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;29  PYROTHERAPY OF NEUROSYPHILIS&lt;/strong&gt;  [14] &lt;br /&gt;
+(Not a surgery)  Thackery elevates Abigail’s body temperature to 106 degrees Fahrenheit through the injection of malaria parasites. A higher therapeutic fever induced in a hypertherm cabinet effectively kills the &lt;em&gt;syphilis spirochetes&lt;/em&gt; (&lt;em&gt;Treponema pallidum&lt;/em&gt;). Her malaria is subsequently cured by &lt;em&gt;quinine&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;(Thackery and Edwards) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;30  TOPECTOMY&lt;/strong&gt;  [15] &lt;br /&gt;
+Experimenting on Mr. Sidney Carton, who loses the top of his cranium but retains an intact brain, Thackery elicits the motional and emotional responses of the patient by stimulating selected points of his brain with electric currents. Furthermore, using a rheoscope, Thackery identifies a brain spot excited after injecting the patient with a dose of morphine. In a subsequent operation, Thackery surgically removes the “morphine region,” but leaves Carton in a vegetative state.&lt;/p&gt;
+
+&lt;p&gt;(Thackery) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;31  TRAUMA SURGERIES&lt;/strong&gt;  [15] &lt;br /&gt;
+The staff of the Knick treat 124 injurers from the construction accident of the New York City subway system, in which six people die and 150 wounded.&lt;/p&gt;
+
+&lt;p&gt;(Thackery, Edwards, Gallinger, and Chickering) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;32  ESOPHAGEAL CANCER SURGERY&lt;/strong&gt;  [16] &lt;br /&gt;
+Several experimental methods are employed to treat the esophageal tumor of Anne Chickering, Bertie’s mother. After trying &lt;em&gt;Röntgenotherapy&lt;/em&gt;, Bertie and Edwards attempt an ionic surgery by passing electric currents through mercury-coated zinc needles inserted into the tumor. After confirming its inefficacy, Bertie decides on the highly risky &lt;em&gt;laryngectomy&lt;/em&gt;, which fails not unexpectedly due to the complex attachment of the tumor with the laryngeal, tracheal, and esophageal tissues.&lt;/p&gt;
+
+&lt;p&gt;(Chickering, Edwards, and Zinberg) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;33  SEPARATION OF OMPHALOPAGUS TWINS&lt;/strong&gt;  [17] &lt;br /&gt;
+Through X-ray examination, Thackery concludes that the only vital organ that Zoya and Nika—a pair of Minsk-borned twins conjoined by a band of cartilage and soft tissue in their midsection—share is their liver. After devising a procedure to bisect the liver with little hemorrhaging, the surgical team, including four doctors and six nurses, separate the twins after a three-and-a-half-hour battle. The entire operation is filmed by a motion picture camera.&lt;/p&gt;
+
+&lt;p&gt;(Thackery, Edwards, Gallinger, and Chickering) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;34  UMBILICAL HERNIA REPAIR&lt;/strong&gt;  [17] &lt;br /&gt;
+Mr. Garrison Carr is paralyzed on the operating table after Edwards injects his muscles attached to the aponeurotic membrane with a &lt;em&gt;curare&lt;/em&gt; solution secretly distilled by Gallinger, who then saves Carr in the emergency by a tracheotomy.&lt;/p&gt;
+
+&lt;p&gt;(Edwards and Gallinger) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;35  SEPTOPLASTY&lt;/strong&gt;  [18] &lt;br /&gt;
+Thackery plans to place a celluloid insert into Abigail’s nasal cavities to support her reconstructed nose. Abruptly, Abigail dies of an anesthetic reaction before the operation starts.&lt;/p&gt;
+
+&lt;p&gt;(Thackery and Chickering) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;36  INTESTINE RESECTION&lt;/strong&gt;  [20] &lt;br /&gt;
+Traumatized by Abigail’s sudden death of general anesthesia, Thackery insists on demonstrating a self-surgery and resecting his own necrotic intestine sections to promote spinal anesthesia. While continuing the procedure despite the unancipatedly complicated necrosis, Thackery accidentally cuts his abdominal aorta and loses his life in his own operating room.&lt;/p&gt;
+
+&lt;p&gt;(Thackery, Gallinger, and Chickering) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Thu, 14 Nov 2019 00:00:00 -0500</pubDate>
       </item>
     
       <item>
-        <title>Rethink the Programmed Life</title>
+        <title>Rethinking the Programmed Life</title>
         <link>/2019/01/06/programmed-life.html</link>
         <guid isPermaLink="true">/2019/01/06/programmed-life.html</guid>
         <description>&lt;p&gt;It’s the first week of a new year. Looking back, historians have attached tags to the distinct epochs of modern history: the Renaissance, the Enlightenment, the Industrial Age, the Information Age, etc. While it’s premature to anticipate what’s coming next, the new millennium does reveal a few signatures, among which is the near-frictionless flow of common knowledge. “Journal” and “encyclopedia” are now more frequently denoting websites than giant volumes in libraries. Tens of languages are being taught online for free. Advanced learning is no longer confined within classrooms. Even elite universities are opening their doors to the middle class and underrepresented groups. The general public have never been so close to understanding and contributing to the frontiers of human civilization. The creativities of our species are being unleashed to an unprecedented extent.&lt;/p&gt;

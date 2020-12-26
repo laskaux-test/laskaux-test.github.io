@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rethink the Programmed Life
+title: Rethinking the Programmed Life
 
 excerpt: The foundation of education shouldn’t be the acquisition of professional skills, nor the so-called critical thinking and problem-solving. It is the formation of values—a set of underivable yet influenceable guidelines on what we appreciate and distain, and what motivates us, in the first place, to think and act. <br />
 

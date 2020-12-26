@@ -1,34 +1,14 @@
 ---
 layout: post
 
-title: The Annotated Civilisation&colon;&nbsp; I. An Outline
+title: The Annotated Civilisation&colon;&nbsp; VIII. The Lands of Wonders
 
 subtitle: 
 
-excerpt: “I believe order is better than chaos, creation better than destruction. I prefer gentleness to violence, forgiveness to vendetta. On the whole I think that knowledge is preferable to ignorance, and I am sure that human sympathy is more valuable than ideology. I believe that in spite of the recent triumphs of science, men haven’t changed much in the last two thousand years; and in consequence we must try to learn from history. History is ourselves.”&ensp;[13]
+excerpt: Opening and closing music from each <em>Civilisation</em> episode <br />
 
-tags: architecture art history television
+tags: architecture art history music television
 ---
-
-| **Episode** | **Period** | **Start** | **End**
-|1. _The Skin of Our Teeth_ | Early Middle Ages<br /> (5<sup>th</sup>–10<sup>th</sup> c.) | _Apollo Belvedere_ & Parthenon Frieze | Aachener Dom|
-|2. _The Great Thaw_ | High Middle Ages <br /> (11<sup>th</sup>–13<sup>th</sup> c.) | Abbayes de Tournus & de Cluny | Notre-Dame de Chartres
-|3. _Romance and Reality_ | Late Middle Ages <br /> (13<sup>th</sup>–14<sup>th</sup> c.) | _La Dame à la licorne_ | Pisano's pulpits of Pisa & of Sant'Andrea Pistoia|
-|4. _Man—the Measure of all Things_ | Early Renaissance <br /> (15<sup>th</sup> c.) | Brunelleschi's Cappella dei Pazzi | Giorgione's _Le Concert champêtre_, _La Tempesta_, & _Vecchia_
-|5. _The Hero as Artist_ | High Renaissance <br />(16<sup>th</sup> c.) | Cortile del Belvedere & Fontana della Pigna | Leonardo's _Deluge_
-|6. _Protest and Communication_ | Reformation & Northern Renaissance <br /> (15<sup>th</sup>–16<sup>th</sup> c.)  | Riemenschneider's sculptures in Festung Marienberg | Shakespeare's _King Lear_, _Macbeth_, & _Hamlet_ |
-|7. _Grandeur and Obedience_ | Counter-Reformation (16<sup>th</sup>–17<sup>th</sup> c.) | Basilica di Santa Maria Maggiore | Chiesa del Gesù, Sant'Ignazio, & Palazzo Barberini
-|8. _The Light of Experience_ | Golden-Age Netherlands & Post-Restoration England (17<sup>th</sup> c.) | Grote of St.-Bavokerk & Frans Hals Museum | St Paul's Cathedral
-|9. _The Pursuit of Happiness_ | Baroque & Rococo Germany (17<sup>th</sup>–18<sup>th</sup> c.) | Louvre Colonnade | Mozart's _Don Giovanni_
-|10. _The Smile of Reason_ | Enlightenment (18<sup>th</sup> c.) | Blenheim Palace | Jefferson's _Declaration of Independence_ & _Notes on the State of Virginia_
-|11. _The Worship of Nature_ | English Romanticism & French Impressionism (18<sup>th</sup>–20<sup>th</sup> c.) | Collins's _Ode to Evening_ & Gainsborough's landscapes | Monet, Renoir, & Seurat
-|12. _The Fallacies of Hope_ | Romanticism in Revolutionary France (18<sup>th</sup>–19<sup>th</sup> c.) | Osterley House | Rodin's figures
-|13. _Heroic Materialism_ | Industrial Revolution (18<sup>th</sup>–20<sup>th</sup> c.) | Howard's _The State of the Prisons_, Clarkson's _Essay_, & Eden's _The State of the Poor_ | Postwar education & technological revolution
-
-<br />
-
-
-## Opening and Ending Sequences
 
 1a&nbsp; César Franck
 : [Organ Chorale No. 3 in A minor](
@@ -40,9 +20,9 @@ Sandro Botticelli, _Primavera_ |
 Sherry-Netherlands & General Motors Building | 
 Basilica Papale di San Pietro & Piazza San Pietro | 
 St Paul's Cathedral | 
-Arc de Triomphe & Avenue des Champs-Élysées | 
-Hôtel des Invalides | 
+Arc de Triomphe | 
 Palais du Louvre & Jardin des Tuileries | 
+Les Invalides | 
 Cathédrale Notre-Dame de Paris]
 <br /><br />
 
@@ -154,7 +134,7 @@ Basilica di Santa Maria Maggiore]
 : [Dances from _Terpsichore_: Ballet](
 https://www.youtube.com/watch?v=iKQ7T-Sdyi0)
 <br />
-[Jacob van Ruisdael, _View of Haarlem with Bleaching Grounds_ | Gerrit Berckheyde, _The Market Place and the Grote Kerk at Haarlem_ | Grote of St.-Bavokerk, Haarlem]
+[Jacob van Ruisdael, _View of Haarlem from the Dunes at Overveen_ | Gerrit Berckheyde, _The Market Place and the Grote Kerk at Haarlem_ | Grote of St.-Bavokerk, Haarlem]
 <br /><br />
 
 
@@ -245,7 +225,7 @@ https://www.youtube.com/watch?v=ITLEolJAmQA)
 Manhattan Bridge & Brooklyn Bridge | 
 Sarcophagus of Napoleon Bonaparte in the Dôme des Invalides | 
 Fountains Abbey | 
-Monticello | 
+University of Virginia | 
 Basilika Vierzehnheiligen | 
 Old Royal Naval College | 
 Piazza San Pietro | 
@@ -255,3 +235,6 @@ Basilica di San Francesco d'Assisi |
 Canterbury Cathedral | 
 Skellig Michael]
 <br /><br />
+
+
+

@@ -1,0 +1,45 @@
+---
+layout: post
+title: Time and Modernity
+
+subtitle: A Physicist’s View on <em>Modern Times</em>
+
+excerpt: Modernity cannot survive without order, and yet modernization means more than automation and acceleration. The physical nature of time and timekeeping has helped to confirm this. <br />
+
+tags: film science
+---
+
+Between October 1934 and August 1935, Charlie Chaplin devoted 65,215 meters of film[^film] to the social images of the late modern age—an age of machinery, productivity, and opportunities, and meanwhile of capital, inequality, and fallacies. This time the Tramp’s adventure starts on an assembly line, running 1.33 times faster than reality[^frames] and constantly speeding up as per the orders of the Taylorist director of the Fordist factory. What causes the following series of misfortunes? To a Marxist—mechanization, exploitation, and alienation. Yet to a physicist another interpretation is no less compelling—our poor Little Tramp, in an accelerating world, is suffering from a disorder in perceiving _time_.
+
+“We have not a direct intuition of simultaneity, nor of the equality of two durations. If we think we have this intuition, this is an illusion,”[^poincare1] stated Henri Poincaré—the fin-de-siècle _penseur_ into the nature of space and time who was regretfully close to the special theory of relativity before Albert Einstein—
+
+> In fact, it (the duration of time) had to become measurable; that which cannot be measured cannot be an object of science. Thus, time which can be measured is also essentially relative. If all phenomena were to slow down and so also our clocks, we would not be aware of it; and this would be so whatever might be the law governing this slowing down, provided it were the same for all kinds of phenomena and for all clocks. The properties of time are therefore merely those of our clocks just as the properties of space are merely those of the measuring instruments.[^poincare2]
+
+Farewell to the Newtonian, metaphysical conception of an “absolute, true, and mathematical time”[^newton] independent of worldly matter. To the modern mind, “the concept of time is determined by the operations by which it is measured.”[^bridgman] Time is thus by definition equivalent to the motion of timekeeping devices—pendulums, crystal oscillators, celestial bodies, atomic transitions, or in practice, any observable events with reasonable regularity. 
+
+Revolutionary as it might sound to some nineteenth-century scholars, one does not have to be literate in modern physics to perceive this reformed notion of time. Our ancestors had learned to observe and synchronize their activities to day–night cycles and seasonal shifts long before they could read or write. The entire human civilization, since its very beginning, has been built on various natural and artificial periodicities, no different than a microprocessor cannot work without clock signals. The Industrial Revolutions, in the form of engine cycles, have introduced new clocks and redefined _time_ for modern societies—not much those time standards in metrology laboratories, but the actual time regulating everyone’s life. In particular, those doing “industrialized” jobs—like the Little Tramp and Big Bill—are so engaged with this novel mechanized time that they become part of the clocks themselves. No anomaly can be discerned in principle, according to Poincaré, if everything speeds up at the same rate. Unfortunately, the biological cycles of human—outcomes of a much slower natural evolution—fail to catch up to the accelerating machinery. A mental breakdown is hardly surprising, as to those factory workers, their mind and hands, or internal and external clocks are seriously out of phase.
+
+“Mankind is therefore like an army at war; now, every army needs discipline . . . The discipline which mankind must accept is called morality,”[^poincare3] said Poincaré in his last public speech, full of the Belle-Époque optimism in reason and order. But one should be alert once the discipline becomes an omnipresent clock, because in the modern view, probability is a fundamental character of the natural world, and irregularity and instability are essential elements to life.[^prigogine] The feeding machine in _Modern Times_ reminds me of the Jaquet-Droz automata: both programmable machines were remarkable engineering achievements but also indicators of upcoming social chaos,[^jaquet-droz] for they evinced a less agreeable engine behind those mechanical disciplines—inequality. Modernity cannot survive without order, and yet modernization means more than automation and acceleration. The physical nature of time and timekeeping has helped to confirm this.  
+
+<br/>
+
+[^film]: 	&emsp;The film was cut down to 2,477 meters after editing, a typical ratio for Chaplin’s mature works. Data from the Chaplin’s World museum at Corsier-sur-Vevey, Switzerland.
+
+[^frames]: 	&emsp;Most part of _Modern Times_ was shot at 18 frames per second but projected at 24 frames per second.
+
+[^poincare1]: 	&emsp;Henri Poincaré, [“La mesure du Temps”](https://fr.wikisource.org/wiki/La_Valeur_de_la_Science/Chapitre_II._La_mesure_du_temps), _Revue de métaphysique et de morale_ 6, 1–13 (1898). Reprinted in [_La Valeur de la Science_](https://fr.wikisource.org/wiki/La_Valeur_de_la_Science) (Paris: Flammarion, 1905). <br/>&ensp;&ensp;&ensp;&ensp; Original French text: “Nous n’avons pas l’intuition directe de la simultanéité, pas plus que celle de l’égalité de deux durées. Si nous croyons avoir cette intuition, c’est une illusion.”
+
+[^poincare2]: 	&emsp;Henri Poincaré, [“L’Espace et le Temps”](https://fr.wikisource.org/wiki/Derni%C3%A8res_pens%C3%A9es/Chapitre_2) in [_Dernières pensées_](https://fr.wikisource.org/wiki/Derni%C3%A8res_pens%C3%A9es) (Paris: Flammarion, 1913). Address delivered at the University of London on 4 May 1912. <br/>&ensp;&ensp;&ensp;&ensp;Original French text: “Il a fallu en effet qu’elle devînt mesurable ; ce qui ne se mesure pas ne peut être objet de science. Or, le temps mesurable est aussi essentiellement relatif. Si tous les phénomènes se ralentissaient, et s’il en était de même de la marche de. nos horloges, nous ne nous en apercevrions pas ; et cela quelle que soit la loi de ce ralentissement, pourvu qu’elle soit la même pour toutes les sortes de phénomènes et pour toutes les horloges. Les propriétés du temps ne sont donc que celles des horloges, comme les propriétés de l’espace ne sont que celles des instruments de mesure.”
+
+[^poincare3]: 	&emsp;Henri Poincaré, [“L’Union morale”](https://fr.wikisource.org/wiki/Derni%C3%A8res_pens%C3%A9es/Chapitre_9) in [_Dernières pensées_](https://fr.wikisource.org/wiki/Derni%C3%A8res_pens%C3%A9es) (Paris: Flammarion, 1913). Address delivered at the Ligue Française d’Éducation Morale on 26 June 1912.  <br/>&ensp;&ensp;&ensp;&ensp;Original French text: “L’humanité est donc comme une armée en guerre ; or, toute armée a besoin d’une discipline . . . la discipline qu’elle doit accepter s’appelle la morale.”
+
+[^newton]: 	&emsp;Isaac Newton, [_Philosophiæ Naturalis Principia Mathematica_](https://la.wikisource.org/wiki/Philosophiae_Naturalis_Principia_Mathematica) (London: Royal Society, 1687). Translated into English: [_The Mathematical Principles of Natural Philosophy_](https://en.wikisource.org/wiki/The_Mathematical_Principles_of_Natural_Philosophy_(1846)) by Andrew Motte. Book I, [“Definitions”](https://en.wikisource.org/wiki/The_Mathematical_Principles_of_Natural_Philosophy_(1846)/Definitions). <br/>&ensp;&ensp;&ensp;&ensp;Full sentence: “Absolute, true, and mathematical time, of itself, and from its own nature flows equably without regard to anything external.”
+
+[^bridgman]: 	&emsp;Percy W. Bridgman, [_The Logic of Modern Physics_](https://archive.org/details/logicofmodernphy00brid/page/n3/mode/2up) (New York: Macmillan, 1927). Chapter III, [“The Concept of Time”](https://archive.org/details/logicofmodernphy00brid/page/68/mode/2up).
+
+[^prigogine]: 	&emsp;Ilya Prigogine, [_The End of Certainty: Time, Chaos, and the New Laws of Nature_](https://www.simonandschuster.com/books/The-End-of-Certainty/Ilya-Prigogine/9780684837055) (New York: The Free Press, 1997). Originally published in French: [_La Fin des Certitudes. Temps, chaos et les lois de la nature_]((https://www.odilejacob.fr/catalogue/sciences/physique-chimie/fin-des-certitudes_9782738103307.php)) (Paris: Éditions Odile Jacob, 1996).
+
+[^jaquet-droz]: 	&emsp;In the documentary series [_The Ascent of Man_](https://archive.org/details/ascentofman0000bron/mode/1up) (1973) written and narrated by Jacob Bronowski, the most complicated of the Jaquet-Droz automata—_L’écrivain_—was programmed to write “Le Mariage de Figaro.” The play was written in 1778, four years after the Jaquet-Droz father and sons built the automaton.
+
+----
+

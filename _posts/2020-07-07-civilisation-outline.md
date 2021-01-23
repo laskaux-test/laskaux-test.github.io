@@ -106,10 +106,10 @@ https://www.youtube.com/watch?v=2on2P7syDzQ)
 https://www.youtube.com/watch?v=XjntqVWW9eM)
 <br />
 [Michelangelo, _Separation of the Earth from the Waters_, from the Sistine Chapel ceiling | 
-Raphael, _Scuola di Atene_ (_The School of Anthens_) | 
+Raphael, _The School of Anthens_ | 
 Colosseum, or Flavian Amphitheatre | 
 Piazza Navona & Chiesa di Sant'Agnese in Agone | 
-Pantheon, Roma | 
+Pantheon | 
 Equestrian Statue of Marcus Aurelius]
 <br /><br />
 

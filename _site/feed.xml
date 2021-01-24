@@ -5,7 +5,7 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Sat, 23 Jan 2021 19:16:40 -0500</pubDate>
+    <pubDate>Sat, 23 Jan 2021 19:35:31 -0500</pubDate>
     
       <item>
         <title>Time and Modernity</title>
@@ -32,7 +32,7 @@
 &lt;div class=&quot;footnotes&quot;&gt;
   &lt;ol&gt;
     &lt;li id=&quot;fn:film&quot;&gt;
- 	 The film was cut down to 2,477 meters after editing. Shooting ratios above 25:1 are typical for Chaplin’s major works—&lt;em&gt;The Gold Rush&lt;/em&gt;: 70,562 m/2,607 m; &lt;em&gt;The Circus&lt;/em&gt;: 64,350 m/1,960 m; &lt;em&gt;City Lights&lt;/em&gt;: 95,785 m/2,466 m; &lt;em&gt;The Great Dictator&lt;/em&gt;: 145,523 m/3,543 m; &lt;em&gt;Monsieur Verdoux&lt;/em&gt;: 95,623 m/3,393 m. Data from the Chaplin’s World museum at Corsier-sur-Vevey, Switzerland.
+ 	 The film was cut down to 2,477 meters after editing. Shooting ratios above 25:1 are typical for Chaplin’s major works (data from the Chaplin’s World museum at Corsier-sur-Vevey, Switzerland)— &lt;br /&gt;    &lt;em&gt;The Gold Rush&lt;/em&gt; (1925): 70,562 m/2,607 m (27:1) &lt;br /&gt;    &lt;em&gt;The Circus&lt;/em&gt; (1928): 64,350 m/1,960 m (33:1) &lt;br /&gt;    &lt;em&gt;City Lights&lt;/em&gt; (1931): 95,785 m/2,466 m (39:1) &lt;br /&gt;    &lt;em&gt;Modern Times&lt;/em&gt; (1936): 65,215 m/2,477 m (26:1) &lt;br /&gt;    &lt;em&gt;The Great Dictator&lt;/em&gt; (1940): 145,523 m/3,543 m (41:1) &lt;br /&gt;    &lt;em&gt;Monsieur Verdoux&lt;/em&gt; (1947): 95,623 m/3,393 m (28:1)
       &lt;p&gt;&lt;a href=&quot;#fnref:film&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
     &lt;li id=&quot;fn:frames&quot;&gt;
@@ -40,7 +40,7 @@
       &lt;p&gt;&lt;a href=&quot;#fnref:frames&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
     &lt;li id=&quot;fn:poincare1&quot;&gt;
- 	 Henri Poincaré, &lt;a href=&quot;https://fr.wikisource.org/wiki/La_Valeur_de_la_Science/Chapitre_II._La_mesure_du_temps&quot;&gt;“La mesure du Temps”&lt;/a&gt;, &lt;em&gt;Revue de métaphysique et de morale&lt;/em&gt; 6, 1–13 (1898). Reprinted in &lt;a href=&quot;https://fr.wikisource.org/wiki/La_Valeur_de_la_Science&quot;&gt;&lt;em&gt;La Valeur de la Science&lt;/em&gt;&lt;/a&gt; (Paris: Flammarion, 1905). &lt;br /&gt;     Original French text: “Nous n’avons pas l’intuition directe de la simultanéité, pas plus que celle de l’égalité de deux durées. Si nous croyons avoir cette intuition, c’est une illusion.”
+ 	 Henri Poincaré, &lt;a href=&quot;https://fr.wikisource.org/wiki/La_Valeur_de_la_Science/Chapitre_II._La_mesure_du_temps&quot;&gt;“La mesure du Temps”&lt;/a&gt;, &lt;em&gt;Revue de métaphysique et de morale&lt;/em&gt; 6, 1–13 (1898). Reprinted in &lt;a href=&quot;https://fr.wikisource.org/wiki/La_Valeur_de_la_Science&quot;&gt;&lt;em&gt;La Valeur de la Science&lt;/em&gt;&lt;/a&gt; (Paris: Flammarion, 1905). &lt;br /&gt;    Original French text: “Nous n’avons pas l’intuition directe de la simultanéité, pas plus que celle de l’égalité de deux durées. Si nous croyons avoir cette intuition, c’est une illusion.”
       &lt;p&gt;&lt;a href=&quot;#fnref:poincare1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
     &lt;li id=&quot;fn:poincare2&quot;&gt;
@@ -48,7 +48,7 @@
       &lt;p&gt;&lt;a href=&quot;#fnref:poincare2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
     &lt;li id=&quot;fn:newton&quot;&gt;
- 	 Isaac Newton, &lt;a href=&quot;https://la.wikisource.org/wiki/Philosophiae_Naturalis_Principia_Mathematica&quot;&gt;&lt;em&gt;Philosophiæ Naturalis Principia Mathematica&lt;/em&gt;&lt;/a&gt; (London: Royal Society, 1687). Translated into English: &lt;a href=&quot;https://en.wikisource.org/wiki/The_Mathematical_Principles_of_Natural_Philosophy_(1846)&quot;&gt;&lt;em&gt;The Mathematical Principles of Natural Philosophy&lt;/em&gt;&lt;/a&gt; by Andrew Motte. Book I, &lt;a href=&quot;https://en.wikisource.org/wiki/The_Mathematical_Principles_of_Natural_Philosophy_(1846)/Definitions&quot;&gt;“Definitions”&lt;/a&gt;. &lt;br /&gt;    Full sentence: “Absolute, true, and mathematical time, of itself, and from its own nature flows equably without regard to anything external.”
+ 	 Isaac Newton, &lt;a href=&quot;https://la.wikisource.org/wiki/Philosophiae_Naturalis_Principia_Mathematica&quot;&gt;&lt;em&gt;Philosophiæ Naturalis Principia Mathematica&lt;/em&gt;&lt;/a&gt; (London: Royal Society, 1687). Translated into English: &lt;a href=&quot;https://en.wikisource.org/wiki/The_Mathematical_Principles_of_Natural_Philosophy_(1846)&quot;&gt;&lt;em&gt;The Mathematical Principles of Natural Philosophy&lt;/em&gt;&lt;/a&gt; by Andrew Motte. Book I, &lt;a href=&quot;https://en.wikisource.org/wiki/The_Mathematical_Principles_of_Natural_Philosophy_(1846)/Definitions&quot;&gt;“Definitions”&lt;/a&gt;. &lt;br /&gt;    Full sentence: “Absolute, true, and mathematical time, of itself, and from its own nature flows equably without regard to anything external.” &lt;br /&gt;    In Latin: “Tempus absolutum verum &amp;amp; Mathematicum, in se &amp;amp; natura sua absq; relatione ad externum quodvis, æquabiliter ﬂuit, alioq.”
       &lt;p&gt;&lt;a href=&quot;#fnref:newton&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
     &lt;li id=&quot;fn:bridgman&quot;&gt;

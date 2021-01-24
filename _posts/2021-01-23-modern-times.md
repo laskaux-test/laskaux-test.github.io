@@ -23,7 +23,8 @@ Revolutionary as it might sound to some nineteenth-century scholars, one does no
 
 <br/>
 
-[^film]: 	&emsp;The film was cut down to 2,477 meters after editing, a typical ratio for Chaplin’s mature works. Data from the Chaplin’s World museum at Corsier-sur-Vevey, Switzerland.
+[^film]: 	&emsp;The film was cut down to 2,477 meters after editing. Shooting ratios above 25:1 are typical for Chaplin’s major works—_The Gold Rush_: 70,562 m/2,607 m; _The Circus_: 64,350 m/1,960 m; _City Lights_: 95,785 m/2,466 m; _The Great Dictator_: 145,523 m/3,543 m; _Monsieur Verdoux_: 95,623 m/3,393 m. Data from the Chaplin’s World museum at Corsier-sur-Vevey, Switzerland.
+
 
 [^frames]: 	&emsp;Most part of _Modern Times_ was shot at 18 frames per second but projected at 24 frames per second.
 

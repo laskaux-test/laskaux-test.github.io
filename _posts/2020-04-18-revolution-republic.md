@@ -410,7 +410,7 @@ The night before the rebellion is painted with some humanistic color:
 > The outcome was never really in doubt. But as the tocsin rang through the night of the ninth-tenth of August, many of the men who made their way towards the Hôtel de Ville were apprehensive. After dinner Camille Desmoulins and his wife had gone to Danton’s apartment to try to stiffen their morale but had found Danton’s wife Gabrielle in floods of tears. Lucile, who remembered herself “laughing like a madwoman,” took Danton’s wife for some air in the street and found a great crowd in the apartment when they got back, everyone trying to outdo each other with grandiloquent utterances that seemed appropriate to their overwrought sense of historymaking. But beneath the oracular declarations, agitation and fear put everyone on edge. When Camille set off into the night, carrying a musket and promising his wife to stay with the reassuringly enormous figure of Danton, she too began to weep passionately.
 > <p align="right">—Simon Schama, <em>Citizens: A Chronicle of the French Revolution</em> (1989)
 
-These weeping scenes were recorded in the diary of Luile Desmoulins.
+These weeping scenes were recorded in the diary of Lucile Desmoulins.
 
 >After all, these pages from the young wife's diary, showing a great episode of history from the point of view of the women who waited to hear the upshot of the fight, is of greater interest than any cut-and-dried description. It is so plain throughout that, for the moment, Lucile Desmouhns, Gabrielle Danton and Madame Robert cared very little what was to be the issue of the day. What mattered it if their cause was won, if it meant the loss of their husbands ? 
  > <p align="right">—Violet Methley, <em>Camille Desmoulins: A Biography</em> (1914)

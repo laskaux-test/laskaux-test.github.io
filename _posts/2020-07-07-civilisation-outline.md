@@ -1,7 +1,7 @@
 ---
 layout: post
 
-title: The Annotated Civilisation&colon;&nbsp; I. An Outline
+title: The Annotated Civilisation&colon;&nbsp; I. Outline
 
 subtitle: 
 
@@ -27,11 +27,10 @@ tags: architecture art history television
 
 <br />
 
-
 ## Opening and Ending Sequences
 
 1a&nbsp; César Franck
-: [Organ Chorale No. 3 in A minor](
+: [Organ Chorale No. 3 in A minor, FWV 40](
 https://www.youtube.com/watch?v=99eEyXtwhAU)
 <br />
 [Michelangelo, _David_ | 
@@ -70,7 +69,7 @@ https://www.youtube.com/watch?v=h33FdTzAGEo)
 
 
 3a&nbsp; Anonymous 
-: [_C'est la fin_ (Breton bombard)](
+: ["C'est la fin} (with Breton bombard)](
 https://www.youtube.com/watch?v=wFg42TJ-ejM) 
 <br />
 [Château d'Angers | Château de Blois | Château de Sully-sur-Loire]
@@ -93,7 +92,7 @@ https://www.youtube.com/watch?v=_5VDzWU7vlc)
 <br /><br />
 
 
-4b&nbsp; Josquin des Prez
+4b&nbsp; Josquin des Préz
 : [_Nymphes des bois_, aka _La Déploration de Johannes Ockeghem_](
 https://www.youtube.com/watch?v=2on2P7syDzQ) 
 <br />
@@ -177,7 +176,7 @@ https://www.youtube.com/watch?v=Dzg91IyhIt8)
 : [_Don Giovanni_, K. 527: Act II, "Questo è il fin di chi fa mal"](
 https://www.youtube.com/watch?v=1wBIpynEWgY)
 <br />
-[Cuvilliés-Theater]
+[Cuvilliés-Theater | Felsenreitschule]
 <br /><br />
 
 
@@ -185,7 +184,7 @@ https://www.youtube.com/watch?v=1wBIpynEWgY)
 : [String Quintet No. 6 in E-flat major, K. 614: III. Menuetto (allegretto)](
 https://www.youtube.com/watch?v=Q4dPmCl4puU)
 <br />
-[Comédie-Française | Jean-Antoine Houdon, _Voltaire_]
+[Comédie-Française | Marguerite-Fanny Dubois-Davesnes, _Buste de Marivaux_ | Jean-Antoine Houdon, _Voltaire_]
 <br /><br />
 
 
@@ -225,7 +224,7 @@ https://www.youtube.com/watch?v=q4jgTM5WnrU)
 : [_Till Eulenspiegels lustige Streiche_, Op. 28, TrV 171](
 https://www.youtube.com/watch?v=99qWgSItaNQ)
 <br />
-[Auguste Rodin, _Monument to Balzac_]
+[Auguste Rodin, _Monument à Balzac_]
 <br /><br />
 
 
@@ -254,4 +253,7 @@ Urbino |
 Basilica di San Francesco d'Assisi | 
 Canterbury Cathedral | 
 Skellig Michael]
-<br /><br />
+
+<br/>
+
+

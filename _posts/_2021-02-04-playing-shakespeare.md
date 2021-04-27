@@ -10,34 +10,39 @@ excerpt:  <br />
 tags: television
 ---
 
-### I.&nbsp; The Two Traditions
+#### Contents {#con}
 
-["SPEAK THE SPEECH, I PRAY YOU"](https://www.youtube.com/watch?v=FuCv6IBml1M "Laurence Olivier as Hamlet, 1948 film")
-: Hamlet's advice to the actors—an early modern guideline for theatrical acting:
+[_Jn_](#Jn)—[_MV_](#MV)—[_H5_](#H5)—[_Ham._](#Ham)—[_Oth._](#Oth)—[_Cor._](#Cor) <br/><br/>
 
-> **HAMLET** &nbsp;(Alan Howard & Mike Gwilym) <br/>	
-> Speak the speech, I pray you, as I pronounced it to you, trippingly on the tongue; but if you mouth it as many of your players do, I had as lief the town-crier spoke my lines. Nor do not saw the air too much with your hand, thus, but use all gently; for in the very torrent, tempest, and, as I may say, whirlwind of your passion, you must acquire and beget a temperance that may give it smoothness. 
+----
+
+#### [_The Life and Death of King John_](#con) {#Jn}
+
+- "HE SHALL NOT LIVE. ENOUGH." <br/>
+King John proposes to his accomplice Hubert the murder of the young boy Arthur—the device of shared verse line&ensp;[0,2]
+
+> **KING JOHN** &nbsp;(Patrick Stewart)    
+> <br/>	Death.
 >
-> **HAMLET** &nbsp;(David Suchet & Ben Kingsley) <br/>
-> Be not too tame neither. But let your own discretion be your tutor. Suit the action to the word, the word to the action, with this special observance, that you o’erstep not the modesty of nature. For anything so o’erdone is from the purpose of playing, whose end, both at the first and now, was and is to hold, as t’were, the mirror up to nature. 
-> <p align="right">[<em>Ham.</em> III.ii.1–8 & 17–23]
+> **HUBERT** &nbsp;(David Suchet) 
+> <br/>	&nbsp; &nbsp; &nbsp; &nbsp; My Lord?
+>
+> **KING JOHN**     
+> <br/>	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; A grave.
+>
+> **HUBERT** 
+> <br/>	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He shall not live.
+>
+> **KING JOHN**     
+> <br/>	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Enough.
+> <p align="right">[<em>Jn.</em> III.iii.66]
 
 
-<br/> ["AN EAGLE IN A DOVE-COTE"](https://www.youtube.com/watch?v=HukDnCyJ0MM "Alan Howard as Coriolanus, 1984 TV")
-: Coriolanus's scorn for Aufidius and the Volscian conspirators—an example of Elizabethan lines:
 
-> **CORIOLANUS** &nbsp;(Alan Howard)
-> <br/>	Cut me to pieces, Volsces, men and lads,			
-> <br/>	Stain all your edges on me. Boy! False hound!		 
-> <br/>	If you have writ your annals true, ’tis there,	 
-> <br/>	That like an eagle in a dove-cote, I 				
-> <br/>	Flutter’d your Volscians in Corioles.				
-> <br/>	Alone I did it. Boy!
-> <p align="right">[<em>Cor.</em> V.vi.111–116]
+#### <br/> [_The Merchant of Venice_](#con) {#MV}
 
-
-<br/> ["IN SOOTH I KNOW NOT WHY I AM SO SAD"](https://www.youtube.com/watch?v=0EGBKuapkX4 "Anthony Nicholls as Antonio, Barry James as Salerio, and Michael Tudor aBarnes as Solanio, 1973 TV") 
-: The opening of _The Merchant of Venice_—comparing a _naturalistic_ speech to a heightened one:
+- ["IN SOOTH I KNOW NOT WHY I AM SO SAD"](https://www.youtube.com/watch?v=0EGBKuapkX4 "Anthony Nicholls as Antonio, Barry James as Salerio, and Michael Tudor Barnes as Solanio, 1974 TV") <br/>
+The opening of _The Merchant of Venice_—comparing a _naturalistic_ speech to a heightened one&ensp;[1]
 
 > **ANTONIO** &nbsp;(Ian McKellen)
 > <br/>	_In sooth I know not why I am so sad.
@@ -89,36 +94,14 @@ tags: television
 > <br/>	Because you are not merry; and ’twere as easy
 > <br/>	For you to laugh and leap, and say you are merry
 > <br/>	Because you are not sad. . . .
-> <p align="right">[<em>MV</em> I.i.1–22 & 39–50]
+> <p align="right"><a href="https://en.wikisource.org/wiki/Merchant_of_Venice_(1923)_Yale/Text/Act_I">[<em>MV</em> I.i.1–22 & 39–50] </a>
 
 
-<br/> ["FAREWELL THE TRANQUIL MIND"](https://www.youtube.com/watch?v=jYnN4sTPKdU "Laurence Olivier as Othello and Frank Finlay as Iago, 1965 film") 
-: Othello's self-perception after believing Desdemona's unfaithfulness—switching between heightened and _naturalistic_ language:
 
-> **OTHELLO** &nbsp;(Alan Howard)
-> <br/>	I had been happy if the general camp,
-> <br/>	Pioneers and all, had tasted her sweet body,
-> <br/>	So I had nothing known. O now for ever
-> <br/>	Farewell the tranquil mind, farewell content!
-> <br/>	Farewell the plumed troops and the big wars
-> <br/>	That makes ambition virtue! O farewell,
-> <br/>	Farewell the neighing steed and the shrill trump,
-> <br/>	The spirit-stirring drum, th’ear-piercing fife,
-> <br/>	The royal banner, and all quality,
-> <br/>	Pride, pomp and circumstance of glorious war!
-> <br/>	And, O you mortal engines whose rude throats
-> <br/>	Th’immortal Jove’s dread clamours counterfeit,
-> <br/>	Farewell: Othello’s occupation’s gone.
->
-> **IAGO** &nbsp;(Mike Gwilym) 
-> <br/>	_Is’t possible? my lord?_ 
-> <p align="right">[<em>Oth.</em> III.iii.348–361]
+#### <br/> [_The Life of Henry the Fifth_](#con) {#H5}
 
-
-### <br/> II.&nbsp; Using the Verse
-
-["ONCE MORE UNTO THE BREACH"](https://www.youtube.com/watch?v=q6pWPiNUiyg "Laurence Olivier as King Henry V of England, 1944 film") 
-: King Henry motivates his troops to launch continuous assaults—the alternation of light and strong stresses in Shakespeare's verse:
+- ["ONCE MORE UNTO THE BREACH"](https://www.youtube.com/watch?v=q6pWPiNUiyg "Laurence Olivier as King Henry V of England, 1944 film") <br/>
+King Henry motivates his troops to launch continuous assaults—the alternation of light and strong stresses in Shakespeare's verse&ensp;[0,2]
 
 > **KING HENRY V** &nbsp;(Michael Williams) 
 >
@@ -148,6 +131,92 @@ tags: television
 > <p align="right">[<em>H5</em> III.i.1–8]
 
 
+
+#### <br/> [_The Tragedy of Hamlet, Prince of Denmark_](#con) {#Ham}
+
+- ["TO BE, OR NOT TO BE"](https://www.youtube.com/watch?v=8Ay2I7py3Og "Christopher Plummer as Hamlet, 1964 film") <br/> 
+Hamlet's contemplation of life and death—lines ended with an eleventh syllable, or the _feminine ending_&ensp;[2]
+
+> **HAMLET** &nbsp;(Alan Howard)
+>
+> `de DUM, de DUM de DUM, DUM de de DUM de`
+> <br/>	To be, or not to be, that is the question:
+>
+> `DUM de de DUM de de de DUM de DUM de`
+> <br/>	Whether 'tis nobler in the mind to suffer
+>
+> `de DUM de DUM de de DUM de DUM de`
+> <br/>	The slings and arrows of outrageous fortune,
+>
+> `de de DUM DUM de DUM de DUM de DUM de`
+> <br/>	Or to take arms against a sea of troubles
+>
+> `de DUM de DUM de DUM DUM`
+> <br/>	And by opposing end them. . . .
+> <p align="right"><a href="https://en.wikisource.org/wiki/The_Tragedy_of_Hamlet,_Prince_of_Denmark/Act_3#Scene_1._A_room_in_the_castle.">[<em>Ham.</em> III.i.56–60] </a>
+
+
+- ["SPEAK THE SPEECH, I PRAY YOU"](https://www.youtube.com/watch?v=FuCv6IBml1M "Laurence Olivier as Hamlet, 1948 film") <br/>
+Hamlet's advice to the actors—an early modern guideline for theatrical acting&ensp;[0,1]
+
+> **HAMLET** &nbsp;(Alan Howard, Mike Gwilym, David Suchet, and Ben Kingsley) 
+>
+> Speak the speech, I pray you, as I pronounced it to you, trippingly on the tongue; but if you mouth it as many of your players do, I had as lief the town-crier spoke my lines. Nor do not saw the air too much with your hand, thus, but use all gently; for in the very torrent, tempest, and, as I may say, whirlwind of your passion, you must acquire and beget a temperance that may give it smoothness. 
+>
+> Be not too tame neither. But let your own discretion be your tutor. Suit the action to the word, the word to the action, with this special observance, that you o’erstep not the modesty of nature. For anything so o’erdone is from the purpose of playing, whose end, both at the first and now, was and is to hold, as t’were, the mirror up to nature. 
+> <p align="right"><a href="https://en.wikisource.org/wiki/The_Tragedy_of_Hamlet,_Prince_of_Denmark/Act_3#Scene_2._A_hall_in_the_castle."> [<em>Ham.</em> III.ii.1–8 & 17–23] </a>
+
+
+
+#### <br/> [_The Tragedy of Othello, the Moor of Venice_](#con) {#Oth}
+
+- ["FAREWELL THE TRANQUIL MIND"](https://www.youtube.com/watch?v=jYnN4sTPKdU "Laurence Olivier as Othello and Frank Finlay as Iago, 1965 film") <br/>
+Othello's self-perception after believing Desdemona's unfaithfulness—switching between heightened and _naturalistic_ language&ensp;[1]
+
+> **OTHELLO** &nbsp;(Alan Howard)
+> <br/>	I had been happy if the general camp,
+> <br/>	Pioneers and all, had tasted her sweet body,
+> <br/>	So I had nothing known. O now for ever
+> <br/>	Farewell the tranquil mind, farewell content!
+> <br/>	Farewell the plumed troops and the big wars
+> <br/>	That makes ambition virtue! O farewell,
+> <br/>	Farewell the neighing steed and the shrill trump,
+> <br/>	The spirit-stirring drum, th’ear-piercing fife,
+> <br/>	The royal banner, and all quality,
+> <br/>	Pride, pomp and circumstance of glorious war!
+> <br/>	And, O you mortal engines whose rude throats
+> <br/>	Th’immortal Jove’s dread clamours counterfeit,
+> <br/>	Farewell: Othello’s occupation’s gone.
+>
+> **IAGO** &nbsp;(Mike Gwilym) 
+> <br/>	_Is’t possible? my lord?_ 
+> <p align="right">[<em>Oth.</em> III.iii.348–361]
+
+
+
+#### <br/> [_Coriolanus_](#con) {#Cor} 
+
+- ["AN EAGLE IN A DOVE-COTE"](https://www.youtube.com/watch?v=HukDnCyJ0MM "Alan Howard as Coriolanus, 1984 TV") <br/>
+Coriolanus's scorn for Aufidius and the Volscian conspirators—an example of Elizabethan lines&ensp;[1]
+
+> **CORIOLANUS** &nbsp;(Alan Howard)
+> <br/>	Cut me to pieces, Volsces, men and lads,			
+> <br/>	Stain all your edges on me. Boy! False hound!		 
+> <br/>	If you have writ your annals true, ’tis there,	 
+> <br/>	That like an eagle in a dove-cote, I 				
+> <br/>	Flutter’d your Volscians in Corioles.				
+> <br/>	Alone I did it. Boy!
+> <p align="right"><a href="https://en.wikisource.org/wiki/The_Tragedy_of_Coriolanus#SCENE_VI._Antium._A_public_place.">[<em>Cor.</em> V.vi.111–116] </a>
+
+
+
+
+
+### <br/> II.&nbsp; Using the Verse
+
+
+
+
 <br/> "GOOD QUEEN, MY LORD, GOOD QUEEN"
 : Paulina tries to persuade Leontes of the virtuousness of Hermione—a line with ten stong stresses out of ten:
 
@@ -168,26 +237,7 @@ tags: television
 > <p align="right">[<em>JC</em> IV.iii.215]
 
 
-<br/> ["TO BE, OR NOT TO BE"](https://www.youtube.com/watch?v=8Ay2I7py3Og "Christopher Plummer as Hamlet, 1964 film") 
-: Hamlet's contemplation of life and death—lines ended with an eleventh syllable, or the _feminine ending_:
 
-> **HAMLET** &nbsp;(Alan Howard)
->
-> `de DUM, de DUM de DUM, DUM de de DUM de`
-> <br/>	To be, or not to be, that is the question:
->
-> `DUM de de DUM de de de DUM de DUM de`
-> <br/>	Whether 'tis nobler in the mind to suffer
->
-> `de DUM de DUM de de DUM de DUM de`
-> <br/>	The slings and arrows of outrageous fortune,
->
-> `de de DUM DUM de DUM de DUM de DUM de`
-> <br/>	Or to take arms against a sea of troubles
->
-> `de DUM de DUM de DUM DUM`
-> <br/>	And by opposing end them. . . .
-> <p align="right">[<em>Ham.</em> III.i.56–60]
 
 
 <br/> "HOW MIGHT A PRINCE FORGET"
@@ -231,24 +281,7 @@ tags: television
 > <p align="right">[<em>MV</em> IV.i.260–270]
 
 
-<br/> "HE SHALL NOT LIVE. ENOUGH."
-: King John proposes to his accomplice Hubert the murder of the young boy Arthur—the device of shared verse line:
 
-> **KING JOHN** &nbsp;(Patrick Stewart)    
-> <br/>	Death.
->
-> **HUBERT** &nbsp;(David Suchet) 
-> <br/>	&nbsp; &nbsp; &nbsp; &nbsp; My Lord?
->
-> **KING JOHN**     
-> <br/>	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; A grave.
->
-> **HUBERT** 
-> <br/>	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He shall not live.
->
-> **KING JOHN**     
-> <br/>	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Enough.
-> <p align="right">[<em>Jn.</em> III.iii.66]
 
 
 <br/> "WHEN, IN DISGRACE WITH FORTUNE AND MEN'S EYES"

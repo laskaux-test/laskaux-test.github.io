@@ -14,7 +14,7 @@ What tunes are to accompany a grand-narrative survery of the scientific civiliza
 The music advisor (uncredited, probably Charles Chilton—to my best guess) of Jacob Bronowski’s <em>The Ascent of Man</em> decided on a considerably modern compilation. 
 In the list below, 35 out of 68 pieces were composed in the 20th century, and 20 out of 38 composers/bands (including The Moody Blues and Pink Floyd) were born after 1850. 
 
-Classic BBC documentary series very often bring unexpected gifts—in this case, a little taste of musical modernism. &nbsp;[#chronology](#chrono) 
+Classic BBC documentary series very often bring unexpected gifts—in this case, a little joyful taste of musical modernism. &nbsp;[#chronology](#chrono) 
 <br><br>
 
 [Anon.]&nbsp; [Kyriale: Missa IX (Cum jubilo), Kyrie](https://www.youtube.com/watch?v=UCBtI0zRjOU) &nbsp;[6]

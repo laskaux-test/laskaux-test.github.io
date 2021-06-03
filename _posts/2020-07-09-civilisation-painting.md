@@ -834,7 +834,7 @@ Painters with **4–9** works featured:
 &emsp;&emsp;_Study of Sky and Trees_ [(1)](http://www.memoryprints.com/image/210865/john-ra-constable-study-of-sky-and-trees-by-john-constable) <br/>
 &emsp;&emsp;_Study of Sky and Trees_ [(2)](
 https://www.john-constable.org/Study-Of-Sky-And-Trees.html) <br/>
-&emsp;&emsp;[_Could Study_](https://www.john-constable.org/Cloud-Study.html) <br/>
+&emsp;&emsp;[_Cloud Study_](https://www.john-constable.org/Cloud-Study.html) <br/>
 &emsp;&emsp;_Study of Cirrus Clouds_
 
 

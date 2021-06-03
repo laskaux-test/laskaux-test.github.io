@@ -22,21 +22,21 @@ Sculptors with **3 or 4** works featured:
 
 ---
 
-🗿 **CLASSICAL GREEK**<br/>
+**CLASSICAL GREEK**<br/>
 &emsp;&emsp;Kore Acropolis No. 674 &nbsp;(c. 500 BC)&ensp;[2] <br/>
 &emsp;&emsp;Chatsworth Head &nbsp;(c. 460 BC)&ensp;[2] <br/>
 &emsp;&emsp;_Pericles with the Corinthian Helmet_ &nbsp;(c. 450–420 BC)&ensp;[2] <br/>
 &emsp;&emsp;Parthenon Frieze &nbsp;(c. 443–437 BC)&ensp;[1] <br/>
 &emsp;&emsp;_Demeter of Knidos_ &nbsp;(c. 350 BC)&ensp;[2] <br/>
 
-🗿 **CLASSICAL ROMAN**<br/>
+
+**CLASSICAL ROMAN**<br/>
 &emsp;&emsp;_Apollo del Belvedere_ &nbsp;(c. 120–140)&ensp;[1,5] <br/>
 &emsp;&emsp;_Equestrian Statue of Marcus Aurelius_ &nbsp;(175)&ensp;[5] <br/>
 &emsp;&emsp;Ludovisi Battle Sarcophagus &nbsp;(c. 250–260)&ensp;[1] 
 
 
-
-🗿 **MEDIEVAL** <br/>
+**MEDIEVAL** <br/>
 &emsp;&emsp;_Equestrian Statuette of Charlemagne_ &nbsp;(c. 870)&ensp;[1] <br/>
 &emsp;&emsp;_Bust of Charlemagne_ &nbsp;(c. 1350)&ensp;[1]
 

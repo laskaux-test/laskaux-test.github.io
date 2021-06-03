@@ -10,7 +10,7 @@ excerpt: “I believe order is better than chaos, creation better than destructi
 tags: architecture art history television
 ---
 
-| **Episode** | **Period** | **Start** | **End**
+| **EPISODE** | **PERIOD** | **START** | **END**
 |1. _The Skin of Our Teeth_ | Early Middle Ages<br /> (5<sup>th</sup>–10<sup>th</sup> c.) | _Apollo Belvedere_ & Parthenon Frieze | Aachener Dom|
 |2. _The Great Thaw_ | High Middle Ages <br /> (11<sup>th</sup>–13<sup>th</sup> c.) | Abbayes de Tournus & de Cluny | Notre-Dame de Chartres
 |3. _Romance and Reality_ | Late Middle Ages <br /> (13<sup>th</sup>–14<sup>th</sup> c.) | _La Dame à la licorne_ | Pisano's pulpits of Pisa & of Sant'Andrea Pistoia|

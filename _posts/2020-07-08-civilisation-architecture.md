@@ -40,7 +40,7 @@ J.&nbsp; [REVIVAL, INDUSTRIAL, & MODERN](#modern)
 🌐 Tempio dei Dioscuri (Temple of Castor and Pollux), Regio VIII Forum Romanum, Roma (495 BC)&ensp;[1,5] 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/MaisonCarr%C3%A9e.jpeg/1280px-MaisonCarr%C3%A9e.jpeg)
-Maison Carrée, Nîmes (c. 2–4/7)&ensp;[1]
+Maison Carrée, Nîmes (c. 2–7)&ensp;[1]
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Pontdugard.jpg/1200px-Pontdugard.jpg)
 🌐 Pont du Gard, Nîmes (1C)&ensp;[1] 
@@ -52,7 +52,7 @@ Maison Carrée, Nîmes (c. 2–4/7)&ensp;[1]
 🌐 Arc de Triomphe d’Orange (c. 20–25)&ensp;[1]
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Colosseo_2020.jpg/1200px-Colosseo_2020.jpg)
-🌐 Colosseum, or Flavian Amphitheatre, Regio III Isis et Serapis, Roma (70–80)&ensp;[5]
+🌐 Colosseum/Flavian Amphitheatre, Regio III Isis et Serapis, Roma (70–80)&ensp;[5]
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Pantheon_Rome_04_2016_6460.jpg/1024px-Pantheon_Rome_04_2016_6460.jpg)
 🌐 Pantheon, Regio IX Circus Flaminius, Roma (113–125)&ensp;[5]
@@ -84,7 +84,7 @@ Maison Carrée, Nîmes (c. 2–4/7)&ensp;[1]
 #### b2.&nbsp; Celtic {#celtic}
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/The_monastery_complex_at_Skellig_Michael_07.jpg/1280px-The_monastery_complex_at_Skellig_Michael_07.jpg)
-🌐 St. Fionan’s Monastery, Sceilg Mhichíl (Skellig Michael) (6C–8C)&ensp;[1,13] 
+🌐 St. Fionan’s Monastery, Sceilg Mhichíl/Skellig Michael (6C–8C)&ensp;[1,13] 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Lindisfarne_Priory_ruins_and_St._Aidan_statue.jpg/1280px-Lindisfarne_Priory_ruins_and_St._Aidan_statue.jpg)
 Lindisfarne Priory, Holy Island (634–8C)&ensp;[1] 
@@ -100,7 +100,7 @@ Baptistère Saint-Jean, Poitiers (c. 360/5C–6C)&ensp;[1]
 #### b4.&nbsp; Carolingian {#carolingian}
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Aachen%2C_Innenarchitektur_der_Pfalzkapelle.jpg/1021px-Aachen%2C_Innenarchitektur_der_Pfalzkapelle.jpg)
-🌐 Pfalzkapelle (Palatine Chapel), Aachen (Aix-la-Chapelle) (792–805) by Eudes de Metz&ensp;[1] 
+🌐 Pfalzkapelle (Palatine Chapel), Aachen/Aix-la-Chapelle (792–805, Eudes de Metz)&ensp;[1] 
 
 [#contents](#contents)
 <br/><br/>
@@ -270,12 +270,11 @@ Grote of St.-Bavokerk, Haarlem <br/>
 
 #### d.2&nbsp; Gothic Revival {#gothic-rev}
 
-Magdalen College, Oxford <br/>
-&emsp;&emsp;(1458)&ensp;[6]
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Magdalen_College%2C_Oxford_%287958644740%29.jpg/1024px-Magdalen_College%2C_Oxford_%287958644740%29.jpg)
+Magdalen College, Oxford (1458)&ensp;[6]
 
-![]()
-🌐 Scott Monument, Edinburgh * <br/>
-&emsp;&emsp;(1840–1844) by George Meikle Kemp&ensp;[10] 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/The_Scott_Monument%2C_Edinburgh.jpg/817px-The_Scott_Monument%2C_Edinburgh.jpg)
+🌐 Scott Monument, Edinburgh (1840–4, by George Meikle Kemp)&ensp;[10] 
 
 [#contents](#contents)
 <br/><br/>
@@ -307,19 +306,17 @@ Palazzo Strozzi, Firenze * <br/>
 
 #### e.2&nbsp; High Renaissance {#high-renai}
 
-Basilica di San Pietro, Vaticano * <br/>
-&emsp;&emsp;(1506–1626) 
-by Bernardo Rossellino, Giuliano da Sangallo, Bramante, Raffaello Sanzio, Giovanni Giocondo, Antonio da Sangallo il Giovane, Baldassarre Peruzzi, Michelangelo Buonarroti, Domenico Fontana, Giacomo Della Porta, Jacopo Barozzi da Vignola, Pirro Ligorio, Carlo Maderno, and Gian Lorenzo Bernini&ensp;[1,5] 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg/1200px-Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg)
+🌐 Basilica di San Pietro, Vaticano (1506–1626, Bernardo Rossellino, Giuliano da Sangallo, Bramante, Raffaello Sanzio, Giovanni Giocondo, Antonio da Sangallo il Giovane, Baldassarre Peruzzi, Michelangelo Buonarroti, Domenico Fontana, Giacomo Della Porta, Jacopo Barozzi da Vignola, Pirro Ligorio, Carlo Maderno, Gian Lorenzo Bernini, etc.)&ensp;[1,5] 
 
-Palazzo Apostolico, Vaticano * <br/>
-&emsp;&emsp;(1589) by Bramante, Michelangelo, Raphael, Antonio da Sangallo il Giovane, Carlo Maderno, Gian Lorenzo Bernini&ensp; [5,13]
+![](https://upload.wikimedia.org/wikipedia/commons/a/a8/Raffael_Stanza_della_Segnatura.jpg)
+🌐 Palazzo Apostolico, Vaticano (1589, Bramante, Michelangelo, Raphael, Antonio da Sangallo il Giovane, Carlo Maderno, Gian Lorenzo Bernini, etc.)&ensp; [5,13]
 <br/><br/>
 
 #### e.3&nbsp; Late Renaissance {#late-renai}
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Casino_di_pio_IV%2C_piazza_ovale_01.JPG/1024px-Casino_di_pio_IV%2C_piazza_ovale_01.JPG)
-🌐 Casina di Pio IV (Villa Pia), Vaticano (1558) 
-by Pirro Ligorio&ensp;[5]
+🌐 Casina di Pio IV (Villa Pia), Vaticano (1558, Pirro Ligorio)&ensp;[5]
 
 [#contents](#contents)
 <br/><br/>
@@ -330,66 +327,58 @@ by Pirro Ligorio&ensp;[5]
 #### f.1&nbsp; French Baroque {#french-bar}
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/P1300734_Paris_V_place_de_la_Sorbonne_rwk.jpg/1200px-P1300734_Paris_V_place_de_la_Sorbonne_rwk.jpg)
-Chapelle Sainte Ursule de la Sorbonne, Paris (1635–1642) 
-by Jacques Lemercier&ensp;[12]
+Chapelle Sainte Ursule de la Sorbonne, Paris (1635–42, Jacques Lemercier)&ensp;[12]
 
 🌐 Château de Versailles
 >![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Cour_de_Marbre_du_Ch%C3%A2teau_de_Versailles_October_5%2C_2011.jpg/1024px-Cour_de_Marbre_du_Ch%C3%A2teau_de_Versailles_October_5%2C_2011.jpg)
->Château neuf (1669–1672) by Louis Le Vau&ensp;[10]
+>Château neuf (1669–72, Louis Le Vau)&ensp;[10]
 >
 >![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Cour_d%27entr%C3%A9e_du_ch%C3%A2teau_de_Versailles_-_Mansardes.JPG/1200px-Cour_d%27entr%C3%A9e_du_ch%C3%A2teau_de_Versailles_-_Mansardes.JPG)
->Ailes des Ministres (1671–1679) by Jules Hardouin-Mansart&ensp;[10] 
+>Ailes des Ministres (1671–9, Jules Hardouin-Mansart)&ensp;[10] 
 >
 >![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Chateau_Versailles_Galerie_des_Glaces.jpg/1024px-Chateau_Versailles_Galerie_des_Glaces.jpg)
->Galerie des Glaces (1678–1684) by Jules Hardouin-Mansart and Charles Le Brun&ensp;[10]
+>Galerie des Glaces (1678–84, Jules Hardouin-Mansart and Charles Le Brun)&ensp;[10]
 >
 >![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Vue_a%C3%A9rienne_du_domaine_de_Versailles_le_20_ao%C3%BBt_2014_par_ToucanWings_-_Creative_Commons_By_Sa_3.0_-_35.jpg/1024px-Vue_a%C3%A9rienne_du_domaine_de_Versailles_le_20_ao%C3%BBt_2014_par_ToucanWings_-_Creative_Commons_By_Sa_3.0_-_35.jpg)
-> Chapelle royale de Versailles (1678–1710) Jules Hardouin-Mansart and Robert de Cotte&ensp;[10]
+> Chapelle royale de Versailles (1678–1710, Jules Hardouin-Mansart and Robert de Cotte)&ensp;[10]
 >
 >![](https://live.staticflickr.com/5681/30652667953_fbbd2620fd_b.jpg)
->Aile Gabriel (1772–1985) by Ange-Jacques Gabriel&ensp;[10] 
+>Aile Gabriel (1772–1985, Ange-Jacques Gabriel)&ensp;[10] 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/D%C3%B4me_des_Invalides%2C_Paris_15_May_2014.jpg/1200px-D%C3%B4me_des_Invalides%2C_Paris_15_May_2014.jpg)
-🌐 Hôtel des Invalides, Paris (1670–1679) 
-by Libéral Bruant and Jules Hardouin-Mansart&ensp;[1,12,13]
+🌐 Hôtel des Invalides, Paris (1670–9, Libéral Bruant and Jules Hardouin-Mansart)&ensp;[1,12,13]
 <br/><br/>
 
 #### f.2&nbsp; Italian Baroque {#italian-bar}
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Sant%27Ivo_alla_Sapienza_-Rome.jpg/1200px-Sant%27Ivo_alla_Sapienza_-Rome.jpg)
-🌐 Chiesa di Sant'Ivo alla Sapienza, Roma (1642–1660) 
-by Francesco Borromini&ensp;[9]
+🌐 Chiesa di Sant'Ivo alla Sapienza, Roma (1642–60, Francesco Borromini)&ensp;[9]
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Piazza_Navona_Chiesa_di_Sant%60Agnese_in_Agone.JPG/1024px-Piazza_Navona_Chiesa_di_Sant%60Agnese_in_Agone.JPG)
-🌐 Chiesa di Sant'Agnese in Agone, Roma (1652–1657) 
-by Carlo Rainaldi and Francesco Borromini&ensp;[5,9]
+🌐 Chiesa di Sant'Agnese in Agone, Roma (1652–7, Carlo Rainaldi and Francesco Borromini)&ensp;[5,9]
 <br/><br/>
 
 #### f.3&nbsp; German Baroque & Rococo {#german-bar}
 
 Schloss Nymphenburg, Neuhausen-Nymphenburg (München) <br/>
-&emsp;&emsp;(1664–1719) 
-by Agostino Barelli, Enrico Zucalli, Giovanni Antonio Viscardi, Joseph Effner, etc.&ensp;[9]
+&emsp;&emsp;(1664–1719, Agostino Barelli, Enrico Zucalli, Giovanni Antonio Viscardi, Joseph Effner, etc.)&ensp;[9]
 
 Kloster Ottobeuren <br/>
-&emsp;&emsp;(1711-1725)&ensp;[9]
+&emsp;&emsp;(1711-25)&ensp;[9]
 
 ![]()
 🌐 Würzburger Residenz, Würzburg * <br/>
-&emsp;&emsp;(1720–1780) 
-by Balthasar Neumann and Giambattista Tiepolo&ensp;[9] 
+&emsp;&emsp;(1720–80, Balthasar Neumann and Giambattista Tiepolo)&ensp;[9] 
 
 Amalienburg, Neuhausen-Nymphenburg (München) <br/>
-&emsp;&emsp;(1734–1739) 
-by Johann Baptist Zimmermann and Joachim Dietrich&ensp;[9] 
+&emsp;&emsp;(1734–9, Johann Baptist Zimmermann and Joachim Dietrich)&ensp;[9] 
 
 Basilika Vierzehnheiligen, Bad Staffelstein<br/>
-&emsp;&emsp;(1743-72) 
-by Balthasar Neumann&ensp;[9]
+&emsp;&emsp;(1743-72, Balthasar Neumann)&ensp;[9]
 
 ![]()
 🌐 Wallfahrtskirche zum Gegeißelten Heiland auf der Wies (Wieskirche), Steingaden * <br/>
-&emsp;&emsp;(1745–1754)&ensp;[9]
+&emsp;&emsp;(1745–54)&ensp;[9]
 <br/><br/>
 
 #### f.4&nbsp; English Baroque {#english-bar}

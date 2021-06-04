@@ -40,7 +40,7 @@ J.&nbsp; [REVIVAL, INDUSTRIAL, & MODERN](#modern)
 🌐 Tempio dei Dioscuri (Temple of Castor and Pollux), Regio VIII Forum Romanum, Roma (495 BC)&ensp;[1,5] 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/MaisonCarr%C3%A9e.jpeg/1280px-MaisonCarr%C3%A9e.jpeg)
-⬆ Maison Carrée, Nîmes (c. 2–4/7)&ensp;[1]
+Maison Carrée, Nîmes (c. 2–4/7)&ensp;[1]
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Pontdugard.jpg/1200px-Pontdugard.jpg)
 🌐 Pont du Gard, Nîmes (1C)&ensp;[1] 
@@ -72,7 +72,7 @@ J.&nbsp; [REVIVAL, INDUSTRIAL, & MODERN](#modern)
 
 ### B.&nbsp; Early Medieval {#early-med}
 
-#### b.1&nbsp; Byzantine {#byzantine}
+#### b1.&nbsp; Byzantine {#byzantine}
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Apse_mosaic_-_Basilica_of_San_Vitale_%28Ravenna%29.jpg/1024px-Apse_mosaic_-_Basilica_of_San_Vitale_%28Ravenna%29.jpg)
 🌐 Basilica di San Vitale, Ravenna (526–547)&ensp;[1]
@@ -81,23 +81,23 @@ J.&nbsp; [REVIVAL, INDUSTRIAL, & MODERN](#modern)
 🌐 Hagia Sophia, Istanbul/Constantinople (532–537)&ensp;[1] 
 <br/><br/>
 
-#### b.2&nbsp; Celtic {#celtic}
+#### b2.&nbsp; Celtic {#celtic}
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/The_monastery_complex_at_Skellig_Michael_07.jpg/1280px-The_monastery_complex_at_Skellig_Michael_07.jpg)
 🌐 St. Fionan’s Monastery, Sceilg Mhichíl (Skellig Michael) (6C–8C)&ensp;[1,13] 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Lindisfarne_Priory_ruins_and_St._Aidan_statue.jpg/1280px-Lindisfarne_Priory_ruins_and_St._Aidan_statue.jpg)
-⬆ Lindisfarne Priory, Holy Island (634–8C)&ensp;[1] 
+Lindisfarne Priory, Holy Island (634–8C)&ensp;[1] 
 <br/><br/>
 
-#### b.3&nbsp; Merovingian {#merovingian}
+#### b3.&nbsp; Merovingian {#merovingian}
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Baptist%C3%A8re_Saint_Jean_-_int%C3%A9rieur1.JPG/1280px-Baptist%C3%A8re_Saint_Jean_-_int%C3%A9rieur1.JPG)
-⬆ Baptistère Saint-Jean, Poitiers (c. 360/5C–6C)&ensp;[1]
+Baptistère Saint-Jean, Poitiers (c. 360/5C–6C)&ensp;[1]
 <br><br>
 
 
-#### b.4&nbsp; Carolingian {#carolingian}
+#### b4.&nbsp; Carolingian {#carolingian}
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Aachen%2C_Innenarchitektur_der_Pfalzkapelle.jpg/1021px-Aachen%2C_Innenarchitektur_der_Pfalzkapelle.jpg)
 🌐 Pfalzkapelle (Palatine Chapel), Aachen (Aix-la-Chapelle) (792–805) by Eudes de Metz&ensp;[1] 
@@ -108,30 +108,30 @@ J.&nbsp; [REVIVAL, INDUSTRIAL, & MODERN](#modern)
 
 ### C.&nbsp; Romanesque {#romanesque}
 
-#### c.1&nbsp; Cluniac {#cluniac}
+#### c1.&nbsp; Cluniac {#cluniac}
 
 ![]()
-⬆ Abbaye de Cluny <br/>
+Abbaye de Cluny <br/>
 &emsp;&emsp;(910–1130)&ensp;[2] 
 
 ![]()
-⬆ Abbaye Saint-Philibert de Tournus <br/>
+Abbaye Saint-Philibert de Tournus <br/>
 &emsp;&emsp;(4C/1008–12C)&ensp;[2]  &nbsp;📖
 
 ![]()
-⬆ Abbaye Sainte-Foy de Conques <br/>
+Abbaye Sainte-Foy de Conques <br/>
 &emsp;&emsp;(1041–12C)&ensp;[2]
 
 ![]()
-⬆ Abbaye Saint-Pierre de Moissac <br/>
+Abbaye Saint-Pierre de Moissac <br/>
 &emsp;&emsp;(7C/1063–15C)&ensp;[2]
 
 ![]()
-⬆ Abbaye Sainte-Marie de Souillac <br/>
+Abbaye Sainte-Marie de Souillac <br/>
 &emsp;&emsp;(12C)&ensp;[2]
 
 ![]()
-⬆ Cathédrale Saint-Lazare d'Autun <br/>
+Cathédrale Saint-Lazare d'Autun <br/>
 &emsp;&emsp;(1120–1146)&ensp;[2]
 
 ![]()
@@ -140,7 +140,7 @@ J.&nbsp; [REVIVAL, INDUSTRIAL, & MODERN](#modern)
 <br/><br/>
 
 
-#### c.2&nbsp; Cistercian {#cistercian}
+#### c2.&nbsp; Cistercian {#cistercian}
 
 Abbaye Notre-Dame de Cîteaux <br/>
 &emsp;&emsp;(1098–1193)&ensp;[2]
@@ -160,7 +160,7 @@ Abbaye du Thoronet <br/>
 <br/><br/>
 
 
-#### c.3&nbsp; Norman {#norman}
+#### c3.&nbsp; Norman {#norman}
 
 ![]()
 🌐 Canterbury Cathedral * <br/>
@@ -181,7 +181,7 @@ Gloucester Cathedral <br/>
 <br/><br/>
 
 
-#### c.4&nbsp; Italian Romanesque {#italian-roman}
+#### c4.&nbsp; Italian Romanesque {#italian-roman}
 
 ![]()
 🌐 Battistero di San Giovanni, Firenze * <br/>
@@ -227,7 +227,7 @@ Cappella degli Scrovegni (Arena Chapel), Padova <br/>
 
 ### D.&nbsp; Gothic {#gothic}
 
-#### d.1&nbsp; Medieval Gothic
+#### d1.&nbsp; Medieval Gothic
 
 Basilique Cathédrale de Saint-Denis <br/>
 &emsp;&emsp;(c. 1135–1144)&ensp;[2]
@@ -330,25 +330,24 @@ by Pirro Ligorio&ensp;[5]
 #### f.1&nbsp; French Baroque {#french-bar}
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/P1300734_Paris_V_place_de_la_Sorbonne_rwk.jpg/1200px-P1300734_Paris_V_place_de_la_Sorbonne_rwk.jpg)
-⬆ Chapelle Sainte Ursule de la Sorbonne, Paris (1635–1642) 
+Chapelle Sainte Ursule de la Sorbonne, Paris (1635–1642) 
 by Jacques Lemercier&ensp;[12]
 
-🌐 Château de Versailles <br/> 
-&emsp;&emsp;i.&nbsp; Château neuf 
-(1669–1672) 
-by Louis Le Vau&ensp;[10] <br/>
-&emsp;&emsp;ii.&nbsp; Ailes des Ministres 
-(1671–1679) 
-by Jules Hardouin-Mansart&ensp;[10] <br/>
-&emsp;&emsp;iii.&nbsp; Galerie des Glaces 
-(1678–1684) 
-by Jules Hardouin-Mansart and Charles Le Brun&ensp;[10] <br/>
-&emsp;&emsp;iv.&nbsp; Chapelle royale de Versailles 
-(1678–1710) 
-by Jules Hardouin-Mansart and Robert de Cotte&ensp;[10] <br/>
-&emsp;&emsp;v.&nbsp; Aile Gabriel 
-(1772–1985) 
-by Ange-Jacques Gabriel&ensp;[10] 
+🌐 Château de Versailles
+>![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Cour_de_Marbre_du_Ch%C3%A2teau_de_Versailles_October_5%2C_2011.jpg/1024px-Cour_de_Marbre_du_Ch%C3%A2teau_de_Versailles_October_5%2C_2011.jpg)
+>Château neuf (1669–1672) by Louis Le Vau&ensp;[10]
+>
+>![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Cour_d%27entr%C3%A9e_du_ch%C3%A2teau_de_Versailles_-_Mansardes.JPG/1200px-Cour_d%27entr%C3%A9e_du_ch%C3%A2teau_de_Versailles_-_Mansardes.JPG)
+>Ailes des Ministres (1671–1679) by Jules Hardouin-Mansart&ensp;[10] 
+>
+>![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Chateau_Versailles_Galerie_des_Glaces.jpg/1024px-Chateau_Versailles_Galerie_des_Glaces.jpg)
+>Galerie des Glaces (1678–1684) by Jules Hardouin-Mansart and Charles Le Brun&ensp;[10]
+>
+>![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Vue_a%C3%A9rienne_du_domaine_de_Versailles_le_20_ao%C3%BBt_2014_par_ToucanWings_-_Creative_Commons_By_Sa_3.0_-_35.jpg/1024px-Vue_a%C3%A9rienne_du_domaine_de_Versailles_le_20_ao%C3%BBt_2014_par_ToucanWings_-_Creative_Commons_By_Sa_3.0_-_35.jpg)
+> Chapelle royale de Versailles (1678–1710) Jules Hardouin-Mansart and Robert de Cotte&ensp;[10]
+>
+>![](https://live.staticflickr.com/5681/30652667953_fbbd2620fd_b.jpg)
+>Aile Gabriel (1772–1985) by Ange-Jacques Gabriel&ensp;[10] 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/D%C3%B4me_des_Invalides%2C_Paris_15_May_2014.jpg/1200px-D%C3%B4me_des_Invalides%2C_Paris_15_May_2014.jpg)
 🌐 Hôtel des Invalides, Paris (1670–1679) 

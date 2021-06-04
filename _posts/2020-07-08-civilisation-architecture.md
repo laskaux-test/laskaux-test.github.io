@@ -304,22 +304,29 @@ Basilica di Santa Maria delle Carceri, Prato <br>
 
 Palazzo Strozzi, Firenze * <br>
 &emsp;&ensp;(1489–1662) by Benedetto da Maiano&ensp;[4]
+
+[#contents](#contents)
 <br><br>
 
 
 #### e.2&nbsp; High Renaissance {#high-renai}
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg/1200px-Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg)<br>
-🌐 Basilica di San Pietro, Vaticano (1506–1626, Bernardo Rossellino, Giuliano da Sangallo, Bramante, Raffaello Sanzio, Giovanni Giocondo, Antonio da Sangallo il Giovane, Baldassarre Peruzzi, Michelangelo Buonarroti, Domenico Fontana, Giacomo Della Porta, Jacopo Barozzi da Vignola, Pirro Ligorio, Carlo Maderno, Gian Lorenzo Bernini, etc.)&ensp;[1,5] 
-
 ![](https://upload.wikimedia.org/wikipedia/commons/a/a8/Raffael_Stanza_della_Segnatura.jpg)<br>
-🌐 Palazzo Apostolico, Vaticano (1589, Bramante, Michelangelo, Raphael, Antonio da Sangallo il Giovane, Carlo Maderno, Gian Lorenzo Bernini, etc.)&ensp; [5,13]
+🌐 Palazzo Apostolico, Vaticano <br>
+&emsp;&ensp;(1471–1605, Bramante, Michelangelo, Raphael, Antonio da Sangallo il Giovane, Carlo Maderno, Gian Lorenzo Bernini, etc.)&ensp; [5,13]
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg/1200px-Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg)<br>
+🌐 Basilica di San Pietro, Vaticano <br>
+&emsp;&ensp;(1506–1626, Bernardo Rossellino, Giuliano da Sangallo, Bramante, Raffaello Sanzio, Giovanni Giocondo, Antonio da Sangallo il Giovane, Baldassarre Peruzzi, Michelangelo Buonarroti, Domenico Fontana, Giacomo Della Porta, Jacopo Barozzi da Vignola, Pirro Ligorio, Carlo Maderno, Gian Lorenzo Bernini, etc.)&ensp;[1,5] 
+
+[#contents](#contents)
 <br><br>
 
 #### e.3&nbsp; Late Renaissance {#late-renai}
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Casino_di_pio_IV%2C_piazza_ovale_01.JPG/1024px-Casino_di_pio_IV%2C_piazza_ovale_01.JPG)<br>
-🌐 Casina di Pio IV (Villa Pia), Vaticano (1558, Pirro Ligorio)&ensp;[5]
+🌐 Casina di Pio IV (Villa Pia), Vaticano <br>
+&emsp;&ensp;(1558–62, Pirro Ligorio)&ensp;[5]
 
 [#contents](#contents)
 <br><br>
@@ -349,7 +356,8 @@ Chapelle Sainte Ursule de la Sorbonne, Paris (1635–42, Jacques Lemercier)&ensp
 >Aile Gabriel (1772–1985, Ange-Jacques Gabriel)&ensp;[10] 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/D%C3%B4me_des_Invalides%2C_Paris_15_May_2014.jpg/1200px-D%C3%B4me_des_Invalides%2C_Paris_15_May_2014.jpg)<br>
-🌐 Hôtel des Invalides, Paris (1670–9, Libéral Bruant and Jules Hardouin-Mansart)&ensp;[1,12,13]
+🌐 Hôtel des Invalides, Paris <br>
+&emsp;&ensp;(1670–9, Libéral Bruant and Jules Hardouin-Mansart)&ensp;[1,12,13]
 
 [#contents](#contents)
 <br><br>
@@ -358,10 +366,12 @@ Chapelle Sainte Ursule de la Sorbonne, Paris (1635–42, Jacques Lemercier)&ensp
 #### f2.&nbsp; Italian Baroque {#italian-bar}
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Sant%27Ivo_alla_Sapienza_-Rome.jpg/1200px-Sant%27Ivo_alla_Sapienza_-Rome.jpg)<br>
-🌐 Chiesa di Sant'Ivo alla Sapienza, Roma (1642–60, Francesco Borromini)&ensp;[9]
+🌐 Chiesa di Sant'Ivo alla Sapienza, Roma <br>
+&emsp;&ensp;(1642–60, Francesco Borromini)&ensp;[9]
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Piazza_Navona_Chiesa_di_Sant%60Agnese_in_Agone.JPG/1024px-Piazza_Navona_Chiesa_di_Sant%60Agnese_in_Agone.JPG)<br>
-🌐 Chiesa di Sant'Agnese in Agone, Roma (1652–7, Carlo Rainaldi and Francesco Borromini)&ensp;[5,9]
+🌐 Chiesa di Sant'Agnese in Agone, Roma <br>
+&emsp;&ensp;(1652–7, Carlo Rainaldi and Francesco Borromini)&ensp;[5,9]
 
 [#contents](#contents)
 <br><br>
@@ -590,36 +600,38 @@ Plantijn (Plantin Press), Antwerp (1555)&ensp;[6]
 
 #### i1.&nbsp; Italian {#italilan-urban}
 
-![]()<br>
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Piazza_dei_miracoli_-_aerial_panorama.jpg/800px-Piazza_dei_miracoli_-_aerial_panorama.jpg)<br>
 🌐 Piazza dei Miracoli, Pisa (11C)&ensp;[1]
 
-![]()<br>
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Florence_Baptistery_and_Florence_Cathedral_360_panorama_small.jpg/1200px-Florence_Baptistery_and_Florence_Cathedral_360_panorama_small.jpg)<br>
 🌐 Piazza del Duomo, Firenze (11C)&ensp;[4]
 
-![]()<br>
+![](https://upload.wikimedia.org/wikipedia/commons/0/0a/Siena5.jpg)<br>
 🌐 Piazza del Campo, Sienne (13C)&ensp;[3]
 
-![]()<br>
-🌐 Giardini Vaticani, Vaticano * <br>
+![](https://upload.wikimedia.org/wikipedia/commons/2/23/Vatikanische_Gaerten_Museen_Rom.jpg)<br>
+🌐 Giardini Vaticani, Vaticano <br>
 &emsp;&ensp;(1279, Donato Bramante, Pirro Ligorio, Antonio Tempesta, Giovanni Maggi, Giovanni Battista Falda, etc.)&ensp;[5]
 
-![]()<br>
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Piazza_Signoria_-_Firenze.jpg/1280px-Piazza_Signoria_-_Firenze.jpg)<br>
 🌐 Piazza della Signoria, Firenze (1330)&ensp;[4]
 
-![]()<br>
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/0_Piazza_Navona_-_Rome_%281%29.JPG/1280px-0_Piazza_Navona_-_Rome_%281%29.JPG)<br>
 🌐 Piazza Navona, Roma (15C)&ensp;[5]
 
-![]()<br>
-🌐 Cortile del Belvedere (Cortile della Pigna), Vaticano * <br>
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Musei_vaticani_-_cortile_della_pigna_01161.JPG/1280px-Musei_vaticani_-_cortile_della_pigna_01161.JPG)<br>
+🌐 Cortile del Belvedere (Cortile della Pigna), Vaticano <br>
 &emsp;&ensp;(1506, Bramante)&ensp;[5]
 
-![]()<br>
-🌐 Piazza del Campidoglio, Roma * <br>
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Piazza_del_Campidoglio_din_Roma.jpg/1280px-Piazza_del_Campidoglio_din_Roma.jpg)<br>
+🌐 Piazza del Campidoglio, Roma <br>
 &emsp;&ensp;(1536–1546, Michelangelo)&ensp;[5]
 
-![]()<br>
-🌐 Piazza San Pietro, Vaticano * <br>
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/St_Peter%27s_Square%2C_Vatican_City_-_April_2007.jpg/1280px-St_Peter%27s_Square%2C_Vatican_City_-_April_2007.jpg)<br>
+🌐 Piazza San Pietro, Vaticano <br>
 &emsp;&ensp;(1586, Carlo Maderno and Gian Lorenzo Bernini)&ensp;[1,5]
+
+[#contents](#contents)
 <br><br>
 
 
@@ -632,23 +644,28 @@ Plantijn (Plantin Press), Antwerp (1555)&ensp;[6]
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Vue_a%C3%A9rienne_du_domaine_de_Versailles_le_20_ao%C3%BBt_2014_par_ToucanWings_-_Creative_Commons_By_Sa_3.0_-_22.jpg/1280px-Vue_a%C3%A9rienne_du_domaine_de_Versailles_le_20_ao%C3%BBt_2014_par_ToucanWings_-_Creative_Commons_By_Sa_3.0_-_22.jpg)<br>
 🌐 Jardin de Versailles <br>
 &emsp;&ensp;(1624, André Le Nôtre, Louis Le Vau, Jules Hardouin-Mansart, and Charles Le Brun)&ensp;[10,11]
+
+[#contents](#contents)
 <br><br>
 
 
 #### i3.&nbsp; English {#english-urban}
 
-![]()<br>
+![](https://upload.wikimedia.org/wikipedia/commons/2/2c/Blenheim_Palace_Grand_Bridge.jpg)<br>
 Blenheim Palace Gardens, Woodstock <br>
-&emsp;&ensp;(1704–20C) 
-by John Vanburgh, Lancelot "Capability" Brown, etc.&ensp;[11]
+&emsp;&ensp;(1704–20C, John Vanburgh, Lancelot "Capability" Brown, etc.)&ensp;[11]
+
+[#contents](#contents)
 <br><br>
 
 
 #### i4.&nbsp; Scottish {#scottish-urban}
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Charlotte_Square_from_the_SW.JPG/1024px-Charlotte_Square_from_the_SW.JPG)<br>
-🌐 Charlotte Square, Edinburgh * <br>
+🌐 Charlotte Square, Edinburgh <br>
 &emsp;&ensp;(1791, Robert Adam)&ensp;[10]
+
+[#contents](#contents)
 <br><br>
 
 
@@ -676,21 +693,17 @@ Central Park, New York City  <br>
 🌐 Pont des Arts, Paris <br>
 &emsp;&ensp;(1801–4, Louis-Alexandre de Cessart and Louis Gerald Arretche)&ensp;[1] &nbsp;📖
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Washington_Monument_with_American_flags_on_a_gorgeous_Fall_day.jpg/768px-Washington_Monument_with_American_flags_on_a_gorgeous_Fall_day.jpg)<br>
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Washington_Monument_-_Washington%2C_D.C..jpg/768px-Washington_Monument_-_Washington%2C_D.C..jpg)<br>
 Washington Monument, Washington, D.C. <br>
 &emsp;&ensp;(1848–54, 1879–84, Robert Mills)&ensp;[10]
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/I_Sherry-Netherland_Hotel%2C_NYC%2C_NY.jpg/1371px-I_Sherry-Netherland_Hotel%2C_NYC%2C_NY.jpg)<br>
-The Sherry-Netherland, New York <br>
-&emsp;&ensp;(1926–7, Schultze & Weaver and Buchman & Kahn) 
-
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Sherry_Netherland_Hotel_jeh.JPG/730px-Sherry_Netherland_Hotel_jeh.JPG)<br>
+The Sherry-Netherland (1926–7, Schultze & Weaver and Buchman & Kahn) and General Motors Building (1964–8, Edward Durell Stone & Associates and Emery Roth & Sons), New York&ensp;[1]
+ 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Norfolk_Terrace.JPG/1024px-Norfolk_Terrace.JPG)<br>
 'Ziggurats', University of East Anglia, Norwich <br>
 &emsp;&ensp;(1963–1968, Denys Lasdun and Bernard Feilden)&ensp;[13]
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Sherry_Netherland_Hotel_jeh.JPG/730px-Sherry_Netherland_Hotel_jeh.JPG)<br>
-General Motors Building, New York <br>
-&emsp;&ensp;(1964–8, Edward Durell Stone & Associates and Emery Roth & Sons)&ensp;[1]
 
 [#contents](#contents)
 <br><br>

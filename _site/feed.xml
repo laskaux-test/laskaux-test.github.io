@@ -5,7 +5,7 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Fri, 04 Jun 2021 05:10:24 -0400</pubDate>
+    <pubDate>Fri, 04 Jun 2021 16:15:33 -0400</pubDate>
     
       <item>
         <title>A Musical Ascension</title>
@@ -881,6 +881,7 @@ Skellig Michael  [13]&lt;/p&gt;
         <guid isPermaLink="true">/2020/07/09/civilisation-painting.html</guid>
         <description>&lt;p&gt;Painters with &lt;strong&gt;10 or more&lt;/strong&gt; works featured:&lt;/p&gt;
 &lt;ul&gt;
+  &lt;li&gt;Giotto&lt;/li&gt;
   &lt;li&gt;Leonardo da Vinci&lt;/li&gt;
   &lt;li&gt;Albrecht Dürer&lt;/li&gt;
   &lt;li&gt;Michelangelo&lt;/li&gt;
@@ -895,7 +896,6 @@ Skellig Michael  [13]&lt;/p&gt;
 
 &lt;p&gt;Painters with &lt;strong&gt;4–9&lt;/strong&gt; works featured:&lt;/p&gt;
 &lt;ul&gt;
-  &lt;li&gt;Giotto&lt;/li&gt;
   &lt;li&gt;Jan van Eyck&lt;/li&gt;
   &lt;li&gt;Masaccio&lt;/li&gt;
   &lt;li&gt;Piero della Francesca&lt;/li&gt;
@@ -919,35 +919,75 @@ Skellig Michael  [13]&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;&lt;br /&gt; ANON.
- (1C BC) [1] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-
-  &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
-Frescoes in the Villa dei Misteri, Pompei&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/9/92/Roman_fresco_Villa_dei_Misteri_Pompeii_004.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Roman_fresco_Villa_dei_Misteri_Pompeii_008.jpg/1280px-Roman_fresco_Villa_dei_Misteri_Pompeii_008.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+Frescoes in the Villa dei Misteri, Pompei (1C BC) [1]&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; CIMABUE
- (Italian, c. 1240–1302) [3] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(Italian, c. 1240–1302) [3] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
-  &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
-&lt;em&gt;San Francesco d’Assisi&lt;/em&gt; &lt;br /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Cimabue_018.jpg/1172px-Cimabue_018.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+&lt;em&gt;Madonna Enthroned with the Child, St Francis and Four Angels&lt;/em&gt; (1278–80)&lt;/p&gt;
 
-  &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+  &lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Cimabue_Trinita_Madonna.jpg/683px-Cimabue_Trinita_Madonna.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
 &lt;em&gt;Santa Trinita Maestà&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; &lt;strong&gt;GIOTTO&lt;/strong&gt;
- (Italian, c. 1267–1337) [3,4] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(Italian, c. 1267–1337) [3,4] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
-  &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
-Frescoes in the Cappella degli Scrovegni (Arena Chapel), Padova: &lt;em&gt;Legend of St. Francis&lt;/em&gt;, &lt;em&gt;Life of the Vrigin&lt;/em&gt;, &amp;amp; &lt;em&gt;Life of the Chrrst&lt;/em&gt;, including &lt;em&gt;Lamentation&lt;/em&gt; (&lt;em&gt;The Mourning of Christ&lt;/em&gt;)&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;https://www.wga.hu/art/g/giotto/padova/00view.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+Frescoes in the Cappella degli Scrovegni (Arena Chapel), Padova (c. 1305)&lt;/p&gt;
+
+  &lt;p&gt;&lt;img src=&quot;https://www.wga.hu/art/g/giotto/padova/3christ/chris01.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+&lt;em&gt;Life of Christ: Nativity, Birth of Christ&lt;/em&gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;img src=&quot;https://www.wga.hu/art/g/giotto/padova/1joachim/joachi6.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+&lt;em&gt;Life of Joachim: Meeting at the Golden Gate&lt;/em&gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;img src=&quot;https://www.wga.hu/art/g/giotto/padova/1joachim/joachi5.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+&lt;em&gt;Life of Joachim: Joachim’s Dream&lt;/em&gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;img src=&quot;https://www.wga.hu/art/g/giotto/padova/3christ/chris21.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+&lt;em&gt;Life of Christ: Resurrection&lt;/em&gt; (&lt;em&gt;Noli me tangere&lt;/em&gt;)&lt;/p&gt;
+
+  &lt;p&gt;&lt;img src=&quot;https://www.wga.hu/art/g/giotto/padova/3christ/chris19.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+&lt;em&gt;Life of Christ: Cruxifiction&lt;/em&gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;img src=&quot;https://www.wga.hu/art/g/giotto/padova/3christ/chris18.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+&lt;em&gt;Life of Christ: Road to Calvary&lt;/em&gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;img src=&quot;https://www.wga.hu/art/g/giotto/padova/3christ/chris06.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+&lt;em&gt;Life of Christ: Crist among the Doctors&lt;/em&gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;img src=&quot;https://www.wga.hu/art/g/giotto/padova/3christ/chris07.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+&lt;em&gt;Life of Christ: Baptism of Christ&lt;/em&gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;img src=&quot;https://www.wga.hu/art/g/giotto/padova/4lastjud/00view1.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+&lt;em&gt;Last Judgment&lt;/em&gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;img src=&quot;https://www.wga.hu/art/g/giotto/padova/4lastjud/09_lastj.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+&lt;em&gt;Last Judgment&lt;/em&gt; (detail)&lt;/p&gt;
+
+  &lt;p&gt;&lt;img src=&quot;https://www.wga.hu/art/g/giotto/padova/3christ/chris08.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+&lt;em&gt;Life of Christ: Marriage at Cana&lt;/em&gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;img src=&quot;https://www.wga.hu/art/g/giotto/padova/3christ/chris15.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+&lt;em&gt;Life of Christ: The Arrest of Christ&lt;/em&gt; (&lt;em&gt;Kiss of Judas&lt;/em&gt;)&lt;/p&gt;
+
+  &lt;p&gt;&lt;img src=&quot;https://www.wga.hu/art/g/giotto/padova/2virgin/mary06.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+&lt;em&gt;Life of Virgin: Wedding Procession&lt;/em&gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/3/3a/Giotto_-_Scrovegni_-_-36-_-_Lamentation_%28The_Mourning_of_Christ%29_adj.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+&lt;em&gt;Life of Christ: Lamentation&lt;/em&gt; (&lt;em&gt;The Mourning of Christ&lt;/em&gt;)&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; AMBROGIO LORENZETTI
- (Italian, c. 1290–1348) [3] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(Italian, c. 1290–1348) [3] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -955,15 +995,15 @@ Frescoes in the Cappella degli Scrovegni (Arena Chapel), Padova: &lt;em&gt;Legen
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; ANDREA DI BONAIUTO DA FIRENZE
- (Italian, act. 1343–1377) [4] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(Italian, act. 1343–1377) [4] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
-  &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
-&lt;em&gt;The Church Militant and the Church Triumphant&lt;/em&gt;, fresco in the Cappellone degli Spagnoli (Spanish Chapel) of the Santa Maria Novella, Firenze&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Way-of-salvation-church-militant-triumphant-andrea-di-bonaiuto-1365.jpg/1280px-Way-of-salvation-church-militant-triumphant-andrea-di-bonaiuto-1365.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+&lt;em&gt;The Church Militant and the Church Triumphant&lt;/em&gt;, fresco in the Cappellone degli Spagnoli (Spanish Chapel) of the Santa Maria Novella, Firenze (1365–7)&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; HUBERT VAN EYCK
- (Flemish, c. 1385/90–1426) [4] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(Flemish, c. 1385/90–1426) [4] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -971,7 +1011,7 @@ Frescoes in the Cappella degli Scrovegni (Arena Chapel), Padova: &lt;em&gt;Legen
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; &lt;strong&gt;JAN VAN EYCK&lt;/strong&gt;
- (Flemish, c. 1390–1441) [4] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(Flemish, c. 1390–1441) [4] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -997,7 +1037,7 @@ Frescoes in the Cappella degli Scrovegni (Arena Chapel), Padova: &lt;em&gt;Legen
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; SASSETTA
- (Italian, c. 1392–1450/1) [3] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(Italian, c. 1392–1450/1) [3] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -1005,7 +1045,7 @@ Frescoes in the Cappella degli Scrovegni (Arena Chapel), Padova: &lt;em&gt;Legen
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; &lt;strong&gt;MASACCIO&lt;/strong&gt;
- (Italian, 1401–1428) [4] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(Italian, 1401–1428) [4] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -1013,7 +1053,7 @@ Frescoes in the Cappella Brancacci of the Basilica di Santa Maria del Carmine, F
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; JUSTUS VAN GENT (JOOS VAN WASSENHOVE) 
- (Flemish, c. 1410–1480) [4] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(Flemish, c. 1410–1480) [4] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -1021,7 +1061,7 @@ Frescoes in the Cappella Brancacci of the Basilica di Santa Maria del Carmine, F
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; APOLLONIO DI GIOVANNI
- (Italian, c. 1414–1465) [5] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(Italian, c. 1414–1465) [5] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -1029,7 +1069,7 @@ Frescoes in the Cappella Brancacci of the Basilica di Santa Maria del Carmine, F
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; &lt;strong&gt;PIERO DELLA FRANCESCA&lt;/strong&gt;
- (Italian, c. 1415–1492) [4] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(Italian, c. 1415–1492) [4] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -1049,7 +1089,7 @@ Frescoes in the Cappella Brancacci of the Basilica di Santa Maria del Carmine, F
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; DOMENICO DI MICHELINO
- (Italian, 1417–1491) [3] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(Italian, 1417–1491) [3] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -1057,7 +1097,7 @@ Frescoes in the Cappella Brancacci of the Basilica di Santa Maria del Carmine, F
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; LUCIANO LAURANA
- (Italian, c. 1420–1479) [4] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(Italian, c. 1420–1479) [4] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -1065,7 +1105,7 @@ Frescoes in the Cappella Brancacci of the Basilica di Santa Maria del Carmine, F
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; FRA CARNEVALE
- (Italian, c. 1420/5–1484) [4] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(Italian, c. 1420/5–1484) [4] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -1073,7 +1113,7 @@ Frescoes in the Cappella Brancacci of the Basilica di Santa Maria del Carmine, F
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; BENOZZO GOZZOLI
- (Italian, c. 1421–1497) [5] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(Italian, c. 1421–1497) [5] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -1081,7 +1121,7 @@ Frescoes in the Cappella Brancacci of the Basilica di Santa Maria del Carmine, F
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; ANTONELLO DA MESSINA
- (Italian, c. 1430–1479) [4] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(Italian, c. 1430–1479) [4] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -1089,7 +1129,7 @@ Frescoes in the Cappella Brancacci of the Basilica di Santa Maria del Carmine, F
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; GIOVANNI BELLINI
- (Italian, c. 1430–1516) [4] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(Italian, c. 1430–1516) [4] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -1097,7 +1137,7 @@ Frescoes in the Cappella Brancacci of the Basilica di Santa Maria del Carmine, F
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; &lt;strong&gt;ANDREA MANTEGNA&lt;/strong&gt; 
- (Italian, 1431–1506) [4,5] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(Italian, 1431–1506) [4,5] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -1108,7 +1148,7 @@ Frescoes in the Camera degli Sposi, or the Camera picta, of the Palazzo Ducale, 
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; BACCIO BALDINI
- (Italian, c. 1436–1487) [4] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(Italian, c. 1436–1487) [4] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -1116,7 +1156,7 @@ Frescoes in the Camera degli Sposi, or the Camera picta, of the Palazzo Ducale, 
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; MELOZZO DA FORLÌ
- (Italian, 1438–1494) [4,5] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(Italian, 1438–1494) [4,5] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -1127,7 +1167,7 @@ Frescoes in the Camera degli Sposi, or the Camera picta, of the Palazzo Ducale, 
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; FRANCESCO DI GIORGIO MARTINI
- (Italian, 1439–1501) [4] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(Italian, 1439–1501) [4] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -1135,7 +1175,7 @@ Frescoes in the Camera degli Sposi, or the Camera picta, of the Palazzo Ducale, 
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; &lt;strong&gt;SANDRO BOTTICELLI&lt;/strong&gt;
- (Italian, c. 1445–1510) [1,4] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(Italian, c. 1445–1510) [1,4] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -1152,7 +1192,7 @@ Frescoes in the Camera degli Sposi, or the Camera picta, of the Palazzo Ducale, 
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; DOMENICO GHIRLANDAIO
- (Italian, c. 1448–1494) [4] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(Italian, c. 1448–1494) [4] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -1160,7 +1200,7 @@ Frescoes in the Camera degli Sposi, or the Camera picta, of the Palazzo Ducale, 
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; PEDRO BERRUGUETE 
- (Spanish, c. 1450–1504) [4] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(Spanish, c. 1450–1504) [4] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -1168,7 +1208,7 @@ Frescoes in the Camera degli Sposi, or the Camera picta, of the Palazzo Ducale, 
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; &lt;strong&gt;LEONARDO DA VINCI&lt;/strong&gt;
- (Italian, c. 1452–1519) [4,5,8] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(Italian, c. 1452–1519) [4,5,8] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -1260,7 +1300,7 @@ Frescoes in the Camera degli Sposi, or the Camera picta, of the Palazzo Ducale, 
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; PINTURICCHIO
- (Italian, 1454–1513) [4] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(Italian, 1454–1513) [4] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -1268,7 +1308,7 @@ Frescoes in the Camera degli Sposi, or the Camera picta, of the Palazzo Ducale, 
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; VITTORE CARPACCIO
- (Italian, c. 1465–1525/6) [4] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(Italian, c. 1465–1525/6) [4] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -1276,7 +1316,7 @@ Frescoes in the Camera degli Sposi, or the Camera picta, of the Palazzo Ducale, 
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; QUENTIN MATSYS
- (Flemish, 1466–1530) [3,6] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(Flemish, 1466–1530) [3,6] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -1287,7 +1327,7 @@ Frescoes in the Camera degli Sposi, or the Camera picta, of the Palazzo Ducale, 
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; &lt;strong&gt;ALBRECHT DÜRER&lt;/strong&gt;
- (German, 1471–1528) [6] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(German, 1471–1528) [6] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -1343,7 +1383,7 @@ Preparatory study for &lt;em&gt;The Rhinoceros&lt;/em&gt; &lt;br /&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; &lt;strong&gt;LUCAS CRANACH DER ÄLTERE&lt;/strong&gt;
- (German, c. 1472–1553) [6] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(German, c. 1472–1553) [6] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -1366,29 +1406,56 @@ Preparatory study for &lt;em&gt;The Rhinoceros&lt;/em&gt; &lt;br /&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; &lt;strong&gt;MICHELANGELO&lt;/strong&gt;
- (Italian, 1475–1564) [5,13] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(Italian, 1475–1564) [5,13] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
-  &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
-Sistine Chapel ceiling: &lt;em&gt;The Great Flood&lt;/em&gt;, &lt;em&gt;The Fall and Expulsion from Paradise&lt;/em&gt;, &lt;em&gt;The Separation of Land and Water&lt;/em&gt;, &lt;em&gt;The Separation of Light from Darkness&lt;/em&gt;, &lt;em&gt;Ezekiel Hears the Word of the Lord&lt;/em&gt;, &lt;em&gt;Jeremiah Lamenting the Fall of Jerusalem&lt;/em&gt;, &lt;em&gt;The Drunkenness of Noah&lt;/em&gt;, &lt;em&gt;The Creation of Adam&lt;/em&gt;, &amp;amp; &lt;em&gt;The Creation of the Sun, Moon, and Plants&lt;/em&gt; &lt;br /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Sistine_Chapel_ceiling_02.jpg/1356px-Sistine_Chapel_ceiling_02.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+Sistine Chapel ceiling (1508–12)&lt;/p&gt;
 
-  &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
-&lt;em&gt;The Last Judgment&lt;/em&gt;, fresco on the altar wall of the Sistine Chapel&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/El_Diluvio.jpg/1200px-El_Diluvio.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+&lt;em&gt;The Great Flood&lt;/em&gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Expulsion_del_para%C3%ADso.jpg/1280px-Expulsion_del_para%C3%ADso.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+&lt;em&gt;The Fall and Expulsion from Paradise&lt;/em&gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/f/f9/Dividing_water_from_Heaven.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+&lt;em&gt;The Separation of Land and Water&lt;/em&gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Vaticano_2011_%2852%29.JPG/1280px-Vaticano_2011_%2852%29.JPG&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+&lt;em&gt;The Separation of Light from Darkness&lt;/em&gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Ezekiel_by_Michelangelo%2C_restored_-_large.jpg/873px-Ezekiel_by_Michelangelo%2C_restored_-_large.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+&lt;em&gt;Ezekiel Hears the Word of the Lord&lt;/em&gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/e/e9/Michelangelo%2C_profeti%2C_Jeremiah_01.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+&lt;em&gt;Jeremiah Lamenting the Fall of Jerusalem&lt;/em&gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Michelangelo%2C_Drunkenness_of_Noah_00.jpg/1024px-Michelangelo%2C_Drunkenness_of_Noah_00.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+&lt;em&gt;The Drunkenness of Noah&lt;/em&gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Creaci%C3%B3n_de_Ad%C3%A1n.jpg/1280px-Creaci%C3%B3n_de_Ad%C3%A1n.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+&lt;em&gt;The Creation of Adam&lt;/em&gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/The_Creation_of_the_Sun_and_the_Moon%2C_Michelangelo_%281508-1512%29.jpg/1280px-The_Creation_of_the_Sun_and_the_Moon%2C_Michelangelo_%281508-1512%29.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+&lt;em&gt;The Creation of the Sun, Moon, and Plants&lt;/em&gt; &lt;br /&gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Last_Judgement_%28Michelangelo%29.jpg/1860px-Last_Judgement_%28Michelangelo%29.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+&lt;em&gt;The Last Judgment&lt;/em&gt;, fresco on the altar wall of the Sistine Chapel (1536–1541)&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; GIORGIONE
- (Italian, c. 1477/8–1510) [4] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(Italian, c. 1477/8–1510) [4] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
-  &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
-&lt;em&gt;La Tempesta&lt;/em&gt; &lt;br /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Accademia_-_La_tempesta_-_Giorgione.jpg/1200px-Accademia_-_La_tempesta_-_Giorgione.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+&lt;em&gt;La Tempesta&lt;/em&gt; (c. 1505)&lt;/p&gt;
 
-  &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+  &lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Col_tempo_by_Giorgione.jpg/880px-Col_tempo_by_Giorgione.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
 &lt;em&gt;Vecchia&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; &lt;strong&gt;RAFFAELLO SANZIO DA URBINO (RAPHAEL)&lt;/strong&gt;
- (Italian, 1483–1520) [4,5,6] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(Italian, 1483–1520) [4,5,6] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -1423,39 +1490,39 @@ Raphael Cartoons: &lt;em&gt;The Miraculous Draught of Fishes, Christ’s Charge 
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; NIKLAUS MANUEL DEUTSCH
- (Swiss, c. 1484–1530) [6] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(Swiss, c. 1484–1530) [6] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
-  &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
-&lt;em&gt;The Martyrdom of the Ten Thousand&lt;/em&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Albrecht_D%C3%BCrer_-_Marter_der_zehntausend_Christen_%28Yorck_Project%29.jpg/1782px-Albrecht_D%C3%BCrer_-_Marter_der_zehntausend_Christen_%28Yorck_Project%29.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+&lt;em&gt;The Martyrdom of the Ten Thousand&lt;/em&gt; (1508)&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;br /&gt; URS GRAFT
- (Swiss, c. 1485–1528) [6] &lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt; URS GRAF
+&lt;br /&gt;(Swiss, c. 1485–1528) [6] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
-  &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+  &lt;p&gt;&lt;img src=&quot;https://i.pinimg.com/474x/98/bf/30/98bf30f211882f2a543d75a1e7498509.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
 &lt;em&gt;Swiss Mercenary&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; TIZIANO VECELLIO (TITIAN)
- (Italian, c. 1488/90–1576) [4] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(Italian, c. 1488/90–1576) [4] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
-  &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
-&lt;em&gt;Le Concert champêtre&lt;/em&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Le_Concert_champ%C3%AAtre%2C_by_Titian%2C_from_C2RMF_retouchedFXD.jpg/1280px-Le_Concert_champ%C3%AAtre%2C_by_Titian%2C_from_C2RMF_retouchedFXD.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+&lt;em&gt;Le Concert champêtre&lt;/em&gt; (1509)&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; JOSSE LIEFERINXE
- (Flemish, act. 1493–1508) [6] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(Flemish, act. 1493–1508) [6] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
-  &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
-&lt;em&gt;St. Michael Killing the Dragon&lt;/em&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/1/10/Titelbild_Engel%2C_D%C3%A4monen_und_phantastische_Wesen.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+&lt;em&gt;St. Michael Killing the Dragon&lt;/em&gt; (c. 1493–1505)&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; &lt;strong&gt;HANS HOLBEIN DER JÜNGERE&lt;/strong&gt;
- (German, c. 1497–1543) [6] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(German, c. 1497–1543) [6] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -1487,15 +1554,15 @@ Raphael Cartoons: &lt;em&gt;The Miraculous Draught of Fishes, Christ’s Charge 
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; MAARTEN VAN HEEMSKERCK
- (Dutch, 1498–1574) [5] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(Dutch, 1498–1574) [5] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
-  &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
-&lt;em&gt;Old St. Peter’s Basilica and the Vatican Palace&lt;/em&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/c/c0/Maarten_van_Heemskerck_014.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+&lt;em&gt;Old St. Peter’s Basilica and the Vatican Palace&lt;/em&gt; (c. 1530s)&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; MAÎTRE DE SAINT-GILLES
- (Franco-Flemish, c. 1500) [2] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(Franco-Flemish, c. 1500) [2] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/0/05/Master_Of_Saint_Gilles_-_The_Mass_of_St_Gilles_-_WGA14485.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -1503,70 +1570,68 @@ Raphael Cartoons: &lt;em&gt;The Miraculous Draught of Fishes, Christ’s Charge 
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; PIETER BRUEGEL DE OUDE
- (Flemish, 1525/30–1569) [6,11] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(Flemish, 1525/30–1569) [6,11] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Pieter_Bruegel_the_Elder_-_The_Peasant_Dance_-_WGA3499.jpg/1024px-Pieter_Bruegel_the_Elder_-_The_Peasant_Dance_-_WGA3499.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
 &lt;em&gt;The Peasant Dance&lt;/em&gt; (c. 1567) &lt;br /&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
-&lt;em&gt;Alpine Landscape&lt;/em&gt; &lt;br /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/6/64/Mountain_landscape_with_a_river_by_Pieter_Bruegel_the_Elder_1553.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+&lt;em&gt;Mountain Landscape with a River&lt;/em&gt; (1553) &lt;br /&gt;&lt;/p&gt;
 
   &lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Pieter_Bruegel_%28I%29_-_The_Return_of_the_Herd_%281565%29.jpg/1024px-Pieter_Bruegel_%28I%29_-_The_Return_of_the_Herd_%281565%29.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
 &lt;em&gt;Return of a Herd&lt;/em&gt; (1565)&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; FRANÇOIS DUBOIS
- (French, 1529–1584) [6] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(French, 1529–1584) [6] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/La_masacre_de_San_Bartolom%C3%A9%2C_por_Fran%C3%A7ois_Dubois.jpg/1599px-La_masacre_de_San_Bartolom%C3%A9%2C_por_Fran%C3%A7ois_Dubois.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
 &lt;em&gt;Le Massacre de la Saint-Barthélemy de 1572&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;br /&gt; ANON. [6] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-
   &lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/c/c8/Montaigne_1578.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
-&lt;em&gt;Portrait of Michel de Montaigne&lt;/em&gt; (c. 1578)&lt;/p&gt;
+&lt;em&gt;Portrait of Michel de Montaigne&lt;/em&gt; (c. 1578) [6]&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; &lt;strong&gt;FRANS HALS&lt;/strong&gt;
- (Dutch, c. 1582–1666) [8] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(Dutch, c. 1582–1666) [8] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
-  &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
-&lt;em&gt;Officers and Sergeants of the St. George Civic Guard&lt;/em&gt; &lt;br /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/2/2c/Officers_and_Sergeants_of_the_St_George_Civic_Guard_Company.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+&lt;em&gt;Officers and Sergeants of the St. George Civic Guard&lt;/em&gt; (1639) &lt;br /&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
-&lt;em&gt;Meeting of the Officers and Sergeants of the Calivermen Civic Guard&lt;/em&gt; &lt;br /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;https://www.franshalsmuseum.nl/wp-content/uploads/2018/03/os-I-112-2013.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+&lt;em&gt;Meeting of the Officers and Sergeants of the Calivermen Civic Guard&lt;/em&gt; (1633) &lt;br /&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
-&lt;em&gt;Banquet of the Officers of the Calivermen Civic Guard&lt;/em&gt; &lt;br /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Frans_Hals_-_Banquet_of_the_Officers_of_the_St_Hadrian_Civic_Guard_Company_-_WGA11092.jpg/1280px-Frans_Hals_-_Banquet_of_the_Officers_of_the_St_Hadrian_Civic_Guard_Company_-_WGA11092.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+&lt;em&gt;Banquet of the Officers of the Calivermen Civic Guard&lt;/em&gt; (1627) &lt;br /&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
-&lt;em&gt;Regents of the Old Men’s Almshouse&lt;/em&gt; &lt;br /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/b/b0/Frans_Hals_-_Regents_of_the_Old_Men%27s_Almshouse_-_WGA11182.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+&lt;em&gt;Regents of the Old Men’s Almshouse&lt;/em&gt; (1664) &lt;br /&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+  &lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/7/73/Frans_Hals_-_Portret_van_Ren%C3%A9_Descartes.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
 &lt;em&gt;Portrait of Descartes&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; PIETER SAENREDAM
- (Dutch, 1597–1665) [8] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(Dutch, 1597–1665) [8] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
-  &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
-&lt;em&gt;Interior of the Grote of St. Bavokerk, Haarlem&lt;/em&gt; &lt;br /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;https://www.nationalgallery.org.uk/media/33646/n-2531-00-000020-hd.jpg?mode=max&amp;amp;width=1920&amp;amp;height=1080&amp;amp;rnd=132385871502830000&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+&lt;em&gt;Interior of the Grote of St. Bavokerk at Haarlem&lt;/em&gt; (1636–7) &lt;br /&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
-&lt;em&gt;Interior of the Cunerakerk, Rhenen&lt;/em&gt; &lt;br /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/The_Interior_of_the_Cunerakerk_in_Rhenen_by_Pieter_Saenredam_Mauritshuis_888.jpg/1280px-The_Interior_of_the_Cunerakerk_in_Rhenen_by_Pieter_Saenredam_Mauritshuis_888.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+&lt;em&gt;Interior of the Cunerakerk at Rhenen&lt;/em&gt; (1655) &lt;br /&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
-&lt;em&gt;Crossing and Nave of the St. Odulphuskerk, Assendelft&lt;/em&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Assetimage.jpg/1280px-Assetimage.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+&lt;em&gt;Interior of the Sint-Odulphuskerk at Assendelft&lt;/em&gt; (1649)&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; HANS BOLLONGIER
- (Dutch, 1600–1645) [8] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(Dutch, 1600–1645) [8] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Hans_Bollongier_-_Stilleven_met_bloemen_-_Google_Art_Project.jpg/798px-Hans_Bollongier_-_Stilleven_met_bloemen_-_Google_Art_Project.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -1574,7 +1639,7 @@ Raphael Cartoons: &lt;em&gt;The Miraculous Draught of Fishes, Christ’s Charge 
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; JOHANN JAKOB WALTHER
- (Alsatian, 1604–1676/7) [8] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(Alsatian, 1604–1676/7) [8] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;https://s3-eu-west-1.amazonaws.com/clientfileuploads/prod_image/26/productimages/2006BF3412.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -1582,7 +1647,7 @@ Raphael Cartoons: &lt;em&gt;The Miraculous Draught of Fishes, Christ’s Charge 
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; FILIPPO GAGLIARDI 
- (Italian, c. 1606–1659) [5] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(Italian, c. 1606–1659) [5] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;https://www.roger-pearse.com/weblog/wp-content/uploads/2019/04/San-Martino-ai-Monti-Basilica-di-San-Pietro-affresco-di-Filippo-Gagliardi_skewed.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -1590,7 +1655,7 @@ Raphael Cartoons: &lt;em&gt;The Miraculous Draught of Fishes, Christ’s Charge 
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; &lt;strong&gt;REMBRANDT VAN RIJN&lt;/strong&gt;
- (Dutch, 1606–1669) [8] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(Dutch, 1606–1669) [8] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Rembrandt_Harmensz._van_Rijn_-_Zelfportret_als_de_apostel_Paulus_-_Google_Art_Project.jpg/860px-Rembrandt_Harmensz._van_Rijn_-_Zelfportret_als_de_apostel_Paulus_-_Google_Art_Project.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -1631,7 +1696,7 @@ Raphael Cartoons: &lt;em&gt;The Miraculous Draught of Fishes, Christ’s Charge 
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; PAULUS POTTER
- (Dutch, 1625–1654) [8] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(Dutch, 1625–1654) [8] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Paulus_Potter_-_De_Stier.jpg/1024px-Paulus_Potter_-_De_Stier.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -1639,7 +1704,7 @@ Raphael Cartoons: &lt;em&gt;The Miraculous Draught of Fishes, Christ’s Charge 
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; JAN VAN DE CAPPELLE
- (Dutch, 1626–1679) [8] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(Dutch, 1626–1679) [8] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;https://www.nationalgallery.org.uk/media/33028/n-0965-00-000017-hd.jpg?mode=max&amp;amp;width=1920&amp;amp;height=1080&amp;amp;rnd=132385452267300000&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -1647,7 +1712,7 @@ Raphael Cartoons: &lt;em&gt;The Miraculous Draught of Fishes, Christ’s Charge 
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; JAN DE BRAY
- (Dutch, c. 1627–1697) [8] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(Dutch, c. 1627–1697) [8] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Bray%2C_Jan_de_Regents_of_the_Children%27s_Orphanage_in_Haarlem.jpg/1024px-Bray%2C_Jan_de_Regents_of_the_Children%27s_Orphanage_in_Haarlem.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -1655,7 +1720,7 @@ Raphael Cartoons: &lt;em&gt;The Miraculous Draught of Fishes, Christ’s Charge 
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; JACOB VAN RUISDAEL 
- (Dutch, 1628/9–1682) [8] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(Dutch, 1628/9–1682) [8] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/oU7bxlmh94XWBLJJTMkuY6ZYxUFmSkkveZE2bUqJ8eiQEl-aXDCSIesYRPVAOHxaNgc=s1200&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -1666,7 +1731,7 @@ Raphael Cartoons: &lt;em&gt;The Miraculous Draught of Fishes, Christ’s Charge 
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; GABRIËL METSU
- (Dutch, 1629–1667) [8]&lt;/p&gt;
+&lt;br /&gt;(Dutch, 1629–1667) [8]&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;https://collectionapi.metmuseum.org/api/collection/v1/iiif/437071/795828/main-image&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -1674,7 +1739,7 @@ Raphael Cartoons: &lt;em&gt;The Miraculous Draught of Fishes, Christ’s Charge 
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; PIETER DE HOOCH
- (Dutch, 1629–1684) [8] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(Dutch, 1629–1684) [8] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
   &lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/a/ab/Pieter_de_Hooch_-_A_Woman_Drinking_with_Two_Men_-_WGA11694.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
 &lt;em&gt;A Woman Drinking with Two Men&lt;/em&gt; (c. 1662–5)&lt;/p&gt;
@@ -1684,7 +1749,7 @@ Raphael Cartoons: &lt;em&gt;The Miraculous Draught of Fishes, Christ’s Charge 
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;strong&gt;JOHANNES VERMEER&lt;/strong&gt;
- (Dutch, 1632–1675) [8] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(Dutch, 1632–1675) [8] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
   &lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Vermeer-view-of-delft.jpg/1233px-Vermeer-view-of-delft.jpg&quot; alt=&quot;&quot; /&gt; &lt;br /&gt;
 &lt;em&gt;Gezicht op Delft&lt;/em&gt; (c. 1659–61)&lt;/p&gt;
@@ -1718,7 +1783,7 @@ Raphael Cartoons: &lt;em&gt;The Miraculous Draught of Fishes, Christ’s Charge 
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; &lt;strong&gt;WILLEM VAN DE VELDE DE JONGE&lt;/strong&gt;
- (Dutch, 1633–1607) [8] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(Dutch, 1633–1607) [8] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;https://www.nationalgallery.org.uk/media/33042/n-0978-00-000047-hd.jpg?mode=max&amp;amp;width=1920&amp;amp;height=1080&amp;amp;rnd=132385452874170000&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -1735,7 +1800,7 @@ Raphael Cartoons: &lt;em&gt;The Miraculous Draught of Fishes, Christ’s Charge 
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; GERRIT BERCKHEYDE 
- (Dutch, 1638–1698) [8] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(Dutch, 1638–1698) [8] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/4/4a/Gerrit_Berckheyde_-_The_Market_Place_and_the_Grote_Kerk_at_Haarlem.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -1743,7 +1808,7 @@ Raphael Cartoons: &lt;em&gt;The Miraculous Draught of Fishes, Christ’s Charge 
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; JOHANN KERSEBOOM
- (German, ?–1708) [8] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(German, ?–1708) [8] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;http://projectvox.org/wp-content/uploads/2016/12/Boyle_NPG3930_0.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -1751,7 +1816,7 @@ Raphael Cartoons: &lt;em&gt;The Miraculous Draught of Fishes, Christ’s Charge 
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; GODFREY KNELLER 
- (English, 1646–1723) [8] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(English, 1646–1723) [8] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Portrait_of_Sir_Isaac_Newton%2C_1689.jpg/844px-Portrait_of_Sir_Isaac_Newton%2C_1689.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -1759,7 +1824,7 @@ Raphael Cartoons: &lt;em&gt;The Miraculous Draught of Fishes, Christ’s Charge 
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; FRANCIS PLACE
- (English, 1647–1728) [8] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(English, 1647–1728) [8] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/2785/2654/products/f5061_c19bb26f-3603-4a42-9d07-1b030109bdcc_1024x1024.jpg?v=1528124802&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -1767,7 +1832,7 @@ Raphael Cartoons: &lt;em&gt;The Miraculous Draught of Fishes, Christ’s Charge 
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; JUSTUS VAN HUYSUM
- (Dutch, 1659–1716) [8] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(Dutch, 1659–1716) [8] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;https://images.rkd.nl/rkd/thumb/650x650/d3f59177-c52b-3b1b-e0e7-19cd4b8ffc2f.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -1775,7 +1840,7 @@ Raphael Cartoons: &lt;em&gt;The Miraculous Draught of Fishes, Christ’s Charge 
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; HYACINTHE RIGAUD 
- (French, 1659–1743) [10] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(French, 1659–1743) [10] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/3/35/Bernard_Le_Bovier_de_Fontenelle_-_Versailles_MV_2936.png&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -1783,7 +1848,7 @@ Raphael Cartoons: &lt;em&gt;The Miraculous Draught of Fishes, Christ’s Charge 
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; THOMAS MURRAY
- (Scottish, 1663–1734) [8,10] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(Scottish, 1663–1734) [8,10] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -1794,7 +1859,7 @@ Raphael Cartoons: &lt;em&gt;The Miraculous Draught of Fishes, Christ’s Charge 
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; JONATHAN RICHARDSON THE ELDER
- (English, 1667–1745) [10] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(English, 1667–1745) [10] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -1802,7 +1867,7 @@ Raphael Cartoons: &lt;em&gt;The Miraculous Draught of Fishes, Christ’s Charge 
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; JAMES THORNHILL
- (English, 1675–1734) [8] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(English, 1675–1734) [8] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -1810,15 +1875,15 @@ Raphael Cartoons: &lt;em&gt;The Miraculous Draught of Fishes, Christ’s Charge 
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; JEAN-FRANÇOIS DE TROY 
- (French, 1679–1752) [10] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(French, 1679–1752) [10] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
-  &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
-&lt;em&gt;La Lecture de Molière&lt;/em&gt; (&lt;em&gt;The Reading from Molière&lt;/em&gt;)&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;https://www.art-prints-on-demand.com/kunst/jean_francois_de_troy/Reading-from-Moliere.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+&lt;em&gt;La Lecture de Molière&lt;/em&gt; (&lt;em&gt;The Reading from Molière&lt;/em&gt;, c. 1728)&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; &lt;strong&gt;ANTOINE WATTEAU&lt;/strong&gt;
- (French, 1684–1721) [9] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(French, 1684–1721) [9] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -1856,23 +1921,23 @@ Raphael Cartoons: &lt;em&gt;The Miraculous Draught of Fishes, Christ’s Charge 
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; JEAN-MARC NATTIER
- (French, 1685–1766) [10] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(French, 1685–1766) [10] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
-  &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
-&lt;em&gt;Portrait of Joseph Bonnier de la Mosson&lt;/em&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Joseph_Bonnier_de_la_Mosson_1745_by_Nattier.jpg/781px-Joseph_Bonnier_de_la_Mosson_1745_by_Nattier.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+&lt;em&gt;Portrait of Joseph Bonnier de la Mosson&lt;/em&gt; (1745)&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; ELIAS GOTTLOB HAUSSMANN
- (German, 1695–1774) [9] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(German, 1695–1774) [9] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
-  &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
-&lt;em&gt;Portrait of Johann Sebastian Bach&lt;/em&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/6/6a/Johann_Sebastian_Bach.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+&lt;em&gt;Portrait of Johann Sebastian Bach&lt;/em&gt; (1748)&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; &lt;strong&gt;WILLIAM HOGARTH&lt;/strong&gt;
- (English, 1697–1764) [10,11] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(English, 1697–1764) [10,11] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -1886,7 +1951,7 @@ Raphael Cartoons: &lt;em&gt;The Miraculous Draught of Fishes, Christ’s Charge 
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; &lt;strong&gt;JEAN-BAPTISTE-SIMÉON CHARDIN&lt;/strong&gt;
- (French, 1699–1779) [10] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(French, 1699–1779) [10] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -1906,21 +1971,21 @@ Raphael Cartoons: &lt;em&gt;The Miraculous Draught of Fishes, Christ’s Charge 
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; FRANÇOIS BOUCHER
- (French, 1703–1770) [10] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(French, 1703–1770) [10] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
-  &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
-&lt;em&gt;Le Déjeuner&lt;/em&gt; &lt;br /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/c/c0/Fran%C3%A7ois_Boucher_002.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+&lt;em&gt;Le Déjeuner&lt;/em&gt; (1739) &lt;br /&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
-&lt;em&gt;La Toilette&lt;/em&gt; &lt;br /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Boucher_toilette_1742.jpg/1247px-Boucher_toilette_1742.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+&lt;em&gt;La Toilette&lt;/em&gt; (1742) &lt;br /&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
-&lt;em&gt;A Lady on Her Day Bed&lt;/em&gt; or &lt;em&gt;Portrait of Madame Boucher&lt;/em&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/a/a4/Fran%C3%A7ois_Boucher_020.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+&lt;em&gt;A Lady on Her Day Bed&lt;/em&gt; or &lt;em&gt;Portrait of Madame Boucher&lt;/em&gt; (1743)&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; &lt;strong&gt;MAURICE QUENTIN DE LA TOUR&lt;/strong&gt;
- (French, 1704–1788) [10,11] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(French, 1704–1788) [10,11] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -1949,34 +2014,34 @@ Study for the &lt;em&gt;Portrait of Mademoiselle Dangeville&lt;/em&gt; &lt;br /&
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; LOUIS-MICHEL VAN LOO
- (French, 1707–1771) [10] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(French, 1707–1771) [10] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
-  &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
-&lt;em&gt;Portrait of Denis Diderot&lt;/em&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/8/80/Louis-Michel_van_Loo_-_Portrait_of_Denis_Diderot_-_WGA13440.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+&lt;em&gt;Portrait of Denis Diderot&lt;/em&gt; (1767)&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; ARTHUR DEVIS
- (English, 1712–1787) [10] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(English, 1712–1787) [10] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
-  &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
-&lt;em&gt;John Orde, His Wife, Anne, His Eldest Son, William, and a Servant&lt;/em&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Arthur_Devis_-_John_Orde%2C_His_Wife_Anne%2C_and_His_Eldest_Son_William_-_Google_Art_Project.jpg/1044px-Arthur_Devis_-_John_Orde%2C_His_Wife_Anne%2C_and_His_Eldest_Son_William_-_Google_Art_Project.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+&lt;em&gt;John Orde, His Wife, Anne, His Eldest Son, William, and a Servant&lt;/em&gt; (1754–6)&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; MICHEL-BARTHÉLÉMY OLLIVIER
- (French, 1712–1784) [10] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(French, 1712–1784) [10] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
-  &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
-&lt;em&gt;Souper chez le Prince de Conti&lt;/em&gt; &lt;br /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;https://www.akg-images.fr/Docs/AKG/Media/TR3_WATERMARKED/e/0/c/a/AKG244669.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+&lt;em&gt;Souper chez le prince Louis François de Conti, palais du Temple&lt;/em&gt; (1766) &lt;br /&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
-&lt;em&gt;Le Thé à l’anglaise dans le salon des quatre glaces au Temple, avec toute la cour du Prince de Conti, écoutant le jeune Mozart&lt;/em&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/6/66/Michel-Barth%C3%A9l%C3%A9my_Ollivier_-_Afternoon_Tea_at_the_Temple_-_WGA16645.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+&lt;em&gt;Le Thé à l’anglaise dans le salon des quatre glaces au Temple, avec toute la cour du Prince de Conti, écoutant le jeune Mozart&lt;/em&gt; (1766)&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; ALLAN RAMSAY
- (Scottish, 1713–1784) [10,11] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(Scottish, 1713–1784) [10,11] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -1990,7 +2055,7 @@ Study for the &lt;em&gt;Portrait of Mademoiselle Dangeville&lt;/em&gt; &lt;br /&
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; JEAN-BAPTISTE PERRONNEAU
- (French, c. 1715–1783) [10] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(French, c. 1715–1783) [10] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -1998,7 +2063,7 @@ Study for the &lt;em&gt;Portrait of Mademoiselle Dangeville&lt;/em&gt; &lt;br /&
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; LOUIS CARROGIS DE CARMONTELLE
- (French, 1717–1806) [10] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(French, 1717–1806) [10] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -2009,7 +2074,7 @@ Study for the &lt;em&gt;Portrait of Mademoiselle Dangeville&lt;/em&gt; &lt;br /&
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; ALEXANDRE ROSLIN
- (Swedish, 1718–1793) [10] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(Swedish, 1718–1793) [10] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -2017,7 +2082,7 @@ Study for the &lt;em&gt;Portrait of Mademoiselle Dangeville&lt;/em&gt; &lt;br /&
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; &lt;strong&gt;JEAN HUBER&lt;/strong&gt;
- (Swiss, 1721–1786) [10] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(Swiss, 1721–1786) [10] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -2034,15 +2099,15 @@ Study for the &lt;em&gt;Portrait of Mademoiselle Dangeville&lt;/em&gt; &lt;br /&
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; CHARLES BROOKING
- (English, 1723–1759) [8] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(English, 1723–1759) [8] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
-  &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+  &lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/d/d4/Charles_Brooking_%281723-1759%29_-_Shipping_Becalmed_in_the_Solent_-_BHC1025_-_Royal_Museums_Greenwich.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
 &lt;em&gt;Shipping Becalmed in the Solent&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; GEORGE STUBBS
- (English, 1724–1806) [11] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(English, 1724–1806) [11] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -2053,7 +2118,7 @@ Study for the &lt;em&gt;Portrait of Mademoiselle Dangeville&lt;/em&gt; &lt;br /&
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; THOMAS GAINSBOROUGH
- (English, 1727–1788) [10,11] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(English, 1727–1788) [10,11] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -2070,7 +2135,7 @@ Study for the &lt;em&gt;Portrait of Mademoiselle Dangeville&lt;/em&gt; &lt;br /&
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; JEAN-BAPTISTE CHARPENTIER LE VIEUX
- (French, 1728–1806) [10] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(French, 1728–1806) [10] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -2078,7 +2143,7 @@ Study for the &lt;em&gt;Portrait of Mademoiselle Dangeville&lt;/em&gt; &lt;br /&
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; JEAN-HONORÉ FRAGONARD
- (French, 1732–1806) [10] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(French, 1732–1806) [10] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -2086,7 +2151,7 @@ Study for the &lt;em&gt;Portrait of Mademoiselle Dangeville&lt;/em&gt; &lt;br /&
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; JEAN-FRANÇOIS-GILLE COLSON
- (French, 1733–1803) [10] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(French, 1733–1803) [10] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -2094,7 +2159,7 @@ Study for the &lt;em&gt;Portrait of Mademoiselle Dangeville&lt;/em&gt; &lt;br /&
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; HUBERT ROBERT
- (French, 1733–1808) [10] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(French, 1733–1808) [10] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -2102,7 +2167,7 @@ Study for the &lt;em&gt;Portrait of Mademoiselle Dangeville&lt;/em&gt; &lt;br /&
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; &lt;strong&gt;JOSEPH WRIGHT OF DERBY&lt;/strong&gt;
- (English, 1734–1797) [10] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(English, 1734–1797) [10] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -2119,7 +2184,7 @@ Study for the &lt;em&gt;Portrait of Mademoiselle Dangeville&lt;/em&gt; &lt;br /&
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; RENÉ-LOUIS DE GIRARDIN
- (French, 1735–1808) [11] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(French, 1735–1808) [11] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -2127,7 +2192,7 @@ Study for the &lt;em&gt;Portrait of Mademoiselle Dangeville&lt;/em&gt; &lt;br /&
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; CASPAR WOLF 
- (Swiss, 1735–1783) [11] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(Swiss, 1735–1783) [11] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -2135,7 +2200,7 @@ Study for the &lt;em&gt;Portrait of Mademoiselle Dangeville&lt;/em&gt; &lt;br /&
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; THOMAS ORDE-POWLETT
- (English, 1740–1807) [10] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(English, 1740–1807) [10] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -2143,7 +2208,7 @@ Study for the &lt;em&gt;Portrait of Mademoiselle Dangeville&lt;/em&gt; &lt;br /&
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; JEAN-MICHEL MOREAU LE JEUNE
- (French, 1741–1814) [10] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(French, 1741–1814) [10] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -2154,7 +2219,7 @@ Study for the &lt;em&gt;Portrait of Mademoiselle Dangeville&lt;/em&gt; &lt;br /&
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; ANICET CHARLES GABRIEL LEMONNIER
- (French, 1743–1824) [10] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(French, 1743–1824) [10] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -2162,7 +2227,7 @@ Study for the &lt;em&gt;Portrait of Mademoiselle Dangeville&lt;/em&gt; &lt;br /&
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; PIETRO LOCATELLI
- (Italian, act. 1744–1762) [10] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(Italian, act. 1744–1762) [10] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -2170,7 +2235,7 @@ Study for the &lt;em&gt;Portrait of Mademoiselle Dangeville&lt;/em&gt; &lt;br /&
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; WILLIAM HODGES
- (English, 1744–1797) [11] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(English, 1744–1797) [11] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -2184,7 +2249,7 @@ Study for the &lt;em&gt;Portrait of Mademoiselle Dangeville&lt;/em&gt; &lt;br /&
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; CLAUDE-LOUIS DESRAIS
- (French, 1746–1816) [10] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(French, 1746–1816) [10] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -2192,7 +2257,7 @@ Study for the &lt;em&gt;Portrait of Mademoiselle Dangeville&lt;/em&gt; &lt;br /&
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; &lt;strong&gt;JACQUES-LOUIS DAVID&lt;/strong&gt;
- (French, 1748–1825) [10,12] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(French, 1748–1825) [10,12] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -2209,7 +2274,7 @@ Study for the &lt;em&gt;Portrait of Mademoiselle Dangeville&lt;/em&gt; &lt;br /&
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; JOHANN HEINRICH WILHELM TISCHBEIN
- (German, 1751–1829) [11] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(German, 1751–1829) [11] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -2217,7 +2282,7 @@ Study for the &lt;em&gt;Portrait of Mademoiselle Dangeville&lt;/em&gt; &lt;br /&
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; JOSEPH LANGE
- (German, 1751–1831) [9] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(German, 1751–1831) [9] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -2225,7 +2290,7 @@ Study for the &lt;em&gt;Portrait of Mademoiselle Dangeville&lt;/em&gt; &lt;br /&
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; JOHN WBBER
- (English, 1751–1793) [11] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(English, 1751–1793) [11] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -2236,7 +2301,7 @@ Study for the &lt;em&gt;Portrait of Mademoiselle Dangeville&lt;/em&gt; &lt;br /&
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; JOHN ROBERT COZENS
- (English, 1752–1797) [11] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(English, 1752–1797) [11] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -2244,7 +2309,7 @@ Study for the &lt;em&gt;Portrait of Mademoiselle Dangeville&lt;/em&gt; &lt;br /&
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; GILBERT STUART
- (American, 1755–1828) [10] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(American, 1755–1828) [10] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -2252,7 +2317,7 @@ Study for the &lt;em&gt;Portrait of Mademoiselle Dangeville&lt;/em&gt; &lt;br /&
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; JOHN TRUMBULL
- (American, 1756–1843) [10] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(American, 1756–1843) [10] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -2266,7 +2331,7 @@ Study for the &lt;em&gt;Portrait of Mademoiselle Dangeville&lt;/em&gt; &lt;br /&
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; JEAN-LOUIS PRIEUR
- (French, 1759–1795) [10] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(French, 1759–1795) [10] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -2274,7 +2339,7 @@ Study for the &lt;em&gt;Portrait of Mademoiselle Dangeville&lt;/em&gt; &lt;br /&
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; MATHER BROWN
- (American, 1761–1831) [10] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(American, 1761–1831) [10] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -2282,7 +2347,7 @@ Study for the &lt;em&gt;Portrait of Mademoiselle Dangeville&lt;/em&gt; &lt;br /&
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; BENJAMIN HENRY LATROBE
- (American, 1764–1820) [10] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(American, 1764–1820) [10] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -2290,7 +2355,7 @@ Study for the &lt;em&gt;Portrait of Mademoiselle Dangeville&lt;/em&gt; &lt;br /&
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; ANNE-LOUIS GIRODET
- (French, 1767–1824) [12] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(French, 1767–1824) [12] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -2298,7 +2363,7 @@ Study for the &lt;em&gt;Portrait of Mademoiselle Dangeville&lt;/em&gt; &lt;br /&
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; ANGELIQUE ALLAIS
- (French, 1767–1827) [11] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(French, 1767–1827) [11] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -2306,7 +2371,7 @@ Study for the &lt;em&gt;Portrait of Mademoiselle Dangeville&lt;/em&gt; &lt;br /&
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; CASPAR DAVID FRIEDRICH 
- (German, 1774–1840) [11] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(German, 1774–1840) [11] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -2320,7 +2385,7 @@ Study for the &lt;em&gt;Portrait of Mademoiselle Dangeville&lt;/em&gt; &lt;br /&
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; J. M. W. TURNER
- (English, 1775–1851) [11,12] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(English, 1775–1851) [11,12] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -2418,7 +2483,7 @@ Study for the &lt;em&gt;Portrait of Mademoiselle Dangeville&lt;/em&gt; &lt;br /&
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; JOHN CONSTABLE
- (English, 1776–1837) [11] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(English, 1776–1837) [11] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -2477,7 +2542,7 @@ Study for &lt;em&gt;Branch Hill Pond: Hampstead&lt;/em&gt; &lt;br /&gt;&lt;/p&gt
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; BENJAMIN ROBERT HAYDON
- (English, 1786–1846) [11] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(English, 1786–1846) [11] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -2485,7 +2550,7 @@ Study for &lt;em&gt;Branch Hill Pond: Hampstead&lt;/em&gt; &lt;br /&gt;&lt;/p&gt
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; &lt;strong&gt;GEORGE CATLIN&lt;/strong&gt;
- (American, 1796–1872) [10] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(American, 1796–1872) [10] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -2502,7 +2567,7 @@ Study for &lt;em&gt;Branch Hill Pond: Hampstead&lt;/em&gt; &lt;br /&gt;&lt;/p&gt
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; CLAUDIUS JACQUAND
- (French, 1803–1878) [8] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(French, 1803–1878) [8] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -2510,7 +2575,7 @@ Study for &lt;em&gt;Branch Hill Pond: Hampstead&lt;/em&gt; &lt;br /&gt;&lt;/p&gt
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; HENRI FÉLIX EMMANUEL PHILIPPOTEAUX
- (French, 1815–1884) [12] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(French, 1815–1884) [12] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -2518,7 +2583,7 @@ Study for &lt;em&gt;Branch Hill Pond: Hampstead&lt;/em&gt; &lt;br /&gt;&lt;/p&gt
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; JOHN RUSKIN
- (English, 1819–1900) [11] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(English, 1819–1900) [11] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -2535,7 +2600,7 @@ Study for &lt;em&gt;Branch Hill Pond: Hampstead&lt;/em&gt; &lt;br /&gt;&lt;/p&gt
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; LIONEL BICKNELL CONSTABLE
- (English, 1828–1887) [11] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(English, 1828–1887) [11] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -2543,7 +2608,7 @@ Study for &lt;em&gt;Branch Hill Pond: Hampstead&lt;/em&gt; &lt;br /&gt;&lt;/p&gt
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; ÉDOUARD MANET
- (French, 1832–1883) [11] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(French, 1832–1883) [11] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -2551,7 +2616,7 @@ Study for &lt;em&gt;Branch Hill Pond: Hampstead&lt;/em&gt; &lt;br /&gt;&lt;/p&gt
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; CLAUDE MONET
- (French, 1840–1926) [11] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(French, 1840–1926) [11] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -2580,7 +2645,7 @@ Study for &lt;em&gt;Branch Hill Pond: Hampstead&lt;/em&gt; &lt;br /&gt;&lt;/p&gt
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; PIERRE-AUGUSTE RENOIR
- (French, 1841–1919) [11] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(French, 1841–1919) [11] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -2591,7 +2656,7 @@ Study for &lt;em&gt;Branch Hill Pond: Hampstead&lt;/em&gt; &lt;br /&gt;&lt;/p&gt
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; GEORGES SEURAT
- (French, 1859–1891) [11] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(French, 1859–1891) [11] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -2599,7 +2664,7 @@ Study for &lt;em&gt;Branch Hill Pond: Hampstead&lt;/em&gt; &lt;br /&gt;&lt;/p&gt
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt; JACKSON POLLOCK
- (American, 1912–1956) [11] &lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;(American, 1912–1956) [11] &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 
   &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
@@ -2622,7 +2687,7 @@ Study for &lt;em&gt;Branch Hill Pond: Hampstead&lt;/em&gt; &lt;br /&gt;&lt;/p&gt
         <guid isPermaLink="true">/2020/07/08/civilisation-architecture.html</guid>
         <description>&lt;h3 id=&quot;contents&quot;&gt;Periods/Styles&lt;/h3&gt;
 
-&lt;p&gt;A.  &lt;a href=&quot;#classical&quot;&gt;CLASSICAL (Roman)&lt;/a&gt; &lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;A.  &lt;a href=&quot;#classical&quot;&gt;CLASSICAL ROMAN&lt;/a&gt; &lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;B.  &lt;a href=&quot;#early-med&quot;&gt;EARLY MEDIEVAL&lt;/a&gt; : &lt;a href=&quot;#byzantine&quot;&gt;Byzantine&lt;/a&gt;—&lt;a href=&quot;#celtic&quot;&gt;Celtic&lt;/a&gt;—&lt;a href=&quot;#merovingian&quot;&gt;Merovingian&lt;/a&gt;—&lt;a href=&quot;#carolingian&quot;&gt;Carolingian&lt;/a&gt;&lt;/p&gt;
 

@@ -12,7 +12,7 @@ tags: architecture art history television
 
 ### Periods/Styles {#contents}
 
-A.&nbsp; [CLASSICAL (Roman)](#classical) <br>
+A.&nbsp; [CLASSICAL ROMAN](#classical) <br>
 
 B.&nbsp; [EARLY MEDIEVAL](#early-med) : [Byzantine](#byzantine)—[Celtic](#celtic)—[Merovingian](#merovingian)—[Carolingian](#carolingian)
 

@@ -10,48 +10,37 @@ excerpt: <br>
 tags: art history television
 ---
 
-Painters with **10 or more** works featured:
-- Giotto
-- Leonardo da Vinci
-- Albrecht Dürer
-- Michelangelo
-- Raphael
-- Rembrandt
-- Johannes Vermeer
-- Antoine Watteau
-- Jacques-Louis David
-- J. M. W. Turner
-- John Constable 
+### Periods/Styles {#contents}
 
-Painters with **4–9** works featured: 
-- Jan van Eyck
-- Masaccio
-- Piero della Francesca
-- Andrea Mantegna
-- Sandro Botticelli
-- Lucas Cranach der Ältere
-- Hans Holbein der Jüngere
-- Frans Hals
-- Willem van de Velde de Jonge
-- William Hogarth
-- Jean-Baptiste-Siméon Chardin
-- Maurice Quentin de la Tour
-- Jean Huber
-- Thomas Gainsborough
-- Joseph Wright of Derby
-- George Catlin
-- John Ruskin
-- Claude Monet
-<br><br>
+A.&nbsp; [CLASSICAL](#classical)
 
----
+B.&nbsp; [MEDIEVAL](#medieval) : Cimabue—Giotto—Lorenzetti 
+
+C.&nbsp; [ITALIAN RENAISSANCE](#italy-renaissance) : [Early](#early-renai)—[High](#high-renai)—[Late](#late-renai)
+
+D.&nbsp; [NORTHERN RENAISSANCE](#north-renaissance) : [French](#french-bar)—[Italian](#italian-bar)—[German](#german-bar)—[English](#english-bar)
+
+E.&nbsp; [DUTCH GOLDEN AGE](#dutch-golden) : Hals—Rembrandt—de Hooch—Vermeer
+
+I.&nbsp; [URBAN & LANDSCAPE](#urban) : [Italian](#italian-urban)—[French](#french-urban)—[English](#english-urban)—[Scottish](#scottish-urban)—[American](#american-urban)
+
+J.&nbsp; [REVIVAL, INDUSTRIAL, & MODERN](#modern)
+
+<br>
+
+### A.&nbsp; Classical {#classical}
 
 >![](https://upload.wikimedia.org/wikipedia/commons/9/92/Roman_fresco_Villa_dei_Misteri_Pompeii_004.jpg)<br>
 >![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Roman_fresco_Villa_dei_Misteri_Pompeii_008.jpg/1280px-Roman_fresco_Villa_dei_Misteri_Pompeii_008.jpg)<br>
 >Frescoes in the Villa dei Misteri, Pompei (1C BC)&ensp;[1]
 
+[#contents](#contents)
+<br><br>
 
-<br> CIMABUE
+
+### B.&nbsp; Medieval {#medieval}
+
+CIMABUE
 <br>(Italian, c. 1240–1302)&ensp;[3] <br/>
 >
 >![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Cimabue_018.jpg/1172px-Cimabue_018.jpg)<br>
@@ -678,13 +667,13 @@ Painters with **4–9** works featured:
 >_Portrait of Michel de Montaigne_ (c. 1578)&ensp;[6]
  
 
+[#contents](#contents)
+<br><br>
 
 
+### E.&nbsp; Dutch Golden Age {#dutch-golden}
 
-
-
-
-<br> **FRANS HALS**
+**FRANS HALS**
 <br>(Dutch, c. 1582–1666)&ensp;[8] <br/>
 >
 >![](https://upload.wikimedia.org/wikipedia/commons/2/2c/Officers_and_Sergeants_of_the_St_George_Civic_Guard_Company.jpg)<br>
@@ -1678,8 +1667,41 @@ https://www.john-constable.org/Study-Of-Sky-And-Trees.html) <br/>
 >_Out of the Web: No. 7, 1949_
 <br/><br/>
 
----
-
 📖 : works appearing in the book only
+
+### Facts {#facts}
+
+Painters with **10 or more** works featured:
+- Giotto
+- Leonardo da Vinci
+- Albrecht Dürer
+- Michelangelo
+- Raphael
+- Rembrandt
+- Johannes Vermeer
+- Antoine Watteau
+- Jacques-Louis David
+- J. M. W. Turner
+- John Constable 
+
+Painters with **4–9** works featured: 
+- Jan van Eyck
+- Masaccio
+- Piero della Francesca
+- Andrea Mantegna
+- Sandro Botticelli
+- Lucas Cranach der Ältere
+- Hans Holbein der Jüngere
+- Frans Hals
+- Willem van de Velde de Jonge
+- William Hogarth
+- Jean-Baptiste-Siméon Chardin
+- Maurice Quentin de la Tour
+- Jean Huber
+- Thomas Gainsborough
+- Joseph Wright of Derby
+- George Catlin
+- John Ruskin
+- Claude Monet
 
 <br>

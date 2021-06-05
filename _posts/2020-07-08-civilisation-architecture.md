@@ -12,7 +12,7 @@ tags: architecture art history television
 
 ### Periods/Styles {#contents}
 
-A.&nbsp; [CLASSICAL ROMAN](#classical) <br>
+A.&nbsp; [CLASSICAL](#classical) <br>
 
 B.&nbsp; [EARLY MEDIEVAL](#early-med) : [Byzantine](#byzantine)—[Celtic](#celtic)—[Merovingian](#merovingian)—[Carolingian](#carolingian)
 
@@ -32,12 +32,15 @@ I.&nbsp; [URBAN & LANDSCAPE](#urban) : [Italian](#italian-urban)—[French](#fre
 
 J.&nbsp; [REVIVAL, INDUSTRIAL, & MODERN](#modern)
 
-<br>
+<br> 
 
-### A.&nbsp; Classical Roman {#classical}
+
+### A.&nbsp; Classical {#classical}
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Tempio_dei_Dioscuri_e_il_cielo%2C_Roma.JPG/1280px-Tempio_dei_Dioscuri_e_il_cielo%2C_Roma.JPG)<br>
-🌐 Tempio dei Dioscuri (Temple of Castor and Pollux), Regio VIII Forum Romanum, Roma (495 BC)&ensp;[1,5] 
+🌐[^unesco] Tempio dei Dioscuri (Temple of Castor and Pollux), Regio VIII Forum Romanum, Roma (495 BC)&ensp;[1,5] 
+
+[^unesco]: 	🌐 Currently listed as (or as part of) a UNESCO World Heritage Site
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/MaisonCarr%C3%A9e.jpeg/1280px-MaisonCarr%C3%A9e.jpeg)<br>
 Maison Carrée, Nîmes (c. 2–7)&ensp;[1]
@@ -58,7 +61,9 @@ Maison Carrée, Nîmes (c. 2–7)&ensp;[1]
 🌐 Pantheon, Regio IX Circus Flaminius, Roma (113–125)&ensp;[5]
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Tivoli%2C_Villa_Adriana%2C_Grandi_terme_%286%29.jpg/1024px-Tivoli%2C_Villa_Adriana%2C_Grandi_terme_%286%29.jpg)<br>
-🌐 Grandi Terme, Villa Adriana, Tivoli (2C)&ensp;[5]  &nbsp;📖
+🌐 Grandi Terme, Villa Adriana, Tivoli (2C)&ensp;[5]  &nbsp;📖[^book]
+
+[^book]: 	📖 Appearing in the book only
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Rome-ForumRomain-ArcheSeptime.jpg/1024px-Rome-ForumRomain-ArcheSeptime.jpg)<br>
 🌐 Arco di Settimio Severo (Arch of Septimius Severus), Regio VIII Forum Romanum, Roma (203)&ensp;[5]
@@ -110,33 +115,26 @@ Baptistère Saint-Jean, Poitiers (c. 360/5C–6C)&ensp;[1]
 
 #### c1.&nbsp; Cluniac {#cluniac}
 
-![]()<br>
-Abbaye de Cluny <br>
-&emsp;&ensp;(910–1130)&ensp;[2] 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Abbaye_de_Cluny_vu_du_Clo%C3%AEtre.jpg/1024px-Abbaye_de_Cluny_vu_du_Clo%C3%AEtre.jpg)<br>
+Abbaye de Cluny (910–1130)&ensp;[2] 
 
-![]()<br>
-Abbaye Saint-Philibert de Tournus <br>
-&emsp;&ensp;(4C/1008–12C)&ensp;[2]  &nbsp;📖
+![](https://upload.wikimedia.org/wikipedia/commons/f/f6/Tournus-StPhilib.jpg)<br>
+Abbaye Saint-Philibert de Tournus (4C/1008–12C)&ensp;[2]  &nbsp;📖
 
-![]()<br>
-Abbaye Sainte-Foy de Conques <br>
-&emsp;&ensp;(1041–12C)&ensp;[2]
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Saint_Faith_Abbey_Church_of_Conques_22.jpg/1024px-Saint_Faith_Abbey_Church_of_Conques_22.jpg)<br>
+Abbaye Sainte-Foy de Conques (1041–12C)&ensp;[2]
 
-![]()<br>
-Abbaye Saint-Pierre de Moissac <br>
-&emsp;&ensp;(7C/1063–15C)&ensp;[2]
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cloitre_avec_arbre_moissac.jpg/1024px-Cloitre_avec_arbre_moissac.jpg)<br>
+Abbaye Saint-Pierre de Moissac (7C/1063–15C)&ensp;[2]
 
-![]()<br>
-Abbaye Sainte-Marie de Souillac <br>
-&emsp;&ensp;(12C)&ensp;[2]
+![](https://upload.wikimedia.org/wikipedia/commons/3/37/Souillac%2C_Abbaye_Sainte-Marie-PM_15812.jpg)<br>
+Abbaye Sainte-Marie de Souillac (12C)&ensp;[2]
 
-![]()<br>
-Cathédrale Saint-Lazare d'Autun <br>
-&emsp;&ensp;(1120–1146)&ensp;[2]
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Cath%C3%A9drale_Autun_02.JPG/1200px-Cath%C3%A9drale_Autun_02.JPG)<br>
+Cathédrale Saint-Lazare d'Autun (1120–46)&ensp;[2]
 
-![]()<br>
-🌐 Abbaye et Basilique Sainte-Marie-Madeleine de Vézelay <br>
-&emsp;&ensp;(1120–1150)&ensp;[2] 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Fa%C3%A7ade_Principale_Basilique_Sainte_Marie_Madeleine_-_V%C3%A9zelay_%28FR89%29_-_2021-05-17_-_2.jpg/1200px-Fa%C3%A7ade_Principale_Basilique_Sainte_Marie_Madeleine_-_V%C3%A9zelay_%28FR89%29_-_2021-05-17_-_2.jpg)<br>
+🌐 Abbaye et Basilique Sainte-Marie-Madeleine de Vézelay (1120–50)&ensp;[2] 
 
 [#contents](#contents)
 <br><br>
@@ -144,21 +142,20 @@ Cathédrale Saint-Lazare d'Autun <br>
 
 #### c2.&nbsp; Cistercian {#cistercian}
 
-Abbaye Notre-Dame de Cîteaux <br>
-&emsp;&ensp;(1098–1193)&ensp;[2]
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Abbaye_de_C%C3%AEteaux_La_Biblioth%C3%A8que.JPG/1200px-Abbaye_de_C%C3%AEteaux_La_Biblioth%C3%A8que.JPG)<br>
+Abbaye Notre-Dame de Cîteaux (1098–1193)&ensp;[2]
 
-Tintern Abbey, Monmouthshire <br>
-&emsp;&ensp;(1131)&ensp;[11] <br>
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Tintern_Abbey-inside-2004.jpg/1024px-Tintern_Abbey-inside-2004.jpg)<br>
+Tintern Abbey, Monmouthshire (1131)&ensp;[11] <br>
 
-![]()<br>
-🌐 Fountains Abbey, North Yorkshire * <br>
-&emsp;&ensp;(1132–1200)&ensp;[11,13] <br>
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Fountains_Abbey_view02_2005-08-27.jpg/1024px-Fountains_Abbey_view02_2005-08-27.jpg)<br>
+🌐 Fountains Abbey, North Yorkshire (1132–1200)&ensp;[11,13] <br>
 
-Abbaye Notre-Dame d'Aiguebelle <br>
-&emsp;&ensp;(1137–1884)&ensp;[2]
+![](https://yt3.ggpht.com/ytc/AAUvwnh2EPfKfHPhXZEbrG8-Ow8AV_2rsAG-1HJ_fno=s900-c-k-c0x00ffffff-no-rj)<br>
+Abbaye Notre-Dame d'Aiguebelle (1137–1884)&ensp;[2]
 
-Abbaye du Thoronet <br>
-&emsp;&ensp;(c. 1157–1200)&ensp;[2]
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Abbaye_du_Thoronet%2C_le_clo%C3%AEtre_ext%C3%A9rieur.jpg/1200px-Abbaye_du_Thoronet%2C_le_clo%C3%AEtre_ext%C3%A9rieur.jpg)<br>
+Abbaye du Thoronet (c. 1157–1200)&ensp;[2]
 
 [#contents](#contents)
 <br><br>
@@ -166,22 +163,20 @@ Abbaye du Thoronet <br>
 
 #### c3.&nbsp; Norman {#norman}
 
-![]()<br>
-🌐 Canterbury Cathedral * <br>
-&emsp;&ensp;(1070–1077)&ensp;[2]
+![](https://upload.wikimedia.org/wikipedia/commons/1/1f/Canterbury-cathedral-wyrdlight.jpg)<br>
+🌐 Canterbury Cathedral (1070–7)&ensp;[2]
 
-Winchester Cathedral <br>
-&emsp;&ensp;(1079–14C)&ensp;[3]
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/WinCath30Je6-4836wiki.jpg/1024px-WinCath30Je6-4836wiki.jpg)<br>
+Winchester Cathedral (1079–14C)&ensp;[3]
 
-Ely Cathedral <br>
-&emsp;&ensp;(1083–1375)&ensp;[2,6] 
+![](https://upload.wikimedia.org/wikipedia/commons/3/3e/Ely_Cathedral_2005-03-30.jpg)<br>
+Ely Cathedral (1083–1375)&ensp;[2,6] 
 
-Gloucester Cathedral <br>
-&emsp;&ensp;(1089–1499)&ensp;[2] 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Gloucester_Cathedral_exterior_front.jpg/1024px-Gloucester_Cathedral_exterior_front.jpg)<br>
+Gloucester Cathedral (1089–1499)&ensp;[2] 
 
-![]()<br>
-🌐 Durham Cathedral * <br>
-&emsp;&ensp;(1093–1133)&ensp;[2]
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Durham_Cathedral_-_England_P1200693_%2813335758425%29.jpg/1280px-Durham_Cathedral_-_England_P1200693_%2813335758425%29.jpg)<br>
+🌐 Durham Cathedral (1093–1133)&ensp;[2]
 
 [#contents](#contents)
 <br><br>
@@ -189,43 +184,37 @@ Gloucester Cathedral <br>
 
 #### c4.&nbsp; Italian Romanesque {#italian-roman}
 
-![]()<br>
-🌐 Battistero di San Giovanni, Firenze * <br>
-&emsp;&ensp;(1059)&ensp;[4]
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Battistero_Firenze.jpg/1207px-Battistero_Firenze.jpg)<br>
+🌐 Battistero di San Giovanni, Firenze (1059)&ensp;[4]
 
-![]()<br>
-🌐 Duomo di Pisa * <br>
-&emsp;&ensp;(1063–1092)
-by Buscheto and Rainaldo&ensp;[3]
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Pisa_Duomo.jpg/1024px-Pisa_Duomo.jpg)<br>
+🌐 Duomo di Pisa <br>
+&emsp;&ensp;(1063–92, Buscheto and Rainaldo)&ensp;[3]
 
-![]()<br>
-🌐 Battistero di San Giovanni, Pisa * <br>
-&emsp;&ensp;(1152–1390) 
-by Diotisalvi, Nicola and Giovanni Pisano, and Cellino di Nese&ensp;[3] 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/CampodeiMiracoliPisa.jpg/1024px-CampodeiMiracoliPisa.jpg)<br>
+🌐 Battistero di San Giovanni, Pisa <br>
+&emsp;&ensp;(1152–1390, Diotisalvi, Nicola and Giovanni Pisano, and Cellino di Nese)&ensp;[3] 
 
-![]()<br>
-🌐 Torre di Pisa * <br>
-&emsp;&ensp;(1173–1372) 
-by Bonanno Pisano&ensp;[3]
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/The_Leaning_Tower_of_Pisa_SB.jpeg/672px-The_Leaning_Tower_of_Pisa_SB.jpeg)<br>
+🌐 Torre di Pisa <br>
+&emsp;&ensp;(1173–1372, Bonanno Pisano)&ensp;[3]
 
-![]()<br>
-🌐 Basilica di San Francesco, Assisi * <br>
-&emsp;&ensp;(1228–1253)
-by Elia da Cortona&ensp;[2,3,13]
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Basilica_di_San_Francesco.jpg/1024px-Basilica_di_San_Francesco.jpg)<br>
+🌐 Basilica di San Francesco, Assisi <br>
+&emsp;&ensp;(1228–53, Elia da Cortona)&ensp;[2,3,13]
 
-Basilica di Sant'Antonio di Padova <br>
-&emsp;&ensp;(1238–1310)&ensp;[4]
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Basilica_di_Sant%27Antonio_da_Padova.jpg/1024px-Basilica_di_Sant%27Antonio_da_Padova.jpg)<br>
+Basilica di Sant'Antonio di Padova (1238–1310)&ensp;[4]
 
-![]()<br>
-🌐 Basilica di Santa Maria del Carmine, Firenze * <br>
-&emsp;&ensp;(1268)&ensp;[4]
+![](https://upload.wikimedia.org/wikipedia/commons/6/61/Santa_maria_del_carmine_side.JPG)<br>
+🌐 Basilica di Santa Maria del Carmine, Firenze (1268)&ensp;[4]
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pistoia%2C_battistero_di_San_Giovanni_in_Corte_%2802%29.jpg/1024px-Pistoia%2C_battistero_di_San_Giovanni_in_Corte_%2802%29.jpg)<br>
 Battistero di San Giovanni in corte, Pistoia <br>
-&emsp;&ensp;(1303–1361) 
-by Alessio di Nuto, Cellino di Nese, et al.&ensp;[3]
+&emsp;&ensp;(1303–1361, Alessio di Nuto, Cellino di Nese, et al.)&ensp;[3]
 
-Cappella degli Scrovegni (Arena Chapel), Padova <br>
-&emsp;&ensp;(1303–1305)&ensp;[3]
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/La_Cappella_degli_Scrovegni.JPG/1024px-La_Cappella_degli_Scrovegni.JPG)<br>
+Cappella degli Scrovegni (Arena Chapel), Padova (1303–1305)&ensp;[3]
 
 [#contents](#contents)
 <br><br>
@@ -287,23 +276,29 @@ Magdalen College, Oxford (1458)&ensp;[6]
 
 #### e.1&nbsp; Early Renaissance {#early-renai}
 
-Sagrestia Vecchia, nella basilica di San Lorenzo, Firenze * <br>
-&emsp;&ensp;(1419–1428) by Filippo Brunelleschi&ensp;[4]
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Sagrestia_vecchia%2C_veduta_00.jpg/935px-Sagrestia_vecchia%2C_veduta_00.jpg)<br>
+🌐 Sagrestia Vecchia, nella basilica di San Lorenzo, Firenze <br>
+&emsp;&ensp;(1419–28, Filippo Brunelleschi)&ensp;[4]
 
-Biblioteca di San Marco, Firenze * <br>
-&emsp;&ensp;(1437) by Michelozzo di Bartolomeo &ensp;[4]
+![](https://i.pinimg.com/originals/9b/db/e9/9bdbe9ecffe1584c271037db695f0d5b.jpg)<br>
+🌐 Biblioteca di San Marco, Firenze <br>
+&emsp;&ensp;(1437, Michelozzo di Bartolomeo) &ensp;[4]
 
-Cappella Pazzi, Firenze * <br>
-&emsp;&ensp;(1441–1478) by Filippo Brunelleschi&ensp;[4]
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Pazzi_Chapel_Florence_Apr_2008.jpg/930px-Pazzi_Chapel_Florence_Apr_2008.jpg)<br>
+🌐 Cappella Pazzi, Firenze <br>
+&emsp;&ensp;(1441–78, Filippo Brunelleschi)&ensp;[4]
 
-Palazzo Ducale, Urbino * <br>
-&emsp;&ensp;(1454) by Luciano Laurana, Francesco di Giorgio Martini, and Maso di Bartolomeo&ensp;[4] 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Palazzo_Ducale_%28Urbino%29.jpg/1024px-Palazzo_Ducale_%28Urbino%29.jpg)<br>
+🌐 Palazzo Ducale, Urbino <br>
+&emsp;&ensp;(1454, Luciano Laurana, Francesco di Giorgio Martini, and Maso di Bartolomeo)&ensp;[4] 
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Prato%2C_chiesa_delle_carceri%2C_11.jpg/1024px-Prato%2C_chiesa_delle_carceri%2C_11.jpg)<br>
 Basilica di Santa Maria delle Carceri, Prato <br>
-&emsp;&ensp;(1486–1495) by Giuliano da Sangallo&ensp;[4]
+&emsp;&ensp;(1486–95, Giuliano da Sangallo)&ensp;[4]
 
-Palazzo Strozzi, Firenze * <br>
-&emsp;&ensp;(1489–1662) by Benedetto da Maiano&ensp;[4]
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Palazzo_Strozzi_-_panoramio.jpg/965px-Palazzo_Strozzi_-_panoramio.jpg)<br>
+🌐 Palazzo Strozzi, Firenze <br>
+&emsp;&ensp;(1489–1662, Benedetto da Maiano)&ensp;[4]
 
 [#contents](#contents)
 <br><br>
@@ -313,11 +308,11 @@ Palazzo Strozzi, Firenze * <br>
 
 ![](https://upload.wikimedia.org/wikipedia/commons/a/a8/Raffael_Stanza_della_Segnatura.jpg)<br>
 🌐 Palazzo Apostolico, Vaticano <br>
-&emsp;&ensp;(1471–1605, Bramante, Michelangelo, Raphael, Antonio da Sangallo il Giovane, Carlo Maderno, Gian Lorenzo Bernini, etc.)&ensp; [5,13]
+&emsp;&ensp;(1471–1605, Bramante, Michelangelo, Raphael, Antonio da Sangallo il Giovane, Carlo Maderno, Gian Lorenzo Bernini, et al.)&ensp; [5,13]
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg/1200px-Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg)<br>
 🌐 Basilica di San Pietro, Vaticano <br>
-&emsp;&ensp;(1506–1626, Bernardo Rossellino, Giuliano da Sangallo, Bramante, Raffaello Sanzio, Giovanni Giocondo, Antonio da Sangallo il Giovane, Baldassarre Peruzzi, Michelangelo Buonarroti, Domenico Fontana, Giacomo Della Porta, Jacopo Barozzi da Vignola, Pirro Ligorio, Carlo Maderno, Gian Lorenzo Bernini, etc.)&ensp;[1,5] 
+&emsp;&ensp;(1506–1626, Bernardo Rossellino, Giuliano da Sangallo, Bramante, Raffaello Sanzio, Giovanni Giocondo, Antonio da Sangallo il Giovane, Baldassarre Peruzzi, Michelangelo Buonarroti, Domenico Fontana, Giacomo Della Porta, Jacopo Barozzi da Vignola, Pirro Ligorio, Carlo Maderno, Gian Lorenzo Bernini, et al.)&ensp;[1,5] 
 
 [#contents](#contents)
 <br><br>
@@ -381,7 +376,7 @@ Chapelle Sainte Ursule de la Sorbonne, Paris (1635–42, Jacques Lemercier)&ensp
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Nymphenburg_Munich_Steinerne_Saal.jpg/1026px-Nymphenburg_Munich_Steinerne_Saal.jpg)<br>
 Schloss Nymphenburg, Neuhausen-Nymphenburg (München) <br>
-&emsp;&ensp;(1664–1719, Agostino Barelli, Enrico Zucalli, Giovanni Antonio Viscardi, Joseph Effner, etc.)&ensp;[9]
+&emsp;&ensp;(1664–1719, Agostino Barelli, Enrico Zucalli, Giovanni Antonio Viscardi, Joseph Effner, et al.)&ensp;[9]
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/BasilikaOttobeurenHauptschiff02.JPG/1280px-BasilikaOttobeurenHauptschiff02.JPG)<br>
 Kloster Ottobeuren (1711-25)&ensp;[9]
@@ -506,20 +501,21 @@ by John Russell Pope and Eggers & Higgins&ensp;[10]
 
 #### h1.&nbsp; German & Austrian {#german-civil}
 
-Nürnberger Burg <br>
-&emsp;&ensp;(11C–14C)&ensp;[6]
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nuernberg-Burg.jpg/1024px-Nuernberg-Burg.jpg)<br>
+Nürnberger Burg (11C–14C)&ensp;[6]
 
-Festung Marienberg, Würzburg <br>
-&emsp;&ensp;(13C–18C)&ensp;[6]
+![](https://upload.wikimedia.org/wikipedia/commons/c/c8/Marienberg_wuerzburg.jpg)<br>
+Festung Marienberg, Würzburg (13C–18C)&ensp;[6]
 
-Albrecht-Dürer-Haus, Nürnberg <br>
-&emsp;&ensp;(1420)&ensp;[6]
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/N%C3%BCrnberg_-_Albrecht-D%C3%BCrer-Haus.jpg/1024px-N%C3%BCrnberg_-_Albrecht-D%C3%BCrer-Haus.jpg)<br>
+Albrecht-Dürer-Haus, Nürnberg (1420)&ensp;[6]
 
+![](https://upload.wikimedia.org/wikipedia/commons/e/e4/Salzburg_Felsenreitschule_innen_2.jpg)<br>
 Felsenreitschule, Salzburg <br>
-&emsp;&ensp;(1693) by by Johann Bernhard Fischer von Erlach&ensp;[9]
+&emsp;&ensp;(1693, Johann Bernhard Fischer von Erlach)&ensp;[9]
 
-Cuvilliés-Theater, München <br>
-&emsp;&ensp;(1751–1958)&ensp;[9]
+![](https://live.staticflickr.com/4809/31426983917_356c331bbe_b.jpg)<br>
+Cuvilliés-Theater, München (1751–1958)&ensp;[9]
 
 [#contents](#contents)
 <br><br>
@@ -528,23 +524,24 @@ Cuvilliés-Theater, München <br>
 
 #### h2.&nbsp; Italian {#italian-civil}
 
-Palazzo del Bargello, Firenze * <br>
-&emsp;&ensp;(1255)&ensp;[4]
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Palazzo_del_bargello_visto_da_piazza_san_firenze.JPG/1200px-Palazzo_del_bargello_visto_da_piazza_san_firenze.JPG)<br>
+🌐 Palazzo del Bargello, Firenze (1255)&ensp;[4]
 
-Palazzo Vecchio, Firenze * <br>
-&emsp;&ensp;(1299–1314) by Arnolfo di Cambio&ensp;[4,5]
+![](https://upload.wikimedia.org/wikipedia/commons/c/c2/Firenze_Palazzo_della_Signoria%2C_better_known_as_the_Palazzo_Vecchio.jpg)<br>
+🌐 Palazzo Vecchio, Firenze <br>
+&emsp;&ensp;(1299–1314, Arnolfo di Cambio)&ensp;[4,5]
 
-Palazzo Senatorio, Roma * <br>
-&emsp;&ensp;(13C–14C)&ensp;[5]
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Palazzo_senatorio_Rome_2011_1.jpg/1024px-Palazzo_senatorio_Rome_2011_1.jpg)<br>
+🌐 Palazzo Senatorio, Roma (13C–14C)&ensp;[5]
 
-Palazzo Pubblico, Sienne * <br>
-&emsp;&ensp;(1310)&ensp;[3]
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Piazza_del_Campo%2C_Siena%2C_Tuscany_%285772001588%29.jpg/1024px-Piazza_del_Campo%2C_Siena%2C_Tuscany_%285772001588%29.jpg)<br>
+🌐 Palazzo Pubblico, Siena (1310)&ensp;[3]
 
-Torre del Mangia, Sienne * <br>
-&emsp;&ensp;(1325–1344)&ensp;[3]
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Siena%2C_Tuscany%2C_Italy-12May2013.jpg/1024px-Siena%2C_Tuscany%2C_Italy-12May2013.jpg)<br>
+🌐 Torre del Mangia, Siena (1325–1344)&ensp;[3]
 
-Palazzo Ducale, Mantova * <br>
-&emsp;&ensp;(14C–17C)&ensp;[4]
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/20110720_Mantova_Palazzo_del_Capitano_3552.jpg/1024px-20110720_Mantova_Palazzo_del_Capitano_3552.jpg)<br>
+🌐 Palazzo Ducale, Mantova (14C–17C)&ensp;[4]
 
 [#contents](#contents)
 <br><br>
@@ -586,7 +583,6 @@ Osterley House, Isleworth (1761–1765)&ensp;[12]
 <br>
 
 
-
 #### h5.&nbsp; Netherlandish {#netherland-civil}
 
 ![](http://photos.wikimapia.org/p/00/07/08/87/91_big.jpg)<br>
@@ -607,11 +603,11 @@ Plantijn (Plantin Press), Antwerp (1555)&ensp;[6]
 🌐 Piazza del Duomo, Firenze (11C)&ensp;[4]
 
 ![](https://upload.wikimedia.org/wikipedia/commons/0/0a/Siena5.jpg)<br>
-🌐 Piazza del Campo, Sienne (13C)&ensp;[3]
+🌐 Piazza del Campo, Siena (13C)&ensp;[3]
 
 ![](https://upload.wikimedia.org/wikipedia/commons/2/23/Vatikanische_Gaerten_Museen_Rom.jpg)<br>
 🌐 Giardini Vaticani, Vaticano <br>
-&emsp;&ensp;(1279, Donato Bramante, Pirro Ligorio, Antonio Tempesta, Giovanni Maggi, Giovanni Battista Falda, etc.)&ensp;[5]
+&emsp;&ensp;(1279, Donato Bramante, Pirro Ligorio, Antonio Tempesta, Giovanni Maggi, Giovanni Battista Falda, et al.)&ensp;[5]
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Piazza_Signoria_-_Firenze.jpg/1280px-Piazza_Signoria_-_Firenze.jpg)<br>
 🌐 Piazza della Signoria, Firenze (1330)&ensp;[4]
@@ -653,7 +649,7 @@ Plantijn (Plantin Press), Antwerp (1555)&ensp;[6]
 
 ![](https://upload.wikimedia.org/wikipedia/commons/2/2c/Blenheim_Palace_Grand_Bridge.jpg)<br>
 Blenheim Palace Gardens, Woodstock <br>
-&emsp;&ensp;(1704–20C, John Vanburgh, Lancelot "Capability" Brown, etc.)&ensp;[11]
+&emsp;&ensp;(1704–20C, John Vanburgh, Lancelot "Capability" Brown, et al.)&ensp;[11]
 
 [#contents](#contents)
 <br><br>
@@ -709,8 +705,3 @@ The Sherry-Netherland (1926–7, Schultze & Weaver and Buchman & Kahn) and Gener
 <br><br>
 
 ---
-
-🌐 : UNESCO World Heritage Sites <br>
-📖 : Appearing in the book only
-
-<br>

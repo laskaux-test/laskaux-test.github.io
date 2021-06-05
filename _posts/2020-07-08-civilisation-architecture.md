@@ -28,7 +28,7 @@ G.&nbsp; [NEOCLASSICAL](#neoclassical) : [French](#french-neo)—[English](#engl
 
 H.&nbsp; [CIVIL & MILITARY](#civil) : [German/Austrian](#german-civil)—[Italian](#italian-civil)—[French](#french-civil)—[English](#english-civil)—[Netherlandish](#netherland-civil)
 
-I.&nbsp; [URBAN & LANDSCAPE](#urban) : [Italian](#italian-urban)—[French](#french-urban)—[English](#english-urban)—[Scottish](#scottish-urban)—[American](#american-urban)
+I.&nbsp; [URBAN & LANDSCAPE](#urban) : [Italian](#italian-urban)—[French](#french-urban)—[British](#british-urban)—[American](#american-urban)
 
 J.&nbsp; [REVIVAL, INDUSTRIAL, & MODERN](#modern)
 
@@ -260,7 +260,7 @@ Grote of St.-Bavokerk, Haarlem (1370–1520)&ensp;[8,9]
 [#contents](#contents)
 <br><br>
 
-#### d.2&nbsp; Gothic Revival {#gothic-rev}
+#### d2.&nbsp; Gothic Revival {#gothic-rev}
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Magdalen_College%2C_Oxford_%287958644740%29.jpg/1024px-Magdalen_College%2C_Oxford_%287958644740%29.jpg)<br>
 Magdalen College, Oxford (1458)&ensp;[6]
@@ -274,7 +274,7 @@ Magdalen College, Oxford (1458)&ensp;[6]
 
 ### E.&nbsp; Renaissance {#renaissance}
 
-#### e.1&nbsp; Early Renaissance {#early-renai}
+#### e1.&nbsp; Early Renaissance {#early-renai}
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Sagrestia_vecchia%2C_veduta_00.jpg/935px-Sagrestia_vecchia%2C_veduta_00.jpg)<br>
 🌐 Sagrestia Vecchia, nella basilica di San Lorenzo, Firenze <br>
@@ -304,7 +304,7 @@ Basilica di Santa Maria delle Carceri, Prato <br>
 <br><br>
 
 
-#### e.2&nbsp; High Renaissance {#high-renai}
+#### e2.&nbsp; High Renaissance {#high-renai}
 
 ![](https://upload.wikimedia.org/wikipedia/commons/a/a8/Raffael_Stanza_della_Segnatura.jpg)<br>
 🌐 Palazzo Apostolico, Vaticano <br>
@@ -317,7 +317,7 @@ Basilica di Santa Maria delle Carceri, Prato <br>
 [#contents](#contents)
 <br><br>
 
-#### e.3&nbsp; Late Renaissance {#late-renai}
+#### e3.&nbsp; Late Renaissance {#late-renai}
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Casino_di_pio_IV%2C_piazza_ovale_01.JPG/1024px-Casino_di_pio_IV%2C_piazza_ovale_01.JPG)<br>
 🌐 Casina di Pio IV (Villa Pia), Vaticano <br>
@@ -332,7 +332,8 @@ Basilica di Santa Maria delle Carceri, Prato <br>
 #### f1.&nbsp; French Baroque {#french-bar}
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/P1300734_Paris_V_place_de_la_Sorbonne_rwk.jpg/1200px-P1300734_Paris_V_place_de_la_Sorbonne_rwk.jpg)<br>
-Chapelle Sainte Ursule de la Sorbonne, Paris (1635–42, Jacques Lemercier)&ensp;[12]
+Chapelle Sainte Ursule de la Sorbonne, Paris <br>
+&emsp;&ensp;(1635–42, Jacques Lemercier)&ensp;[12]
 
 🌐 Château de Versailles
 >![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Cour_de_Marbre_du_Ch%C3%A2teau_de_Versailles_October_5%2C_2011.jpg/1024px-Cour_de_Marbre_du_Ch%C3%A2teau_de_Versailles_October_5%2C_2011.jpg)<br>
@@ -469,7 +470,7 @@ Chiswick House, London <br>
 #### g3.&nbsp; American Neoclassical {#american-neo}
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Thomas_Jefferson%27s_Monticello.JPG/1024px-Thomas_Jefferson%27s_Monticello.JPG)<br>
-🌐 Monticello, Charlottesville * <br>
+🌐 Monticello, Charlottesville <br>
 &emsp;&ensp;(1769–1826) 
 by Thomas Jefferson&ensp;[10,13]
 
@@ -479,7 +480,7 @@ United States Capitol, Washington, D.C. <br>
 by William Thornton&ensp;[10]
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/University_of_Virginia_Rotunda_2006.jpg/1024px-University_of_Virginia_Rotunda_2006.jpg)<br>
-🌐 The Rotunda, University of Virginia, Charlottesville * <br>
+🌐 The Rotunda, University of Virginia, Charlottesville <br>
 &emsp;&ensp;(1822–1826) 
 by Thomas Jefferson and Stanford White&ensp;[10]
 
@@ -574,10 +575,10 @@ Kirby Hall, Northamptonshire (1570)&ensp;[6]
 Dove Cottage, Grasmere (17C)&ensp;[11]
 
 ![](http://www.vam.ac.uk/__data/assets/image/0011/182882/2006AL3105_norfolk_house_mirrors.jpg)<br>
-Norfolk House, Westminster (1748–1752)&ensp;[9]
+Norfolk House, Westminster (1748–52)&ensp;[9]
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Main_mansion_at_Osterley_Park.jpg/1024px-Main_mansion_at_Osterley_Park.jpg)<br>
-Osterley House, Isleworth (1761–1765)&ensp;[12]
+Osterley House, Isleworth (1761–5)&ensp;[12]
 
 [#contents](#contents)
 <br>
@@ -645,17 +646,11 @@ Plantijn (Plantin Press), Antwerp (1555)&ensp;[6]
 <br><br>
 
 
-#### i3.&nbsp; English {#english-urban}
+#### i3.&nbsp; British {#british-urban}
 
 ![](https://upload.wikimedia.org/wikipedia/commons/2/2c/Blenheim_Palace_Grand_Bridge.jpg)<br>
 Blenheim Palace Gardens, Woodstock <br>
 &emsp;&ensp;(1704–20C, John Vanburgh, Lancelot "Capability" Brown, et al.)&ensp;[11]
-
-[#contents](#contents)
-<br><br>
-
-
-#### i4.&nbsp; Scottish {#scottish-urban}
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Charlotte_Square_from_the_SW.JPG/1024px-Charlotte_Square_from_the_SW.JPG)<br>
 🌐 Charlotte Square, Edinburgh <br>
@@ -665,7 +660,7 @@ Blenheim Palace Gardens, Woodstock <br>
 <br><br>
 
 
-#### i5.&nbsp; American {#american-urban}
+#### i4.&nbsp; American {#american-urban}
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/National_Mall%2C_Washington%2C_D.C._%2820100325-DSC01310%29.jpg/1280px-National_Mall%2C_Washington%2C_D.C._%2820100325-DSC01310%29.jpg)<br>
 National Mall, Washington, D.C.  <br>
@@ -694,7 +689,7 @@ Washington Monument, Washington, D.C. <br>
 &emsp;&ensp;(1848–54, 1879–84, Robert Mills)&ensp;[10]
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Sherry_Netherland_Hotel_jeh.JPG/730px-Sherry_Netherland_Hotel_jeh.JPG)<br>
-The Sherry-Netherland (1926–7, Schultze & Weaver and Buchman & Kahn) and General Motors Building (1964–8, Edward Durell Stone & Associates and Emery Roth & Sons), New York&ensp;[1]
+The Sherry-Netherland (1926–7) and General Motors Building (1964–8), New York&ensp;[1]
  
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Norfolk_Terrace.JPG/1024px-Norfolk_Terrace.JPG)<br>
 'Ziggurats', University of East Anglia, Norwich <br>

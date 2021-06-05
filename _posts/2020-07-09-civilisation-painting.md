@@ -111,6 +111,7 @@ CIMABUE
 >![](https://www.nationalgallery.org.uk/media/34279/n-4762-00-000023-hd.jpg?mode=max&width=1920&height=1080&rnd=132385898885370000)<br>
 >_The Wolf of Gubbio_ from _Pala di Sansepolcro_ (_Sansepolcro Altarpiece_)
 
+
 <br> ANDREA DI BONAIUTO DA FIRENZE
 <br>(Italian, act. 1343–1377)&ensp;[4] <br>
 >
@@ -127,7 +128,7 @@ CIMABUE
 
 #### c1.&nbsp; Early Renaissance {#italy-early}
 
-<br> **MASACCIO**
+**MASACCIO**
 <br>(Italian, 1401–1428)&ensp;[4] <br>
 >
 >![](https://www.wga.hu/art/m/masaccio/brancacc/0view.jpg)<br>
@@ -1596,28 +1597,27 @@ HYACINTHE RIGAUD
 >![]()<br>
 >Study for _Branch Hill Pond: Hampstead_ <br>
 >
->![]()<br>
->_Study of Sky and Trees, with a Red House, at Hampstead_ <br>
+>![](https://media.vam.ac.uk/media/thira/collection_images/2006AP/2006AP2032_jpg_l.jpg)<br>
+>_Study of Sky and Trees, with a Red House, at Hampstead_ (1821)
 >
->![]()<br>
->_Study of Sky and Trees_ [(1)](http://www.memoryprints.com/image/210865/john-ra-constable-study-of-sky-and-trees-by-john-constable) <br>
+>![](https://media.vam.ac.uk/media/thira/collection_images/2006BB/2006BB9707_jpg_l.jpg)<br>
+>_Study of Sky and Trees_ (c. 1821)
 >
->![]()<br>
->_Study of Sky and Trees_ [(2)](
-https://www.john-constable.org/Study-Of-Sky-And-Trees.html) <br>
+>![](http://www.art-theoria.com/wp-content/uploads/2016/03/John-Constable-Study-of-Sky-and-Trees-oil-on-paper-c.1821-%E2%88%8F-The-Victoria-and-Albert-Museum-London.jpg)<br>
+>_Study of Clouds and Trees_ (1821–2)
 >
->![]()<br>
->[_Cloud Study_](https://www.john-constable.org/Cloud-Study.html) <br>
+>![](https://framemark.vam.ac.uk/collections/2006BF8141/full/1400,/0/default.jpg)<br>
+>_Study of Clouds above a Wide Landscape_ (1830)
 >
->![]()<br>
->_Study of Cirrus Clouds_
+>![](https://www.surfaceview.co.uk/storage/image/VAA0459.jpg)<br>
+>_Study of Cirrus Clouds_ (c. 1822)
 
 
 <br> BENJAMIN ROBERT HAYDON
 <br>(English, 1786–1846)&ensp;[11] <br>
 >
->![]()<br>
->_William Wordsworth_
+>![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Wordsworth_on_Helvellyn_by_Benjamin_Robert_Haydon.jpg/835px-Wordsworth_on_Helvellyn_by_Benjamin_Robert_Haydon.jpg)<br>
+>_William Wordsworth_ (1842)
 
 
 <br> **GEORGE CATLIN**
@@ -1680,31 +1680,34 @@ https://www.john-constable.org/Study-Of-Sky-And-Trees.html) <br>
 >_Claude Monet peignant dans son atelier_ (1874)
 
 
-<br> CLAUDE MONET
+<br> **CLAUDE MONET**
 <br>(French, 1840–1926)&ensp;[11] <br>
 >
->![]()<br>
->_Bain à la Grenouillère_ <br>
+>![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/La_Grenouill%C3%A8re_MET_DT833.jpg/1280px-La_Grenouill%C3%A8re_MET_DT833.jpg)<br>
+>_Bain à la Grenouillère_ (1869) <br>
 >
->![]()<br>
->_Le Pont d'Argenteuil_ <br>
+>![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Le_Pont_d%27Argenteuil_-_Claude_Monet.jpg/1280px-Le_Pont_d%27Argenteuil_-_Claude_Monet.jpg)<br>
+>_Le Pont d'Argenteuil_ (1874) <br>
 >
->![]()<br>
->_Régates à Argenteuil_ <br>
+>![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Claude_Monet_-_Regattas_at_Argenteuil_-_Google_Art_Project.jpg/1280px-Claude_Monet_-_Regattas_at_Argenteuil_-_Google_Art_Project.jpg)<br>
+>_Régates à Argenteuil_ (c. 1872)
 >
->![]()<br>
->_Les Nymphéas : Le Matin aux saules_ <br>
+>![](https://www.obonparis.com/uploads/MUSEE%20DE%20LORANGERIE%202019/MUSEE%20DE%20LORANGERIE8671.jpg)<br>
+>_Les Nymphéas_ (1914–26)
 >
->![]()<br>
->_Les Nymphéas : Les Deux saules_ <br>
+>![](https://www.musee-orangerie.fr/sites/default/files/styles/viewer/public/thumbnails/image/10-522900.jpg?itok=beeKAeHy)<br>
+>_Le Matin aux saules_
 >
->![]()<br>
->_Les Nymphéas : Le Matin clair aux saules_ <br>
+>![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Claude_Monet_-_The_Water_Lilies_-_The_Two_Willows_-_Google_Art_Project.jpg/1024px-Claude_Monet_-_The_Water_Lilies_-_The_Two_Willows_-_Google_Art_Project.jpg?uselang=fr)<br>
+>_Les Deux saules_ <br>
 >
->![]()<br>
->_Les Nymphéas : Reflets verts_ <br>
+>![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Claude_Monet_-_The_Water_Lilies_-_Clear_Morning_with_Willows_-_Google_Art_Project.jpg/1280px-Claude_Monet_-_The_Water_Lilies_-_Clear_Morning_with_Willows_-_Google_Art_Project.jpg?uselang=fr)<br>
+>_Le Matin clair aux saules_ <br>
 >
->![]()<br>
+>![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Claude_Monet_-_The_Water_Lilies_-_Green_Reflections_-_Google_Art_Project.jpg/1024px-Claude_Monet_-_The_Water_Lilies_-_Green_Reflections_-_Google_Art_Project.jpg)<br>
+>_Reflets verts_ <br>
+>
+>![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Claude_Monet_-_The_Water_Lilies_-_Setting_Sun_-_Google_Art_Project.jpg/1024px-Claude_Monet_-_The_Water_Lilies_-_Setting_Sun_-_Google_Art_Project.jpg?uselang=fr)<br>
 >_Les Nymphéas : Soleil couchant_
 
 

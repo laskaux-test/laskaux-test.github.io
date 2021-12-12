@@ -277,7 +277,7 @@ Magdalen College, Oxford (1458)&ensp;[6]
 #### e1.&nbsp; Early Renaissance {#early-renai}
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Sagrestia_vecchia%2C_veduta_00.jpg/935px-Sagrestia_vecchia%2C_veduta_00.jpg)<br>
-🌐 Sagrestia Vecchia, nella basilica di San Lorenzo, Firenze <br>
+🌐 Sagrestia Vecchia, nella Basilica di San Lorenzo, Firenze <br>
 &emsp;&ensp;(1419–28, Filippo Brunelleschi)&ensp;[4]
 
 ![](https://i.pinimg.com/originals/9b/db/e9/9bdbe9ecffe1584c271037db695f0d5b.jpg)<br>
@@ -544,6 +544,13 @@ Cuvilliés-Theater, München (1751–1958)&ensp;[9]
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/20110720_Mantova_Palazzo_del_Capitano_3552.jpg/1024px-20110720_Mantova_Palazzo_del_Capitano_3552.jpg)<br>
 🌐 Palazzo Ducale, Mantova (14C–17C)&ensp;[4]
 
+![](https://aws-tiqets-cdn.imgix.net/images/content/59737af4587445a3ae83dafdf5a1a7a8.jpg?auto=format&fit=crop&ixlib=python-3.2.1&q=70&s=4306814a405457b5377d4252d19f1fca)<br>
+🌐 Palazzo Davanzati, Firenze (14C)&ensp;[4]
+
+![](https://www.theflorentine.net/wp-content/uploads/2019/01/Palazzo-Medici-Riccardi5.jpg)<br>
+🌐 Palazzo Medici Riccardi, Firenze (1444–60)&ensp;[4]
+
+
 [#contents](#contents)
 <br><br>
 
@@ -555,7 +562,7 @@ Cuvilliés-Theater, München (1751–1958)&ensp;[9]
 Château de Montaigne, Dordogne (14C–19C)&ensp;[6]
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Ch%C3%A2teau_de_Voltaire_%C3%A0_Ferney_3.JPG/1024px-Ch%C3%A2teau_de_Voltaire_%C3%A0_Ferney_3.JPG)<br>
-Château de Voltaire à Ferney <br>
+Château de Voltaire, Ferney <br>
 &emsp;&ensp;(12C/1758–66, Jean-Michel Billon and Léonard Racle)&ensp;[10]
 
 [#contents](#contents)
@@ -581,7 +588,7 @@ Norfolk House, Westminster (1748–52)&ensp;[9]
 Osterley House, Isleworth (1761–5)&ensp;[12]
 
 [#contents](#contents)
-<br>
+<br><br>
 
 
 #### h5.&nbsp; Netherlandish {#netherland-civil}
@@ -595,7 +602,7 @@ Plantijn (Plantin Press), Antwerp (1555)&ensp;[6]
 
 ### I.&nbsp; Urban & Landscape {#urban}
 
-#### i1.&nbsp; Italian {#italilan-urban}
+#### i1.&nbsp; Italian {#italian-urban}
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Piazza_dei_miracoli_-_aerial_panorama.jpg/800px-Piazza_dei_miracoli_-_aerial_panorama.jpg)<br>
 🌐 Piazza dei Miracoli, Pisa (11C)&ensp;[1]

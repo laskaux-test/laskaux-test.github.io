@@ -12,9 +12,9 @@ tags: music art history television
 
 ### Periods {#contents}
 
-A.&nbsp; [MEDIEVAL](#medieval)
+A.&nbsp; [MEDIEVAL](#medieval) : Richard Cœur de Lion
 
-B.&nbsp; [RENAISSANCE](#renaissance) : Dunstaple—Josquin—Janequin—Victoria—Gabrieli—Dowland—Farnaby—Francisque—Tomkins
+B.&nbsp; [RENAISSANCE](#renaissance) : Landini—Queldryk—Dunstaple—Dufay—Isaac—Josquin—Fogliano—Verdelot—Janequin—Victoria—Gabrieli—Dowland—Farnaby—Francisque—Tomkins
 
 C.&nbsp; [BAROQUE](#baroque) : Monteverdi—Praetorius—Schein—Lully—Buxtehude—Purcell—Pepusch—Handel—Bach—Mudge
 
@@ -37,31 +37,70 @@ G.&nbsp; [POPULAR](#popular) : Rouget de Lisle
 &nbsp;♬&nbsp; Pfalzkapelle &nbsp;[1]
 
 
-[_Carmina Burana_: No. 19. "Fas et nefas ambulant"](https://www.youtube.com/watch?v=v3Gyw8xcIiA)
+[_Carmina Burana_: "Fas et nefas ambulant" CB 19](https://www.youtube.com/watch?v=v3Gyw8xcIiA)
 &nbsp;♬&nbsp; _Building the Tower of Babel_, from the _Vitae duorum Offarum_ | _Construction de la tour de Babel_ &nbsp;[2]
 
 
-[_Carmina Burana_: No. 79. "Estivali sub fervore"](https://www.youtube.com/watch?v=L1V8xMTQHfs)
+[_Carmina Burana_: "Estivali sub fervore" CB 79](https://www.youtube.com/watch?v=L1V8xMTQHfs)
 &nbsp;♬&nbsp; Abbaye de Vézelay &nbsp;[2]
 
 
-Sequence ["Victimae paschali laudes"](https://www.youtube.com/watch?v=9XO6kBrRtYU)
+[_Carmina Burana_: "Veris dulcis in tempore" CB 85](https://youtu.be/Dw30HPFSzRk)
+&nbsp;♬&nbsp; _Virgin and Child_ from the Sainte-Chapelle | _The Two Maries at the sepulchre_ | _Descente de croix_ &nbsp;[3]
+
+
+["C'est la fin"](
+https://www.youtube.com/watch?v=wFg42TJ-ejM) (with Breton bombard)
+&nbsp;♬&nbsp; Château d'Angers | Château de Blois | Château de Sully-sur-Loire &nbsp;[3]
+
+
+["Pour mon cœur"](
+https://youtu.be/ussTujr9wO4) 
+&nbsp;♬&nbsp; Mirror cases: _A Hunting Party_ | _Attack on the Castle of Love_ | _The Elopement_ | Casket with Scenes of Romances &nbsp;[3]
+
+
+["Ja nuns hons pris"](https://youtu.be/CVbFJNcZNOs) (attr. Richard Cœur de Lion)
+&nbsp;♬&nbsp; _Livre du cœur d'Amour épris_ &nbsp;[3]
+
+
+["The Song of the Ass"](https://youtu.be/HleaTiC1o6M)
+&nbsp;♬&nbsp; Giotto's frescoes in the Cappella degli Scrovegni (Arena Chapel) &nbsp;[3]
+
+
+["Worldes blis"](https://youtu.be/2-yOf-5IES8) 
+&nbsp;♬&nbsp; Giovanni Pisano, Pulpito del duomo di Pisa &nbsp;[3]
+
+
+["Lamento di Tristan"](https://youtu.be/2-yOf-5IES8) 
+&nbsp;♬&nbsp; Royal Gold Cup &nbsp;[3]
+
+
+["Trotto"](https://youtu.be/VYOu8dAWI4k) 
+&nbsp;♬&nbsp; _Les Très Riches Heures du duc de Berry_ &nbsp;[3]
+
+
+["Alta"](
+https://youtu.be/ussTujr9wO4) 
+&nbsp;♬&nbsp; _La Dame à la licorne_ &nbsp;[3]
+
+
+["Victimae paschali laudes"](https://www.youtube.com/watch?v=9XO6kBrRtYU) (sequence)
 &nbsp;♬&nbsp; Ambon of Henry II | Gero Cross | Skellig Michael &nbsp;[1]
 
 
-Antiphon ["Lumen ad revelationem. Nunc dimittis"](https://www.youtube.com/watch?v=xxVnBkTAZBA)
+["Lumen ad revelationem. Nunc dimittis"](https://www.youtube.com/watch?v=xxVnBkTAZBA) (antiphon)
 &nbsp;♬&nbsp; Gero Cross | _Ramsey Psalter_ | _The Evangeliary of Uta_ (_Uta Codex_) | Panel from a book cover (Lotharingian, late 10th century) &nbsp;[1]
 
 
-Antiphon ["Ubi caritas et amor, Deus ibi est"](https://www.youtube.com/watch?v=JcmQOzaDoyo)
+["Ubi caritas et amor, Deus ibi est"](https://www.youtube.com/watch?v=JcmQOzaDoyo) (antiphon)
 &nbsp;♬&nbsp; Canterbury Cathedral &nbsp;[2]
 
 
-Antiphon ["Virgo prudentissima"](https://www.youtube.com/watch?v=-2vAjKTgdQA) 
+["Virgo prudentissima"](https://www.youtube.com/watch?v=-2vAjKTgdQA) (antiphon)
 &nbsp;♬&nbsp; Abbaye Notre-Dame d’Aiguebelle &nbsp;[2]
 
  
-Introitus ["Dominus dixit ad me"](https://www.youtube.com/watch?v=IkzGZnhAuag) 
+["Dominus dixit ad me"](https://www.youtube.com/watch?v=IkzGZnhAuag) (introitus)
 &nbsp;♬&nbsp; Cathédrale Notre-Dame de Chartres &nbsp;[2]
 
 
@@ -73,6 +112,10 @@ Introitus ["Dominus dixit ad me"](https://www.youtube.com/watch?v=IkzGZnhAuag)
 &nbsp;♬&nbsp; Cathédrale Saint-Lazare d'Autun &nbsp;[2]
 
 
+["O Redemptor sume carmen"](https://www.youtube.com/watch?v=xLS5vBzOcLc)
+&nbsp;♬&nbsp; Basilica di San Francesco in Assisi &nbsp;[3]
+
+
 [Kyriale: Mass II (Kyrie fons bonitatis), "Kyrie"](https://www.youtube.com/watch?v=D7iaCbx_rek)
 &nbsp;♬&nbsp; Basilique Cathédrale de Saint-Denis | Cathédrale Notre-Dame de Chartres &nbsp;[2]
 
@@ -81,26 +124,78 @@ Introitus ["Dominus dixit ad me"](https://www.youtube.com/watch?v=IkzGZnhAuag)
 &nbsp;♬&nbsp; Cathédrale Notre-Dame de Chartres &nbsp;[2]
 
 
-["C'est la fin"](
-https://www.youtube.com/watch?v=wFg42TJ-ejM) (with Breton bombard)
-&nbsp;♬&nbsp; Château d'Angers | Château de Blois | Château de Sully-sur-Loire &nbsp;[3]
-
-
 [#contents](#contents)
 
 
 ### <br/> B.&nbsp; Renaissance {#renaissance}
 
-[DUNSTAPLE]&nbsp; [_Veni Sancte Spiritus_](https://www.youtube.com/watch?v=LZ7DFZ4vCyY)
-&nbsp;♬&nbsp; Battistero di San Giovanni | Duomo di Pisa &nbsp;[3]
+["Très douce regard"](https://archive.org/details/lp_frhe-musik-early-music_studio-der-fruhen-musik/disc2/03.05.+Tres+Douce+Regard.mp3) (Bird-call virelai)
+&nbsp;♬&nbsp; Sandro Botticelli, _Nascita di Venere_ | _Madonna della Melagrana_ &nbsp;[4]
 
 
-[JOSQUIN, 1497]&nbsp; [_Nymphes des bois_ (_La Déploration de Johannes Ockeghem_)](https://www.youtube.com/watch?v=2on2P7syDzQ)
+["Mij quam eyn hope"](https://archive.org/details/lp_frhe-musik-early-music_studio-der-fruhen-musik/disc1/01.04.+Mij+Quam+Eyn+Hope.mp3) (Flemish)
+&nbsp;♬&nbsp; Jan van Eyck, _Portrait of Margaret van Eyck_ | _Portrait of Cardinal Niccolò Albergati_ | _Portrait of Giovanni di Nicolao Arnolfini_ | _Portrait of a Man with Carnation_ | _Portrait of a Man in a Red Turban_ | _Arnolfini Portrait_ &nbsp;[4]
+
+
+["Venid a sospirar"](https://archive.org/details/lp_frhe-musik-early-music_studio-der-fruhen-musik/disc1/02.07.+El+Fresco+Ayre.mp3) (Spanish)
+&nbsp;♬&nbsp; Tiziano Vecellio (Titian), _Le Concert champêtre_ | Giorgione, _La Tempesta_ &nbsp;[4]
+
+
+[La Spagna](https://youtu.be/yiE3GIg35BE?t=722)
+&nbsp;♬&nbsp; Fra Carnevale, _The Ideal City_ of Baltimore | Luciano Laurana, Francesco di Giorgio Martini, or Melozzo da Forlì, _The Ideal City_ of Urbino | Baccio Baldini, _Mercury_ from _The Planets_
+ &nbsp;[4]
+
+
+[Pavane](https://youtu.be/yiE3GIg35BE?t=998) & [Pavane "La garde"](https://youtu.be/yiE3GIg35BE?t=1511)
+&nbsp;♬&nbsp; Andrea Mantegna's frescoes in the Camera degli Sposi of the Palazzo Ducale, Mantova &nbsp;[4]
+
+
+[LANDINI]&nbsp; ["Gram piant' agli ochi"](https://www.youtube.com/watch?v=zYvsamvICRo)
+&nbsp;♬&nbsp; Lorenzo Ghiberti, _Gates of Paradise_ from the Battistero di San Giovanni: _The Story of Adam and Eve_ | Michelangelo, _Tondo Pitti_ | Donatello, _David_  &nbsp;[4]
+
+
+[LANDINI]&nbsp; ["Ecco la primavera"](https://www.youtube.com/watch?v=pNfGIGBwVFk)
+&nbsp;♬&nbsp; Sandro Botticelli, _Primavera_ &nbsp;[4]
+
+
+[QUELDRYK]&nbsp; ["Gloria in excelsis"](https://www.youtube.com/watch?v=xtCwcVW03yQ)
 &nbsp;♬&nbsp; Cappella dei Pazzi &nbsp;[4]
 
 
-[JANEQUIN, 1508]&nbsp; [_Martin menoit son pourceau au marché_](https://www.youtube.com/watch?v=_5VDzWU7vlc)
-&nbsp;♬&nbsp; Palazzo Vecchio | Cappella dei Pazzi &nbsp;[4]
+[DUNSTAPLE]&nbsp; ["Veni sancte spiritus"](https://www.youtube.com/watch?v=LZ7DFZ4vCyY)
+&nbsp;♬&nbsp; Battistero di San Giovanni di Pisa | Duomo di Pisa &nbsp;[3]
+
+
+[DUFAY]&nbsp; ["Vexilla regis prodeunt"](https://www.youtube.com/watch?v=PwhHWObVKho)
+&nbsp;♬&nbsp; Masaccio's frescoes in the Cappella Brancacci of the Basilica di Santa Maria del Carmine &nbsp;[4]
+
+
+[ISAAC]&nbsp; ["Sempre giro piangendo"](https://youtu.be/vp4do9mfGP8?t=1053)
+&nbsp;♬&nbsp; Lorenzo Ghiberti, _Gates of Paradise_ from the Battistero di San Giovanni: _The Story of Jacob and Esau_ | Donatello's reliefs from the High Altar of the Basilica di Sant’Antonio, Padova: _Miracle of the Repentant Son_ & _Miracle of the Ass_ &nbsp;[4]
+
+
+[JOSQUIN, 1497]&nbsp; ["Nymphes des bois" (_La Déploration sur la mort de Jean Ockeghem_)](https://www.youtube.com/watch?v=rrPx7pWslzg)
+&nbsp;♬&nbsp; Hubert and Jan van Eyck, _The Adoration of the Mystic Lamb_ in the _Ghent Altarpiece_ | Giovanni Bellini, _Agony in the Garden_ | Cappella dei Pazzi &nbsp;[4]
+
+
+[JOSQUIN, 1503]&nbsp; ["Ave verum"](https://www.youtube.com/watch?v=cmUs8BWPThg)
+&nbsp;♬&nbsp; Biblioteca di San Marco | Basilica di Santa Croce | Battistero di San Giovanni | Basilica di Santa Maria delle Carceri | Leonardo da Vinci, _Uomo vitruviano_, or _Le proporzioni del corpo umano secondo Vitruvio_ &nbsp;[4]
+
+
+[FOGLIANO]&nbsp; ["L'amor donna"](https://archive.org/details/lp_frhe-musik-early-music_studio-der-fruhen-musik/disc2/04.13.+L'amor+Donna.mp3)
+&nbsp;♬&nbsp; Palazzo Ducale, Urbino &nbsp;[4]
+
+
+[VERDELOT, 1533]&nbsp; ["Madonna, il tuo bel viso"](https://www.youtube.com/watch?v=UggU2U4zWEc)
+&nbsp;♬&nbsp; Palazzo Ducale, Urbino | Piero della Francesca, _Flagellazione di Cristo_ (_Flagellation of Christ_) &nbsp;[4]
+
+
+[JANEQUIN, 1530]&nbsp; ["Chantons, sonnons trompetes"](https://www.youtube.com/watch?v=EzHuZyZY8Ww)
+&nbsp;♬&nbsp; Palazzo Ducale, Urbino &nbsp;[4]
+
+
+[JANEQUIN, 1535]&nbsp; ["Martin menoit son pourceau au marché"](https://www.youtube.com/watch?v=UhU9dnK4MrM)
+&nbsp;♬&nbsp; Palazzo Vecchio | Palazzo Medici Riccardi | Palazzo Davanzati | Cappella dei Pazzi &nbsp;[4]
  
 
 [VICTORIA, 1585]&nbsp; [_Tenebrae Responsories_: XVII. Aestimatus sum](https://www.youtube.com/watch?v=XjntqVWW9eM) 
@@ -383,7 +478,7 @@ https://www.youtube.com/watch?v=v0E0AveYzvg)
 ["Will Ye Go to Sheriffmuir"](https://www.youtube.com/watch?v=gNfCgGXyTQ0)
 &nbsp;♬&nbsp; Landscape of Edinburgh &nbsp;[10]
 
-["Le champ d'Honneur" (fanfare)](https://www.youtube.com/watch?v=kkQaXtSPNTY)
+[_Le champ d'Honneur_ (fanfare)](https://www.youtube.com/watch?v=kkQaXtSPNTY)
 &nbsp;♬&nbsp; Henri Félix Emmanuel Philippoteaux, _Bonaparte à la bataille de Rivoli_ | Château de Malmaison &nbsp;[12]
 
 [ROUGET DE LISLE, 1792]&nbsp; [_La Marseillaise_, ou _Chant de guerre pour l'armée du Rhin_](https://www.youtube.com/watch?v=FTIk66b3dds)
@@ -396,14 +491,35 @@ https://www.youtube.com/watch?v=v0E0AveYzvg)
 
 ### Chronology of Composers {#chrono}
 
+>RICHARD CŒUR DE LION <BR>
+>&emsp;&emsp;(English, 1157–1199)
+>
+>FRANCESCO LANDINI <BR>
+>&emsp;&emsp;(Italian, 1325/35–1397)
+>
+>QUELDRYK <br>
+>&emsp;&emsp;(English, fl. c. 1400)
+>
 >JOHN DUNSTAPLE <br>
 >&emsp;&emsp;(English, c. 1390–1453)
+>
+>GUILLAUME DUFAY <BR>
+>&emsp;&emsp;(Flemish, c. 1397–1474)
+>
+>HEINRICH ISAAC <BR>
+>&emsp;&emsp;(Flemish, c. 1450–1517)
 >
 >JOSQUIN DES PRÉS <BR>
 >&emsp;&emsp;(French, c. 1450/5–1521)
 > 
+>GIACOMO FOGLIANO <BR>
+>&emsp;&emsp;(Italian, c. 1468–1548)
+>
+>PHILIPPE VERDELOT <BR>
+>&emsp;&emsp;(French, c. 1480/5–1530/52)
+>
 >CLÉMENT JANEQUIN <BR>
->&emsp;&emsp;(French, c. 1485–1521)
+>&emsp;&emsp;(French, c. 1485–1558)
 >
 >TOMÁS LUIS DE VICTORIA <BR>
 >&emsp;&emsp;(Spanish, c. 1548–1611)

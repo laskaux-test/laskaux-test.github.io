@@ -18,9 +18,9 @@ B.&nbsp; [MEDIEVAL](#medieval) : Cimabue—Giotto—Lorenzetti—Sassetta—Andr
 
 C.&nbsp; [ITALIAN RENAISSANCE](#italy) <br>
 &emsp; c1.&nbsp; [Early](#early-renai) :
-Masaccio—Justus van Gent—Apollonio di Giovanni—Piero della Francesca—Domenico di Michelino—Luciano Laurana—Francesco di Giorgio—Carnevale—Strozzi—Antonello da Messina—Bellini—Mantegna—Baldini—Melozzo da Forlì—Botticelli—Ghirlandaio—Pedro Berruguete—Pinturicchio—Carpaccio <br>
+Masaccio—Justus van Gent—Apollonio di Giovanni—Piero della Francesca—Domenico di Michelino—Luciano Laurana—Francesco di Giorgio—Fra Carnevale—Zanobi Strozzi—Antonello da Messina—Bellini—Mantegna—Baccio Baldini—Melozzo da Forlì—Botticelli—Ghirlandaio—Pedro Berruguete—Pinturicchio—Carpaccio <br>
 &emsp; c2.&nbsp; [High](#high-renai) :
-Leonardo da Vinci—Michelangelo—Giorgione—Raphael—Titian <br>
+Leonardo—Michelangelo—Giorgione—Raphael—Titian <br>
 &emsp; c3.&nbsp; [Late](#late-renai)
 
 D.&nbsp; [NORTHERN RENAISSANCE](#north) : 

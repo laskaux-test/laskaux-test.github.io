@@ -18,13 +18,13 @@ B.&nbsp; [RENAISSANCE](#renaissance) : Landini—Queldryk—Dunstaple—Dufay—
 
 C.&nbsp; [BAROQUE](#baroque) : Monteverdi—Praetorius—Schein—Lully—Buxtehude—Purcell—Pepusch—Handel—Bach—Mudge
 
-D.&nbsp; [CLASSICAL](#classical) : Haydn—Mozart—Hewitt—Beethoven
+D.&nbsp; [CLASSICAL](#classical) : Haydn—Viotti—Mozart—Rouget de Lisle—Hewitt—Beethoven
 
 E.&nbsp; [ROMANTIC](#romantic) : Schubert—Berlioz—Franck—Brahms—Tchaikovsky—Strauss
 
 F.&nbsp; [MODERN](#modern) : Debussy—Ives—Stravinsky—Walton—Messiaen
 
-G.&nbsp; [POPULAR](#popular) : Rouget de Lisle
+G.&nbsp; [POPULAR](#popular)
 
 [#chronology](#chrono)
 
@@ -63,8 +63,8 @@ https://youtu.be/ussTujr9wO4)
 &nbsp;♬&nbsp; _Livre du cœur d'Amour épris_ &nbsp;[3]
 
 
-["The Song of the Ass"](https://youtu.be/HleaTiC1o6M)
-&nbsp;♬&nbsp; Giotto's frescoes in the Cappella degli Scrovegni (Arena Chapel) &nbsp;[3]
+[_The Song of the Ass_](https://youtu.be/HleaTiC1o6M)
+&nbsp;♬&nbsp; Giotto's frescoes in the Cappella degli Scrovegni, Padova &nbsp;[3]
 
 
 ["Worldes blis"](https://youtu.be/2-yOf-5IES8) 
@@ -174,6 +174,18 @@ https://youtu.be/ussTujr9wO4)
 &nbsp;♬&nbsp; Lorenzo Ghiberti, _Gates of Paradise_ from the Battistero di San Giovanni: _The Story of Jacob and Esau_ | Donatello's reliefs from the High Altar of the Basilica di Sant’Antonio, Padova: _Miracle of the Repentant Son_ & _Miracle of the Ass_ &nbsp;[4]
 
 
+[ISAAC]&nbsp; [_La morra_](https://www.youtube.com/watch?v=jWSq33Hn9oA)
+&nbsp;♬&nbsp; Zanobi Strozzi, _The Abduction of Helen_ &nbsp;[5]
+
+
+[ISAAC]&nbsp; [_Proprium missae in Dominica laetare_: Introitus. Laetare Jerusalem](https://www.amazon.co.uk/dp/B01GUMNPYY/ref=dm_ws_tlw_trk1)
+&nbsp;♬&nbsp; Raphael's frescoes in the Stanze di Raffaello of the Palazzo Apostolico, Vaticano: _The School of Anthens_ | _The Expulsion of Heliodorus from the Temple_ | _The Disputation of the Holy Sacrament_ | _The Parnassus_ | _The Mass at Bolsena_ &nbsp;[5]
+
+
+[ISAAC, 1487]&nbsp; [_A la battaglia_](https://www.youtube.com/watch?v=0dGdd7JRH5I)
+&nbsp;♬&nbsp; Andrea Mantegna, _Triumphs of Caesar: The Vase Bearers_ &nbsp;[5]
+
+
 [JOSQUIN, 1497]&nbsp; ["Nymphes des bois" (_La Déploration sur la mort de Jean Ockeghem_)](https://www.youtube.com/watch?v=rrPx7pWslzg)
 &nbsp;♬&nbsp; Hubert and Jan van Eyck, _The Adoration of the Mystic Lamb_ in the _Ghent Altarpiece_ | Giovanni Bellini, _Agony in the Garden_ | Cappella dei Pazzi &nbsp;[4]
 
@@ -199,7 +211,7 @@ https://youtu.be/ussTujr9wO4)
  
 
 [VICTORIA, 1585]&nbsp; [_Tenebrae Responsories_: XVII. Aestimatus sum](https://www.youtube.com/watch?v=XjntqVWW9eM) 
-&nbsp;♬&nbsp; Michelangelo, _David_ &nbsp;[5]
+&nbsp;♬&nbsp; Michelangelo, _Awakening Slave_ | _Young Slave_ | _Bearded Slave_ | Sistine Chapel ceiling | _Last Judgment_ | _David_ &nbsp;[5,13]
  
 
 [GABRIELI, 1597]&nbsp; [Canzon per sonar primi toni à 8, Ch. 170](https://www.youtube.com/watch?v=XjntqVWW9eM)
@@ -324,6 +336,11 @@ https://www.youtube.com/watch?v=T-L9XEmCq9c)
 
 
 ### <br/> D.&nbsp; Classical {#classical}
+
+
+[VIOTTI/ROUGET DE LISLE, 1781/92]&nbsp; [_La Marseillaise_, ou _Chant de guerre pour l'armée du Rhin_](https://www.youtube.com/watch?v=FTIk66b3dds)
+&nbsp;♬&nbsp; Arc de Triomphe | François Rude, _Le Départ des volontaires de 1792_ &nbsp;[12]
+
 
 [MOZART, 1782]&nbsp; [String Quartet No. 14 in G major, K. 387: IV. Molto allegro](https://youtu.be/dLX_iNjbWF8?t=220)
 &nbsp;♬&nbsp; Norfolk House Music Room &nbsp;[9]
@@ -481,9 +498,6 @@ https://www.youtube.com/watch?v=v0E0AveYzvg)
 [_Le champ d'Honneur_ (fanfare)](https://www.youtube.com/watch?v=kkQaXtSPNTY)
 &nbsp;♬&nbsp; Henri Félix Emmanuel Philippoteaux, _Bonaparte à la bataille de Rivoli_ | Château de Malmaison &nbsp;[12]
 
-[ROUGET DE LISLE, 1792]&nbsp; [_La Marseillaise_, ou _Chant de guerre pour l'armée du Rhin_](https://www.youtube.com/watch?v=FTIk66b3dds)
-&nbsp;♬&nbsp; Arc de Triomphe | François Rude, _Le Départ des volontaires de 1792_ &nbsp;[12]
-
 [#contents](#contents)
 
 <br/>
@@ -574,6 +588,9 @@ https://www.youtube.com/watch?v=v0E0AveYzvg)
 >
 >FRANZ JOSEPH HAYDN <BR>
 >&emsp;&emsp;(Austrian, 1732–1809)
+>
+>GIOVANNI BATTISTA VIOTTI <BR>
+>&emsp;&emsp;(Italian, 1755–1824)
 >
 >WOLFGANG AMADEUS MOZART <BR>
 >&emsp;&emsp;(Austrian, 1756–1791)

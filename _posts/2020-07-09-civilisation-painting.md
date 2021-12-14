@@ -14,17 +14,29 @@ tags: art history television
 
 A.&nbsp; [CLASSICAL](#classical)
 
-B.&nbsp; [MEDIEVAL](#medieval) : Cimabue—Giotto—Lorenzetti 
+B.&nbsp; [MEDIEVAL](#medieval) : Cimabue—Giotto—Lorenzetti—Sassetta—Andrea di Bonaiuto 
 
-C.&nbsp; [ITALIAN RENAISSANCE](#italy) : [Early](#early-renai)—[High](#high-renai)—[Late](#late-renai)
+C.&nbsp; [ITALIAN RENAISSANCE](#italy) <br>
+&emsp; c1.&nbsp; [Early](#early-renai) :
+Masaccio—Justus van Gent—Apollonio di Giovanni—Piero della Francesca—Domenico di Michelino—Luciano Laurana—Francesco di Giorgio—Carnevale—Strozzi—Antonello da Messina—Bellini—Mantegna—Baldini—Melozzo da Forlì—Botticelli—Ghirlandaio—Pedro Berruguete—Pinturicchio—Carpaccio <br>
+&emsp; c2.&nbsp; [High](#high-renai) :
+Leonardo da Vinci—Michelangelo—Giorgione—Raphael—Titian <br>
+&emsp; c3.&nbsp; [Late](#late-renai)
 
-D.&nbsp; [NORTHERN RENAISSANCE](#north) : [French](#french-bar)—[Italian](#italian-bar)—[German](#german-bar)—[English](#english-bar)
+D.&nbsp; [NORTHERN RENAISSANCE](#north) : 
 
 E.&nbsp; [DUTCH GOLDEN AGE](#dutch-golden) : Hals—Saenredam—Bollongier—Walther—Rembrandt—Potter—Cappelle—de Bray—Ruisdael—Metsu—de Hooch—Vermeer—de Velde—Berckheyde—Huysum—Brooking
 
-F.&nbsp; [AGE OF ENLIGHTENMENT](#enlight) : [British](#italian-enlight)—[French](#french-enlight)
+F.&nbsp; [AGE OF ENLIGHTENMENT](#enlight) <br>
+&emsp; f1.&nbsp; [British](#british-enlight) <br>
+&emsp; f2.&nbsp; [French](#french-enlight) <br>
+&emsp; f3.&nbsp; [German](#german-enlight)
 
-G.&nbsp; [AGE OF REVOLUTION](#modern)
+G.&nbsp; [AGE OF REVOLUTION](#revolu) <br>
+&emsp; g1.&nbsp; [German](#german-roman) <br>
+&emsp; g2.&nbsp; [British](#british-roman) <br>
+&emsp; g3.&nbsp; [French](#french-roman)
+
 
 <br>
 
@@ -205,7 +217,7 @@ FRANCESCO DI GIORGIO MARTINI
 <br>(Italian, c. 1412–1468)&ensp;[5] <br>
 >
 >![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Zanobi_strozzi%2C_rapimento_di_elena.jpg/1198px-Zanobi_strozzi%2C_rapimento_di_elena.jpg)<br>
->_Abduction of Helen_ (c. 1450, National Gallery, London)
+>_The Abduction of Helen_ (c. 1450, National Gallery, London)
  
 
 <br> ANTONELLO DA MESSINA
@@ -982,14 +994,16 @@ _De muziekles_ (c. 1662–5, Buckingham Palace, London)
 
 
 
-### F.&nbsp; Age of Reason {#reason}
+### F.&nbsp; Age of Enlightenment {#enlightenment}
+
+#### f1.&nbsp; British Enlightenment {#british-enlight}
 
 JOHANN KERSEBOOM
 <br>(German, ?–1708)&ensp;[8] <br>
 >
->![](http://projectvox.org/wp-content/uploads/2016/12/Boyle_NPG3930_0.jpg)<br>
->_Portrait of Robert Boyle_ (1689, National Portrait Gallery, London)
- 
+>![](https://www.rct.uk/sites/default/files/collection-online/5/0/1020098-1617889309.jpg)<br>
+>_Portrait of Robert Boyle_ (1689–90, Royal Society, London)
+
 
 <br> GODFREY KNELLER 
 <br>(English, 1646–1723)&ensp;[8] <br>
@@ -1008,11 +1022,11 @@ JOHANN KERSEBOOM
 <br> THOMAS MURRAY
 <br>(Scottish, 1663–1734)&ensp;[8,10] <br>
 >
->![]()<br>
->_Portrait of Edmond Halley_ <br>
+>![](https://cdn.shopify.com/s/files/1/2988/4982/products/rs-9284_1024x1024.jpg?v=1519061137)<br>
+>_Portrait of Edmond Halley_ (c. 1690, Royal Society, London) <br>
 >
 >![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Sir_John_Vanbrugh_by_Thomas_Murray.jpg/799px-Sir_John_Vanbrugh_by_Thomas_Murray.jpg)<br>
->_Portrait of John Vanbrugh_
+>_Portrait of John Vanbrugh_ (not dated, National Portrait Gallery, London)
  
 
 <br> JONATHAN RICHARDSON THE ELDER
@@ -1025,22 +1039,77 @@ JOHANN KERSEBOOM
 <br> JAMES THORNHILL
 <br>(English, 1675–1734)&ensp;[8] <br>
 >
->![](https://lh3.googleusercontent.com/proxy/kOMDdW4B1JgRUlIXfNX3GKs84pT33VFu-ZyO8M4Cmryv_QHZTm0EoSucS197YvBb47PwfClmeDifhFZXo4rvmMNBSbq68BI71TsUzCvMQUPK2EypG4R8_N09B-sPR9f3u7ebq1DIgDbwgV6fd2P-_iaUkP6lI7KA4yJrVsI2Y5Q)<br>
->_John Flamsteed with Thomas Weston at the Eye-Piece of the Mural Arc_, from the ceiling of the Painted Hall in the Old Royal Naval College, Greenwich
- 
-<br> ELIAS GOTTLOB HAUSSMANN
-<br>(German, 1695–1774)&ensp;[9] <br>
+>![](https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20190721224515459-0831:S0007087419000244:S0007087419000244_fig2g.jpeg?pub-status=live)<br>
+>_John Flamsteed with Thomas Weston at the Eye-Piece of the Mural Arc_, from the ceiling of the Painted Hall in the Old Royal Naval College, Greenwich (1712)
+
+
+<br> **WILLIAM HOGARTH**
+<br>(English, 1697–1764)&ensp;[10,11] <br>
 >
->![](https://upload.wikimedia.org/wikipedia/commons/6/6a/Johann_Sebastian_Bach.jpg)<br>
->_Portrait of Johann Sebastian Bach_ (1748, Bach-Archiv Leipzig)
+> ![](https://i.pinimg.com/originals/f2/0d/7a/f20d7a69e337c0e6da704f0eb2d41014.jpg)<br>
+>_A Rake's Progress_ (1732–5, Sir John Soane's Museum, London) <br>
+>
+>![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/William_Hogarth_-_A_Rake%27s_Progress_-_Tavern_Scene.jpg/1231px-William_Hogarth_-_A_Rake%27s_Progress_-_Tavern_Scene.jpg)<br>
+> 3\. _The Tavern Scene or The Orgy_
+>
+>![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/William_Hogarth_024.jpg/1236px-William_Hogarth_024.jpg)<br>
+> 6\. _The Rake at the Gaming House_
+>
+>![](https://miro.medium.com/max/1400/1*yJDQ0o16-8KN3bxEY2CUOw.jpeg)<br>
+>_The Humours of an Election_ (1755, Sir John Soane's Museum, London) 
+>
+>![](https://upload.wikimedia.org/wikipedia/commons/3/35/An_Election_III%2C_The_Polling%2C_by_William_Hogarth.jpg)<br>
+> 3\. _The Polling_
+>
+>![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/William_Hogarth_029.jpg/1280px-William_Hogarth_029.jpg)<br>
+> 4\. _Chairing the Member_ <br>
+>
+>![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/William_Hogarth_-_A_Midnight_Modern_Conversation_-_Google_Art_Project.jpg/1600px-William_Hogarth_-_A_Midnight_Modern_Conversation_-_Google_Art_Project.jpg)<br>
+>_A Midnight Modern Conversation_ (c. 1732, Yale Center for British Art, New Haven)
+
+
+<br> ARTHUR DEVIS
+<br>(English, 1712–1787)&ensp;[10] <br>
+>
+>![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Arthur_Devis_-_John_Orde%2C_His_Wife_Anne%2C_and_His_Eldest_Son_William_-_Google_Art_Project.jpg/1044px-Arthur_Devis_-_John_Orde%2C_His_Wife_Anne%2C_and_His_Eldest_Son_William_-_Google_Art_Project.jpg)<br>
+>_John Orde, His Wife, Anne, His Eldest Son, William, and a Servant_ (1754–6, Yale Center for British Art, New Haven)
+
+
+<br> ALLAN RAMSAY
+<br>(Scottish, 1713–1784)&ensp;[10,11] <br>
+>
+>![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Painting_of_David_Hume.jpg/835px-Painting_of_David_Hume.jpg)<br>
+>_Portrait of David Hume_, 1754 (Scottish National Portrait Gallery, Edinburgh) <br>
+>
+>![](https://upload.wikimedia.org/wikipedia/commons/2/2e/Allan_Ramsay_%28artist%29_-_Portrait_of_David_Hume_-_WGA18993.jpg)<br>
+>_Portrait of David Hume_, 1766 (Scottish National Portrait Gallery, Edinburgh) <br>
+>
+>![](https://www.nationalgalleries.org/sites/default/files/styles/thumbnail/public/externals/41818.jpg?itok=un5ftSz5)<br>
+>_Portrait of Jean-Jacques Rousseau in a Fur Hat_, 1766 (Scottish National Portrait Gallery, Edinburgh) 
+
+
+<br> **JOSEPH WRIGHT OF DERBY**
+<br>(English, 1734–1797)&ensp;[10] <br>
+>
+>![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/An_Experiment_on_a_Bird_in_an_Air_Pump_by_Joseph_Wright_of_Derby%2C_1768.jpg/1200px-An_Experiment_on_a_Bird_in_an_Air_Pump_by_Joseph_Wright_of_Derby%2C_1768.jpg)<br>
+>_An Experiment on a Bird in the Air Pump_ (1768, National Gallery, London) <br>
+>
+>![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Wright_of_Derby%2C_The_Orrery.jpg/1024px-Wright_of_Derby%2C_The_Orrery.jpg)<br>
+>_A Philosopher Lecturing on the Orrery_ (c. 1766, Derby Museum and Art Gallery) <br>
+>
+>![](https://d3d00swyhr67nd.cloudfront.net/w944h944/collection/MER/WOGP/MER_WOGP_1970_8-001.jpg)<br>
+>_Ravenhead Works, St. Helens, Lancashire_ (not dated, World of Glass, St Helens) <br>
+>
+>![](https://artforum.com/uploads/upload.001/id09842/article_1064x.jpg)<br>
+>_Arkwright's Cotton Mills by Night_ (c. 1782, private collection)
+
 
 [#contents](#contents)
 <br><br>
 
 
 
-
-### G.&nbsp; Age of Enlightenment {#enlightenment}
+#### f2.&nbsp; French Enlightenment {#french-enlight}
 
 HYACINTHE RIGAUD 
 <br>(French, 1659–1743)&ensp;[10] <br>
@@ -1097,31 +1166,6 @@ HYACINTHE RIGAUD
 >
 >![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Joseph_Bonnier_de_la_Mosson_1745_by_Nattier.jpg/781px-Joseph_Bonnier_de_la_Mosson_1745_by_Nattier.jpg)<br>
 >_Portrait of Joseph Bonnier de la Mosson_ (1745, National Gallery of Art, Washington, D.C.)
-
-
-<br> **WILLIAM HOGARTH**
-<br>(English, 1697–1764)&ensp;[10,11] <br>
->
-> ![](https://i.pinimg.com/originals/f2/0d/7a/f20d7a69e337c0e6da704f0eb2d41014.jpg)<br>
->_A Rake's Progress_ (1732–5, Sir John Soane's Museum, London) <br>
->
->![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/William_Hogarth_-_A_Rake%27s_Progress_-_Tavern_Scene.jpg/1231px-William_Hogarth_-_A_Rake%27s_Progress_-_Tavern_Scene.jpg)<br>
-> 3\. _The Tavern Scene or The Orgy_
->
->![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/William_Hogarth_024.jpg/1236px-William_Hogarth_024.jpg)<br>
-> 6\. _The Rake at the Gaming House_
->
->![](https://miro.medium.com/max/1400/1*yJDQ0o16-8KN3bxEY2CUOw.jpeg)<br>
->_The Humours of an Election_ (1755, Sir John Soane's Museum, London) 
->
->![](https://upload.wikimedia.org/wikipedia/commons/3/35/An_Election_III%2C_The_Polling%2C_by_William_Hogarth.jpg)<br>
-> 3\. _The Polling_
->
->![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/William_Hogarth_029.jpg/1280px-William_Hogarth_029.jpg)<br>
-> 4\. _Chairing the Member_ <br>
->
->![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/William_Hogarth_-_A_Midnight_Modern_Conversation_-_Google_Art_Project.jpg/1600px-William_Hogarth_-_A_Midnight_Modern_Conversation_-_Google_Art_Project.jpg)<br>
->_A Midnight Modern Conversation_ (c. 1732, Yale Center for British Art, New Haven)
  
 
 <br> **JEAN-BAPTISTE-SIMÉON CHARDIN**
@@ -1192,13 +1236,6 @@ Frick Collection, New York)
 >_Portrait of Denis Diderot_ (1767, Musée du Louvre, Paris)
  
 
-<br> ARTHUR DEVIS
-<br>(English, 1712–1787)&ensp;[10] <br>
->
->![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Arthur_Devis_-_John_Orde%2C_His_Wife_Anne%2C_and_His_Eldest_Son_William_-_Google_Art_Project.jpg/1044px-Arthur_Devis_-_John_Orde%2C_His_Wife_Anne%2C_and_His_Eldest_Son_William_-_Google_Art_Project.jpg)<br>
->_John Orde, His Wife, Anne, His Eldest Son, William, and a Servant_ (1754–6, Yale Center for British Art, New Haven)
- 
-
 <br> MICHEL-BARTHÉLÉMY OLLIVIER
 <br>(French, 1712–1784)&ensp;[10] <br>
 >
@@ -1207,19 +1244,6 @@ Frick Collection, New York)
 >
 >![](https://upload.wikimedia.org/wikipedia/commons/6/66/Michel-Barth%C3%A9l%C3%A9my_Ollivier_-_Afternoon_Tea_at_the_Temple_-_WGA16645.jpg)<br>
 >_Le Thé à l’anglaise dans le salon des quatre glaces au Temple, avec toute la cour du Prince de Conti, écoutant le jeune Mozart_ (1766, Château de Versailles)
- 
-
-<br> ALLAN RAMSAY
-<br>(Scottish, 1713–1784)&ensp;[10,11] <br>
->
->![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Painting_of_David_Hume.jpg/835px-Painting_of_David_Hume.jpg)<br>
->_Portrait of David Hume_, 1754 (Scottish National Portrait Gallery, Edinburgh) <br>
->
->![](https://upload.wikimedia.org/wikipedia/commons/2/2e/Allan_Ramsay_%28artist%29_-_Portrait_of_David_Hume_-_WGA18993.jpg)<br>
->_Portrait of David Hume_, 1766 (Scottish National Portrait Gallery, Edinburgh) <br>
->
->![](https://www.nationalgalleries.org/sites/default/files/styles/thumbnail/public/externals/41818.jpg?itok=un5ftSz5)<br>
->_Portrait of Jean-Jacques Rousseau in a Fur Hat_, 1766 (Scottish National Portrait Gallery, Edinburgh) 
  
 
 <br> JEAN-BAPTISTE PERRONNEAU
@@ -1284,7 +1308,7 @@ Frick Collection, New York)
 <br>(French, 1733–1808)&ensp;[10] <br>
 >
 >![](https://www.meisterdrucke.uk/kunstwerke/1200w/Hubert%20Robert%20-%20Lunch%20of%20Madame%20Geoffrin%20%20-%20%28MeisterDrucke-64507%29.jpg)<br>
->_Lunch of Madame Geoffrin_ (ND)
+>_Lunch of Madame Geoffrin_ (not dated)
 
 
 
@@ -1319,6 +1343,57 @@ Frick Collection, New York)
 >_Voltaire in His Study with a Priest_ (c. 1770–90, British Museum, London)
 
 
+<br> RENÉ-LOUIS DE GIRARDIN
+<br>(French, 1735–1808)&ensp;[11] <br>
+>
+>![](https://bge-geneve.ch/iconographie/sites/default/files/styles/artwork_carousel_full/public/image/2020-06/gir_0120_0.jpeg?itok=EZzfe_dP)<br>
+>_Île Saint-Pierre: Jean-Jacques Rousseau en arménien herborisant_ (not dated, Bibliothèque de Genève)
+
+
+<br> CLAUDE-LOUIS DESRAIS
+<br>(French, 1746–1816)&ensp;[10] <br>
+>
+>![](https://media.britishmuseum.org/media/Repository/Documents/2017_6/2_10/e462feef_0e61_4769_b5b4_a78600a66e9a/mid_ppa455169.jpg)<br>
+>_Voltaire Being Crowned with a Laurel Wreath_ (1778, British Museum, London)
+
+
+<br> JEAN-LOUIS PRIEUR
+<br>(French, 1759–1795)&ensp;[10] <br>
+>
+>![](https://onevisionart.printstoreonline.com/p/690/triumph-voltaire-11th-july-1791-12749333.jpg)<br>
+>_Triomphe de Voltaire, le 11 Juillet 1791_ [_The Funeral Procession of Voltaire Crossing the Seine_] \(1791, Library of Congress, Washington, D.C.)
+
+
+[#contents](#contents)
+<br><br>
+
+
+
+#### f3.&nbsp; German Enlightenment {#french-enlight}
+
+ELIAS GOTTLOB HAUSSMANN
+<br>(German, 1695–1774)&ensp;[9] <br>
+>
+>![](https://upload.wikimedia.org/wikipedia/commons/6/6a/Johann_Sebastian_Bach.jpg)<br>
+>_Portrait of Johann Sebastian Bach_ (1748, Bach-Archiv Leipzig)
+
+
+<br> JOSEPH LANGE
+<br>(German, 1751–1831)&ensp;[9] <br>
+>
+>![](https://upload.wikimedia.org/wikipedia/commons/9/94/Mozart-Lange.jpg)<br>
+>_Portrait of Wolfgang Amadeus Mozart_ (1782–3, Mozarts Geburtshaus, Salzburg)
+
+
+[#contents](#contents)
+<br><br>
+
+
+
+
+#### gx.&nbsp; British Romanticism {#british-roman}
+
+
 <br> GEORGE STUBBS
 <br>(English, 1724–1806)&ensp;[11] <br>
 >
@@ -1348,27 +1423,6 @@ Frick Collection, New York)
 
  
 
-<br> **JOSEPH WRIGHT OF DERBY**
-<br>(English, 1734–1797)&ensp;[10] <br>
->
->![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/An_Experiment_on_a_Bird_in_an_Air_Pump_by_Joseph_Wright_of_Derby%2C_1768.jpg/1200px-An_Experiment_on_a_Bird_in_an_Air_Pump_by_Joseph_Wright_of_Derby%2C_1768.jpg)<br>
->_An Experiment on a Bird in the Air Pump_ (1768, National Gallery, London) <br>
->
->![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Wright_of_Derby%2C_The_Orrery.jpg/1024px-Wright_of_Derby%2C_The_Orrery.jpg)<br>
->_A Philosopher Lecturing on the Orrery_ (c. 1766, Derby Museum and Art Gallery) <br>
->
->![](https://d3d00swyhr67nd.cloudfront.net/w944h944/collection/MER/WOGP/MER_WOGP_1970_8-001.jpg)<br>
->_Ravenhead Works, St. Helens, Lancashire_ (not dated, World of Glass, St Helens) <br>
->
->![](https://artforum.com/uploads/upload.001/id09842/article_1064x.jpg)<br>
->_Arkwright's Cotton Mills by Night_ (c. 1782, private collection)
-
-
-<br> RENÉ-LOUIS DE GIRARDIN
-<br>(French, 1735–1808)&ensp;[11] <br>
->
->![](https://bge-geneve.ch/iconographie/sites/default/files/styles/artwork_carousel_full/public/image/2020-06/gir_0120_0.jpeg?itok=EZzfe_dP)<br>
->_Île Saint-Pierre: Jean-Jacques Rousseau en arménien herborisant_ (not dated, Bibliothèque de Genève)
 
 
 <br> CASPAR WOLF 
@@ -1388,17 +1442,13 @@ Frick Collection, New York)
 >_Resolution and Adventure in Matavai Bay_ (1776, National Maritime Museum, Greenwich) <br>
 >
 >![](https://upload.wikimedia.org/wikipedia/commons/f/ff/%27A_View_taken_in_the_bay_of_Oaite_Peha_%28Vaitepiha%29_Otaheite_%28Tahiti%29%27_%28%22Tahiti_Revisited%22%29_RMG_L9867.jpg)<br>
->_A View Taken in the Bay of Oaite Peha (Vaitepiha) Otaheite \[Tahiti\]_, or _Tahiti Revisited_ (1776, National Maritime Museum, Greenwich) <br>
+>_A View Taken in the Bay of Oaite Peha [Vaitepiha] Otaheite \[Tahiti\]_, or _Tahiti Revisited_ (1776, National Maritime Museum, Greenwich) <br>
 >
 >![](https://collections.rmg.co.uk/mediaLib/2/445/826/bhc1905.jpg)<br>
 >_The Landing at Tanna (Tana), One of the New Hebrides_ (c. 1775–6, National Maritime Museum, Greenwich)
 
 
-<br> CLAUDE-LOUIS DESRAIS
-<br>(French, 1746–1816)&ensp;[10] <br>
->
->![](https://media.britishmuseum.org/media/Repository/Documents/2017_6/2_10/e462feef_0e61_4769_b5b4_a78600a66e9a/mid_ppa455169.jpg)<br>
->_Voltaire Being Crowned with a Laurel Wreath_ (1778, British Museum, London)
+
  
 
 <br> **JACQUES-LOUIS DAVID**
@@ -1424,11 +1474,6 @@ Frick Collection, New York)
 >_Goethe in the Roman Campagna_ (1787, Städelsches Kunstinstitut, Frankfurt)
 
 
-<br> JOSEPH LANGE
-<br>(German, 1751–1831)&ensp;[9] <br>
->
->![](https://upload.wikimedia.org/wikipedia/commons/9/94/Mozart-Lange.jpg)<br>
->_Portrait of Wolfgang Amadeus Mozart_ (1782–3, Mozarts Geburtshaus, Salzburg)
 
 
 <br> JOHN WEBBER
@@ -1467,13 +1512,6 @@ Mount Vernon Collections, Virginia)
 >
 >![](https://images.collections.yale.edu/iiif/2/yuag:48564c49-3ec2-4b12-8772-1a67be99f28a/full/!1920,1920/0/default.jpg)<br>
 >_The Surrender of Lord Cornwallis at Yorktown, October 19, 1781_ (1787–c. 1828, Yale University Art Gallery, New Haven)
-
-
-<br> JEAN-LOUIS PRIEUR
-<br>(French, 1759–1795)&ensp;[10] <br>
->
->![](https://onevisionart.printstoreonline.com/p/690/triumph-voltaire-11th-july-1791-12749333.jpg)<br>
->_Triomphe de Voltaire, le 11 Juillet 1791_ [_The Funeral Procession of Voltaire Crossing the Seine_] \(1791, Library of Congress, Washington, D.C.)
  
 
 <br> MATHER BROWN

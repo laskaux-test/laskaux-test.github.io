@@ -437,7 +437,7 @@ FRANCESCO DI GIORGIO MARTINI
 
 
 <br> **MICHELANGELO**
-<br>(Italian, 1475–1564)&ensp;[5,13] <br>
+<br>(Italian, 1475–1564)&ensp;[5,7,13] <br>
 >
 >![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Sistine_Chapel_ceiling_02.jpg/1356px-Sistine_Chapel_ceiling_02.jpg)<br>
 >Sistine Chapel ceiling (1508–12, Palazzo Apostolico, Vaticano)

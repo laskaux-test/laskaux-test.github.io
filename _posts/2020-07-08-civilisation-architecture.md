@@ -312,7 +312,7 @@ Basilica di Santa Maria delle Carceri, Prato <br>
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg/1200px-Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg)<br>
 🌐 Basilica di San Pietro, Vaticano <br>
-&emsp;&ensp;(1506–1626, Bernardo Rossellino, Giuliano da Sangallo, Bramante, Raffaello Sanzio, Giovanni Giocondo, Antonio da Sangallo il Giovane, Baldassarre Peruzzi, Michelangelo Buonarroti, Domenico Fontana, Giacomo Della Porta, Jacopo Barozzi da Vignola, Pirro Ligorio, Carlo Maderno, Gian Lorenzo Bernini, et al.)&ensp;[1,5] 
+&emsp;&ensp;(1506–1626, Bernardo Rossellino, Giuliano da Sangallo, Bramante, Raffaello Sanzio, Giovanni Giocondo, Antonio da Sangallo il Giovane, Baldassarre Peruzzi, Michelangelo Buonarroti, Domenico Fontana, Giacomo Della Porta, Jacopo Barozzi da Vignola, Pirro Ligorio, Carlo Maderno, Gian Lorenzo Bernini, et al.)&ensp;[1,5,7] 
 
 [#contents](#contents)
 <br><br>
@@ -321,7 +321,7 @@ Basilica di Santa Maria delle Carceri, Prato <br>
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Casino_di_pio_IV%2C_piazza_ovale_01.JPG/1024px-Casino_di_pio_IV%2C_piazza_ovale_01.JPG)<br>
 🌐 Casina di Pio IV (Villa Pia), Vaticano <br>
-&emsp;&ensp;(1558–62, Pirro Ligorio)&ensp;[5]
+&emsp;&ensp;(1558–62, Pirro Ligorio)&ensp;[5,7]
 
 [#contents](#contents)
 <br><br>
@@ -367,7 +367,7 @@ Chapelle Sainte Ursule de la Sorbonne, Paris <br>
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Piazza_Navona_Chiesa_di_Sant%60Agnese_in_Agone.JPG/1024px-Piazza_Navona_Chiesa_di_Sant%60Agnese_in_Agone.JPG)<br>
 🌐 Chiesa di Sant'Agnese in Agone, Roma <br>
-&emsp;&ensp;(1652–7, Carlo Rainaldi and Francesco Borromini)&ensp;[5,9]
+&emsp;&ensp;(1652–7, Carlo Rainaldi and Francesco Borromini)&ensp;[5,7,9]
 
 [#contents](#contents)
 <br><br>
@@ -621,7 +621,7 @@ Plantijn (Plantin Press), Antwerp (1555)&ensp;[6]
 🌐 Piazza della Signoria, Firenze (1330)&ensp;[4]
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/0_Piazza_Navona_-_Rome_%281%29.JPG/1280px-0_Piazza_Navona_-_Rome_%281%29.JPG)<br>
-🌐 Piazza Navona, Roma (15C)&ensp;[5]
+🌐 Piazza Navona, Roma (15C)&ensp;[5,7]
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Musei_vaticani_-_cortile_della_pigna_01161.JPG/1280px-Musei_vaticani_-_cortile_della_pigna_01161.JPG)<br>
 🌐 Cortile del Belvedere (Cortile della Pigna), Vaticano <br>
@@ -629,7 +629,7 @@ Plantijn (Plantin Press), Antwerp (1555)&ensp;[6]
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Piazza_del_Campidoglio_din_Roma.jpg/1280px-Piazza_del_Campidoglio_din_Roma.jpg)<br>
 🌐 Piazza del Campidoglio, Roma <br>
-&emsp;&ensp;(1536–1546, Michelangelo)&ensp;[5]
+&emsp;&ensp;(1536–1546, Michelangelo)&ensp;[5,7]
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/St_Peter%27s_Square%2C_Vatican_City_-_April_2007.jpg/1280px-St_Peter%27s_Square%2C_Vatican_City_-_April_2007.jpg)<br>
 🌐 Piazza San Pietro, Vaticano <br>

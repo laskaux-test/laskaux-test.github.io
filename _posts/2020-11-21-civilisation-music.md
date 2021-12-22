@@ -124,6 +124,9 @@ https://youtu.be/ussTujr9wO4)
 &nbsp;♬&nbsp; Cathédrale Notre-Dame de Chartres &nbsp;[2]
 
 
+[Ad Completorium in Nativitate Domini: "Nunc dimittis" (Canticum Simeonis) & "Salva nos" (antiphon) ](https://www.youtube.com/watch?v=vL5pP3P56-o)
+&nbsp;♬&nbsp; Basilica di Santa Maria Maggiore &nbsp;[7]
+
 [#contents](#contents)
 
 
@@ -210,9 +213,17 @@ https://youtu.be/ussTujr9wO4)
 &nbsp;♬&nbsp; Palazzo Vecchio | Palazzo Medici Riccardi | Palazzo Davanzati | Cappella dei Pazzi &nbsp;[4]
  
 
+[PALESTRINA]&nbsp; [_Lamentationum_ (_Lamentationes Jeremiae Prophetae_): Liber III, Sabbato Sancto, Lectio III "Incipit oratio Jeremiæ prophetæ. Recordare"](https://www.youtube.com/watch?v=LkFwSwmoCEg)
+&nbsp;♬&nbsp; Michelangelo, _The Last Judgment_ &nbsp;[7]
+
+
 [VICTORIA, 1585]&nbsp; [_Tenebrae Responsories_: XVII. Aestimatus sum](https://www.youtube.com/watch?v=edK1oLasQXw) 
 &nbsp;♬&nbsp; Michelangelo, _Awakening Slave_ | _Young Slave_ | _Bearded Slave_ | Sistine Chapel ceiling | _Last Judgment_ | _David_ &nbsp;[5,13]
  
+
+[GABRIELI, 1597]&nbsp; ["Nunc dimittis", Ch. 50](https://www.youtube.com/watch?v=MboP3IFEv94)
+&nbsp;♬&nbsp; Colonnades, Piazza San Pietro &nbsp;[7]
+
 
 [GABRIELI, 1597]&nbsp; [Canzon per sonar primi toni à 8, Ch. 170](https://www.youtube.com/watch?v=XjntqVWW9eM)
 &nbsp;♬&nbsp; Michelangelo, _Separation of the Earth from the Waters_, from the Sistine Chapel ceiling | 
@@ -220,7 +231,14 @@ Raphael, _The School of Anthens_ |
 Colosseum, or Flavian Amphitheatre | 
 Piazza Navona & Chiesa di Sant'Agnese in Agone | 
 Pantheon | 
-Equestrian Statue of Marcus Aurelius &nbsp;[5]
+Equestrian Statue of Marcus Aurelius |
+Ponte Fabricio |
+Ponte Sant'Angelo |
+Castel Sant'Angelo |
+Basilica Papale di San Pietro & Piazza San Pietro |
+Giovanni Paolo Pannini, _Interior of Saint Peter's, Rome_ |
+Gian Lorenzo Bernini, Cattedra & Baldacchino di San Pietro
+ &nbsp;[5,7]
  
 
 [DOWLAND]&nbsp; [_Melancholy Galliard_](https://www.youtube.com/watch?v=y5XdgnPJJ_A) 
@@ -251,7 +269,23 @@ Equestrian Statue of Marcus Aurelius &nbsp;[5]
 &nbsp;♬&nbsp; Basilica Papale di San Pietro & Piazza San Pietro | Basilica di Santa Maria Maggiore &nbsp;[7]
  
 
-[MONTEVERDI, 1610]&nbsp; [_Vespro della Beata Vergine_/_Vespers of 1610_, SV 206: “Magnificat”](https://www.youtube.com/watch?v=U-seRX0CYEE) & ["Dixit Dominus"](https://www.youtube.com/watch?v=4GITEdfDAVE) 
+[MONTEVERDI, 1610]&nbsp; [_Vespro della Beata Vergine_, SV 206: I. "Domine ad adiuvandum"](https://www.youtube.com/watch?v=1S0IpBELjK0)
+&nbsp;♬&nbsp; Basilica Papale di San Pietro &nbsp;[7]
+
+
+[MONTEVERDI, 1610]&nbsp; [_Vespro della Beata Vergine_, SV 206: II. "Dixit Dominus"](https://www.youtube.com/watch?v=4GITEdfDAVE)
+&nbsp;♬&nbsp; Ending titles &nbsp;[7]
+
+
+[MONTEVERDI, 1610]&nbsp; [_Vespro della Beata Vergine_, SV 206: XI. "Sancta Maria"](https://www.youtube.com/watch?v=XLT1xN7TfUA)
+&nbsp;♬&nbsp; Andrea Pozzo, _Gloria di Sant'Ignazio_ | Giovanni Battista Gaulli, _Trionfo del Nome di Gesù_ &nbsp;[7]
+
+
+[MONTEVERDI, 1610]&nbsp; [_Vespro della Beata Vergine_, SV 206: XIII. "Magnificat: Deposuit potentes & Gloria Patri"](https://www.youtube.com/watch?v=ysP3sl2isdk)
+&nbsp;♬&nbsp; Gian Lorenzo Bernini, _La famiglia Corner assiste all'estasi di santa Teresa_ | _Estasi di santa Teresa d'Avila_ &nbsp;[7]
+
+
+[MONTEVERDI, 1610]&nbsp; [_Vespro della Beata Vergine_, SV 206: XIII. "Magnificat: Sicut erat in principio"](https://youtu.be/72jXDcso4Ts?t=1074)
 &nbsp;♬&nbsp; Galleria delle carte geografiche &nbsp;[7]
 
 
@@ -534,6 +568,9 @@ https://www.youtube.com/watch?v=v0E0AveYzvg)
 >
 >CLÉMENT JANEQUIN <BR>
 >&emsp;&emsp;(French, c. 1485–1558)
+>
+>GIOVANNI PIERLUIGI DA PALESTRINA <BR>
+>&emsp;&emsp;(Italian, c. 1525–1594)
 >
 >TOMÁS LUIS DE VICTORIA <BR>
 >&emsp;&emsp;(Spanish, c. 1548–1611)

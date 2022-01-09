@@ -65,7 +65,7 @@ Classic BBC documentary series very often bring unexpected gifts—in this case,
 [BEETHOVEN, 1804]&nbsp; [Symphony No. 3 in E-flat major, Op. 55 (_Eroica_): I. Allegro con brio](https://www.youtube.com/watch?v=6DvRFpJha2k) & [II. Marcia funebre. Adagio assai](https://youtu.be/6DvRFpJha2k?t=1003) &nbsp;[8]
 
 
-[BEETHOVEN, 1808]&nbsp; [Symphony No. 6 in F major, Op. 68 (_Pastoral_): V. Allegretto](https://www.youtube.com/watch?v=RAVAOPQGw4U) &nbsp;[2]
+[BEETHOVEN, 1808]&nbsp; [Symphony No. 6 in F major, Op. 68 (_Pastorale_): V. Allegretto](https://www.youtube.com/watch?v=RAVAOPQGw4U) &nbsp;[2]
 
 
 [BEETHOVEN, 1810]&nbsp; [_Egmont_, Op. 84: Ouvertüre](https://www.youtube.com/watch?v=sDRNKUOYltY) &nbsp;[8]

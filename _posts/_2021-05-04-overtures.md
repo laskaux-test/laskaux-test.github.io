@@ -462,7 +462,7 @@ https://www.youtube.com/watch?v=LNaRoTwgo48) <br>
 ---
 
 [MOZART, 1778]&nbsp; [_Les petits riens_, K. 299b/Ahn. 10: Ouverture](https://www.youtube.com/watch?v=p-REAdCGgGo) <br>
-🇦🇹 Wiener Mozart Orchester, cd. Willi Boskovsky <br>
+🇦🇹 Wiener Mozart Ensemble, cd. Willi Boskovsky <br>
 (Wien: Sofiensäle, 1966)
 
 ---
@@ -505,7 +505,7 @@ https://www.youtube.com/watch?v=LNaRoTwgo48) <br>
 
 [MOZART, 1786]&nbsp; [_Le nozze di Figaro_, K. 492: Ouverture](https://www.youtube.com/watch?v=wWcapjzS1Ao) <br>
 🇦🇹 Wiener Philharmoniker, cd. Erich Kleiber <br>
-(Wien: Redoutensaal, 1955)
+(Wien: Grosser Redoutensaal, Hofburg, 1955)
 
 ---
 
@@ -639,13 +639,13 @@ https://www.youtube.com/watch?v=LNaRoTwgo48) <br>
 
 [BERLIOZ, 1831]&nbsp; [_Le Roi Lear_, Op. 4, H. 53](https://www.youtube.com/watch?v=xsW2c3rh0fU) <br>
 🇬🇧 London Symphony Orchestra, cd. Colin Davis <br>
-(London: Walthamstow Town Hall, 1965)
+(London: Walthamstow Assembly Hall, 1965)
 
 ---
 
 [MENDELSSOHN, 1832]&nbsp; [_Die Hebriden_ (_Fingal’s Cave_), Op. 26](https://www.youtube.com/watch?v=WDunIiCGn1o) <br>
 🇬🇧 London Symphony Orchestra, cd. Claudio Abbado <br>
-(London: Walthamstow Town Hall, 1985)
+(London: Walthamstow Assembly Hall, 1985)
 
 ---
 

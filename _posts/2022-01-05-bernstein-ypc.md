@@ -268,17 +268,17 @@ E.&nbsp; [POPULAR](#popular) :
 🇬🇧 Royal Philharmonic Orchestra, cd. Thomas Beecham <br>
 (London: Kingsway Hall, 1957)
 
-
+<br>
 **DEBUSSY**, CLAUDE (French, 1862–1918)
 
-[DEBUSSY, 1894]&nbsp; [_Prélude à l'Après-midi d'un faune_, L. 86, CD 87](https://youtu.be/tjEdr3MuXTE) 
+[1894]&nbsp; [_Prélude à l'Après-midi d'un faune_, L. 86, CD 87](https://youtu.be/tjEdr3MuXTE) 
 &nbsp;[3,12] <br>
 🇩🇪 Berliner Philharmoniker, fl. Karlheinz Zöller, cd. Herbert von Karajan <br>
 (Berlin: Jesus-Christus-Kirche Dahlem, 1964)
 
 ---
 
-[DEBUSSY, 1905]&nbsp; [_La mer_, L. 109, CD 111:](https://youtu.be/9M7wlVokbac) [I. "De l'aube à midi sur la mer"](
+[1905]&nbsp; [_La mer_, L. 109, CD 111:](https://youtu.be/9M7wlVokbac) [I. "De l'aube à midi sur la mer"](
 https://youtu.be/BrPzMbtuFfk), [II. "Jeux de vagues"](https://youtu.be/POQXW177ARQ), & [III. "Dialogue du vent et de la mer"](https://youtu.be/PwZnPzqKN4k)
 &nbsp;[16] <br>
 🇳🇱 Koninklijk Concertgebouworkest, cd. Bernard Haitink<br>
@@ -286,62 +286,64 @@ https://youtu.be/BrPzMbtuFfk), [II. "Jeux de vagues"](https://youtu.be/POQXW177A
 
 ---
 
-[DEBUSSY, 1907]&nbsp; [_Images, 2<sup>e</sup> série_, L. 111, CD 120: III. "Poissons d'or"](https://youtu.be/Suhn-E8Ltiw) 
+[1907]&nbsp; [_Images, 2<sup>e</sup> série_, L. 111, CD 120: III. "Poissons d'or"](https://youtu.be/Suhn-E8Ltiw) 
 &nbsp;[16] <br>
 🎹 Ivan Moravec <br>
 (New York: RCA Studio A, 1982)
 
 ---
 
-[DEBUSSY, 1908]&nbsp; [_Children's Corner_, L. 113, CD 119: VI. "Golliwog's Cake-Walk"](https://youtu.be/Fds4GSy5CsE) 
+[1908]&nbsp; [_Children's Corner_, L. 113, CD 119: VI. "Golliwog's Cake-Walk"](https://youtu.be/Fds4GSy5CsE) 
 &nbsp;[16] <br>
 🎹 Jean-Yves Thibaudet <br>
 (Dunwich, Suffolk: Potton Hall, 1998)
 
 ---
 
-[DEBUSSY, 1908]&nbsp; [_Ibéria_](https://youtu.be/zUKoT6Jyip4) from [_Images pour orchestre_, L. 122, CD 118:](https://youtu.be/zUKoT6Jyip4) [II. "Les parfums de la nuit"](https://youtu.be/sRt-QsZdvLY) & [III. "Le matin d'un jour de fête"](https://youtu.be/asY4MlCAdeE)
+[1908]&nbsp; [_Ibéria_](https://youtu.be/zUKoT6Jyip4) from [_Images pour orchestre_, L. 122, CD 118:](https://youtu.be/zUKoT6Jyip4) [II. "Les parfums de la nuit"](https://youtu.be/sRt-QsZdvLY) & [III. "Le matin d'un jour de fête"](https://youtu.be/asY4MlCAdeE)
 &nbsp;[33] <br>
 🇺🇸 Chicago Symphony Orchestra, cd. Fritz Reiner <br>
 (Chicago: Orchestra Hall, 1957)
 
 ---
 
-[DEBUSSY, 1910]&nbsp; [_Préludes, 1<sup>re</sup> Livre_, L. 117, CD 125: II. "Voiles"](https://youtu.be/9B5laNPnM4k) 
+[1910]&nbsp; [_Préludes, 1<sup>re</sup> Livre_, L. 117, CD 125: II. "Voiles"](https://youtu.be/9B5laNPnM4k) 
 &nbsp;[16] <br>
 🎹 Arturo Benedetti Michelangeli <br>
 (Hamburg: Musikhalle, 1978)
 
 ---
 
-[DEBUSSY, 1912]&nbsp; [_Préludes, 2<sup>e</sup> Livre_, L. 123, CD 131: III. "La puerta del vino"](https://youtu.be/EAN54kYpuuM) 
+[1912]&nbsp; [_Préludes, 2<sup>e</sup> Livre_, L. 123, CD 131: III. "La puerta del vino"](https://youtu.be/EAN54kYpuuM) 
 &nbsp;[16] <br>
 🎹 Walter Gieseking <br>
 (London: Abbey Road Studio No. 3, 1954)
 
----
 
-[STRAUSS, R., 1895]&nbsp; [_Till Eulenspiegels lustige Streiche_, Op. 28, TrV 171](https://youtu.be/RgoglFCSquk)
+<br>
+**STRAUSS**, RICHARD (German, 1864–1949)
+
+[1895]&nbsp; [_Till Eulenspiegels lustige Streiche_, Op. 28, TrV 171](https://youtu.be/RgoglFCSquk)
 &nbsp;[49] <br>
 🇩🇪 Staatskapelle Dresden, cd. Rudolf Kempe <br>
 (Dresden: Lukaskirche, 1970)
 
 ---
 
-[STRAUSS, R., 1896]&nbsp; [_Also sprach Zarathustra_, Op. 30, TrV 176]()
+[1896]&nbsp; [_Also sprach Zarathustra_, Op. 30, TrV 176]()
 &nbsp;[51] <br>
 
 
 ---
 
-[STRAUSS, R., 1897]&nbsp; [_Don Quixote_, Op. 35, TrV 135: Variation II. Kriegerisch: "Der siegreiche Kampf gegen das Heer des großen Kaisers Alifanfaron"](https://youtu.be/wgjTrENqs5c) & [Variation VII. Ein wenig ruhiger als vorher: "Der Ritt durch die Luft"](https://youtu.be/ifDLt6J6HYw)
+[1897]&nbsp; [_Don Quixote_, Op. 35, TrV 135: Variation II. Kriegerisch: "Der siegreiche Kampf gegen das Heer des großen Kaisers Alifanfaron"](https://youtu.be/wgjTrENqs5c) & [Variation VII. Ein wenig ruhiger als vorher: "Der Ritt durch die Luft"](https://youtu.be/ifDLt6J6HYw)
 &nbsp;[1] <br>
 🇩🇪 Staatskapelle Dresden, cd. Rudolf Kempe <br>
 (Dresden: Lukaskirche, 1973)
 
 ---
 
-[STRAUSS, R., 1911]&nbsp; [_Der Rosenkavalier_, Op. 59, TrV 227: Walzerfolge](https://youtu.be/wgjTrENqs5c)
+[1911]&nbsp; [_Der Rosenkavalier_, Op. 59, TrV 227: Walzerfolge](https://youtu.be/wgjTrENqs5c)
 &nbsp;[40,43] <br>
 🇩🇪 Staatskapelle Dresden, cd. Rudolf Kempe <br>
 (Dresden: Lukaskirche, 1973)
